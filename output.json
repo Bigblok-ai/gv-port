@@ -1979,6 +1979,78 @@
           }
         },
         {
+          "id": "gv-48861c7a08",
+          "name": "Nhật Bản vs Hàn Quốc | 17:20 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-48861c7a08",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-48861c7a08",
+                  "name": "Nhật Bản vs Hàn Quốc",
+                  "streams": [
+                    {
+                      "id": "st-48861c7a08",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d0aebd4f46",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789933130_hd/1789933130_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Nhật Bản",
+            "team_b": "Hàn Quốc",
+            "logo_a": "https://static.flashscore.com/res/image/data/WtRTYpCr-hhXdwebJ.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/xIU3rZCa-8AQZp0c1.png",
+            "time": "17:20:00",
+            "date": "21/09",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/pcrj5dno0g2u_c91a4b93_20260921.png?v=c91a4b93",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-2b6b989a67",
           "name": "Slovenia vs Serbia | 02:00 22/09",
           "type": "single",
@@ -2505,6 +2577,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1nl41va3c6su_bc9e86e9_20260921.png?v=bc9e86e9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-44566b9dcd",
+          "name": "Đài Loan vs Hàn Quốc | 16:30 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-44566b9dcd",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-44566b9dcd",
+                  "name": "Đài Loan vs Hàn Quốc",
+                  "streams": [
+                    {
+                      "id": "st-44566b9dcd",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e41cfd91b9",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789932955_hd/1789932955_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Đài Loan",
+            "team_b": "Hàn Quốc",
+            "logo_a": "https://static.flashscore.com/res/image/data/MPHHn8dM-2ur67bOJ.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/YsejKiBr-Gd32TdAF.png",
+            "time": "16:30:00",
+            "date": "21/09",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hy4f572q7q7n_0f1f72a7_20260921.png?v=0f1f72a7",
             "width": 1600,
             "height": 1200
           }
