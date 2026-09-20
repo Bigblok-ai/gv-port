@@ -809,6 +809,150 @@
           }
         },
         {
+          "id": "gv-15945168a8",
+          "name": "Nữ Nhật Bản vs Đài Loan TQ Nữ | 17:30 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-15945168a8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-15945168a8",
+                  "name": "Nữ Nhật Bản vs Đài Loan TQ Nữ",
+                  "streams": [
+                    {
+                      "id": "st-15945168a8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d9536e9dfa",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789931326_hd/1789931326_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games Nữ",
+            "team_a": "Nữ Nhật Bản",
+            "team_b": "Đài Loan TQ Nữ",
+            "logo_a": "https://images.keovip88.net/images/teams/japan-w.png",
+            "logo_b": "https://images.keovip88.net/images/teams/chinese-taipei-w.png",
+            "time": "17:30:00",
+            "date": "21/09",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041924_bb5864db_20260921.png?v=bb5864db",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b713beb485",
+          "name": "Nữ Việt Nam vs Thái Lan Nữ | 17:30 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b713beb485",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b713beb485",
+                  "name": "Nữ Việt Nam vs Thái Lan Nữ",
+                  "streams": [
+                    {
+                      "id": "st-b713beb485",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5b92537fb1",
+                          "name": "Bón",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789931369_hd/1789931369_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games Nữ",
+            "team_a": "Nữ Việt Nam",
+            "team_b": "Thái Lan Nữ",
+            "logo_a": "https://images.keovip88.net/images/teams/vietnam-w.png",
+            "logo_b": "https://images.keovip88.net/images/teams/thailand-w.png",
+            "time": "17:30:00",
+            "date": "21/09",
+            "blv": "Bón",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041925_08cb9077_20260921.png?v=08cb9077",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-a27501f65d",
           "name": "Al-Duhail vs Al Arabi | 00:15 22/09",
           "type": "single",
