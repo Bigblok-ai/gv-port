@@ -11,11 +11,299 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-5563a192e8",
+          "name": "AC Milan vs Lecce | 01:45 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5563a192e8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5563a192e8",
+                  "name": "AC Milan vs Lecce",
+                  "streams": [
+                    {
+                      "id": "st-5563a192e8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-22bdf1dea2",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789889832_hd/1789889832_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "AC Milan",
+            "team_b": "Lecce",
+            "logo_a": "https://images.keovip88.net/images/teams/ac-milan.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lecce.png",
+            "time": "01:45:00",
+            "date": "21/09",
+            "blv": "Ngọng",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88adb24d46db870496062_c11be891_20260921.png?v=c11be891",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c54fe86e5b",
+          "name": "Marseille vs Paris Saint Germain | 01:45 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c54fe86e5b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c54fe86e5b",
+                  "name": "Marseille vs Paris Saint Germain",
+                  "streams": [
+                    {
+                      "id": "st-c54fe86e5b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-12861ea699",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789889875_hd/1789889875_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Marseille",
+            "team_b": "Paris Saint Germain",
+            "logo_a": "https://images.keovip88.net/images/teams/marseille.png",
+            "logo_b": "https://images.keovip88.net/images/teams/paris-saint-germain-psg.png",
+            "time": "01:45:00",
+            "date": "21/09",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88adb24d46db870496066_68faae64_20260921.png?v=68faae64",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c99009be80",
+          "name": "Valencia vs Real Sociedad | 02:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c99009be80",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c99009be80",
+                  "name": "Valencia vs Real Sociedad",
+                  "streams": [
+                    {
+                      "id": "st-c99009be80",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6bd291038b",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789889929_hd/1789889929_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Valencia",
+            "team_b": "Real Sociedad",
+            "logo_a": "https://images.keovip88.net/images/teams/valencia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/real-sociedad.png",
+            "time": "02:00:00",
+            "date": "21/09",
+            "blv": "Mason",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88adb24d46db87049606f_e762ee2a_20260921.png?v=e762ee2a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6c4158d166",
+          "name": "FC Porto vs SL Benfica | 02:30 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6c4158d166",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6c4158d166",
+                  "name": "FC Porto vs SL Benfica",
+                  "streams": [
+                    {
+                      "id": "st-6c4158d166",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f0b59034a0",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789890289_hd/1789890289_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Bồ Đào Nha",
+            "team_a": "FC Porto",
+            "team_b": "SL Benfica",
+            "logo_a": "https://images.keovip88.net/images/teams/fc-porto.png",
+            "logo_b": "https://images.keovip88.net/images/teams/benfica.png",
+            "time": "02:30:00",
+            "date": "21/09",
+            "blv": "Ben",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88adb24d46db8704960ba_3f91604a_20260921.png?v=3f91604a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-35b4db10b7",
           "name": "Flamengo vs Bragantino SP | 04:30 21/09",
@@ -812,11 +1100,155 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-a40dca6c33",
+          "name": "Toronto Tempo vs New York Liberty | 02:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a40dca6c33",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a40dca6c33",
+                  "name": "Toronto Tempo vs New York Liberty",
+                  "streams": [
+                    {
+                      "id": "st-a40dca6c33",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-074579084e",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789890128_hd/1789890128_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "Toronto Tempo",
+            "team_b": "New York Liberty",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2144aaf701fac7e3c3caf3853aeb9929.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7a41b2cf98e8350722b096134858af8e.png",
+            "time": "02:00:00",
+            "date": "21/09",
+            "blv": "Chồn",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23425071_53803cce_20260921.png?v=53803cce",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3d9b14c4c2",
+          "name": "Indiana Fever vs Washington Mystics | 03:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3d9b14c4c2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3d9b14c4c2",
+                  "name": "Indiana Fever vs Washington Mystics",
+                  "streams": [
+                    {
+                      "id": "st-3d9b14c4c2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-92623eb93d",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789890574_hd/1789890574_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "Indiana Fever",
+            "team_b": "Washington Mystics",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2672748dfcca12a59823b97a08ffb22d.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e4fdbc941d11c2927bafb5b8978e8ea6.png",
+            "time": "03:00:00",
+            "date": "21/09",
+            "blv": "Tôm",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24425072_4a2405c7_20260921.png?v=4a2405c7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-3eca30fe70",
           "name": "Los Angeles Sparks vs Portland Fire | 06:00 21/09",
@@ -1181,11 +1613,227 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-00158e8571",
+          "name": "New Orleans Saints vs Baltimore Ravens | 00:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-00158e8571",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-00158e8571",
+                  "name": "New Orleans Saints vs Baltimore Ravens",
+                  "streams": [
+                    {
+                      "id": "st-00158e8571",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6af1e2ce4b",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789921713_hd/1789921713_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "New Orleans Saints",
+            "team_b": "Baltimore Ravens",
+            "logo_a": "https://static.flashscore.com/res/image/data/MDbgCuCr-h0cvUNB6.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/dUe4S2il-40MWbKRi.png",
+            "time": "00:00:00",
+            "date": "21/09",
+            "blv": "Riko",
+            "is_live": true,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/z5zer7ypsu4z_c04bfeb3_20260921.png?v=c04bfeb3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f9f906605b",
+          "name": "Ý vs Đan Mạch | 02:05 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f9f906605b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f9f906605b",
+                  "name": "Ý vs Đan Mạch",
+                  "streams": [
+                    {
+                      "id": "st-f9f906605b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-871afb68e1",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789891904_hd/1789891904_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Championship",
+            "team_a": "Ý",
+            "team_b": "Đan Mạch",
+            "logo_a": "https://static.flashscore.com/res/image/data/h6v1tOAr-xCsenx2O.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/nHFMNnGG-8Q45Qxt1.png",
+            "time": "02:05:00",
+            "date": "21/09",
+            "blv": "Sún",
+            "is_live": true,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/40k7ldtq55sz_ee7b7c8b_20260921.png?v=ee7b7c8b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-365b333ef3",
+          "name": "Los Angeles Chargers vs Las Vegas Raiders | 03:20 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-365b333ef3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-365b333ef3",
+                  "name": "Los Angeles Chargers vs Las Vegas Raiders",
+                  "streams": [
+                    {
+                      "id": "st-365b333ef3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1f773b3c46",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789921825_hd/1789921825_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Los Angeles Chargers",
+            "team_b": "Las Vegas Raiders",
+            "logo_a": "https://static.flashscore.com/res/image/data/d0vpBaCr-dxGyIFGs.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rD2Lyqil-4QFOfPSs.png",
+            "time": "03:20:00",
+            "date": "21/09",
+            "blv": "Riko",
+            "is_live": true,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4ifcg882yykx_de518037_20260921.png?v=de518037",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-71d05a583b",
           "name": "Việt Nam vs Indonesia | 11:00 21/09",
