@@ -1181,83 +1181,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-365b333ef3",
-          "name": "Los Angeles Chargers vs Las Vegas Raiders | 03:20 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-365b333ef3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-365b333ef3",
-                  "name": "Los Angeles Chargers vs Las Vegas Raiders",
-                  "streams": [
-                    {
-                      "id": "st-365b333ef3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1f773b3c46",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789921825_hd/1789921825_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "Los Angeles Chargers",
-            "team_b": "Las Vegas Raiders",
-            "logo_a": "https://static.flashscore.com/res/image/data/d0vpBaCr-dxGyIFGs.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/rD2Lyqil-4QFOfPSs.png",
-            "time": "03:20:00",
-            "date": "21/09",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4ifcg882yykx_de518037_20260921.png?v=de518037",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-71d05a583b",
           "name": "Việt Nam vs Indonesia | 11:00 21/09",
