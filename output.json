@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -228,78 +228,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab8404192c_bfcf49f6_20260921.png?v=bfcf49f6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-d69bcc0527",
-          "name": "Nữ Hàn Quốc vs Triều Tiên Nữ | 14:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d69bcc0527",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d69bcc0527",
-                  "name": "Nữ Hàn Quốc vs Triều Tiên Nữ",
-                  "streams": [
-                    {
-                      "id": "st-d69bcc0527",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f335e18d5c",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789928181_hd/1789928181_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Nữ",
-            "team_a": "Nữ Hàn Quốc",
-            "team_b": "Triều Tiên Nữ",
-            "logo_a": "https://images.keovip88.net/images/teams/south-korea-w.png",
-            "logo_b": "https://images.keovip88.net/images/teams/north-korea-w.png",
-            "time": "14:00:00",
-            "date": "21/09",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041929_1547912e_20260921.png?v=1547912e",
             "width": 1600,
             "height": 1200
           }
@@ -1568,7 +1496,7 @@
     },
     {
       "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày",
+      "name": "⚾ Bóng Chày (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1581,10 +1509,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1633,7 +1561,7 @@
             "time": "16:30:00",
             "date": "21/09",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchay"
           },
           "image": {
@@ -1653,10 +1581,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1705,7 +1633,7 @@
             "time": "16:30:00",
             "date": "21/09",
             "blv": "Cận",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchay"
           },
           "image": {
