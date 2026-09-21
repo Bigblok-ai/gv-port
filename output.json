@@ -672,12 +672,228 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-f6c7784997",
+          "name": "Phoenix Mercury vs Dallas Wings | 09:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f6c7784997",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f6c7784997",
+                  "name": "Phoenix Mercury vs Dallas Wings",
+                  "streams": [
+                    {
+                      "id": "st-f6c7784997",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dc3e61cc09",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790016624_hd/1790016624_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "Phoenix Mercury",
+            "team_b": "Dallas Wings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f35ccb51f91cd187f149d4d55fc6be24.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/17dcd412f5ecfaa1bc4b85e6e39bc0c4.png",
+            "time": "09:00:00",
+            "date": "22/09",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28425076_48a517c6_20260922.png?v=48a517c6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0db8b06ce6",
+          "name": "Japan (W) vs Philippines (W) | 11:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0db8b06ce6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0db8b06ce6",
+                  "name": "Japan (W) vs Philippines (W)",
+                  "streams": [
+                    {
+                      "id": "st-0db8b06ce6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-68d33267ee",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790016647_hd/1790016647_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women's basketball match of the Asian Games",
+            "team_a": "Japan (W)",
+            "team_b": "Philippines (W)",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d3fc6c75b5a81c1d4e35a0ec94c9b031.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ad2d691bbb1ca57f3fa28f1ef6212c70.png",
+            "time": "11:00:00",
+            "date": "22/09",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22456377_fd6ecc68_20260922.png?v=fd6ecc68",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bc604729fa",
+          "name": "South Korea (W) vs Chinese Taipei (W) | 14:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bc604729fa",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bc604729fa",
+                  "name": "South Korea (W) vs Chinese Taipei (W)",
+                  "streams": [
+                    {
+                      "id": "st-bc604729fa",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cc0db87a1c",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790016691_hd/1790016691_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women's basketball match of the Asian Games",
+            "team_a": "South Korea (W)",
+            "team_b": "Chinese Taipei (W)",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/80f4ac7926dcf255ec6d32d271755d1a.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b86166676d101a3bcea1c2899eac8ab4.png",
+            "time": "14:00:00",
+            "date": "22/09",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37456372_4795b268_20260922.png?v=4795b268",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -690,10 +906,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -742,7 +958,7 @@
             "time": "02:00:00",
             "date": "22/09",
             "blv": "Tôm",
-            "is_live": true,
+            "is_live": false,
             "cate_type": "bongchuyen"
           },
           "image": {
@@ -750,6 +966,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tpjt48zgys5p_b7fcb373_20260922.png?v=b7fcb373",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-88f3242a37",
+          "name": "Kazakhstan vs Việt Nam | 08:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-88f3242a37",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-88f3242a37",
+                  "name": "Kazakhstan vs Việt Nam",
+                  "streams": [
+                    {
+                      "id": "st-88f3242a37",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fe6f90fe9c",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790016751_hd/1790016751_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Kazakhstan",
+            "team_b": "Việt Nam",
+            "logo_a": "https://static.flashscore.com/res/image/data/hMQTrXVg-Cfuwb3yH.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",
+            "time": "08:00:00",
+            "date": "22/09",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/dyf73rc84yam_cedc961a_20260922.png?v=cedc961a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6f68021322",
+          "name": "Đài Bắc Trung Hoa vs Indonesia | 11:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6f68021322",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6f68021322",
+                  "name": "Đài Bắc Trung Hoa vs Indonesia",
+                  "streams": [
+                    {
+                      "id": "st-6f68021322",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-41944fc197",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790016816_hd/1790016816_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Đài Bắc Trung Hoa",
+            "team_b": "Indonesia",
+            "logo_a": "https://static.flashscore.com/res/image/data/YoRguSGG-251yRjVj.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/kErkaIWGPh_VGrd4T6NwUA_96x96.png",
+            "time": "11:00:00",
+            "date": "22/09",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5xauagnbckxn_d45c5700_20260922.png?v=d45c5700",
             "width": 1600,
             "height": 1200
           }
