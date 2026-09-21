@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -89,6 +89,150 @@
           }
         },
         {
+          "id": "gv-e9dd40c6a5",
+          "name": "Nữ Trung Quốc vs Nữ Philippines | 14:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e9dd40c6a5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e9dd40c6a5",
+                  "name": "Nữ Trung Quốc vs Nữ Philippines",
+                  "streams": [
+                    {
+                      "id": "st-e9dd40c6a5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4ea8a8ee84",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789928126_hd/1789928126_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games Nữ",
+            "team_a": "Nữ Trung Quốc",
+            "team_b": "Nữ Philippines",
+            "logo_a": "https://images.keovip88.net/images/teams/china-w.png",
+            "logo_b": "https://images.keovip88.net/images/teams/philippines-w.png",
+            "time": "14:00:00",
+            "date": "21/09",
+            "blv": "BLV Hấu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab8404192c_bfcf49f6_20260921.png?v=bfcf49f6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d69bcc0527",
+          "name": "Nữ Hàn Quốc vs Triều Tiên Nữ | 14:00 21/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d69bcc0527",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d69bcc0527",
+                  "name": "Nữ Hàn Quốc vs Triều Tiên Nữ",
+                  "streams": [
+                    {
+                      "id": "st-d69bcc0527",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f335e18d5c",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789928181_hd/1789928181_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games Nữ",
+            "team_a": "Nữ Hàn Quốc",
+            "team_b": "Triều Tiên Nữ",
+            "logo_a": "https://images.keovip88.net/images/teams/south-korea-w.png",
+            "logo_b": "https://images.keovip88.net/images/teams/north-korea-w.png",
+            "time": "14:00:00",
+            "date": "21/09",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041929_1547912e_20260921.png?v=1547912e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-54214d24b8",
           "name": "Bangladesh Nữ vs Myanmar Nữ | 14:00 21/09",
           "type": "single",
@@ -156,150 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041928_269f2d1e_20260921.png?v=269f2d1e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-e9dd40c6a5",
-          "name": "Nữ Trung Quốc vs Nữ Philippines | 14:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e9dd40c6a5",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e9dd40c6a5",
-                  "name": "Nữ Trung Quốc vs Nữ Philippines",
-                  "streams": [
-                    {
-                      "id": "st-e9dd40c6a5",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4ea8a8ee84",
-                          "name": "BLV Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789928126_hd/1789928126_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Nữ",
-            "team_a": "Nữ Trung Quốc",
-            "team_b": "Nữ Philippines",
-            "logo_a": "https://images.keovip88.net/images/teams/china-w.png",
-            "logo_b": "https://images.keovip88.net/images/teams/philippines-w.png",
-            "time": "14:00:00",
-            "date": "21/09",
-            "blv": "BLV Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab8404192c_bfcf49f6_20260921.png?v=bfcf49f6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-d69bcc0527",
-          "name": "Nữ Hàn Quốc vs Triều Tiên Nữ | 14:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d69bcc0527",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d69bcc0527",
-                  "name": "Nữ Hàn Quốc vs Triều Tiên Nữ",
-                  "streams": [
-                    {
-                      "id": "st-d69bcc0527",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f335e18d5c",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789928181_hd/1789928181_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian Games Nữ",
-            "team_a": "Nữ Hàn Quốc",
-            "team_b": "Triều Tiên Nữ",
-            "logo_a": "https://images.keovip88.net/images/teams/south-korea-w.png",
-            "logo_b": "https://images.keovip88.net/images/teams/north-korea-w.png",
-            "time": "14:00:00",
-            "date": "21/09",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa0a1e24edbf7ab84041929_1547912e_20260921.png?v=1547912e",
             "width": 1600,
             "height": 1200
           }
@@ -1335,87 +1335,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j0brsens5nhf_83c439dc_20260921.png?v=83c439dc",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_caulong",
-      "name": "🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-285eeebb24",
-          "name": "Japan vs Kazakhstan | 13:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-285eeebb24",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-285eeebb24",
-                  "name": "Japan vs Kazakhstan",
-                  "streams": [
-                    {
-                      "id": "st-285eeebb24",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1a1819a1a8",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789969417_hd/1789969417_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asian-Cầu lông Men's Team-R16",
-            "team_a": "Japan",
-            "team_b": "Kazakhstan",
-            "logo_a": "https://static.flashscore.com/res/image/data/bV4JAGFG-AixrR4x7.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/lOBGoDzB-AixrR4x7.png",
-            "time": "13:00:00",
-            "date": "21/09",
-            "blv": "Mickey",
-            "is_live": false,
-            "cate_type": "caulong"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/s36wsmtdwoxp_491810ca_20260921.png?v=491810ca",
             "width": 1600,
             "height": 1200
           }
