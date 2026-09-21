@@ -740,83 +740,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-17707ef30c",
-          "name": "Malaysia (W) vs Chinese Taipei (W) | 14:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-17707ef30c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-17707ef30c",
-                  "name": "Malaysia (W) vs Chinese Taipei (W)",
-                  "streams": [
-                    {
-                      "id": "st-17707ef30c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-74520300f3",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789928364_hd/1789928364_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women's basketball match of the Asian Games",
-            "team_a": "Malaysia (W)",
-            "team_b": "Chinese Taipei (W)",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d70fd4c5120606a13bab499146cbba1a.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b86166676d101a3bcea1c2899eac8ab4.png",
-            "time": "14:00:00",
-            "date": "21/09",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36456371_969d7111_20260921.png?v=969d7111",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2c7532c113",
           "name": "Tasmania JackJumpers vs South East Melbourne Phoenix | 16:30 21/09",
@@ -1068,7 +996,25 @@
                     {
                       "id": "st-48861c7a08",
                       "name": "GV",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d0aebd4f46",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789933130_hd/1789933130_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1083,7 +1029,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/xIU3rZCa-8AQZp0c1.png",
             "time": "17:20:00",
             "date": "21/09",
-            "blv": "",
+            "blv": "Sún",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
@@ -1725,7 +1671,25 @@
                     {
                       "id": "st-44566b9dcd",
                       "name": "GV",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e41cfd91b9",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789932955_hd/1789932955_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1740,7 +1704,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/YsejKiBr-Gd32TdAF.png",
             "time": "16:30:00",
             "date": "21/09",
-            "blv": "",
+            "blv": "Cận",
             "is_live": false,
             "cate_type": "bongchay"
           },
