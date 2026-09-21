@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "gv-571fbb2053",
+          "name": "Los Angeles Rams vs New York Giants | 07:15 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-571fbb2053",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-571fbb2053",
+                  "name": "Los Angeles Rams vs New York Giants",
+                  "streams": [
+                    {
+                      "id": "st-571fbb2053",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7dd0ba5c49",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790017026_hd/1790017026_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Los Angeles Rams",
+            "team_b": "New York Giants",
+            "logo_a": "https://static.flashscore.com/res/image/data/xKV01zyS-vNO3Pwqf.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",
+            "time": "07:15:00",
+            "date": "22/09",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yyp6237ug1jq_fc485f4a_20260922.png?v=fc485f4a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-0bb3f5767b",
           "name": "Corinthians W vs Bahia W | 07:30 22/09",
           "type": "single",
@@ -516,6 +588,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/785jnmli8xo5_1944359b_20260922.png?v=1944359b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-671dad2617",
+          "name": "Nữ Arsenal vs HB Koge (W) | 02:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-671dad2617",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-671dad2617",
+                  "name": "Nữ Arsenal vs HB Koge (W)",
+                  "streams": [
+                    {
+                      "id": "st-671dad2617",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-41be153da5",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789914070_hd/1789914070_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Champions League Nữ",
+            "team_a": "Nữ Arsenal",
+            "team_b": "HB Koge (W)",
+            "logo_a": "https://images.keovip88.net/images/teams/arsenal-w.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hb-koge-w.png",
+            "time": "02:00:00",
+            "date": "23/09",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd0a824d46db870f2406d_139d8f24_20260922.png?v=139d8f24",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3341b2d750",
+          "name": "Nữ Real Madrid vs Nữ Paris Saint Germain | 02:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3341b2d750",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3341b2d750",
+                  "name": "Nữ Real Madrid vs Nữ Paris Saint Germain",
+                  "streams": [
+                    {
+                      "id": "st-3341b2d750",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-40a8860732",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789914117_hd/1789914117_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Champions League Nữ",
+            "team_a": "Nữ Real Madrid",
+            "team_b": "Nữ Paris Saint Germain",
+            "logo_a": "https://images.keovip88.net/images/teams/real-madrid-w.png",
+            "logo_b": "https://images.keovip88.net/images/teams/paris-saint-germain-w.png",
+            "time": "02:00:00",
+            "date": "23/09",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd0a824d46db870f24092_fab3b2f2_20260922.png?v=fab3b2f2",
             "width": 1600,
             "height": 1200
           }
@@ -1110,6 +1326,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5xauagnbckxn_d45c5700_20260922.png?v=d45c5700",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d37b76a2b1",
+          "name": "Thái Lan vs Hàn Quốc | 14:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d37b76a2b1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d37b76a2b1",
+                  "name": "Thái Lan vs Hàn Quốc",
+                  "streams": [
+                    {
+                      "id": "st-d37b76a2b1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3bdc4dd23b",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790016899_hd/1790016899_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Thái Lan",
+            "team_b": "Hàn Quốc",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/aEBU_ri8U6F06oTqWmKY5g_96x96.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/xIU3rZCa-8AQZp0c1.png",
+            "time": "14:00:00",
+            "date": "22/09",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vedm2ujz6e90_24b98272_20260922.png?v=24b98272",
             "width": 1600,
             "height": 1200
           }
