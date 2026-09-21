@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-6581ae7e17",
-          "name": "Xorazm Urganch vs Qizilqum Zarafshon | 22:15 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6581ae7e17",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6581ae7e17",
-                  "name": "Xorazm Urganch vs Qizilqum Zarafshon",
-                  "streams": [
-                    {
-                      "id": "st-6581ae7e17",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c44037644b",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789932693_hd/1789932693_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Uzbekistan Super League",
-            "team_a": "Xorazm Urganch",
-            "team_b": "Qizilqum Zarafshon",
-            "logo_a": "https://images.keovip88.net/images/teams/xorazm-urganch.png",
-            "logo_b": "https://images.keovip88.net/images/teams/qizilqum-zarafshon.png",
-            "time": "22:15:00",
-            "date": "21/09",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88ade24d46db87049641d_6e32318d_20260922.png?v=6e32318d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a27501f65d",
           "name": "Al-Duhail vs Al Arabi | 00:15 22/09",
