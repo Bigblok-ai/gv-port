@@ -236,7 +236,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -249,10 +249,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -301,7 +301,7 @@
             "time": "21:00:00",
             "date": "21/09",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
@@ -396,7 +396,7 @@
       "channels": [
         {
           "id": "gv-d7cc5c4aa4",
-          "name": "Astralis vs Sangal Esport | 17:00 21/09",
+          "name": "Astralis vs Fokus | 17:00 21/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -415,7 +415,7 @@
               "contents": [
                 {
                   "id": "ct-d7cc5c4aa4",
-                  "name": "Astralis vs Sangal Esport",
+                  "name": "Astralis vs Fokus",
                   "streams": [
                     {
                       "id": "st-d7cc5c4aa4",
@@ -448,7 +448,7 @@
           "org_metadata": {
             "league": "CS2-Stake Pulse Beat II",
             "team_a": "Astralis",
-            "team_b": "Sangal Esport",
+            "team_b": "Fokus",
             "logo_a": "https://static.flashscore.com/res/image/data/jeCAnlFG-86KSX4dQ.png",
             "logo_b": "https://static.flashscore.com/res/image/data/Wl3fdkFa-2yjQSp95.png",
             "time": "17:00:00",
