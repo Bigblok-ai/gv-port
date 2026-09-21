@@ -668,83 +668,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-8b02f2670f",
-          "name": "Mongolia (W) vs South Korea (W) | 11:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8b02f2670f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8b02f2670f",
-                  "name": "Mongolia (W) vs South Korea (W)",
-                  "streams": [
-                    {
-                      "id": "st-8b02f2670f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8614ac905",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789928245_hd/1789928245_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women's basketball match of the Asian Games",
-            "team_a": "Mongolia (W)",
-            "team_b": "South Korea (W)",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/66a4c6ed1029c0338a50ad413bfaf118.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/80f4ac7926dcf255ec6d32d271755d1a.png",
-            "time": "11:00:00",
-            "date": "21/09",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35456370_b5c6416e_20260921.png?v=b5c6416e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-17707ef30c",
           "name": "Malaysia (W) vs Chinese Taipei (W) | 14:00 21/09",
