@@ -740,83 +740,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-3eca30fe70",
-          "name": "Los Angeles Sparks vs Portland Fire | 06:00 21/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3eca30fe70",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3eca30fe70",
-                  "name": "Los Angeles Sparks vs Portland Fire",
-                  "streams": [
-                    {
-                      "id": "st-3eca30fe70",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a983643ed6",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789891644_hd/1789891644_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women’s National Basketball Association",
-            "team_a": "Los Angeles Sparks",
-            "team_b": "Portland Fire",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/32f21070cfd05affb7125a707c2b3b37.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/687f4fda7efc61afefa80ee3591a56f2.png",
-            "time": "06:00:00",
-            "date": "21/09",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25425073_f37fa21c_20260921.png?v=f37fa21c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b1f24e32c8",
           "name": "Las Vegas Aces vs Seattle Storm | 08:00 21/09",
