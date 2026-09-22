@@ -1167,6 +1167,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-76814c8b0a",
+          "name": "Iraq vs Oman | 21:30 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-76814c8b0a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-76814c8b0a",
+                  "name": "Iraq vs Oman",
+                  "streams": [
+                    {
+                      "id": "st-76814c8b0a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2dd9e67d33",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790102587_hd/1790102587_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Arabian Gulf Cup",
+            "team_a": "Iraq",
+            "team_b": "Oman",
+            "logo_a": "https://static.flashscore.com/res/image/data/CbiRFhYA-4EsvakLH.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/KGYHRIYA-baDaGjjh.png",
+            "time": "21:30:00",
+            "date": "23/09",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fjiyiotmsplw_6ff74d71_20260923.png?v=6ff74d71",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2bef0ca4da",
+          "name": "Gulf United vs Al Fujairah | 21:40 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2bef0ca4da",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2bef0ca4da",
+                  "name": "Gulf United vs Al Fujairah",
+                  "streams": [
+                    {
+                      "id": "st-2bef0ca4da",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-64aa8d3089",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790102713_hd/1790102713_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UAE Presidents Cup",
+            "team_a": "Gulf United",
+            "team_b": "Al Fujairah",
+            "logo_a": "https://static.flashscore.com/res/image/data/A5k0v6GG-jNN4J2US.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/dllgeuhl-GOsncUhM.png",
+            "time": "21:40:00",
+            "date": "23/09",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/59srht7hpes1_92f42354_20260923.png?v=92f42354",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1533,6 +1677,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28122272_a8c03cfe_20260923.png?v=a8c03cfe",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-40f51025ba",
+          "name": "Bỉ vs Slovenia | 21:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40f51025ba",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-40f51025ba",
+                  "name": "Bỉ vs Slovenia",
+                  "streams": [
+                    {
+                      "id": "st-40f51025ba",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6f2262f242",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790102421_hd/1790102421_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Championship",
+            "team_a": "Bỉ",
+            "team_b": "Slovenia",
+            "logo_a": "https://static.flashscore.com/res/image/data/6kfviue5-6ys9CWQj.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/fBWBjchl-dWxvhZJm.png",
+            "time": "21:00:00",
+            "date": "23/09",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zmpjuvorm221_9dccf5f1_20260923.png?v=9dccf5f1",
             "width": 1600,
             "height": 1200
           }
