@@ -1133,11 +1133,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-9d6d5082d3",
-                          "name": "Điếc",
+                          "id": "lnk-3efb72dac1",
+                          "name": "Cận",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790053501_hd/1790053501_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790053531_hd/1790053531_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1164,7 +1164,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d70fd4c5120606a13bab499146cbba1a.png",
             "time": "17:00:00",
             "date": "22/09",
-            "blv": "Điếc",
+            "blv": "Cận",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -1173,6 +1173,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38456373_996f0964_20260922.png?v=996f0964",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c1b67d29eb",
+          "name": "Saigon heat vs Hanoi buffalo | 19:30 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c1b67d29eb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c1b67d29eb",
+                  "name": "Saigon heat vs Hanoi buffalo",
+                  "streams": [
+                    {
+                      "id": "st-c1b67d29eb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6dc8c9b20a",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790053554_hd/1790053554_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vietnam Basketball League",
+            "team_a": "Saigon heat",
+            "team_b": "Hanoi buffalo",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/6a815620dec350b358d090c9739849c7.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/dffc9109f99b890e6dd480f8ac53ecec.png",
+            "time": "19:30:00",
+            "date": "22/09",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35697377_44ac6b20_20260922.png?v=44ac6b20",
             "width": 1600,
             "height": 1200
           }
