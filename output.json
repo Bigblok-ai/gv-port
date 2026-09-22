@@ -1059,7 +1059,25 @@
                     {
                       "id": "st-789b1a39de",
                       "name": "GV",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-aa79fa8bab",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790081289_hd/1790081289_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1074,7 +1092,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/911d51e9d324e887960542ac17a87e1b.png",
             "time": "09:00:00",
             "date": "23/09",
-            "blv": "",
+            "blv": "Tôm",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -1581,7 +1599,25 @@
                     {
                       "id": "st-4d160e13b4",
                       "name": "GV",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-711a258494",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790081316_hd/1790081316_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1596,7 +1632,7 @@
             "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/iM_hcWzccgEfD4bo-sp6Wg_96x96.png",
             "time": "09:10:00",
             "date": "23/09",
-            "blv": "",
+            "blv": "Cận",
             "is_live": false,
             "cate_type": "bongchay"
           },
