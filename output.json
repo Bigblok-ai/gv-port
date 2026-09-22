@@ -596,83 +596,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f6c7784997",
-          "name": "Phoenix Mercury vs Dallas Wings | 09:00 22/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f6c7784997",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f6c7784997",
-                  "name": "Phoenix Mercury vs Dallas Wings",
-                  "streams": [
-                    {
-                      "id": "st-f6c7784997",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dc3e61cc09",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790016624_hd/1790016624_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women’s National Basketball Association",
-            "team_a": "Phoenix Mercury",
-            "team_b": "Dallas Wings",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f35ccb51f91cd187f149d4d55fc6be24.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/17dcd412f5ecfaa1bc4b85e6e39bc0c4.png",
-            "time": "09:00:00",
-            "date": "22/09",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28425076_48a517c6_20260922.png?v=48a517c6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-0db8b06ce6",
           "name": "Japan (W) vs Philippines (W) | 11:00 22/09",
