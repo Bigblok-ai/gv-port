@@ -1059,13 +1059,76 @@
                     {
                       "id": "st-789b1a39de",
                       "name": "GV",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "Portland Fire",
+            "team_b": "Golden State Valkyries",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/687f4fda7efc61afefa80ee3591a56f2.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/911d51e9d324e887960542ac17a87e1b.png",
+            "time": "09:00:00",
+            "date": "23/09",
+            "blv": "",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23525072_aba8d1a8_20260922.png?v=aba8d1a8",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-bddfd4ae92",
+          "name": "Ba Lan vs Đức | 23:00 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bddfd4ae92",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bddfd4ae92",
+                  "name": "Ba Lan vs Đức",
+                  "streams": [
+                    {
+                      "id": "st-bddfd4ae92",
+                      "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-aa79fa8bab",
-                          "name": "Tôm",
+                          "id": "lnk-ae79823084",
+                          "name": "Sún",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790081289_hd/1790081289_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790092639_hd/1790092639_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1085,22 +1148,22 @@
             }
           ],
           "org_metadata": {
-            "league": "Women’s National Basketball Association",
-            "team_a": "Portland Fire",
-            "team_b": "Golden State Valkyries",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/687f4fda7efc61afefa80ee3591a56f2.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/911d51e9d324e887960542ac17a87e1b.png",
-            "time": "09:00:00",
-            "date": "23/09",
-            "blv": "Tôm",
-            "is_live": false,
-            "cate_type": "basketball"
+            "league": "European Championship",
+            "team_a": "Ba Lan",
+            "team_b": "Đức",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/yTS_Piy3M1wUBnqU0n5aAw_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/h1FhPLmDg9AHXzhygqvVPg_96x96.png",
+            "time": "23:00:00",
+            "date": "22/09",
+            "blv": "Sún",
+            "is_live": true,
+            "cate_type": "bongchuyen"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23525072_aba8d1a8_20260922.png?v=aba8d1a8",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rf9xdnzqawi8_d61f98c7_20260922.png?v=d61f98c7",
             "width": 1600,
             "height": 1200
           }
@@ -1140,7 +1203,25 @@
                     {
                       "id": "st-22f18393da",
                       "name": "GV",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d0a81e507e",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790069921_hd/1790069921_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1155,7 +1236,7 @@
             "logo_b": "https://files.tips.gg/static/image/teams/bbl-csgo.png",
             "time": "23:00:00",
             "date": "22/09",
-            "blv": "",
+            "blv": "Mickey",
             "is_live": true,
             "cate_type": "esport"
           },
@@ -1500,25 +1581,7 @@
                     {
                       "id": "st-4d160e13b4",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-711a258494",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790081316_hd/1790081316_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1533,7 +1596,7 @@
             "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/iM_hcWzccgEfD4bo-sp6Wg_96x96.png",
             "time": "09:10:00",
             "date": "23/09",
-            "blv": "Cận",
+            "blv": "",
             "is_live": false,
             "cate_type": "bongchay"
           },
