@@ -964,6 +964,87 @@
       ]
     },
     {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-4d3091533a",
+          "name": "Trung Quốc vs Nhật Bản | 17:20 22/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4d3091533a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4d3091533a",
+                  "name": "Trung Quốc vs Nhật Bản",
+                  "streams": [
+                    {
+                      "id": "st-4d3091533a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e41ac31ee5",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790068640_hd/1790068640_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Trung Quốc",
+            "team_b": "Nhật Bản",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/by4OltvtZz7taxuQtkiP3A_96x96.png",
+            "time": "17:20:00",
+            "date": "22/09",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/o76kngvr5p19_503aa599_20260922.png?v=503aa599",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_vothuat",
       "name": "🥊 Võ Thuật",
       "display": "vertical",
@@ -1262,7 +1343,7 @@
     },
     {
       "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày",
+      "name": "⚾ Bóng Chày (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1275,10 +1356,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1327,7 +1408,7 @@
             "time": "16:30:00",
             "date": "22/09",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchay"
           },
           "image": {
