@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-a28355620a",
+          "name": "Minsk vs Fenerbahçe Istanbul | 17:00 23/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a28355620a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a28355620a",
+                  "name": "Minsk vs Fenerbahçe Istanbul",
+                  "streams": [
+                    {
+                      "id": "st-a28355620a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-135ba07c49",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790100389_hd/1790100389_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Europa Cup Women",
+            "team_a": "Minsk",
+            "team_b": "Fenerbahçe Istanbul",
+            "logo_a": "https://static.flashscore.com/res/image/data/fPcgMcAr-0l1B8pB3.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/8WgKWiCa-CCQtmQAB.png",
+            "time": "17:00:00",
+            "date": "23/09",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r36yvmgiucup_0f7232d8_20260923.png?v=0f7232d8",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
