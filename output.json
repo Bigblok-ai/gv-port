@@ -161,6 +161,150 @@
           }
         },
         {
+          "id": "gv-f4c0a23ce5",
+          "name": "Solomon Islands vs Vanuatu | 11:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f4c0a23ce5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f4c0a23ce5",
+                  "name": "Solomon Islands vs Vanuatu",
+                  "streams": [
+                    {
+                      "id": "st-f4c0a23ce5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c3b6eea733",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204241_hd/1790204241_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Solomon Islands",
+            "team_b": "Vanuatu",
+            "logo_a": "https://static.flashscore.com/res/image/data/vqLkKVYA-IJIsQ3zG.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/QH2vkEDa-nRdGpyH6.png",
+            "time": "11:00:00",
+            "date": "24/09",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf23424e725bdee905b83b_bd49ed40_20260924.png?v=bd49ed40",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8ac1225221",
+          "name": "Papua New Guinea vs New Caledonia | 14:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8ac1225221",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8ac1225221",
+                  "name": "Papua New Guinea vs New Caledonia",
+                  "streams": [
+                    {
+                      "id": "st-8ac1225221",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-890b52e033",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204472_hd/1790204472_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Papua New Guinea",
+            "team_b": "New Caledonia",
+            "logo_a": "https://static.flashscore.com/res/image/data/QqFRYqe5-fmpRzHfB.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/SKuk88xS-nRdGpyH6.png",
+            "time": "14:00:00",
+            "date": "24/09",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab3e97b24d46db870b262d1_47047fff_20260924.png?v=47047fff",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-51f0e69819",
           "name": "D.R. Congo vs Equatorial Guinea | 23:00 24/09",
           "type": "single",
@@ -817,6 +961,222 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-853ce736a2",
+          "name": "New York Liberty vs Atlanta Dream | 07:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-853ce736a2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-853ce736a2",
+                  "name": "New York Liberty vs Atlanta Dream",
+                  "streams": [
+                    {
+                      "id": "st-853ce736a2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19ac8c1dd1",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204618_hd/1790204618_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "New York Liberty",
+            "team_b": "Atlanta Dream",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7a41b2cf98e8350722b096134858af8e.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/f527c983cab3560c60e7b9d147904d7d.png",
+            "time": "07:00:00",
+            "date": "24/09",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24525073_8cdade78_20260924.png?v=8cdade78",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d5bbbf171e",
+          "name": "Seattle Storm vs Dallas Wings | 09:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d5bbbf171e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d5bbbf171e",
+                  "name": "Seattle Storm vs Dallas Wings",
+                  "streams": [
+                    {
+                      "id": "st-d5bbbf171e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b300245628",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204643_hd/1790204643_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "Seattle Storm",
+            "team_b": "Dallas Wings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f9c0c5ff8557d6be9b17f1ab94781948.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/17dcd412f5ecfaa1bc4b85e6e39bc0c4.png",
+            "time": "09:00:00",
+            "date": "24/09",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25525074_8bd273e1_20260924.png?v=8bd273e1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a7a17b7df6",
+          "name": "Mongolia (W) vs China (w) | 11:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a7a17b7df6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a7a17b7df6",
+                  "name": "Mongolia (W) vs China (w)",
+                  "streams": [
+                    {
+                      "id": "st-a7a17b7df6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-45fb451945",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204669_hd/1790204669_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women's basketball match of the Asian Games",
+            "team_a": "Mongolia (W)",
+            "team_b": "China (w)",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/66a4c6ed1029c0338a50ad413bfaf118.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b2f29c1f131d0390b8d6c1e596843514.jpg",
+            "time": "11:00:00",
+            "date": "24/09",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25580479_7ccccbea_20260924.png?v=7ccccbea",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-be5e31846f",
           "name": "Dubai vs Real Madrid Teka | 23:00 24/09",
