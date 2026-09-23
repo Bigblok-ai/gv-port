@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-b503ffd048",
-          "name": "Feyenoord W vs Vålerenga W | 23:59 23/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b503ffd048",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b503ffd048",
-                  "name": "Feyenoord W vs Vålerenga W",
-                  "streams": [
-                    {
-                      "id": "st-b503ffd048",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c571b287d7",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790129425_hd/1790129425_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Europa Cup Women",
-            "team_a": "Feyenoord W",
-            "team_b": "Vålerenga W",
-            "logo_a": "https://static.flashscore.com/res/image/data/2ebRtpBr-zVZIA7Nc.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/QkkXiGYA-YXREKNz0.png",
-            "time": "23:59:00",
-            "date": "23/09",
-            "blv": "Mason",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vj98l99bcnuz_6c042a44_20260924.png?v=6c042a44",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-63503e82f0",
           "name": "Itabirito vs Cruzeiro | 01:00 24/09",
           "type": "single",
@@ -156,6 +84,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q05jbjzmejir_c9072e6d_20260924.png?v=c9072e6d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cba1274f97",
+          "name": "Vancouver vs Inter Toronto | 09:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cba1274f97",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cba1274f97",
+                  "name": "Vancouver vs Inter Toronto",
+                  "streams": [
+                    {
+                      "id": "st-cba1274f97",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-15a491f356",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204126_hd/1790204126_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Canada - Canadian Premier League",
+            "team_a": "Vancouver",
+            "team_b": "Inter Toronto",
+            "logo_a": "https://images.keovip88.net/images/teams/vancouver-whitecaps.png",
+            "logo_b": "https://images.keovip88.net/images/teams/dc-united.png",
+            "time": "09:00:00",
+            "date": "24/09",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd0c024d46db870f28975_16f0693a_20260924.png?v=16f0693a",
             "width": 1600,
             "height": 1200
           }
