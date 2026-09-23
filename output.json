@@ -1178,6 +1178,222 @@
           }
         },
         {
+          "id": "gv-ae2cdb4c2e",
+          "name": "KogGas vs Mobis Phoebus | 12:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ae2cdb4c2e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ae2cdb4c2e",
+                  "name": "KogGas vs Mobis Phoebus",
+                  "streams": [
+                    {
+                      "id": "st-ae2cdb4c2e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7e3a50776b",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204718_hd/1790204718_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "KogGas",
+            "team_b": "Mobis Phoebus",
+            "logo_a": "https://static.flashscore.com/res/image/data/E9xGHfcM-vehtS5P1.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/9/93/Ulsan_Hyundai_Mobis_Phoebus.svg",
+            "time": "12:00:00",
+            "date": "24/09",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/s8vet3num59t_3f02e9fc_20260924.png?v=3f02e9fc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f09916b74f",
+          "name": "Wonju DB vs Seoul Thunders | 12:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f09916b74f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f09916b74f",
+                  "name": "Wonju DB vs Seoul Thunders",
+                  "streams": [
+                    {
+                      "id": "st-f09916b74f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f9f67583ea",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204843_hd/1790204843_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "Wonju DB",
+            "team_b": "Seoul Thunders",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89aV1mbuxvQhVaHfuBSqobyXOzCH2mqlw6A&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk96OsPcVdWJ_VfK8sNDt-Nh4Y2pCXQiBACA&s",
+            "time": "12:00:00",
+            "date": "24/09",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/mr6zetxewdx5_27ef75f3_20260924.png?v=27ef75f3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6e174d6454",
+          "name": "Chinese Taipei (W) vs Philippines (W) | 14:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6e174d6454",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6e174d6454",
+                  "name": "Chinese Taipei (W) vs Philippines (W)",
+                  "streams": [
+                    {
+                      "id": "st-6e174d6454",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a2e7d8e42b",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204912_hd/1790204912_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women's basketball match of the Asian Games",
+            "team_a": "Chinese Taipei (W)",
+            "team_b": "Philippines (W)",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b86166676d101a3bcea1c2899eac8ab4.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ad2d691bbb1ca57f3fa28f1ef6212c70.png",
+            "time": "14:00:00",
+            "date": "24/09",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36580470_0b833a31_20260924.png?v=0b833a31",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-be5e31846f",
           "name": "Dubai vs Real Madrid Teka | 23:00 24/09",
           "type": "single",
