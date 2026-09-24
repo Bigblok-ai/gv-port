@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-1c60a83ade",
-          "name": "Uzbekistan vs Iran | 21:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1c60a83ade",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1c60a83ade",
-                  "name": "Uzbekistan vs Iran",
-                  "streams": [
-                    {
-                      "id": "st-1c60a83ade",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-95f7d72641",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790256292_hd/1790256292_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao hữu quốc tế",
-            "team_a": "Uzbekistan",
-            "team_b": "Iran",
-            "logo_a": "https://images.keovip88.net/images/teams/uzbekistan.png",
-            "logo_b": "https://images.keovip88.net/images/teams/iran.png",
-            "time": "21:00:00",
-            "date": "24/09",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf23424e725bdee905b835_dd01426c_20260924.png?v=dd01426c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-51f0e69819",
           "name": "D.R. Congo vs Equatorial Guinea | 23:00 24/09",
@@ -186,25 +114,7 @@
                     {
                       "id": "st-26cd5110cd",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c47fcd9611",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144181_hd/1790144181_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -219,7 +129,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/botswana.png",
             "time": "23:00:00",
             "date": "24/09",
-            "blv": "Bee",
+            "blv": "",
             "is_live": false,
             "cate_type": "football"
           },
@@ -330,25 +240,7 @@
                     {
                       "id": "st-0d453b5ad3",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c84db09387",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144299_hd/1790144299_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -363,7 +255,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/malta.png",
             "time": "23:00:00",
             "date": "24/09",
-            "blv": "Riko",
+            "blv": "",
             "is_live": false,
             "cate_type": "football"
           },
@@ -402,25 +294,7 @@
                     {
                       "id": "st-e0ca13bc0c",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3001a58aa4",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144350_hd/1790144350_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -435,7 +309,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/lithuania.png",
             "time": "01:45:00",
             "date": "25/09",
-            "blv": "Mason",
+            "blv": "",
             "is_live": false,
             "cate_type": "football"
           },
@@ -762,25 +636,7 @@
                     {
                       "id": "st-2aeba3f11b",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5c0f158ab2",
-                          "name": "BLV Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790263599_hd/1790263599_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -795,7 +651,7 @@
             "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QoAJxO46fHid3_T-7nRZ0Q_96x96.png",
             "time": "12:00:00",
             "date": "25/09",
-            "blv": "BLV Hấu",
+            "blv": "",
             "is_live": false,
             "cate_type": "football"
           },
@@ -804,6 +660,60 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ywz94s073cw4_d8d1f45e_20260924.png?v=d8d1f45e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6fdb2165b5",
+          "name": "ĐT nữ Việt Nam vs ĐT nữ Trung Quốc | 13:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6fdb2165b5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6fdb2165b5",
+                  "name": "ĐT nữ Việt Nam vs ĐT nữ Trung Quốc",
+                  "streams": [
+                    {
+                      "id": "st-6fdb2165b5",
+                      "name": "GV",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia - ASIAD 2026 - Tứ kết (Nữ)",
+            "team_a": "ĐT nữ Việt Nam",
+            "team_b": "ĐT nữ Trung Quốc",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png",
+            "time": "13:00:00",
+            "date": "25/09",
+            "blv": "",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/a41t5fzzfbcn_8692418f_20260924.png?v=8692418f",
             "width": 1600,
             "height": 1200
           }
@@ -915,25 +825,7 @@
                     {
                       "id": "st-7c1e55e2be",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0b4b0806b7",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144655_hd/1790144655_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -948,7 +840,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/1ee20d34aaf3954a5ae419166d015a1d.png",
             "time": "23:00:00",
             "date": "24/09",
-            "blv": "Ben",
+            "blv": "",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -987,25 +879,7 @@
                     {
                       "id": "st-9457bc53b9",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d2fa2a67cd",
-                          "name": "BLV Test",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790260025_hd/1790260025_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1020,7 +894,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/en/7/74/Anadolu_Efes_SK_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
             "time": "01:30:00",
             "date": "25/09",
-            "blv": "BLV Test",
+            "blv": "",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -1059,25 +933,7 @@
                     {
                       "id": "st-47cdfe74bb",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5733c55d75",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144678_hd/1790144678_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1092,7 +948,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2144aaf701fac7e3c3caf3853aeb9929.png",
             "time": "06:00:00",
             "date": "25/09",
-            "blv": "Cầy",
+            "blv": "",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -1203,25 +1059,7 @@
                     {
                       "id": "st-582bee1172",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9740500aa2",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790263500_hd/1790263500_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1236,7 +1074,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/UFmsOtyB-0xo9H7fm.png",
             "time": "23:59:00",
             "date": "25/09",
-            "blv": "Cầy",
+            "blv": "",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -1245,87 +1083,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/z3q66e66p0tm_460dd8a1_20260924.png?v=460dd8a1",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-9882bccc49",
-          "name": "Apogee Esport vs JijieHao | 20:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9882bccc49",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9882bccc49",
-                  "name": "Apogee Esport vs JijieHao",
-                  "streams": [
-                    {
-                      "id": "st-9882bccc49",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6a780e8c23",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790242429_hd/1790242429_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-Stake Pulse Beat II",
-            "team_a": "Apogee Esport",
-            "team_b": "JijieHao",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-l_X0jsjP6R2IyqPfyskm0bq-tzpLAJeczPkm4nngg&s=10",
-            "logo_b": "https://static.flashscore.com/res/image/data/jB9ulnxS-Me1gTkWa.png",
-            "time": "20:00:00",
-            "date": "24/09",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6yt1ylws5l5y_a5042c58_20260924.png?v=a5042c58",
             "width": 1600,
             "height": 1200
           }
@@ -1365,25 +1122,7 @@
                     {
                       "id": "st-0ff3403f55",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-00f4857b2a",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789368699_hd/1789368699_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1398,7 +1137,7 @@
             "logo_b": "https://api.beyondkick.com/uploads/HR_Ne_UC_Wg_AAH_8w_Z_fc313fd7d3.webp",
             "time": "18:30:00",
             "date": "25/09",
-            "blv": "Điếc",
+            "blv": "",
             "is_live": false,
             "cate_type": "vothuat"
           },
@@ -1437,25 +1176,7 @@
                     {
                       "id": "st-0ddc93b2dc",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-052d7952cd",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789368755_hd/1789368755_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1470,7 +1191,7 @@
             "logo_b": "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/08/HPz3eAZXcAAocvy.jpeg?quality=90&strip=all&crop=0,10,100,80",
             "time": "02:00:00",
             "date": "27/09",
-            "blv": "Dory",
+            "blv": "",
             "is_live": false,
             "cate_type": "vothuat"
           },
@@ -1509,25 +1230,7 @@
                     {
                       "id": "st-232423eef4",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-32b270044f",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789368893_hd/1789368893_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1542,7 +1245,7 @@
             "logo_b": "https://m.media-amazon.com/images/S/pv-target-images/92a6fe2caef3a15e2b920f0944f33dbe5eef66bdfe761a61595e8619555a18cb.jpg",
             "time": "06:00:00",
             "date": "30/09",
-            "blv": "Dory",
+            "blv": "",
             "is_live": false,
             "cate_type": "vothuat"
           },
