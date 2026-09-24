@@ -915,25 +915,7 @@
                     {
                       "id": "st-9457bc53b9",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d2fa2a67cd",
-                          "name": "BLV Test",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790260025_hd/1790260025_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -948,7 +930,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/en/7/74/Anadolu_Efes_SK_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
             "time": "01:30:00",
             "date": "25/09",
-            "blv": "BLV Test",
+            "blv": "",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -987,25 +969,7 @@
                     {
                       "id": "st-47cdfe74bb",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5733c55d75",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144678_hd/1790144678_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1020,7 +984,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2144aaf701fac7e3c3caf3853aeb9929.png",
             "time": "06:00:00",
             "date": "25/09",
-            "blv": "Cầy",
+            "blv": "",
             "is_live": false,
             "cate_type": "basketball"
           },
