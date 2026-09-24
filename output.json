@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260924.png?v=62dd1b2b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-9882bccc49",
-          "name": "Eternal Fire vs JijieHao | 17:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9882bccc49",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9882bccc49",
-                  "name": "Eternal Fire vs JijieHao",
-                  "streams": [
-                    {
-                      "id": "st-9882bccc49",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6a780e8c23",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790242429_hd/1790242429_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-Stake Pulse Beat II",
-            "team_a": "Eternal Fire",
-            "team_b": "JijieHao",
-            "logo_a": "https://static.flashscore.com/res/image/data/CGOQ3kjl-0QI3KGta.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/jB9ulnxS-Me1gTkWa.png",
-            "time": "17:00:00",
-            "date": "24/09",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6yt1ylws5l5y_f62a9f0f_20260924.png?v=f62a9f0f",
             "width": 1600,
             "height": 1200
           }
@@ -1541,7 +1469,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1614,6 +1542,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uaa87zar88hk_302f343e_20260924.png?v=302f343e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9882bccc49",
+          "name": "Eternal Fire vs JijieHao | 17:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9882bccc49",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9882bccc49",
+                  "name": "Eternal Fire vs JijieHao",
+                  "streams": [
+                    {
+                      "id": "st-9882bccc49",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a780e8c23",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790242429_hd/1790242429_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-Stake Pulse Beat II",
+            "team_a": "Eternal Fire",
+            "team_b": "JijieHao",
+            "logo_a": "https://static.flashscore.com/res/image/data/CGOQ3kjl-0QI3KGta.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/jB9ulnxS-Me1gTkWa.png",
+            "time": "17:00:00",
+            "date": "24/09",
+            "blv": "Mickey",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6yt1ylws5l5y_f62a9f0f_20260924.png?v=f62a9f0f",
             "width": 1600,
             "height": 1200
           }
@@ -1992,87 +1992,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/stdtbtj7vpy4_6bec746e_20260924.png?v=6bec746e",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_Billiards",
-      "name": "🎱 Billiards (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-a5a01246cb",
-          "name": "jayson shaw vs san vanboning | 15:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a5a01246cb",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a5a01246cb",
-                  "name": "jayson shaw vs san vanboning",
-                  "streams": [
-                    {
-                      "id": "st-a5a01246cb",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3574e90b64",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790233778_hd/1790233778_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WPA Men's 10-Ball World Championship",
-            "team_a": "jayson shaw",
-            "team_b": "san vanboning",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQrZC5dEk3AEO9RX3nTscszmXHk9HU_Zg8iktdvs3LLw&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNrjo-EDi4kU4eOq2nYlScAQOFbiAifgjjDzd19zRzQ&s=10",
-            "time": "15:00:00",
-            "date": "24/09",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "Billiards"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xkesdeoslzl1_14a646cb_20260924.png?v=14a646cb",
             "width": 1600,
             "height": 1200
           }
