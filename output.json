@@ -1394,6 +1394,150 @@
           }
         },
         {
+          "id": "gv-c72bfa3cdc",
+          "name": "Japan (W) vs Thailand (W) | 17:20 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c72bfa3cdc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c72bfa3cdc",
+                  "name": "Japan (W) vs Thailand (W)",
+                  "streams": [
+                    {
+                      "id": "st-c72bfa3cdc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7a9a32001",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790234241_hd/1790234241_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women's basketball match of the Asian Games",
+            "team_a": "Japan (W)",
+            "team_b": "Thailand (W)",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d3fc6c75b5a81c1d4e35a0ec94c9b031.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9c55c280e3d0f86c77ef89d11d3727fe.gif",
+            "time": "17:20:00",
+            "date": "24/09",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37580471_70b133fc_20260924.png?v=70b133fc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f5f7e373f5",
+          "name": "Perth Wildcats vs Adelaide 36ers | 18:30 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f5f7e373f5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f5f7e373f5",
+                  "name": "Perth Wildcats vs Adelaide 36ers",
+                  "streams": [
+                    {
+                      "id": "st-f5f7e373f5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0f348ead18",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790234282_hd/1790234282_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Perth Wildcats",
+            "team_b": "Adelaide 36ers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d6e217ac051f3258b82d74a932d11ada.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6a6d3d4063e675d1ce3e701153e3f367.png",
+            "time": "18:30:00",
+            "date": "24/09",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10222275_f96168dc_20260924.png?v=f96168dc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-be5e31846f",
           "name": "Dubai vs Real Madrid Teka | 23:00 24/09",
           "type": "single",
@@ -1677,6 +1821,159 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27525076_818e9dc1_20260924.png?v=818e9dc1",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-579c285cfc",
+          "name": "Team Liquid vs Paper Rex | 16:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-579c285cfc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-579c285cfc",
+                  "name": "Team Liquid vs Paper Rex",
+                  "streams": [
+                    {
+                      "id": "st-579c285cfc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7dc09bce8e",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790234339_hd/1790234339_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VCT Champions",
+            "team_a": "Team Liquid",
+            "team_b": "Paper Rex",
+            "logo_a": "https://static.flashscore.com/res/image/data/40G19RDa-QJruPzw9.png",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKDpvtzwb87IfqepK7tKKL_-lLDDKMgwffB5k3aXrCA&s",
+            "time": "16:00:00",
+            "date": "24/09",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uaa87zar88hk_302f343e_20260924.png?v=302f343e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fdc55136f1",
+          "name": "TYLOO vs G2 | 19:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fdc55136f1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fdc55136f1",
+                  "name": "TYLOO vs G2",
+                  "streams": [
+                    {
+                      "id": "st-fdc55136f1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-757e18fbc3",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790234466_hd/1790234466_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VCT Champions",
+            "team_a": "TYLOO",
+            "team_b": "G2",
+            "logo_a": "https://static.flashscore.com/res/image/data/fJuOzPzB-GnO8YQo1.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/EgYNlNDa-YoDO6SX0.png",
+            "time": "19:00:00",
+            "date": "24/09",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/210jei3ftd5a_1bc8927a_20260924.png?v=1bc8927a",
             "width": 1600,
             "height": 1200
           }
