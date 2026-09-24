@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-51f0e69819",
-          "name": "D.R. Congo vs Equatorial Guinea | 23:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-51f0e69819",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-51f0e69819",
-                  "name": "D.R. Congo vs Equatorial Guinea",
-                  "streams": [
-                    {
-                      "id": "st-51f0e69819",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bab7a7ef83",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144037_hd/1790144037_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giải vô địch các Quốc gia châu Phi",
-            "team_a": "D.R. Congo",
-            "team_b": "Equatorial Guinea",
-            "logo_a": "https://images.keovip88.net/images/teams/democratic-rep-congo.png",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/250px-Flag_of_Equatorial_Guinea.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-            "time": "23:00:00",
-            "date": "24/09",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r0x9mk8xu31h_a3dc18db_20260925.png?v=a3dc18db",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-26cd5110cd",
           "name": "Libya vs Botswana | 23:00 24/09",
