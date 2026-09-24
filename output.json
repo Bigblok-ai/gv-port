@@ -735,6 +735,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-2aeba3f11b",
+          "name": "U23 Uzbekistan vs U23 Ả Rập Saudi | 12:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2aeba3f11b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2aeba3f11b",
+                  "name": "U23 Uzbekistan vs U23 Ả Rập Saudi",
+                  "streams": [
+                    {
+                      "id": "st-2aeba3f11b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5c0f158ab2",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790263599_hd/1790263599_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASIAD 2026",
+            "team_a": "U23 Uzbekistan",
+            "team_b": "U23 Ả Rập Saudi",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/9-A8iDJhj09K55En7WPQBg_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QoAJxO46fHid3_T-7nRZ0Q_96x96.png",
+            "time": "12:00:00",
+            "date": "25/09",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ywz94s073cw4_d8d1f45e_20260924.png?v=d8d1f45e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -915,7 +987,25 @@
                     {
                       "id": "st-9457bc53b9",
                       "name": "GV",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d2fa2a67cd",
+                          "name": "BLV Test",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790260025_hd/1790260025_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -930,7 +1020,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/en/7/74/Anadolu_Efes_SK_logo.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
             "time": "01:30:00",
             "date": "25/09",
-            "blv": "",
+            "blv": "BLV Test",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -969,7 +1059,25 @@
                     {
                       "id": "st-47cdfe74bb",
                       "name": "GV",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-5733c55d75",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144678_hd/1790144678_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -984,7 +1092,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2144aaf701fac7e3c3caf3853aeb9929.png",
             "time": "06:00:00",
             "date": "25/09",
-            "blv": "",
+            "blv": "Cầy",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -1065,6 +1173,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27525076_818e9dc1_20260924.png?v=818e9dc1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-582bee1172",
+          "name": "Besiktas vs Valencia | 23:59 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-582bee1172",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-582bee1172",
+                  "name": "Besiktas vs Valencia",
+                  "streams": [
+                    {
+                      "id": "st-582bee1172",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9740500aa2",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790263500_hd/1790263500_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NBL",
+            "team_a": "Besiktas",
+            "team_b": "Valencia",
+            "logo_a": "https://static.flashscore.com/res/image/data/GdTU14e5-U9rBY3Yf.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/UFmsOtyB-0xo9H7fm.png",
+            "time": "23:59:00",
+            "date": "25/09",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/z3q66e66p0tm_460dd8a1_20260924.png?v=460dd8a1",
             "width": 1600,
             "height": 1200
           }
