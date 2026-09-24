@@ -1172,83 +1172,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-6e174d6454",
-          "name": "Chinese Taipei (W) vs Philippines (W) | 14:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6e174d6454",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6e174d6454",
-                  "name": "Chinese Taipei (W) vs Philippines (W)",
-                  "streams": [
-                    {
-                      "id": "st-6e174d6454",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a2e7d8e42b",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204912_hd/1790204912_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women's basketball match of the Asian Games",
-            "team_a": "Chinese Taipei (W)",
-            "team_b": "Philippines (W)",
-            "logo_a": "https://static.flashscore.com/res/image/data/C8F9Hph5-4Ma57DtA.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ad2d691bbb1ca57f3fa28f1ef6212c70.png",
-            "time": "14:00:00",
-            "date": "24/09",
-            "blv": "Tôm",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36580470_e21380ec_20260924.png?v=e21380ec",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a22e0d55c0",
           "name": "Goyang Sono vs Seoul Knights | 14:30 24/09",
