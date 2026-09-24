@@ -888,7 +888,25 @@
                     {
                       "id": "st-c0281fc0b5",
                       "name": "GV",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-473b3afa90",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144447_hd/1790144447_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -903,7 +921,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/denmark.png",
             "time": "01:45:00",
             "date": "25/09",
-            "blv": "",
+            "blv": "Ngọng",
             "is_live": false,
             "cate_type": "football"
           },
