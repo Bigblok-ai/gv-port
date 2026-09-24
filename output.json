@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -228,78 +228,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf48_64c8c6d8_20260925.png?v=64c8c6d8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-e0ca13bc0c",
-          "name": "Liechtenstein vs Lithuania | 01:45 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e0ca13bc0c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e0ca13bc0c",
-                  "name": "Liechtenstein vs Lithuania",
-                  "streams": [
-                    {
-                      "id": "st-e0ca13bc0c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3001a58aa4",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144350_hd/1790144350_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Liechtenstein",
-            "team_b": "Lithuania",
-            "logo_a": "https://images.keovip88.net/images/teams/liechtenstein.png",
-            "logo_b": "https://images.keovip88.net/images/teams/lithuania.png",
-            "time": "01:45:00",
-            "date": "25/09",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f2a1a2bb398665fd0908e3_984d7b45_20260925.png?v=984d7b45",
             "width": 1600,
             "height": 1200
           }
@@ -1244,83 +1172,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9457bc53b9",
-          "name": "FC Barcelona vs Efes Pilsen | 01:30 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9457bc53b9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9457bc53b9",
-                  "name": "FC Barcelona vs Efes Pilsen",
-                  "streams": [
-                    {
-                      "id": "st-9457bc53b9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d2fa2a67cd",
-                          "name": "BLV Test",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790260025_hd/1790260025_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "FC Barcelona",
-            "team_b": "Efes Pilsen",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c98a3d8df4a10628be76ab5e38a4d65c.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/39e14cf9edd095fe5daed21f75b67bd3.png",
-            "time": "01:30:00",
-            "date": "25/09",
-            "blv": "BLV Test",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nrg84j55as0a_ca36b304_20260925.png?v=ca36b304",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-47cdfe74bb",
           "name": "Connecticut Sun vs Toronto Tempo | 06:00 25/09",
