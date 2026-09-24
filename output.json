@@ -1331,78 +1331,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-9882bccc49",
-          "name": "Eternal Fire vs JijieHao | 17:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9882bccc49",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9882bccc49",
-                  "name": "Eternal Fire vs JijieHao",
-                  "streams": [
-                    {
-                      "id": "st-9882bccc49",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6a780e8c23",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790242429_hd/1790242429_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-Stake Pulse Beat II",
-            "team_a": "Eternal Fire",
-            "team_b": "JijieHao",
-            "logo_a": "https://static.flashscore.com/res/image/data/CGOQ3kjl-0QI3KGta.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/jB9ulnxS-Me1gTkWa.png",
-            "time": "17:00:00",
-            "date": "24/09",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6yt1ylws5l5y_f62a9f0f_20260924.png?v=f62a9f0f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-579c285cfc",
           "name": "TYLOO vs G2 | 19:00 24/09",
           "type": "single",
@@ -1470,6 +1398,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uaa87zar88hk_1bc8927a_20260924.png?v=1bc8927a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9882bccc49",
+          "name": "Apogee Esport vs JijieHao | 20:00 24/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9882bccc49",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9882bccc49",
+                  "name": "Apogee Esport vs JijieHao",
+                  "streams": [
+                    {
+                      "id": "st-9882bccc49",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a780e8c23",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790242429_hd/1790242429_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-Stake Pulse Beat II",
+            "team_a": "Apogee Esport",
+            "team_b": "JijieHao",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-l_X0jsjP6R2IyqPfyskm0bq-tzpLAJeczPkm4nngg&s=10",
+            "logo_b": "https://static.flashscore.com/res/image/data/jB9ulnxS-Me1gTkWa.png",
+            "time": "20:00:00",
+            "date": "24/09",
+            "blv": "Mickey",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6yt1ylws5l5y_a5042c58_20260924.png?v=a5042c58",
             "width": 1600,
             "height": 1200
           }
