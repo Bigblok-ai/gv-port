@@ -1275,25 +1275,7 @@
                     {
                       "id": "st-a22e0d55c0",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-17f075ceb3",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204978_hd/1790204978_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1308,7 +1290,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Seoul_SK_Knights_logo.svg/500px-Seoul_SK_Knights_logo.svg.png",
             "time": "14:30:00",
             "date": "24/09",
-            "blv": "Cầy",
+            "blv": "",
             "is_live": true,
             "cate_type": "basketball"
           },
@@ -1707,25 +1689,7 @@
                     {
                       "id": "st-47cdfe74bb",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5733c55d75",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144678_hd/1790144678_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1740,7 +1704,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2144aaf701fac7e3c3caf3853aeb9929.png",
             "time": "06:00:00",
             "date": "25/09",
-            "blv": "Cầy",
+            "blv": "",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -2157,25 +2121,7 @@
                     {
                       "id": "st-232423eef4",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-32b270044f",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789368893_hd/1789368893_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -2190,7 +2136,7 @@
             "logo_b": "https://m.media-amazon.com/images/S/pv-target-images/92a6fe2caef3a15e2b920f0944f33dbe5eef66bdfe761a61595e8619555a18cb.jpg",
             "time": "06:00:00",
             "date": "30/09",
-            "blv": "Dory",
+            "blv": "",
             "is_live": false,
             "cate_type": "vothuat"
           },
@@ -2207,7 +2153,7 @@
     },
     {
       "id": "cate_duaxe",
-      "name": "🏎️ Đua Xe",
+      "name": "🏎️ Đua Xe (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2220,10 +2166,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2272,7 +2218,7 @@
             "time": "15:30:00",
             "date": "24/09",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "duaxe"
           },
           "image": {
