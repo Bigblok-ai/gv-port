@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c426400be5",
-          "name": "ASIAD 2026 vs ASIAD 2026 | 13:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c426400be5",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c426400be5",
-                  "name": "ASIAD 2026 vs ASIAD 2026",
-                  "streams": [
-                    {
-                      "id": "st-c426400be5",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-09b33be66f",
-                          "name": "BLV Túi Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789838904_hd/1789838904_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASIAD 2026",
-            "team_a": "ASIAD 2026",
-            "team_b": "ASIAD 2026",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/14/2026_Asian_Games_logo.png/250px-2026_Asian_Games_logo.png?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/14/2026_Asian_Games_logo.png/250px-2026_Asian_Games_logo.png?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-            "time": "13:00:00",
-            "date": "24/09",
-            "blv": "BLV Túi Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260924.png?v=62dd1b2b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-8ac1225221",
           "name": "Papua New Guinea vs New Caledonia | 14:00 24/09",
@@ -330,25 +258,7 @@
                     {
                       "id": "st-eb9fff876d",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b1930a68a7",
-                          "name": "Bón",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790144242_hd/1790144242_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -363,7 +273,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
             "time": "23:00:00",
             "date": "24/09",
-            "blv": "Bón",
+            "blv": "",
             "is_live": false,
             "cate_type": "football"
           },
@@ -812,155 +722,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ae2cdb4c2e",
-          "name": "KogGas vs Mobis Phoebus | 12:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ae2cdb4c2e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ae2cdb4c2e",
-                  "name": "KogGas vs Mobis Phoebus",
-                  "streams": [
-                    {
-                      "id": "st-ae2cdb4c2e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7e3a50776b",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204718_hd/1790204718_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "KogGas",
-            "team_b": "Mobis Phoebus",
-            "logo_a": "https://static.flashscore.com/res/image/data/E9xGHfcM-vehtS5P1.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/9/93/Ulsan_Hyundai_Mobis_Phoebus.svg",
-            "time": "12:00:00",
-            "date": "24/09",
-            "blv": "Tôm",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/s8vet3num59t_3f02e9fc_20260924.png?v=3f02e9fc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-f09916b74f",
-          "name": "Wonju DB vs Seoul Thunders | 12:00 24/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f09916b74f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f09916b74f",
-                  "name": "Wonju DB vs Seoul Thunders",
-                  "streams": [
-                    {
-                      "id": "st-f09916b74f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f9f67583ea",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204843_hd/1790204843_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "Wonju DB",
-            "team_b": "Seoul Thunders",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89aV1mbuxvQhVaHfuBSqobyXOzCH2mqlw6A&s",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk96OsPcVdWJ_VfK8sNDt-Nh4Y2pCXQiBACA&s",
-            "time": "12:00:00",
-            "date": "24/09",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/mr6zetxewdx5_27ef75f3_20260924.png?v=27ef75f3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6e174d6454",
           "name": "Chinese Taipei (W) vs Philippines (W) | 14:00 24/09",
@@ -1059,25 +825,7 @@
                     {
                       "id": "st-a22e0d55c0",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-17f075ceb3",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790204978_hd/1790204978_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1092,7 +840,7 @@
             "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Seoul_SK_Knights_logo.svg/500px-Seoul_SK_Knights_logo.svg.png",
             "time": "14:30:00",
             "date": "24/09",
-            "blv": "Cầy",
+            "blv": "",
             "is_live": false,
             "cate_type": "basketball"
           },
