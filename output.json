@@ -306,7 +306,7 @@
         },
         {
           "id": "gv-fe38578983",
-          "name": "Bangladesh vs Malaysia | 15:00 25/09",
+          "name": "Bangladesh vs Malaysia | 16:00 25/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -361,7 +361,7 @@
             "team_b": "Malaysia",
             "logo_a": "https://static.flashscore.com/res/image/data/ClcfoVh5-Au8oKy8P.png",
             "logo_b": "https://static.flashscore.com/res/image/data/W6ZspTcM-QHeKqeWC.png",
-            "time": "15:00:00",
+            "time": "16:00:00",
             "date": "25/09",
             "blv": "Súp",
             "is_live": false,
@@ -1316,7 +1316,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1401,10 +1401,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1453,7 +1453,7 @@
             "time": "14:30:00",
             "date": "25/09",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
