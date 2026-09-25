@@ -1991,7 +1991,7 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật (2 LIVE)",
+      "name": "🥊 Võ Thuật (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2064,78 +2064,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/v5aqoqhlfyno_5a3abb26_20260925.png?v=5a3abb26",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-0ff3403f55",
-          "name": "ONE Friday Fights 172 vs The Inner Circle 32 | 18:30 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0ff3403f55",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0ff3403f55",
-                  "name": "ONE Friday Fights 172 vs The Inner Circle 32",
-                  "streams": [
-                    {
-                      "id": "st-0ff3403f55",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-00f4857b2a",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789368699_hd/1789368699_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ONE Friday Fights 172 & The Inner Circle 32",
-            "team_a": "ONE Friday Fights 172",
-            "team_b": "The Inner Circle 32",
-            "logo_a": "https://api.beyondkick.com/uploads/HR_Ne_UC_Wg_AAH_8w_Z_fc313fd7d3.webp",
-            "logo_b": "https://api.beyondkick.com/uploads/HR_Ne_UC_Wg_AAH_8w_Z_fc313fd7d3.webp",
-            "time": "18:30:00",
-            "date": "25/09",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "vothuat"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/t81vplztkyiu_dc760bd5_20260925.png?v=dc760bd5",
             "width": 1600,
             "height": 1200
           }
