@@ -1406,7 +1406,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (2 LIVE)",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1479,78 +1479,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/55i1tg62wi4v_719dd0cd_20260925.png?v=719dd0cd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-a79259c987",
-          "name": "XLG vs Karmine Corp | 19:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a79259c987",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a79259c987",
-                  "name": "XLG vs Karmine Corp",
-                  "streams": [
-                    {
-                      "id": "st-a79259c987",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3e9af76f88",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790320354_hd/1790320354_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VCT Champions",
-            "team_a": "XLG",
-            "team_b": "Karmine Corp",
-            "logo_a": "https://liquipedia.net/commons/images/thumb/7/74/XLG_China_allmode.png/285px-XLG_China_allmode.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/2uAzi0e5-lldrLGON.png",
-            "time": "19:00:00",
-            "date": "25/09",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/897is90myrrs_95fb8c53_20260925.png?v=95fb8c53",
             "width": 1600,
             "height": 1200
           }
@@ -2001,87 +1929,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zkp7b047zd8g_fbbf0607_20260925.png?v=fbbf0607",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_duaxe",
-      "name": "🏎️ Đua Xe (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-bdd42cad89",
-          "name": "Qatar Airways Azerbaijan vs Grand Prix | 19:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bdd42cad89",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-bdd42cad89",
-                  "name": "Qatar Airways Azerbaijan vs Grand Prix",
-                  "streams": [
-                    {
-                      "id": "st-bdd42cad89",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0a50e806c",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790326898_hd/1790326898_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "F1",
-            "team_a": "Qatar Airways Azerbaijan",
-            "team_b": "Grand Prix",
-            "logo_a": "https://cdn.bakucitycircuit.com/uploads/news/349/kpFl3mnjDB6TbDtSMlIqguDW3wcFazErYWxIJBBT.png",
-            "logo_b": "https://xalqqazeti.az/uploads/news/105226/17263992684537528034_1200x630.jpg",
-            "time": "19:00:00",
-            "date": "25/09",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "duaxe"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xrcbn8416i1i_69e77ab0_20260925.png?v=69e77ab0",
             "width": 1600,
             "height": 1200
           }
