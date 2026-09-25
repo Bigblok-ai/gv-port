@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260925.png?v=62dd1b2b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-a394fcd6c3",
-          "name": "Bangladesh vs Malaysia | 16:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a394fcd6c3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a394fcd6c3",
-                  "name": "Bangladesh vs Malaysia",
-                  "streams": [
-                    {
-                      "id": "st-a394fcd6c3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c7c7643f4f",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790322384_hd/1790322384_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA ASEAN Cup",
-            "team_a": "Bangladesh",
-            "team_b": "Malaysia",
-            "logo_a": "https://images.keovip88.net/images/teams/bangladesh.png",
-            "logo_b": "https://images.keovip88.net/images/teams/malaysia.png",
-            "time": "16:00:00",
-            "date": "25/09",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aac7f5624d46db87036c0c5_05dd6518_20260925.png?v=05dd6518",
             "width": 1600,
             "height": 1200
           }
@@ -1916,78 +1844,6 @@
           }
         },
         {
-          "id": "gv-a79259c987",
-          "name": "Nongsim Redforce vs NRG | 16:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a79259c987",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a79259c987",
-                  "name": "Nongsim Redforce vs NRG",
-                  "streams": [
-                    {
-                      "id": "st-a79259c987",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3e9af76f88",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790320354_hd/1790320354_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VCT Champions",
-            "team_a": "Nongsim Redforce",
-            "team_b": "NRG",
-            "logo_a": "https://static.flashscore.com/res/image/data/fsLmL8ZA-K2mdw3oq.png",
-            "logo_b": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/NRGlogo_square.png/revision/latest/scale-to-width-down/220?cb=20260111203709",
-            "time": "16:00:00",
-            "date": "25/09",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/897is90myrrs_1867cf31_20260925.png?v=1867cf31",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-ca37dd5f21",
           "name": "100 Thieves vs BBL Esport | 18:00 25/09",
           "type": "single",
@@ -2055,6 +1911,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ct3miaasktv5_719dd0cd_20260925.png?v=719dd0cd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a79259c987",
+          "name": "XLG vs Karmine Corp | 19:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a79259c987",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a79259c987",
+                  "name": "XLG vs Karmine Corp",
+                  "streams": [
+                    {
+                      "id": "st-a79259c987",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3e9af76f88",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790320354_hd/1790320354_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VCT Champions",
+            "team_a": "XLG",
+            "team_b": "Karmine Corp",
+            "logo_a": "https://static.flashscore.com/res/image/data/fsLmL8ZA-K2mdw3oq.png",
+            "logo_b": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e7/NRGlogo_square.png/revision/latest/scale-to-width-down/220?cb=20260111203709",
+            "time": "19:00:00",
+            "date": "25/09",
+            "blv": "Riko",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/897is90myrrs_1867cf31_20260925.png?v=1867cf31",
             "width": 1600,
             "height": 1200
           }
