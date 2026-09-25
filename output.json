@@ -951,12 +951,84 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-6a6cd68187",
+          "name": "U23 Trung Quốc vs U23 Thái Lan | 13:00 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a6cd68187",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6a6cd68187",
+                  "name": "U23 Trung Quốc vs U23 Thái Lan",
+                  "streams": [
+                    {
+                      "id": "st-6a6cd68187",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e931fe360f",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790353793_hd/1790353793_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "U23 Trung Quốc",
+            "team_b": "U23 Thái Lan",
+            "logo_a": "https://images.keovip88.net/images/teams/china-u23.png",
+            "logo_b": "https://images.keovip88.net/images/teams/thailand-u23.png",
+            "time": "13:00:00",
+            "date": "26/09",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468e0b057b828a8092bc4_fa7f17c5_20260925.png?v=fa7f17c5",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -969,10 +1041,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1021,7 +1093,7 @@
             "time": "23:59:00",
             "date": "25/09",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1029,6 +1101,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/z3q66e66p0tm_460dd8a1_20260925.png?v=460dd8a1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a7b6421e04",
+          "name": "Seoul Knights vs Wonju DB | 12:00 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a7b6421e04",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a7b6421e04",
+                  "name": "Seoul Knights vs Wonju DB",
+                  "streams": [
+                    {
+                      "id": "st-a7b6421e04",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2933087348",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790353826_hd/1790353826_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "Seoul Knights",
+            "team_b": "Wonju DB",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Seoul_SK_Knights_logo.svg/500px-Seoul_SK_Knights_logo.svg.png",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89aV1mbuxvQhVaHfuBSqobyXOzCH2mqlw6A&s",
+            "time": "12:00:00",
+            "date": "26/09",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/801iezbe0koj_c185429a_20260925.png?v=c185429a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-804b0dc8b3",
+          "name": "Chinese Taipei W vs China W | 14:00 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-804b0dc8b3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-804b0dc8b3",
+                  "name": "Chinese Taipei W vs China W",
+                  "streams": [
+                    {
+                      "id": "st-804b0dc8b3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7e9dd9e748",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790353889_hd/1790353889_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women's basketball match of the Asian Games",
+            "team_a": "Chinese Taipei W",
+            "team_b": "China W",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc8xggt88QDEI2jKI05T84yLgVlTUmYpYJNzKYJMdjUw&s=10",
+            "logo_b": "https://static.flashscore.com/res/image/data/Gv6ZTKFG-QDuM2WrS.png",
+            "time": "14:00:00",
+            "date": "26/09",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j4yobshzor84_2499fdbd_20260925.png?v=2499fdbd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-85ee17e77c",
+          "name": "Mobis Phoebus vs LG Sakers | 14:30 26/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-85ee17e77c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-85ee17e77c",
+                  "name": "Mobis Phoebus vs LG Sakers",
+                  "streams": [
+                    {
+                      "id": "st-85ee17e77c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-854dcd8df2",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790354009_hd/1790354009_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "Mobis Phoebus",
+            "team_b": "LG Sakers",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/9/93/Ulsan_Hyundai_Mobis_Phoebus.svg",
+            "logo_b": "https://static.flashscore.com/res/image/data/M5dauNCa-2el3ggr9.png",
+            "time": "14:30:00",
+            "date": "26/09",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/w570xi3ru16c_a599efb5_20260925.png?v=a599efb5",
             "width": 1600,
             "height": 1200
           }
@@ -1118,7 +1406,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1203,10 +1491,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1255,7 +1543,7 @@
             "time": "23:59:00",
             "date": "25/09",
             "blv": "Mickey",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
@@ -1271,83 +1559,11 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật (1 LIVE)",
+      "name": "🥊 Võ Thuật",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2aa8754fd2",
-          "name": "ONE Friday Fights 172 vs The Inner Circle 32 | 18:30 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2aa8754fd2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2aa8754fd2",
-                  "name": "ONE Friday Fights 172 vs The Inner Circle 32",
-                  "streams": [
-                    {
-                      "id": "st-2aa8754fd2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9490b167b7",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790325330_hd/1790325330_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ONE Friday Fights 172 & The Inner Circle 32",
-            "team_a": "ONE Friday Fights 172",
-            "team_b": "The Inner Circle 32",
-            "logo_a": "https://cdn.onefc.com/wp-content/uploads/2026/09/PanpayakJitmuangnon-LamnamoonlekTorfunfarm-Faceoff-TheInnerCircle32-768x512.jpg",
-            "logo_b": "https://cdn.onefc.com/wp-content/uploads/2026/05/260925-BKK-OFF168_TIC32-1800x1200px.jpg",
-            "time": "18:30:00",
-            "date": "25/09",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "vothuat"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/v5aqoqhlfyno_5a3abb26_20260925.png?v=5a3abb26",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-0ddc93b2dc",
           "name": "Rosas Jr. vs Barcelos | 02:00 27/09",
