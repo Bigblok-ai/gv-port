@@ -11,11 +11,155 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-6fdb2165b5",
+          "name": "ĐT nữ Việt Nam vs ĐT nữ Trung Quốc | 13:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6fdb2165b5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6fdb2165b5",
+                  "name": "ĐT nữ Việt Nam vs ĐT nữ Trung Quốc",
+                  "streams": [
+                    {
+                      "id": "st-6fdb2165b5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-eb48f89218",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790263925_hd/1790263925_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia - ASIAD 2026 - Tứ kết (Nữ)",
+            "team_a": "ĐT nữ Việt Nam",
+            "team_b": "ĐT nữ Trung Quốc",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8Cr5Gw-79PpIX2rIEZ7Pvg_96x96.png",
+            "time": "13:00:00",
+            "date": "25/09",
+            "blv": "Cận",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/a41t5fzzfbcn_8692418f_20260925.png?v=8692418f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c426400be5",
+          "name": "ASIAD 2026 vs ASIAD 2026 | 15:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c426400be5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c426400be5",
+                  "name": "ASIAD 2026 vs ASIAD 2026",
+                  "streams": [
+                    {
+                      "id": "st-c426400be5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-09b33be66f",
+                          "name": "BLV Túi Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789838904_hd/1789838904_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASIAD 2026",
+            "team_a": "ASIAD 2026",
+            "team_b": "ASIAD 2026",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/14/2026_Asian_Games_logo.png/250px-2026_Asian_Games_logo.png?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/14/2026_Asian_Games_logo.png/250px-2026_Asian_Games_logo.png?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "time": "15:00:00",
+            "date": "25/09",
+            "blv": "BLV Túi Mù",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260925.png?v=62dd1b2b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-a394fcd6c3",
           "name": "Bangladesh vs Malaysia | 16:00 25/09",
@@ -1316,11 +1460,155 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-e259292861",
+          "name": "South Korea (W) vs China (w) | 14:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e259292861",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e259292861",
+                  "name": "South Korea (W) vs China (w)",
+                  "streams": [
+                    {
+                      "id": "st-e259292861",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c02ba333eb",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790317901_hd/1790317901_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women's basketball match of the Asian Games",
+            "team_a": "South Korea (W)",
+            "team_b": "China (w)",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/80f4ac7926dcf255ec6d32d271755d1a.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b2f29c1f131d0390b8d6c1e596843514.jpg",
+            "time": "14:00:00",
+            "date": "25/09",
+            "blv": "Ben",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22490476_0cc928b9_20260925.png?v=0cc928b9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1058df31c6",
+          "name": "Anyang JungKwanJang vs Suwon KT | 14:30 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1058df31c6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1058df31c6",
+                  "name": "Anyang JungKwanJang vs Suwon KT",
+                  "streams": [
+                    {
+                      "id": "st-1058df31c6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-66e3db3ea6",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790296843_hd/1790296843_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "Anyang JungKwanJang",
+            "team_b": "Suwon KT",
+            "logo_a": "https://static.flashscore.com/res/image/data/viUBkizB-KtOrDRPL.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/t4IslGYg-vDolgDz8.png",
+            "time": "14:30:00",
+            "date": "25/09",
+            "blv": "Điếc",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sxb3dnukga00_f9f012dd_20260925.png?v=f9f012dd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-4680a32271",
           "name": "Brisbane Bullets vs Illawarra Hawks | 16:30 25/09",
@@ -1541,11 +1829,83 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-75e16c2bad",
+          "name": "Heroic vs Fnatic | 15:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-75e16c2bad",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-75e16c2bad",
+                  "name": "Heroic vs Fnatic",
+                  "streams": [
+                    {
+                      "id": "st-75e16c2bad",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-232196cade",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790319413_hd/1790319413_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-Stake Pulse Beat II",
+            "team_a": "Heroic",
+            "team_b": "Fnatic",
+            "logo_a": "https://static.flashscore.com/res/image/data/hfE9jfGG-rXEJRiDo.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OnJoAH9r-0lwPsCX2.png",
+            "time": "15:00:00",
+            "date": "25/09",
+            "blv": "Mickey",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/55i1tg62wi4v_8fef6b1a_20260925.png?v=8fef6b1a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-a79259c987",
           "name": "Nongsim Redforce vs NRG | 16:00 25/09",
@@ -1614,6 +1974,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/897is90myrrs_1867cf31_20260925.png?v=1867cf31",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ca37dd5f21",
+          "name": "100 Thieves vs BBL Esport | 18:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ca37dd5f21",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ca37dd5f21",
+                  "name": "100 Thieves vs BBL Esport",
+                  "streams": [
+                    {
+                      "id": "st-ca37dd5f21",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-075f427494",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790324366_hd/1790324366_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-Stake Pulse Beat II",
+            "team_a": "100 Thieves",
+            "team_b": "BBL Esport",
+            "logo_a": "https://static.flashscore.com/res/image/data/Y5Fp2sFG-j7Z9IDCI.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/4Ukyi0Fa-QurtWXGQ.png",
+            "time": "18:00:00",
+            "date": "25/09",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ct3miaasktv5_719dd0cd_20260925.png?v=719dd0cd",
             "width": 1600,
             "height": 1200
           }
@@ -1992,6 +2424,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2u9kwtmoasr0_773a3075_20260925.png?v=773a3075",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_duaxe",
+      "name": "🏎️ Đua Xe (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-89df1ce2fa",
+          "name": "Qatar Airways Azerbaijan vs Grand Prix | 15:30 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-89df1ce2fa",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-89df1ce2fa",
+                  "name": "Qatar Airways Azerbaijan vs Grand Prix",
+                  "streams": [
+                    {
+                      "id": "st-89df1ce2fa",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3e81a3ea7f",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790319734_hd/1790319734_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "F1",
+            "team_a": "Qatar Airways Azerbaijan",
+            "team_b": "Grand Prix",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5TgbgXG4NAm_aL0RmmlVShX7NG62--f5XLt1-D86u-AmsYKDeXKZPego&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqPkWyDZik2nfxD3ak7ulvpQWiPW0uqOgUKMHA7idLJeXIFlFRv_6FsBU&s=10",
+            "time": "15:30:00",
+            "date": "25/09",
+            "blv": "Ngu",
+            "is_live": true,
+            "cate_type": "duaxe"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/khirhs7gzq3i_4ba5203e_20260925.png?v=4ba5203e",
             "width": 1600,
             "height": 1200
           }
