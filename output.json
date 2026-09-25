@@ -1316,83 +1316,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-0fa40bc321",
-          "name": "KCC Egis vs LG Sakers | 12:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0fa40bc321",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0fa40bc321",
-                  "name": "KCC Egis vs LG Sakers",
-                  "streams": [
-                    {
-                      "id": "st-0fa40bc321",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6d50e3724f",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790295929_hd/1790295929_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "KCC Egis",
-            "team_b": "LG Sakers",
-            "logo_a": "https://static.flashscore.com/res/image/data/6akehaEa-QVr2kiM7.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/M5dauNCa-2el3ggr9.png",
-            "time": "12:00:00",
-            "date": "25/09",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2nzi0lvb0fiz_b50863d5_20260925.png?v=b50863d5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e259292861",
           "name": "South Korea (W) vs China (w) | 14:00 25/09",
@@ -1690,6 +1618,78 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-75e16c2bad",
+          "name": "Heroic vs Fnatic | 15:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-75e16c2bad",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-75e16c2bad",
+                  "name": "Heroic vs Fnatic",
+                  "streams": [
+                    {
+                      "id": "st-75e16c2bad",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-232196cade",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790319413_hd/1790319413_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-Stake Pulse Beat II",
+            "team_a": "Heroic",
+            "team_b": "Fnatic",
+            "logo_a": "https://static.flashscore.com/res/image/data/hfE9jfGG-rXEJRiDo.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OnJoAH9r-0lwPsCX2.png",
+            "time": "15:00:00",
+            "date": "25/09",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/55i1tg62wi4v_8fef6b1a_20260925.png?v=8fef6b1a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-a6e1fb2094",
           "name": "JijieHao vs Sangal Esport | 23:59 25/09",
