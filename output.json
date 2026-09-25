@@ -1394,6 +1394,78 @@
           }
         },
         {
+          "id": "gv-0fa40bc321",
+          "name": "KCC Egis vs LG Sakers | 12:00 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0fa40bc321",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0fa40bc321",
+                  "name": "KCC Egis vs LG Sakers",
+                  "streams": [
+                    {
+                      "id": "st-0fa40bc321",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6d50e3724f",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790295929_hd/1790295929_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "KCC Egis",
+            "team_b": "LG Sakers",
+            "logo_a": "https://static.flashscore.com/res/image/data/6akehaEa-QVr2kiM7.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/M5dauNCa-2el3ggr9.png",
+            "time": "12:00:00",
+            "date": "25/09",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2nzi0lvb0fiz_b50863d5_20260925.png?v=b50863d5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-582bee1172",
           "name": "Besiktas vs Valencia | 23:59 25/09",
           "type": "single",
@@ -1767,6 +1839,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n6a9m7k6zd4z_a0d829ba_20260925.png?v=a0d829ba",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchay",
+      "name": "⚾ Bóng Chày",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-76cfae42b6",
+          "name": "Los Angeles Dodgers vs San Diego Padres | 09:10 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-76cfae42b6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-76cfae42b6",
+                  "name": "Los Angeles Dodgers vs San Diego Padres",
+                  "streams": [
+                    {
+                      "id": "st-76cfae42b6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-98b4c602ff",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790295973_hd/1790295973_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB",
+            "team_a": "Los Angeles Dodgers",
+            "team_b": "San Diego Padres",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/58MDezoOT1DAkMexRNiW3w_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/iM_hcWzccgEfD4bo-sp6Wg_96x96.png",
+            "time": "09:10:00",
+            "date": "25/09",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d0udh1wycx7u_debd422b_20260925.png?v=debd422b",
             "width": 1600,
             "height": 1200
           }
