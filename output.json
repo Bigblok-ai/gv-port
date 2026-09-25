@@ -377,6 +377,78 @@
           }
         },
         {
+          "id": "gv-1382766950",
+          "name": "U23 Hàn Quốc vs U23 Việt Nam | 17:30 25/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1382766950",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1382766950",
+                  "name": "U23 Hàn Quốc vs U23 Việt Nam",
+                  "streams": [
+                    {
+                      "id": "st-1382766950",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3f2fc8cc30",
+                          "name": "Tỵ + Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790321036_hd/1790321036_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asian Games",
+            "team_a": "U23 Hàn Quốc",
+            "team_b": "U23 Việt Nam",
+            "logo_a": "https://images.keovip88.net/images/teams/south-korea-u23.png",
+            "logo_b": "https://images.keovip88.net/images/teams/vietnam-u23.png",
+            "time": "17:30:00",
+            "date": "25/09",
+            "blv": "Tỵ + Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468e0b057b828a8092bc3_cf8f31dc_20260925.png?v=cf8f31dc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-94372590e9",
           "name": "Ấn Độ vs Panama | 21:00 25/09",
           "type": "single",
