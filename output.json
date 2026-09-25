@@ -1766,14 +1766,14 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (3 LIVE)",
+      "name": "🎮 Esport (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
           "id": "gv-75e16c2bad",
-          "name": "Heroic vs Fnatic | 15:00 25/09",
+          "name": "100 Thieves vs BBL Esport | 18:00 25/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1792,7 +1792,7 @@
               "contents": [
                 {
                   "id": "ct-75e16c2bad",
-                  "name": "Heroic vs Fnatic",
+                  "name": "100 Thieves vs BBL Esport",
                   "streams": [
                     {
                       "id": "st-75e16c2bad",
@@ -1804,78 +1804,6 @@
                           "type": "hls",
                           "default": true,
                           "url": "https://eqr2hdarxfliv.vcdn.cloud/1790319413_hd/1790319413_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-Stake Pulse Beat II",
-            "team_a": "Heroic",
-            "team_b": "Fnatic",
-            "logo_a": "https://static.flashscore.com/res/image/data/hfE9jfGG-rXEJRiDo.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/OnJoAH9r-0lwPsCX2.png",
-            "time": "15:00:00",
-            "date": "25/09",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/55i1tg62wi4v_8fef6b1a_20260925.png?v=8fef6b1a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-ca37dd5f21",
-          "name": "100 Thieves vs BBL Esport | 18:00 25/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ca37dd5f21",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ca37dd5f21",
-                  "name": "100 Thieves vs BBL Esport",
-                  "streams": [
-                    {
-                      "id": "st-ca37dd5f21",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-075f427494",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790324366_hd/1790324366_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1910,7 +1838,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ct3miaasktv5_719dd0cd_20260925.png?v=719dd0cd",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/55i1tg62wi4v_719dd0cd_20260925.png?v=719dd0cd",
             "width": 1600,
             "height": 1200
           }
@@ -2207,7 +2135,7 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật",
+      "name": "🥊 Võ Thuật (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2220,10 +2148,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2272,7 +2200,7 @@
             "time": "18:30:00",
             "date": "25/09",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "vothuat"
           },
           "image": {
@@ -2292,10 +2220,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2344,7 +2272,7 @@
             "time": "18:30:00",
             "date": "25/09",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "vothuat"
           },
           "image": {
