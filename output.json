@@ -680,6 +680,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-40e188f0c4",
+          "name": "Vanuatu vs New Caledonia | 11:00 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40e188f0c4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-40e188f0c4",
+                  "name": "Vanuatu vs New Caledonia",
+                  "streams": [
+                    {
+                      "id": "st-40e188f0c4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-45eac94042",
+                          "name": "Bón",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790434462_hd/1790434462_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Vanuatu",
+            "team_b": "New Caledonia",
+            "logo_a": "https://static.flashscore.com/res/image/data/QH2vkEDa-nRdGpyH6.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/SKuk88xS-nRdGpyH6.png",
+            "time": "11:00:00",
+            "date": "27/09",
+            "blv": "Bón",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab5ba6009ca9ecd4709097d_c2800cfe_20260926.png?v=c2800cfe",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -758,6 +830,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5nunrxhcna4w_491f2638_20260926.png?v=491f2638",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a91ef95746",
+          "name": "Suwon KT vs Goyang Sono | 12:00 27/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a91ef95746",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a91ef95746",
+                  "name": "Suwon KT vs Goyang Sono",
+                  "streams": [
+                    {
+                      "id": "st-a91ef95746",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20afa7a701",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790434649_hd/1790434649_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "Suwon KT",
+            "team_b": "Goyang Sono",
+            "logo_a": "https://static.flashscore.com/res/image/data/t4IslGYg-vDolgDz8.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/6/64/Goyang_Sono_Skygunners.png",
+            "time": "12:00:00",
+            "date": "27/09",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8bgpf1zn201s_a814b8c3_20260926.png?v=a814b8c3",
             "width": 1600,
             "height": 1200
           }
