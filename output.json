@@ -1316,83 +1316,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ffb1c48a48",
-          "name": "KCC Egis vs KoGas | 14:30 27/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ffb1c48a48",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ffb1c48a48",
-                  "name": "KCC Egis vs KoGas",
-                  "streams": [
-                    {
-                      "id": "st-ffb1c48a48",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-412612d582",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790434917_hd/1790434917_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "KCC Egis",
-            "team_b": "KoGas",
-            "logo_a": "https://static.flashscore.com/res/image/data/6akehaEa-QVr2kiM7.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/9/90/Daegu_KOGAS_Pegasus.svg",
-            "time": "14:30:00",
-            "date": "27/09",
-            "blv": "Tôm",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2r7qd42iyadf_fabd0061_20260927.png?v=fabd0061",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-dd5b6a1da8",
           "name": "Sydney Kings vs Illawarra Hawks | 15:00 27/09",
