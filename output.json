@@ -881,6 +881,78 @@
           }
         },
         {
+          "id": "gv-1b7274f025",
+          "name": "Baltimore Ravens vs Dallas Cowboys | 03:25 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1b7274f025",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1b7274f025",
+                  "name": "Baltimore Ravens vs Dallas Cowboys",
+                  "streams": [
+                    {
+                      "id": "st-1b7274f025",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-622736b914",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790520425_hd/1790520425_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Baltimore Ravens",
+            "team_b": "Dallas Cowboys",
+            "logo_a": "https://static.flashscore.com/res/image/data/dUe4S2il-40MWbKRi.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/2DROi6Wg-IqxwDINa.png",
+            "time": "03:25:00",
+            "date": "28/09",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kxhrr7wi3e8f_7421d9d8_20260927.png?v=7421d9d8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-607af7fb8d",
           "name": "Singapore vs Bangladesh | 16:00 28/09",
           "type": "single",
