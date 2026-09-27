@@ -1680,6 +1680,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-658a49388a",
+          "name": "Mindoro Tamaraws vs Basilan Viva Portmasters | 18:00 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-658a49388a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-658a49388a",
+                  "name": "Mindoro Tamaraws vs Basilan Viva Portmasters",
+                  "streams": [
+                    {
+                      "id": "st-658a49388a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-93a966636f",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790528556_hd/1790528556_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Philippines MPBL",
+            "team_a": "Mindoro Tamaraws",
+            "team_b": "Basilan Viva Portmasters",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f265f639507860463b03c6a46fe76e93.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/44301bad4e84f5bd81f0ff4477f51121.png",
+            "time": "18:00:00",
+            "date": "28/09",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29080478_195fbe5b_20260928.png?v=195fbe5b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4e73d43d54",
+          "name": "Indian Railway vs Al Ittihad | 21:45 28/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4e73d43d54",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4e73d43d54",
+                  "name": "Indian Railway vs Al Ittihad",
+                  "streams": [
+                    {
+                      "id": "st-4e73d43d54",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bdba0606b8",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790528591_hd/1790528591_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASIA: WASL",
+            "team_a": "Indian Railway",
+            "team_b": "Al Ittihad",
+            "logo_a": "https://static.flashscore.com/res/image/data/hf8B8MYA-jiXeTAAb.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/fD9z21f5-t6q5B3e2.png",
+            "time": "21:45:00",
+            "date": "28/09",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ho5dj40nxg4d_b2e2a540_20260928.png?v=b2e2a540",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
