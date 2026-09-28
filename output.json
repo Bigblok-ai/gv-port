@@ -971,6 +971,78 @@
           }
         },
         {
+          "id": "gv-b152372fbc",
+          "name": "Kyrgyzstan vs Thái Lan | 08:00 29/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b152372fbc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b152372fbc",
+                  "name": "Kyrgyzstan vs Thái Lan",
+                  "streams": [
+                    {
+                      "id": "st-b152372fbc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-80fe1a3658",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790611553_hd/1790611553_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Kyrgyzstan",
+            "team_b": "Thái Lan",
+            "logo_a": "https://static.flashscore.com/res/image/data/QgrBggHG-4b37MkS4.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/aEBU_ri8U6F06oTqWmKY5g_96x96.png",
+            "time": "08:00:00",
+            "date": "29/09",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0eot7aq17ush_8b939a24_20260928.png?v=8b939a24",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-cc9c2b3638",
           "name": "Uzbekistan vs Kazakhstan | 11:00 29/09",
           "type": "single",
