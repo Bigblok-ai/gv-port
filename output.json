@@ -826,6 +826,78 @@
           }
         },
         {
+          "id": "gv-8ee6e2aed7",
+          "name": "Germany U20 vs Italy U20 | 22:30 29/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8ee6e2aed7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8ee6e2aed7",
+                  "name": "Germany U20 vs Italy U20",
+                  "streams": [
+                    {
+                      "id": "st-8ee6e2aed7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a82ff6c1b0",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790665981_hd/1790665981_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ELITE LEAGUE U20",
+            "team_a": "Germany U20",
+            "team_b": "Italy U20",
+            "logo_a": "https://static.flashscore.com/res/image/data/pbr425eM-jwMhrJiF.png",
+            "logo_b": "https://img.uefa.com/imgml/flags/100x100/ITA.png",
+            "time": "22:30:00",
+            "date": "29/09",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qy1vz4kv9j58_9ad72602_20260929.png?v=9ad72602",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-affb261053",
           "name": "Cape Verde vs Rwanda | 23:00 29/09",
           "type": "single",
@@ -1037,6 +1109,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a372c0432ce87f525086b9e_09717996_20260929.png?v=09717996",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b5472e1874",
+          "name": "Scotland vs Thụy Sĩ | 01:45 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b5472e1874",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b5472e1874",
+                  "name": "Scotland vs Thụy Sĩ",
+                  "streams": [
+                    {
+                      "id": "st-b5472e1874",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2f7580e4e7",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790665820_hd/1790665820_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Scotland",
+            "team_b": "Thụy Sĩ",
+            "logo_a": "https://images.keovip88.net/images/teams/scotland.png",
+            "logo_b": "https://images.keovip88.net/images/teams/switzerland.png",
+            "time": "01:45:00",
+            "date": "30/09",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf775_73bc6efe_20260929.png?v=73bc6efe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-487aa34f1a",
+          "name": "Cộng hòa Séc vs Anh | 01:45 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-487aa34f1a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-487aa34f1a",
+                  "name": "Cộng hòa Séc vs Anh",
+                  "streams": [
+                    {
+                      "id": "st-487aa34f1a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-37e1c26fb3",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790665884_hd/1790665884_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Cộng hòa Séc",
+            "team_b": "Anh",
+            "logo_a": "https://images.keovip88.net/images/teams/czech-republic.png",
+            "logo_b": "https://images.keovip88.net/images/teams/england.png",
+            "time": "01:45:00",
+            "date": "30/09",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf769_8ab3ed95_20260929.png?v=8ab3ed95",
             "width": 1600,
             "height": 1200
           }
@@ -1270,83 +1486,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-22068d7ea7",
-          "name": "Iran vs Indonesia | 14:00 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-22068d7ea7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-22068d7ea7",
-                  "name": "Iran vs Indonesia",
-                  "streams": [
-                    {
-                      "id": "st-22068d7ea7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-af84db42b6",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790536196_hd/1790536196_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asiad 2026",
-            "team_a": "Iran",
-            "team_b": "Indonesia",
-            "logo_a": "https://images.keovip88.net/images/teams/iran.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2025_Indonesia_National_Football_Team_Badge.png",
-            "time": "14:00:00",
-            "date": "29/09",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nwpoiz8v7uq9_75fef670_20260929.png?v=75fef670",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-7a51286b03",
           "name": "Qatar vs Ấn Độ | 14:00 29/09",
@@ -1415,6 +1559,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kxrq3l9g6lft_05857a24_20260929.png?v=05857a24",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-22068d7ea7",
+          "name": "Iran vs Indonesia | 14:00 29/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-22068d7ea7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-22068d7ea7",
+                  "name": "Iran vs Indonesia",
+                  "streams": [
+                    {
+                      "id": "st-22068d7ea7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-af84db42b6",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790536196_hd/1790536196_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Iran",
+            "team_b": "Indonesia",
+            "logo_a": "https://images.keovip88.net/images/teams/iran.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2025_Indonesia_National_Football_Team_Badge.png",
+            "time": "14:00:00",
+            "date": "29/09",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nwpoiz8v7uq9_75fef670_20260929.png?v=75fef670",
             "width": 1600,
             "height": 1200
           }
