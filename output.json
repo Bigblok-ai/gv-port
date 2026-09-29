@@ -1851,6 +1851,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-b769d1e7a2",
+          "name": "New York Yankees vs Boston Red Sox | 07:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b769d1e7a2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b769d1e7a2",
+                  "name": "New York Yankees vs Boston Red Sox",
+                  "streams": [
+                    {
+                      "id": "st-b769d1e7a2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-628d56fc6e",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790701510_hd/1790701510_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - Wildcard",
+            "team_a": "New York Yankees",
+            "team_b": "Boston Red Sox",
+            "logo_a": "https://static.flashscore.com/res/image/data/plT1Aqil-OpJ5uAOg.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/MUNnNZz6uRoHFVeC0EBnmA_96x96.png",
+            "time": "07:00:00",
+            "date": "30/09",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r8rok8mj5jfe_c55108a2_20260930.png?v=c55108a2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a0425e3100",
+          "name": "San Diego Padres vs Chicago Cubs | 09:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a0425e3100",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a0425e3100",
+                  "name": "San Diego Padres vs Chicago Cubs",
+                  "streams": [
+                    {
+                      "id": "st-a0425e3100",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8f9279d367",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790701570_hd/1790701570_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - Wildcard",
+            "team_a": "San Diego Padres",
+            "team_b": "Chicago Cubs",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/iM_hcWzccgEfD4bo-sp6Wg_96x96.png",
+            "logo_b": "https://1000logos.net/wp-content/uploads/2017/07/Chicago-Cubs-Logo.png",
+            "time": "09:00:00",
+            "date": "30/09",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/pu1gp0cadesa_562f330f_20260930.png?v=562f330f",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
