@@ -2309,6 +2309,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-5d1d38c08a",
+          "name": "Houston Astros vs Chicago White Sox | 04:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5d1d38c08a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5d1d38c08a",
+                  "name": "Houston Astros vs Chicago White Sox",
+                  "streams": [
+                    {
+                      "id": "st-5d1d38c08a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e6523577cf",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790667122_hd/1790667122_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - Wildcard",
+            "team_a": "Houston Astros",
+            "team_b": "Chicago White Sox",
+            "logo_a": "https://static.flashscore.com/res/image/data/KUkA1be5-MyFeHWzn.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rHrt6LAr-MFkjl69i.png",
+            "time": "04:00:00",
+            "date": "30/09",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rxs9yq6b53el_581c1ffc_20260929.png?v=581c1ffc",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
