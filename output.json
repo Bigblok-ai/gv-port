@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -228,78 +228,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a372c0432ce87f525086b96_d5439a84_20260930.png?v=d5439a84",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b4888744c8",
-          "name": "Benin vs Mauritania | 00:00 30/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b4888744c8",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b4888744c8",
-                  "name": "Benin vs Mauritania",
-                  "streams": [
-                    {
-                      "id": "st-b4888744c8",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-608aac2e19",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790665740_hd/1790665740_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Africa Cup of Nations",
-            "team_a": "Benin",
-            "team_b": "Mauritania",
-            "logo_a": "https://images.keovip88.net/images/teams/benin.png",
-            "logo_b": "https://images.keovip88.net/images/teams/mauritania.png",
-            "time": "00:00:00",
-            "date": "30/09",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a372c0432ce87f525086b9e_09717996_20260930.png?v=09717996",
             "width": 1600,
             "height": 1200
           }
@@ -1392,6 +1320,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-7f5a5c9427",
+          "name": "New Zealand Breakers vs Cairns Taipans | 14:30 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7f5a5c9427",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7f5a5c9427",
+                  "name": "New Zealand Breakers vs Cairns Taipans",
+                  "streams": [
+                    {
+                      "id": "st-7f5a5c9427",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c8f39975ae",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790701144_hd/1790701144_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "New Zealand Breakers",
+            "team_b": "Cairns Taipans",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7778a93083d2fa50e4cb4e128f07cf5f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/690d69ad99fc8d3bd6fe4a7131521421.png",
+            "time": "14:30:00",
+            "date": "30/09",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25222270_54948d4c_20260930.png?v=54948d4c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1402,6 +1402,78 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-c0388e98c4",
+          "name": "Các môn thi đấu vs Esports | 07:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c0388e98c4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c0388e98c4",
+                  "name": "Các môn thi đấu vs Esports",
+                  "streams": [
+                    {
+                      "id": "st-c0388e98c4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ed638b8d3e",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790701392_hd/1790701392_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Các môn thi đấu",
+            "team_b": "Esports",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4kiLkbuU_o9upUxty1KDoIPo5sE04sMbTbcR6ssqq8GW3IBSvlUQBPRz-&s=10",
+            "logo_b": "https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/eope1flopicnkvavqplx",
+            "time": "07:00:00",
+            "date": "30/09",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6466slkhyl4c_a9413cf4_20260930.png?v=a9413cf4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-ae91282480",
           "name": "Vitality vs LOUD | 16:00 30/09",
