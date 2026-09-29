@@ -1258,6 +1258,78 @@
           }
         },
         {
+          "id": "gv-f3bb0c449f",
+          "name": "Tây Ban Nha vs Croatia | 01:45 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f3bb0c449f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f3bb0c449f",
+                  "name": "Tây Ban Nha vs Croatia",
+                  "streams": [
+                    {
+                      "id": "st-f3bb0c449f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f2c60362d8",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790666114_hd/1790666114_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Tây Ban Nha",
+            "team_b": "Croatia",
+            "logo_a": "https://images.keovip88.net/images/teams/spain.png",
+            "logo_b": "https://images.keovip88.net/images/teams/croatia.png",
+            "time": "01:45:00",
+            "date": "30/09",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf46_3710a2dc_20260929.png?v=3710a2dc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c05edea856",
           "name": "Mỹ vs Chilê | 07:00 30/09",
           "type": "single",
@@ -1410,6 +1482,78 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-1cc10ff813",
+          "name": "Dubai vs FC Barcelona | 23:00 29/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1cc10ff813",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1cc10ff813",
+                  "name": "Dubai vs FC Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-1cc10ff813",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-89aa39b9fe",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790666365_hd/1790666365_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Dubai",
+            "team_b": "FC Barcelona",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/38e7f6ed6a1053e25c1f5d60fbf563b2.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c98a3d8df4a10628be76ab5e38a4d65c.png",
+            "time": "23:00:00",
+            "date": "29/09",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28192279_cbae1a2a_20260929.png?v=cbae1a2a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-59dc15cf81",
           "name": "New York Liberty vs Minnesota Lynx | 07:30 30/09",
