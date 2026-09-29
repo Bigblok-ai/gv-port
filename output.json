@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a97ea5b096",
-          "name": "Nhật Bản W vs Hàn Quốc W | 17:30 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a97ea5b096",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a97ea5b096",
-                  "name": "Nhật Bản W vs Hàn Quốc W",
-                  "streams": [
-                    {
-                      "id": "st-a97ea5b096",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-031ed9faff",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790621900_hd/1790621900_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women’s ASEAN Football Championship",
-            "team_a": "Nhật Bản W",
-            "team_b": "Hàn Quốc W",
-            "logo_a": "https://images.keovip88.net/images/teams/japan.png",
-            "logo_b": "https://images.keovip88.net/images/teams/south-korea-u23.png",
-            "time": "17:30:00",
-            "date": "29/09",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/c23mh33e7rlw_7c989d87_20260929.png?v=7c989d87",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-584315835f",
           "name": "U17 Gibraltar vs Bosnia and Herzegovina U17 | 19:00 29/09",
