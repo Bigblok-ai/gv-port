@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-8ee6e2aed7",
-          "name": "Germany U20 vs Italy U20 | 22:30 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8ee6e2aed7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8ee6e2aed7",
-                  "name": "Germany U20 vs Italy U20",
-                  "streams": [
-                    {
-                      "id": "st-8ee6e2aed7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a82ff6c1b0",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790665981_hd/1790665981_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ELITE LEAGUE U20",
-            "team_a": "Germany U20",
-            "team_b": "Italy U20",
-            "logo_a": "https://static.flashscore.com/res/image/data/pbr425eM-jwMhrJiF.png",
-            "logo_b": "https://img.uefa.com/imgml/flags/100x100/ITA.png",
-            "time": "22:30:00",
-            "date": "29/09",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qy1vz4kv9j58_9ad72602_20260930.png?v=9ad72602",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-affb261053",
           "name": "Cape Verde vs Rwanda | 23:00 29/09",
@@ -228,78 +156,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a372c0432ce87f525086b96_d5439a84_20260930.png?v=d5439a84",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-c426400be5",
-          "name": "ASIAD 2026 vs ASIAD 2026 | 07:00 30/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c426400be5",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c426400be5",
-                  "name": "ASIAD 2026 vs ASIAD 2026",
-                  "streams": [
-                    {
-                      "id": "st-c426400be5",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-09b33be66f",
-                          "name": "BLV Túi Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789838904_hd/1789838904_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASIAD 2026",
-            "team_a": "ASIAD 2026",
-            "team_b": "ASIAD 2026",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/14/2026_Asian_Games_logo.png/250px-2026_Asian_Games_logo.png?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/vi/thumb/1/14/2026_Asian_Games_logo.png/250px-2026_Asian_Games_logo.png?utm_source=vi.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-            "time": "07:00:00",
-            "date": "30/09",
-            "blv": "BLV Túi Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/asooi3g7yvxg_62dd1b2b_20260930.png?v=62dd1b2b",
             "width": 1600,
             "height": 1200
           }
@@ -1847,7 +1703,7 @@
     },
     {
       "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày",
+      "name": "⚾ Bóng Chày (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1860,10 +1716,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1912,7 +1768,7 @@
             "time": "01:00:00",
             "date": "30/09",
             "blv": "Riko",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchay"
           },
           "image": {
