@@ -491,6 +491,23 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-54ba6da48b",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790665818_hd/1790665818_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -507,7 +524,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/vietnam.png",
             "time": "19:30:00",
             "date": "29/09",
-            "blv": "BLV Hấu",
+            "blv": "BLV Hấu, Bee",
             "is_live": false,
             "cate_type": "football"
           },
@@ -948,6 +965,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a372c0432ce87f525086b96_d5439a84_20260929.png?v=d5439a84",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b4888744c8",
+          "name": "Benin vs Mauritania | 00:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b4888744c8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b4888744c8",
+                  "name": "Benin vs Mauritania",
+                  "streams": [
+                    {
+                      "id": "st-b4888744c8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-608aac2e19",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790665740_hd/1790665740_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Africa Cup of Nations",
+            "team_a": "Benin",
+            "team_b": "Mauritania",
+            "logo_a": "https://images.keovip88.net/images/teams/benin.png",
+            "logo_b": "https://images.keovip88.net/images/teams/mauritania.png",
+            "time": "00:00:00",
+            "date": "30/09",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a372c0432ce87f525086b9e_09717996_20260929.png?v=09717996",
             "width": 1600,
             "height": 1200
           }
