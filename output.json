@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qy1vz4kv9j58_9ad72602_20260929.png?v=9ad72602",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qy1vz4kv9j58_9ad72602_20260930.png?v=9ad72602",
             "width": 1600,
             "height": 1200
           }
@@ -155,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a387d79153ee8455e055734_e8ea6eb9_20260929.png?v=e8ea6eb9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a387d79153ee8455e055734_e8ea6eb9_20260930.png?v=e8ea6eb9",
             "width": 1600,
             "height": 1200
           }
@@ -227,7 +227,79 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a372c0432ce87f525086b96_d5439a84_20260929.png?v=d5439a84",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a372c0432ce87f525086b96_d5439a84_20260930.png?v=d5439a84",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b4888744c8",
+          "name": "Benin vs Mauritania | 00:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b4888744c8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b4888744c8",
+                  "name": "Benin vs Mauritania",
+                  "streams": [
+                    {
+                      "id": "st-b4888744c8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-608aac2e19",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790665740_hd/1790665740_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Africa Cup of Nations",
+            "team_a": "Benin",
+            "team_b": "Mauritania",
+            "logo_a": "https://images.keovip88.net/images/teams/benin.png",
+            "logo_b": "https://images.keovip88.net/images/teams/mauritania.png",
+            "time": "00:00:00",
+            "date": "30/09",
+            "blv": "Trĩ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a372c0432ce87f525086b9e_09717996_20260930.png?v=09717996",
             "width": 1600,
             "height": 1200
           }
@@ -299,7 +371,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf775_73bc6efe_20260929.png?v=73bc6efe",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf775_73bc6efe_20260930.png?v=73bc6efe",
             "width": 1600,
             "height": 1200
           }
@@ -371,7 +443,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf769_8ab3ed95_20260929.png?v=8ab3ed95",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf769_8ab3ed95_20260930.png?v=8ab3ed95",
             "width": 1600,
             "height": 1200
           }
@@ -443,7 +515,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf46_3710a2dc_20260929.png?v=3710a2dc",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf46_3710a2dc_20260930.png?v=3710a2dc",
             "width": 1600,
             "height": 1200
           }
@@ -515,7 +587,79 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab5ba6009ca9ecd4709098e_90e0d744_20260929.png?v=90e0d744",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab5ba6009ca9ecd4709098e_90e0d744_20260930.png?v=90e0d744",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-af073b3053",
+          "name": "Mexico vs Peru | 08:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-af073b3053",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-af073b3053",
+                  "name": "Mexico vs Peru",
+                  "streams": [
+                    {
+                      "id": "st-af073b3053",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-192be21f69",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790701072_hd/1790701072_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Mexico",
+            "team_b": "Peru",
+            "logo_a": "https://images.keovip88.net/images/teams/mexico.png",
+            "logo_b": "https://images.keovip88.net/images/teams/peru.png",
+            "time": "08:00:00",
+            "date": "30/09",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab5ba6009ca9ecd4709098f_3decdf40_20260930.png?v=3decdf40",
             "width": 1600,
             "height": 1200
           }
@@ -587,7 +731,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/s0u7uylogqjh_cfe26581_20260929.png?v=cfe26581",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/s0u7uylogqjh_cfe26581_20260930.png?v=cfe26581",
             "width": 1600,
             "height": 1200
           }
@@ -659,7 +803,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd9_a49fdcd3_20260929.png?v=a49fdcd3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd9_a49fdcd3_20260930.png?v=a49fdcd3",
             "width": 1600,
             "height": 1200
           }
@@ -731,7 +875,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab85d64802222c82d0bc738_a31d17c6_20260929.png?v=a31d17c6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab85d64802222c82d0bc738_a31d17c6_20260930.png?v=a31d17c6",
             "width": 1600,
             "height": 1200
           }
@@ -803,7 +947,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd7_72f8aff8_20260929.png?v=72f8aff8",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd7_72f8aff8_20260930.png?v=72f8aff8",
             "width": 1600,
             "height": 1200
           }
@@ -875,7 +1019,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/g16xxtltjksb_6417f8cd_20260929.png?v=6417f8cd",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/g16xxtltjksb_6417f8cd_20260930.png?v=6417f8cd",
             "width": 1600,
             "height": 1200
           }
@@ -884,7 +1028,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -956,7 +1100,79 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28192279_cbae1a2a_20260929.png?v=cbae1a2a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28192279_cbae1a2a_20260930.png?v=cbae1a2a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4022229af6",
+          "name": "Efes Pilsen vs Real Madrid Teka | 00:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4022229af6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4022229af6",
+                  "name": "Efes Pilsen vs Real Madrid Teka",
+                  "streams": [
+                    {
+                      "id": "st-4022229af6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-34843c324a",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790666516_hd/1790666516_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Efes Pilsen",
+            "team_b": "Real Madrid Teka",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/39e14cf9edd095fe5daed21f75b67bd3.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/baacc764f89f2ce4c22b48768946ca5a.png",
+            "time": "00:00:00",
+            "date": "30/09",
+            "blv": "Ben",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39192270_1bb8fcca_20260930.png?v=1bb8fcca",
             "width": 1600,
             "height": 1200
           }
@@ -1028,7 +1244,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21292273_c093eea7_20260929.png?v=c093eea7",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21292273_c093eea7_20260930.png?v=c093eea7",
             "width": 1600,
             "height": 1200
           }
@@ -1100,7 +1316,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27101470_27ba7ff9_20260929.png?v=27ba7ff9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27101470_27ba7ff9_20260930.png?v=27ba7ff9",
             "width": 1600,
             "height": 1200
           }
@@ -1172,7 +1388,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36590471_3c12e3bf_20260929.png?v=3c12e3bf",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36590471_3c12e3bf_20260930.png?v=3c12e3bf",
             "width": 1600,
             "height": 1200
           }
@@ -1253,7 +1469,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7vnibw8rk18h_403ddf1c_20260929.png?v=403ddf1c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7vnibw8rk18h_403ddf1c_20260930.png?v=403ddf1c",
             "width": 1600,
             "height": 1200
           }
@@ -1325,7 +1541,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sdbaoe9ftro8_3d88b46f_20260929.png?v=3d88b46f",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sdbaoe9ftro8_3d88b46f_20260930.png?v=3d88b46f",
             "width": 1600,
             "height": 1200
           }
@@ -1406,7 +1622,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n6a9m7k6zd4z_a0d829ba_20260929.png?v=a0d829ba",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n6a9m7k6zd4z_a0d829ba_20260930.png?v=a0d829ba",
             "width": 1600,
             "height": 1200
           }
@@ -1487,7 +1703,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wim6v31192rs_8b4f0b2a_20260929.png?v=8b4f0b2a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wim6v31192rs_8b4f0b2a_20260930.png?v=8b4f0b2a",
             "width": 1600,
             "height": 1200
           }
@@ -1559,7 +1775,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rxs9yq6b53el_581c1ffc_20260929.png?v=581c1ffc",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rxs9yq6b53el_581c1ffc_20260930.png?v=581c1ffc",
             "width": 1600,
             "height": 1200
           }
