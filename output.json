@@ -1846,83 +1846,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-7a51286b03",
-          "name": "Qatar vs Ấn Độ | 14:00 29/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7a51286b03",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7a51286b03",
-                  "name": "Qatar vs Ấn Độ",
-                  "streams": [
-                    {
-                      "id": "st-7a51286b03",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bf23a02754",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1790536252_hd/1790536252_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "",
-            "team_a": "Qatar",
-            "team_b": "Ấn Độ",
-            "logo_a": "https://static.flashscore.com/res/image/data/Q1mGr3HG-IkyuUDEE.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/nqz3kJDa-YB0DoGZt.png",
-            "time": "14:00:00",
-            "date": "29/09",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kxrq3l9g6lft_05857a24_20260929.png?v=05857a24",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-4e51d038e2",
           "name": "Nhật Bản vs Pakistan | 17:20 29/09",
