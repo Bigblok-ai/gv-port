@@ -231,6 +231,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c56d51c730",
+          "name": "Botswana U23 vs Mozambique U23 | 21:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c56d51c730",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c56d51c730",
+                  "name": "Botswana U23 vs Mozambique U23",
+                  "streams": [
+                    {
+                      "id": "st-c56d51c730",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-acc62c18ec",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790768456_hd/1790768456_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Botswana U23",
+            "team_b": "Mozambique U23",
+            "logo_a": "https://images.keovip88.net/images/teams/botswana-u23.png",
+            "logo_b": "https://images.keovip88.net/images/teams/mozambique-u23.png",
+            "time": "21:00:00",
+            "date": "30/09",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab5ba6009ca9ecd470909a4_203eae83_20260930.png?v=203eae83",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -390,6 +462,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7vnibw8rk18h_3d88b46f_20260930.png?v=3d88b46f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-994504a10e",
+          "name": "100 Thieves vs FUT Esports | 19:00 30/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-994504a10e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-994504a10e",
+                  "name": "100 Thieves vs FUT Esports",
+                  "streams": [
+                    {
+                      "id": "st-994504a10e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a2f9f4081a",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790651444_hd/1790651444_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VCT Champions",
+            "team_a": "100 Thieves",
+            "team_b": "FUT Esports",
+            "logo_a": "https://static.flashscore.com/res/image/data/WCkwM4dM-nJbaxYrp.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/8IALaoGG-WQ0dY9GI.png",
+            "time": "19:00:00",
+            "date": "30/09",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sdbaoe9ftro8_3d88b46f_20260930.png?v=3d88b46f",
             "width": 1600,
             "height": 1200
           }
