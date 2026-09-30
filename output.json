@@ -825,6 +825,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-ccee79bece",
+          "name": "Global Esports vs EDG | 16:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ccee79bece",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ccee79bece",
+                  "name": "Global Esports vs EDG",
+                  "streams": [
+                    {
+                      "id": "st-ccee79bece",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-48f4619e21",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790777715_hd/1790777715_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VCT Champions",
+            "team_a": "Global Esports",
+            "team_b": "EDG",
+            "logo_a": "https://static.flashscore.com/res/image/data/dMXGhCg5-4UTo6tjM.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/xtnvwhh5-rgb1I9qH.png",
+            "time": "16:00:00",
+            "date": "02/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/o9fdm20gdklt_67faecb3_20260930.png?v=67faecb3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
