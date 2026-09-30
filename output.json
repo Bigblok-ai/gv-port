@@ -816,6 +816,375 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-7d0721ac19",
+          "name": "Brisbane Bullets vs Tasmania JackJumpers | 14:30 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7d0721ac19",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7d0721ac19",
+                  "name": "Brisbane Bullets vs Tasmania JackJumpers",
+                  "streams": [
+                    {
+                      "id": "st-7d0721ac19",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cd3c438938",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790778903_hd/1790778903_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Brisbane Bullets",
+            "team_b": "Tasmania JackJumpers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/fd1ef26f7174d02a5a30dbe9e69b45f9.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png",
+            "time": "14:30:00",
+            "date": "03/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10322276_70203b42_20260930.png?v=70203b42",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-f39f667239",
+          "name": "Ấn Độ vs Pakistan | 08:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f39f667239",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f39f667239",
+                  "name": "Ấn Độ vs Pakistan",
+                  "streams": [
+                    {
+                      "id": "st-f39f667239",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-50c148bdc7",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790779235_hd/1790779235_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Ấn Độ",
+            "team_b": "Pakistan",
+            "logo_a": "https://static.flashscore.com/res/image/data/nqz3kJDa-YB0DoGZt.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/S2JTFXGG-vafZSxgs.png",
+            "time": "08:00:00",
+            "date": "01/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/t0icwepfho50_697bc428_20260930.png?v=697bc428",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a8126c77ff",
+          "name": "Kyrgyzstan vs Đài Bắc Trung Hoa | 11:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a8126c77ff",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a8126c77ff",
+                  "name": "Kyrgyzstan vs Đài Bắc Trung Hoa",
+                  "streams": [
+                    {
+                      "id": "st-a8126c77ff",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6423e73d6b",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790779300_hd/1790779300_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Kyrgyzstan",
+            "team_b": "Đài Bắc Trung Hoa",
+            "logo_a": "https://static.flashscore.com/res/image/data/QgrBggHG-4b37MkS4.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Chinese_Taipei_for_Olympic_Games.svg",
+            "time": "11:00:00",
+            "date": "01/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ek7o9k7dih8s_09798abe_20260930.png?v=09798abe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fb7c3e296c",
+          "name": "Hàn Quốc vs Iran | 11:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fb7c3e296c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fb7c3e296c",
+                  "name": "Hàn Quốc vs Iran",
+                  "streams": [
+                    {
+                      "id": "st-fb7c3e296c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0be19a4a6a",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790779361_hd/1790779361_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Hàn Quốc",
+            "team_b": "Iran",
+            "logo_a": "https://static.flashscore.com/res/image/data/xUGWvAzB-fHcbO6Ye.png",
+            "logo_b": "https://images.keovip88.net/images/teams/iran.png",
+            "time": "11:00:00",
+            "date": "01/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9m8gb1zsab07_322dff4a_20260930.png?v=322dff4a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cceb1c71a1",
+          "name": "Việt Nam vs Uzbekistan | 14:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cceb1c71a1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cceb1c71a1",
+                  "name": "Việt Nam vs Uzbekistan",
+                  "streams": [
+                    {
+                      "id": "st-cceb1c71a1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-be6cb57b63",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790779406_hd/1790779406_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2026",
+            "team_a": "Việt Nam",
+            "team_b": "Uzbekistan",
+            "logo_a": "https://static.flashscore.com/res/image/data/jilBtfFG-0xLZRP53.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/06K3E8fM-ABIAlQIr.png",
+            "time": "14:00:00",
+            "date": "01/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bqkq79ft8aap_a82d45d2_20260930.png?v=a82d45d2",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
