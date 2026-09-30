@@ -231,6 +231,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-3d1b6ffe98",
+          "name": "Malaysia vs Singapore | 19:30 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3d1b6ffe98",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3d1b6ffe98",
+                  "name": "Malaysia vs Singapore",
+                  "streams": [
+                    {
+                      "id": "st-3d1b6ffe98",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1b47a37894",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790810421_hd/1790810421_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Malaysia",
+            "team_b": "Singapore",
+            "logo_a": "https://images.keovip88.net/images/teams/malaysia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/singapore.png",
+            "time": "19:30:00",
+            "date": "01/10",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd1_e803cefb_20261001.png?v=e803cefb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d80d099800",
+          "name": "Al-Gharafa vs Al Mesaimeer | 22:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d80d099800",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d80d099800",
+                  "name": "Al-Gharafa vs Al Mesaimeer",
+                  "streams": [
+                    {
+                      "id": "st-d80d099800",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d504dfef49",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790810454_hd/1790810454_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Qatar - QSL Cup",
+            "team_a": "Al-Gharafa",
+            "team_b": "Al Mesaimeer",
+            "logo_a": "https://images.keovip88.net/images/teams/al-ettifaq.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-shabab.png",
+            "time": "22:00:00",
+            "date": "01/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/s0o5rb17kycl_77af3cd4_20261001.png?v=77af3cd4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -381,6 +525,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29101472_e32cdf32_20261001.png?v=e32cdf32",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c3b60b080e",
+          "name": "Tasmania JackJumpers vs Melbourne United | 16:30 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c3b60b080e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c3b60b080e",
+                  "name": "Tasmania JackJumpers vs Melbourne United",
+                  "streams": [
+                    {
+                      "id": "st-c3b60b080e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dd112c198e",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790810578_hd/1790810578_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Tasmania JackJumpers",
+            "team_b": "Melbourne United",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/21d2a46a9599ab792dc3a7884839072f.png",
+            "time": "16:30:00",
+            "date": "01/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27222272_86fa757d_20261001.png?v=86fa757d",
             "width": 1600,
             "height": 1200
           }
