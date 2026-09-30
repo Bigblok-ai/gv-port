@@ -447,6 +447,231 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-a1e2964f8d",
+          "name": "Nữ Benfica vs Nữ Bayern Munich | 02:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a1e2964f8d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a1e2964f8d",
+                  "name": "Nữ Benfica vs Nữ Bayern Munich",
+                  "streams": [
+                    {
+                      "id": "st-a1e2964f8d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e4c655e15c",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790776769_hd/1790776769_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Champions League Nữ",
+            "team_a": "Nữ Benfica",
+            "team_b": "Nữ Bayern Munich",
+            "logo_a": "https://images.keovip88.net/images/teams/sl-benfica-w.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen-w.png",
+            "time": "02:00:00",
+            "date": "01/10",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b7f8_e04a5237_20260930.png?v=e04a5237",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-22451d9bb9",
+          "name": "Tomayapo vs Nacional Potosi | 05:30 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-22451d9bb9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-22451d9bb9",
+                  "name": "Tomayapo vs Nacional Potosi",
+                  "streams": [
+                    {
+                      "id": "st-22451d9bb9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-298234beb9",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790776875_hd/1790776875_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Copa Pacena - Round 6",
+            "team_a": "Tomayapo",
+            "team_b": "Nacional Potosi",
+            "logo_a": "https://static.flashscore.com/res/image/data/ddSOdgcM-vDimPjdq.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/UoxODHBr-juTs9wjf.png",
+            "time": "05:30:00",
+            "date": "01/10",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1q6763p5n9r0_ddec5537_20260930.png?v=ddec5537",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_basketball",
+      "name": "🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-d60918cf93",
+          "name": "Washington Mystics vs Atlanta Dream | 06:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d60918cf93",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d60918cf93",
+                  "name": "Washington Mystics vs Atlanta Dream",
+                  "streams": [
+                    {
+                      "id": "st-d60918cf93",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-08aa533e1b",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790776951_hd/1790776951_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "Washington Mystics",
+            "team_b": "Atlanta Dream",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e4fdbc941d11c2927bafb5b8978e8ea6.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/f527c983cab3560c60e7b9d147904d7d.png",
+            "time": "06:00:00",
+            "date": "01/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11201475_39a43090_20260930.png?v=39a43090",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -597,6 +822,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sdbaoe9ftro8_3d88b46f_20260930.png?v=3d88b46f",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchay",
+      "name": "⚾ Bóng Chày",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-93e1749d06",
+          "name": "Houston Astros vs Chicago White Sox | 04:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-93e1749d06",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-93e1749d06",
+                  "name": "Houston Astros vs Chicago White Sox",
+                  "streams": [
+                    {
+                      "id": "st-93e1749d06",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9dba423f86",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790777021_hd/1790777021_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - Wildcard",
+            "team_a": "Houston Astros",
+            "team_b": "Chicago White Sox",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/KX3sEGash3boj7yGR5OJ9w_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/vwedTKxQwO9pe5tcCyecWg_96x96.png",
+            "time": "04:00:00",
+            "date": "01/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gjir2jza1d9v_2c104100_20260930.png?v=2c104100",
             "width": 1600,
             "height": 1200
           }
