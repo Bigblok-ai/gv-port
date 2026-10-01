@@ -1289,7 +1289,7 @@
     },
     {
       "id": "cate_Billiards",
-      "name": "🎱 Billiards (1 LIVE)",
+      "name": "🎱 Billiards",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1302,10 +1302,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1354,7 +1354,7 @@
             "time": "12:30:00",
             "date": "01/10",
             "blv": "Điếc",
-            "is_live": true,
+            "is_live": false,
             "cate_type": "Billiards"
           },
           "image": {
