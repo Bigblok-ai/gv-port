@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a35da18dbc86fdf90016039_ed160edd_20261001.png?v=ed160edd",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a35da18dbc86fdf90016039_ed160edd_20261002.png?v=ed160edd",
             "width": 1600,
             "height": 1200
           }
@@ -155,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf790_f8b5924e_20261001.png?v=f8b5924e",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf790_f8b5924e_20261002.png?v=f8b5924e",
             "width": 1600,
             "height": 1200
           }
@@ -227,7 +227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/683ce9d16fa477d4b303700d_6b8f1883_20261001.png?v=6b8f1883",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/683ce9d16fa477d4b303700d_6b8f1883_20261002.png?v=6b8f1883",
             "width": 1600,
             "height": 1200
           }
@@ -299,7 +299,79 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/683b98524bc32556c602744a_f04445d9_20261001.png?v=f04445d9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/683b98524bc32556c602744a_f04445d9_20261002.png?v=f04445d9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4c648f4e64",
+          "name": "U21 Hungary vs U21 Lithuania | 00:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4c648f4e64",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4c648f4e64",
+                  "name": "U21 Hungary vs U21 Lithuania",
+                  "streams": [
+                    {
+                      "id": "st-4c648f4e64",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a5a17de419",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790840549_hd/1790840549_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VCK U21 Châu Âu",
+            "team_a": "U21 Hungary",
+            "team_b": "U21 Lithuania",
+            "logo_a": "https://images.keovip88.net/images/teams/hungary-u21.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lithuania-u21.png",
+            "time": "00:00:00",
+            "date": "02/10",
+            "blv": "Mickey",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/683e3b421f892a5e5c09030c_f1b497e4_20261002.png?v=f1b497e4",
             "width": 1600,
             "height": 1200
           }
@@ -371,7 +443,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf772_b433a69e_20261001.png?v=b433a69e",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf772_b433a69e_20261002.png?v=b433a69e",
             "width": 1600,
             "height": 1200
           }
@@ -443,7 +515,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf763_4ecdbcdd_20261001.png?v=4ecdbcdd",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf763_4ecdbcdd_20261002.png?v=4ecdbcdd",
             "width": 1600,
             "height": 1200
           }
@@ -515,7 +587,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f544134f51b3673a06914f_ae85829f_20261001.png?v=ae85829f",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f544134f51b3673a06914f_ae85829f_20261002.png?v=ae85829f",
             "width": 1600,
             "height": 1200
           }
@@ -587,7 +659,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd4_b0ee2f15_20261001.png?v=b0ee2f15",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd4_b0ee2f15_20261002.png?v=b0ee2f15",
             "width": 1600,
             "height": 1200
           }
@@ -659,7 +731,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd5_7fe9f59b_20261001.png?v=7fe9f59b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd5_7fe9f59b_20261002.png?v=7fe9f59b",
             "width": 1600,
             "height": 1200
           }
@@ -731,7 +803,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/m6tjtypisckh_94139bc1_20261001.png?v=94139bc1",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/m6tjtypisckh_94139bc1_20261002.png?v=94139bc1",
             "width": 1600,
             "height": 1200
           }
@@ -803,7 +875,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4s35pabksefh_418a8525_20261001.png?v=418a8525",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4s35pabksefh_418a8525_20261002.png?v=418a8525",
             "width": 1600,
             "height": 1200
           }
@@ -875,7 +947,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf6b_0fa40b28_20261001.png?v=0fa40b28",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf6b_0fa40b28_20261002.png?v=0fa40b28",
             "width": 1600,
             "height": 1200
           }
@@ -956,7 +1028,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39292271_733fb518_20261001.png?v=733fb518",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39292271_733fb518_20261002.png?v=733fb518",
             "width": 1600,
             "height": 1200
           }
@@ -1028,7 +1100,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29432479_d6f406d6_20261001.png?v=d6f406d6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29432479_d6f406d6_20261002.png?v=d6f406d6",
             "width": 1600,
             "height": 1200
           }
@@ -1100,7 +1172,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10322276_70203b42_20261001.png?v=70203b42",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10322276_70203b42_20261002.png?v=70203b42",
             "width": 1600,
             "height": 1200
           }
@@ -1172,7 +1244,88 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/13022276_3aa0ad1d_20261001.png?v=3aa0ad1d",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/13022276_3aa0ad1d_20261002.png?v=3aa0ad1d",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-fe9466fb9e",
+          "name": "Beijing Open vs 2026 | 10:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fe9466fb9e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fe9466fb9e",
+                  "name": "Beijing Open vs 2026",
+                  "streams": [
+                    {
+                      "id": "st-fe9466fb9e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a4bdb9efb1",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790873720_hd/1790873720_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Beijing Open",
+            "team_a": "Beijing Open",
+            "team_b": "2026",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADC3pRGirDoA1eaQtvYds8PQ-vmcEESiPHvywMVtvYU3ERTP__FyL8m8F&s=10",
+            "logo_b": "",
+            "time": "10:00:00",
+            "date": "02/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zu153ebowssu_5ebba63b_20261002.png?v=5ebba63b",
             "width": 1600,
             "height": 1200
           }
@@ -1253,7 +1406,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yr3ec9qybdnd_e36df9ea_20261001.png?v=e36df9ea",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yr3ec9qybdnd_e36df9ea_20261002.png?v=e36df9ea",
             "width": 1600,
             "height": 1200
           }
@@ -1325,7 +1478,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/dkopjwofv1ve_bd440b3d_20261001.png?v=bd440b3d",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/dkopjwofv1ve_bd440b3d_20261002.png?v=bd440b3d",
             "width": 1600,
             "height": 1200
           }
@@ -1397,7 +1550,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0uaf4m7mv0up_dbdfeda9_20261001.png?v=dbdfeda9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0uaf4m7mv0up_dbdfeda9_20261002.png?v=dbdfeda9",
             "width": 1600,
             "height": 1200
           }
@@ -1411,6 +1564,78 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-fbff9890fb",
+          "name": "Đài Bắc Trung Hoa vs Hàn Quốc | 10:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fbff9890fb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fbff9890fb",
+                  "name": "Đài Bắc Trung Hoa vs Hàn Quốc",
+                  "streams": [
+                    {
+                      "id": "st-fbff9890fb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c65934e2b0",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790873805_hd/1790873805_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad LOL",
+            "team_a": "Đài Bắc Trung Hoa",
+            "team_b": "Hàn Quốc",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ62Ss5AllP6wiixu-3AAcjXD2dEGon_UoOwRMwkaPF7A&s=10",
+            "logo_b": "https://static.flashscore.com/res/image/data/6ZpGvVEa-C0A1Du90.png",
+            "time": "10:00:00",
+            "date": "02/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n2xy0ivjk8hc_8e622150_20261002.png?v=8e622150",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-ccee79bece",
           "name": "Global Esports vs EDG | 16:00 02/10",
@@ -1478,7 +1703,88 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/o9fdm20gdklt_67faecb3_20261001.png?v=67faecb3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/o9fdm20gdklt_67faecb3_20261002.png?v=67faecb3",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchay",
+      "name": "⚾ Bóng Chày",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-402d5e4796",
+          "name": "Atlanta Braves vs Philadelphia Phillies | 07:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-402d5e4796",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-402d5e4796",
+                  "name": "Atlanta Braves vs Philadelphia Phillies",
+                  "streams": [
+                    {
+                      "id": "st-402d5e4796",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8c1194ac02",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790873889_hd/1790873889_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - Wildcard",
+            "team_a": "Atlanta Braves",
+            "team_b": "Philadelphia Phillies",
+            "logo_a": "https://static.flashscore.com/res/image/data/IPmhSoEa-hvtJM6zJ.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/AcX8PwzB-Ec0dNP82.png",
+            "time": "07:00:00",
+            "date": "02/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/f7tsg2he2t9i_8b4f0b2a_20261002.png?v=8b4f0b2a",
             "width": 1600,
             "height": 1200
           }
@@ -1559,7 +1865,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/v68ny63irrsg_05e45ea8_20261001.png?v=05e45ea8",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/v68ny63irrsg_05e45ea8_20261002.png?v=05e45ea8",
             "width": 1600,
             "height": 1200
           }
