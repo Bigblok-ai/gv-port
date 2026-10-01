@@ -377,6 +377,78 @@
           }
         },
         {
+          "id": "gv-a3163362a2",
+          "name": "U21 FYR Macedonia vs U21 Montenegro | 23:00 01/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a3163362a2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a3163362a2",
+                  "name": "U21 FYR Macedonia vs U21 Montenegro",
+                  "streams": [
+                    {
+                      "id": "st-a3163362a2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-61eae8adea",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790841543_hd/1790841543_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VCK U21 Châu Âu",
+            "team_a": "U21 FYR Macedonia",
+            "team_b": "U21 Montenegro",
+            "logo_a": "https://images.keovip88.net/images/teams/north-macedonia-u21.png",
+            "logo_b": "https://images.keovip88.net/images/teams/montenegro-u21.png",
+            "time": "23:00:00",
+            "date": "01/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/683ce9d16fa477d4b303700d_6b8f1883_20261001.png?v=6b8f1883",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-4c648f4e64",
           "name": "U21 Hungary vs U21 Lithuania | 00:00 02/10",
           "type": "single",
@@ -660,6 +732,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f544134f51b3673a06914f_ae85829f_20261001.png?v=ae85829f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-731d3b0ab8",
+          "name": "Thái Lan vs Philippines | 15:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-731d3b0ab8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-731d3b0ab8",
+                  "name": "Thái Lan vs Philippines",
+                  "streams": [
+                    {
+                      "id": "st-731d3b0ab8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7739cd5c02",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790776573_hd/1790776573_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Thái Lan",
+            "team_b": "Philippines",
+            "logo_a": "https://images.keovip88.net/images/teams/thailand.png",
+            "logo_b": "https://images.keovip88.net/images/teams/philippines.png",
+            "time": "15:00:00",
+            "date": "02/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd4_b0ee2f15_20261001.png?v=b0ee2f15",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-46dfc5dc83",
+          "name": "Việt Nam vs Pakistan | 15:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-46dfc5dc83",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-46dfc5dc83",
+                  "name": "Việt Nam vs Pakistan",
+                  "streams": [
+                    {
+                      "id": "st-46dfc5dc83",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4c0359d8fc",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790776710_hd/1790776710_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Việt Nam",
+            "team_b": "Pakistan",
+            "logo_a": "https://images.keovip88.net/images/teams/vietnam.png",
+            "logo_b": "https://images.keovip88.net/images/teams/pakistan.png",
+            "time": "15:00:00",
+            "date": "02/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd5_7fe9f59b_20261001.png?v=7fe9f59b",
             "width": 1600,
             "height": 1200
           }
