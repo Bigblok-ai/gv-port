@@ -533,7 +533,7 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -618,10 +618,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -670,7 +670,7 @@
             "time": "10:00:00",
             "date": "01/10",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "tennis"
           },
           "image": {
@@ -686,83 +686,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f39f667239",
-          "name": "Ấn Độ vs Pakistan | 08:00 01/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f39f667239",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f39f667239",
-                  "name": "Ấn Độ vs Pakistan",
-                  "streams": [
-                    {
-                      "id": "st-f39f667239",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-41a9a55ae8",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790779235_hd/1790779235_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asiad 2026",
-            "team_a": "Ấn Độ",
-            "team_b": "Pakistan",
-            "logo_a": "https://static.flashscore.com/res/image/data/nqz3kJDa-YB0DoGZt.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/S2JTFXGG-vafZSxgs.png",
-            "time": "08:00:00",
-            "date": "01/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/t0icwepfho50_697bc428_20261001.png?v=697bc428",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fb7c3e296c",
           "name": "Hàn Quốc vs Iran | 11:00 01/10",
