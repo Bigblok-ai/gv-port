@@ -911,83 +911,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-35b290d21a",
-          "name": "Hàn Quốc vs Ả Rập Xê Út | 11:30 01/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-35b290d21a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-35b290d21a",
-                  "name": "Hàn Quốc vs Ả Rập Xê Út",
-                  "streams": [
-                    {
-                      "id": "st-35b290d21a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5c98fc795f",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790779623_hd/1790779623_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asiad LOL",
-            "team_a": "Hàn Quốc",
-            "team_b": "Ả Rập Xê Út",
-            "logo_a": "https://static.flashscore.com/res/image/data/6ZpGvVEa-C0A1Du90.png",
-            "logo_b": "https://tulieuvankien.dangcongsan.vn/upload/3000006/20251024/581bdb70f17c97db7fb42323daf3b3c4quoc-ky-a-rap-xe-ut.svg19-9-2014.png",
-            "time": "11:30:00",
-            "date": "01/10",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jrip36g4852p_27467814_20261001.png?v=27467814",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-d4581510dc",
           "name": "TYLOO vs Team Liquid | 16:00 01/10",
