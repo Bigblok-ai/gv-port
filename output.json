@@ -1981,6 +1981,231 @@
       ]
     },
     {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-6c5ef2b619",
+          "name": "Legacy vs PARIVISION | 16:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6c5ef2b619",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6c5ef2b619",
+                  "name": "Legacy vs PARIVISION",
+                  "streams": [
+                    {
+                      "id": "st-6c5ef2b619",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e1ad7827ae",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790967298_hd/1790967298_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-ESL Pro League Season 24",
+            "team_a": "Legacy",
+            "team_b": "PARIVISION",
+            "logo_a": "https://static.flashscore.com/res/image/data/vJYZUiDa-rHAHYj7n.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/hCocHMYg-nsgDhzrP.png",
+            "time": "16:00:00",
+            "date": "03/10",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rqdb8eh2cmcv_aeee99a8_20261003.png?v=aeee99a8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-56ece8d1e5",
+          "name": "Falcons vs Tyloo | 16:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-56ece8d1e5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-56ece8d1e5",
+                  "name": "Falcons vs Tyloo",
+                  "streams": [
+                    {
+                      "id": "st-56ece8d1e5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9d0d2468eb",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790967398_hd/1790967398_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-ESL Pro League Season 24",
+            "team_a": "Falcons",
+            "team_b": "Tyloo",
+            "logo_a": "https://static.flashscore.com/res/image/data/GfCFGXDa-Ox5OEEWq.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/fJuOzPzB-GnO8YQo1.png",
+            "time": "16:00:00",
+            "date": "03/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/h8a32aswy4jk_79c2dd4f_20261003.png?v=79c2dd4f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-756c0e102e",
+          "name": "Spirit vs ShindeN | 18:30 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-756c0e102e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-756c0e102e",
+                  "name": "Spirit vs ShindeN",
+                  "streams": [
+                    {
+                      "id": "st-756c0e102e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-092f7b201c",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790967452_hd/1790967452_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-ESL Pro League Season 24",
+            "team_a": "Spirit",
+            "team_b": "ShindeN",
+            "logo_a": "https://static.flashscore.com/res/image/data/QcXfQGf5-KKlHXGtD.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/AZ2CdRDa-8bIKPsX4.png",
+            "time": "18:30:00",
+            "date": "03/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ykrun7um0lxd_ab04a193_20261003.png?v=ab04a193",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_vothuat",
       "name": "🥊 Võ Thuật",
       "display": "vertical",
