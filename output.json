@@ -1988,6 +1988,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-98fee8595d",
+          "name": "Swiss Stage Round 1 (Game 1 2 3) vs Swiss Stage Round 1 (Game 1 2 3) | 15:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-98fee8595d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-98fee8595d",
+                  "name": "Swiss Stage Round 1 (Game 1 2 3) vs Swiss Stage Round 1 (Game 1 2 3)",
+                  "streams": [
+                    {
+                      "id": "st-98fee8595d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e370c9c632",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790967832_hd/1790967832_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Demacia Cup Global Invitational",
+            "team_a": "Swiss Stage Round 1 (Game 1 2 3)",
+            "team_b": "Swiss Stage Round 1 (Game 1 2 3)",
+            "logo_a": "https://store-images.s-microsoft.com/image/apps.18996.14127010465288187.f9de4a96-0ee4-4da3-bf66-d4132b38c599.caf661a7-e0b3-492d-b91b-63627e47283e",
+            "logo_b": "https://store-images.s-microsoft.com/image/apps.18996.14127010465288187.f9de4a96-0ee4-4da3-bf66-d4132b38c599.caf661a7-e0b3-492d-b91b-63627e47283e",
+            "time": "15:00:00",
+            "date": "03/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5hlef70yh2bb_6732c057_20261003.png?v=6732c057",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-6c5ef2b619",
           "name": "Legacy vs PARIVISION | 16:00 03/10",
           "type": "single",
@@ -2199,6 +2271,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ykrun7um0lxd_ab04a193_20261003.png?v=ab04a193",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-508d02b855",
+          "name": "Vitality vs 1w Team | 18:30 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-508d02b855",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-508d02b855",
+                  "name": "Vitality vs 1w Team",
+                  "streams": [
+                    {
+                      "id": "st-508d02b855",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1d7e7eb252",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790967562_hd/1790967562_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-ESL Pro League Season 24",
+            "team_a": "Vitality",
+            "team_b": "1w Team",
+            "logo_a": "https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/fBlVXJAr-jgIAIbfS.png",
+            "time": "18:30:00",
+            "date": "03/10",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/i4c0r9bhxwgh_80e33452_20261003.png?v=80e33452",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ce115e0a65",
+          "name": "Aurora vs 9z Team | 21:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ce115e0a65",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ce115e0a65",
+                  "name": "Aurora vs 9z Team",
+                  "streams": [
+                    {
+                      "id": "st-ce115e0a65",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a2252ef255",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790967663_hd/1790967663_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-ESL Pro League Season 24",
+            "team_a": "Aurora",
+            "team_b": "9z Team",
+            "logo_a": "https://static.flashscore.com/res/image/data/8dZOBwvS-hvzueWgo.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/hMlMtYAr-00gwVOUo.png",
+            "time": "21:00:00",
+            "date": "03/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nf4f0x0v7wzn_67368c87_20261003.png?v=67368c87",
             "width": 1600,
             "height": 1200
           }
