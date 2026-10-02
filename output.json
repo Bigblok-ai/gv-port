@@ -735,6 +735,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-14a3d1303a",
+          "name": "Oita Trinita vs Yamagata Montedio | 15:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-14a3d1303a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-14a3d1303a",
+                  "name": "Oita Trinita vs Yamagata Montedio",
+                  "streams": [
+                    {
+                      "id": "st-14a3d1303a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4be01eb988",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790966638_hd/1790966638_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng 2 Nhật Bản",
+            "team_a": "Oita Trinita",
+            "team_b": "Yamagata Montedio",
+            "logo_a": "https://images.keovip88.net/images/teams/oita-trinita.png",
+            "logo_b": "https://images.keovip88.net/images/teams/montedio-yamagata.png",
+            "time": "15:00:00",
+            "date": "03/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab9ae1924d46db870ba25d7_53b951a1_20261003.png?v=53b951a1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4ba2983bc9",
+          "name": "Tochigi City vs Imabari FC | 15:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4ba2983bc9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4ba2983bc9",
+                  "name": "Tochigi City vs Imabari FC",
+                  "streams": [
+                    {
+                      "id": "st-4ba2983bc9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9c2cf8f4bc",
+                          "name": "Bón",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790966665_hd/1790966665_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng 2 Nhật Bản",
+            "team_a": "Tochigi City",
+            "team_b": "Imabari FC",
+            "logo_a": "https://images.keovip88.net/images/teams/tochigi-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/imabari-fc.png",
+            "time": "15:00:00",
+            "date": "03/10",
+            "blv": "Bón",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab9ae1924d46db870ba25df_c001e087_20261003.png?v=c001e087",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
