@@ -1401,6 +1401,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-492be34219",
+          "name": "Kazakhstan vs Indonesia | 14:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-492be34219",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-492be34219",
+                  "name": "Kazakhstan vs Indonesia",
+                  "streams": [
+                    {
+                      "id": "st-492be34219",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b18b44f3a7",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790961206_hd/1790961206_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asiad 2016",
+            "team_a": "Kazakhstan",
+            "team_b": "Indonesia",
+            "logo_a": "https://static.flashscore.com/res/image/data/nuUeFiwS-0peDsUzn.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2025_Indonesia_National_Football_Team_Badge.png",
+            "time": "14:00:00",
+            "date": "03/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/16ta4ihnmn8s_12d6ca56_20261003.png?v=12d6ca56",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
