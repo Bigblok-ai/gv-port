@@ -377,6 +377,78 @@
           }
         },
         {
+          "id": "gv-0e4d041835",
+          "name": "Admira (Aut) vs Austria Vienna (Aut) | 16:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0e4d041835",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0e4d041835",
+                  "name": "Admira (Aut) vs Austria Vienna (Aut)",
+                  "streams": [
+                    {
+                      "id": "st-0e4d041835",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-89776edfd5",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790904974_hd/1790904974_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Admira (Aut)",
+            "team_b": "Austria Vienna (Aut)",
+            "logo_a": "https://static.flashscore.com/res/image/data/2FtlvjzB-IeGa2GZS.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/C0vKONEG-lUkqx2Vt.png",
+            "time": "16:00:00",
+            "date": "02/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/iesrygf8fv9c_ca7d22b1_20261002.png?v=ca7d22b1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-991a2736ed",
           "name": "North Korea W vs Japan W | 17:30 02/10",
           "type": "single",
@@ -444,6 +516,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ckpqb2xlp71a_b2c6a73c_20261002.png?v=b2c6a73c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7df6568135",
+          "name": "Augsburg vs Hertha BSC Berlin | 18:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7df6568135",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7df6568135",
+                  "name": "Augsburg vs Hertha BSC Berlin",
+                  "streams": [
+                    {
+                      "id": "st-7df6568135",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-915b718141",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790905040_hd/1790905040_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu",
+            "team_a": "Augsburg",
+            "team_b": "Hertha BSC Berlin",
+            "logo_a": "https://images.keovip88.net/images/teams/augsburg.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hertha-berlin.png",
+            "time": "18:00:00",
+            "date": "02/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abaff9024d46db8707d1219_d22d133d_20261002.png?v=d22d133d",
             "width": 1600,
             "height": 1200
           }
@@ -665,6 +809,78 @@
           }
         },
         {
+          "id": "gv-85e1f04ae3",
+          "name": "Al Wasl vs Ittihad Kalba | 20:15 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-85e1f04ae3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-85e1f04ae3",
+                  "name": "Al Wasl vs Ittihad Kalba",
+                  "streams": [
+                    {
+                      "id": "st-85e1f04ae3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e558523cdf",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790904878_hd/1790904878_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UNITED ARAB EMIRATES - League Cup",
+            "team_a": "Al Wasl",
+            "team_b": "Ittihad Kalba",
+            "logo_a": "https://static.flashscore.com/res/image/data/WSOq3hFG-K8vlWhPS.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/bB9xYDjl-lUHDtcYu.png",
+            "time": "20:15:00",
+            "date": "02/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1z12zczc6kw0_4c6d0711_20261002.png?v=4c6d0711",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-78dcaa2334",
           "name": "Kazakhstan vs Moldova | 21:00 02/10",
           "type": "single",
@@ -732,6 +948,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf6b_0fa40b28_20261002.png?v=0fa40b28",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ff701f8d53",
+          "name": "Shabab Al-Ahli Dubai vs Al Nasr | 22:45 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ff701f8d53",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ff701f8d53",
+                  "name": "Shabab Al-Ahli Dubai vs Al Nasr",
+                  "streams": [
+                    {
+                      "id": "st-ff701f8d53",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3f2807cb89",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790904928_hd/1790904928_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UNITED ARAB EMIRATES - League Cup",
+            "team_a": "Shabab Al-Ahli Dubai",
+            "team_b": "Al Nasr",
+            "logo_a": "https://static.flashscore.com/res/image/data/0CZOhXDa-8zUcYY2j.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/dlkIInXg-xbrb3RaU.png",
+            "time": "22:45:00",
+            "date": "02/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tqndvvdklxk8_c7b87c72_20261002.png?v=c7b87c72",
             "width": 1600,
             "height": 1200
           }
