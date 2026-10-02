@@ -377,6 +377,78 @@
           }
         },
         {
+          "id": "gv-991a2736ed",
+          "name": "North Korea W vs Japan W | 17:30 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-991a2736ed",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-991a2736ed",
+                  "name": "North Korea W vs Japan W",
+                  "streams": [
+                    {
+                      "id": "st-991a2736ed",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a82572ba37",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790904627_hd/1790904627_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASIA - Asian Games Women - Play Offs",
+            "team_a": "North Korea W",
+            "team_b": "Japan W",
+            "logo_a": "https://static.flashscore.com/res/image/data/tYIRtYDa-xpPmazWa.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/QRlYWUhl-E1YhvyqD.png",
+            "time": "17:30:00",
+            "date": "02/10",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ckpqb2xlp71a_b2c6a73c_20261002.png?v=b2c6a73c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-71e7dd9c9c",
           "name": "Dejan vs Persipura | 19:00 02/10",
           "type": "single",
@@ -516,6 +588,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4s35pabksefh_418a8525_20261002.png?v=418a8525",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3516ad246c",
+          "name": "Al Ain vs Ajman | 20:15 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3516ad246c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3516ad246c",
+                  "name": "Al Ain vs Ajman",
+                  "streams": [
+                    {
+                      "id": "st-3516ad246c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d424e8015b",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790904813_hd/1790904813_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UNITED ARAB EMIRATES - League Cup",
+            "team_a": "Al Ain",
+            "team_b": "Ajman",
+            "logo_a": "https://static.flashscore.com/res/image/data/dS0NzAil-OKa9P8WR.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/QTyVodZg-Y1gt7Cyd.png",
+            "time": "20:15:00",
+            "date": "02/10",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vh0txqjxzee2_9c5cca54_20261002.png?v=9c5cca54",
             "width": 1600,
             "height": 1200
           }
