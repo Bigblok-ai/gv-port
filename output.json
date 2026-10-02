@@ -764,11 +764,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-4be01eb988",
+                          "id": "lnk-01b25b912a",
                           "name": "Trĩ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790966638_hd/1790966638_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790966638_hd/1790966638_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -836,11 +836,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-9c2cf8f4bc",
+                          "id": "lnk-db82658b1d",
                           "name": "Bón",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790966665_hd/1790966665_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790966665_hd/1790966665_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2204,6 +2204,78 @@
           }
         },
         {
+          "id": "gv-137ef2220a",
+          "name": "Swiss Stage Round 1 (Game 4 5 6) vs Swiss Stage Round 1 (Game 4 5 6) | 18:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-137ef2220a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-137ef2220a",
+                  "name": "Swiss Stage Round 1 (Game 4 5 6) vs Swiss Stage Round 1 (Game 4 5 6)",
+                  "streams": [
+                    {
+                      "id": "st-137ef2220a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5b5ce7423a",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790967852_hd/1790967852_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Demacia Cup Global Invitational",
+            "team_a": "Swiss Stage Round 1 (Game 4 5 6)",
+            "team_b": "Swiss Stage Round 1 (Game 4 5 6)",
+            "logo_a": "",
+            "logo_b": "",
+            "time": "18:00:00",
+            "date": "03/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r3px8gfd2gx0_6654c734_20261003.png?v=6654c734",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-756c0e102e",
           "name": "Spirit vs ShindeN | 18:30 03/10",
           "type": "single",
@@ -2496,6 +2568,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gnr1wdci2u1m_2ebec21f_20261003.png?v=2ebec21f",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_duaxe",
+      "name": "🏎️ Đua Xe",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-798af1f921",
+          "name": "Gulf Air Bahrain Grand Prix vs Gulf Air Bahrain Grand Prix | 15:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-798af1f921",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-798af1f921",
+                  "name": "Gulf Air Bahrain Grand Prix vs Gulf Air Bahrain Grand Prix",
+                  "streams": [
+                    {
+                      "id": "st-798af1f921",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a43ce8fa0",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790840310_hd/1790840310_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Gulf Air Bahrain Grand Prix",
+            "team_a": "Gulf Air Bahrain Grand Prix",
+            "team_b": "Gulf Air Bahrain Grand Prix",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-QFVk7ywVZkSYvxmUj-esyt7lv4--MPtntztVQQP_OWo7Lp7-XvpMB8&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-QFVk7ywVZkSYvxmUj-esyt7lv4--MPtntztVQQP_OWo7Lp7-XvpMB8&s=10",
+            "time": "15:00:00",
+            "date": "03/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "duaxe"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/v68ny63irrsg_05e45ea8_20261003.png?v=05e45ea8",
             "width": 1600,
             "height": 1200
           }
