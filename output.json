@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-46dfc5dc83",
-          "name": "Việt Nam vs Pakistan | 16:00 02/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-46dfc5dc83",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-46dfc5dc83",
-                  "name": "Việt Nam vs Pakistan",
-                  "streams": [
-                    {
-                      "id": "st-46dfc5dc83",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7910506c07",
-                          "name": "Bón",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790911406_hd/1790911406_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-4c0359d8fc",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790776710_hd/1790776710_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "FIFA ASEAN Cup",
-            "team_a": "Việt Nam",
-            "team_b": "Pakistan",
-            "logo_a": "https://images.keovip88.net/images/teams/vietnam.png",
-            "logo_b": "https://images.keovip88.net/images/teams/pakistan.png",
-            "time": "16:00:00",
-            "date": "02/10",
-            "blv": "Bón, Chồn",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab468f8b057b828a8092bd5_7fe9f59b_20261002.png?v=7fe9f59b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-991a2736ed",
           "name": "North Korea W vs Japan W | 17:30 02/10",
