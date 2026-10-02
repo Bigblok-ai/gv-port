@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -305,6 +305,78 @@
           }
         },
         {
+          "id": "gv-aff85c4902",
+          "name": "Latvia vs Montenegro | 23:00 02/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-aff85c4902",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-aff85c4902",
+                  "name": "Latvia vs Montenegro",
+                  "streams": [
+                    {
+                      "id": "st-aff85c4902",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f84582ddbe",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790909049_hd/1790909049_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Latvia",
+            "team_b": "Montenegro",
+            "logo_a": "https://images.keovip88.net/images/teams/latvia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/montenegro.png",
+            "time": "23:00:00",
+            "date": "02/10",
+            "blv": "Mù",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f544134f51b3673a069153_472321c1_20261002.png?v=472321c1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-7df6568135",
           "name": "Augsburg vs Hertha BSC Berlin | 18:00 02/10",
           "type": "single",
@@ -444,78 +516,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4s35pabksefh_418a8525_20261002.png?v=418a8525",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-aff85c4902",
-          "name": "Latvia vs Montenegro | 23:00 02/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-aff85c4902",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-aff85c4902",
-                  "name": "Latvia vs Montenegro",
-                  "streams": [
-                    {
-                      "id": "st-aff85c4902",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f84582ddbe",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790909049_hd/1790909049_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Latvia",
-            "team_b": "Montenegro",
-            "logo_a": "https://images.keovip88.net/images/teams/latvia.png",
-            "logo_b": "https://images.keovip88.net/images/teams/montenegro.png",
-            "time": "23:00:00",
-            "date": "02/10",
-            "blv": "Mù",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f544134f51b3673a069153_472321c1_20261002.png?v=472321c1",
             "width": 1600,
             "height": 1200
           }
@@ -1177,78 +1177,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4e7a500ff4",
-          "name": "Besiktas Cola Turka vs FC Barcelona | 00:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4e7a500ff4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4e7a500ff4",
-                  "name": "Besiktas Cola Turka vs FC Barcelona",
-                  "streams": [
-                    {
-                      "id": "st-4e7a500ff4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c732308715",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1790909396_hd/1790909396_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Besiktas Cola Turka",
-            "team_b": "FC Barcelona",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/4c56f517bc64726563ed7f0d226a828e.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c98a3d8df4a10628be76ab5e38a4d65c.png",
-            "time": "00:00:00",
-            "date": "03/10",
-            "blv": "Điếc",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38292270_0a05ca06_20261002.png?v=0a05ca06",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-7d0721ac19",
           "name": "Brisbane Bullets vs Tasmania JackJumpers | 14:30 03/10",
