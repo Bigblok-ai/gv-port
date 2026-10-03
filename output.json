@@ -1250,6 +1250,78 @@
           }
         },
         {
+          "id": "gv-bd0640bf9d",
+          "name": "Joventut Badalona vs MoraBanc Andorra | 23:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bd0640bf9d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bd0640bf9d",
+                  "name": "Joventut Badalona vs MoraBanc Andorra",
+                  "streams": [
+                    {
+                      "id": "st-bd0640bf9d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2a53969139",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791013195_hd/1791013195_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Supercopa ACB",
+            "team_a": "Joventut Badalona",
+            "team_b": "MoraBanc Andorra",
+            "logo_a": "https://static.flashscore.com/res/image/data/O0k3SqZA-4QFp2rHo.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/SOXdwvjl-U1p4QlUe.png",
+            "time": "23:00:00",
+            "date": "03/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/iz96q9h3d2kx_8b3db754_20261003.png?v=8b3db754",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-9d7ca98148",
           "name": "Toronto Raptors vs Miami Heat | 06:00 04/10",
           "type": "single",
@@ -2585,7 +2657,7 @@
     },
     {
       "id": "cate_duaxe",
-      "name": "🏎️ Đua Xe",
+      "name": "🏎️ Đua Xe (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2598,10 +2670,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2650,7 +2722,7 @@
             "time": "15:00:00",
             "date": "03/10",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "duaxe"
           },
           "image": {
