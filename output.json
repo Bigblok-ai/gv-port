@@ -116,11 +116,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-086099454f",
-                          "name": "Dory",
+                          "id": "lnk-a4ab9d655e",
+                          "name": "Bình Luận 2: Cầy + Dory",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791019536_hd/1791019536_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791024924_hd/1791024924_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -147,7 +147,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/cambodia.png",
             "time": "17:00:00",
             "date": "03/10",
-            "blv": "Dory",
+            "blv": "Bình Luận 2: Cầy + Dory",
             "is_live": true,
             "cate_type": "football"
           },
@@ -1167,6 +1167,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-085aba4c97",
+          "name": "Atletico Union Guimar vs Sporting Hortaleza | 18:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-085aba4c97",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-085aba4c97",
+                  "name": "Atletico Union Guimar vs Sporting Hortaleza",
+                  "streams": [
+                    {
+                      "id": "st-085aba4c97",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9527f1bde4",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790841176_hd/1790841176_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp nhà vua Tây Ban Nha",
+            "team_a": "Atletico Union Guimar",
+            "team_b": "Sporting Hortaleza",
+            "logo_a": "https://images.keovip88.net/images/teams/atletico-union-guimar.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sporting-hortaleza.png",
+            "time": "18:00:00",
+            "date": "04/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa498131f7a2190510195d1_2e526533_20261003.png?v=2e526533",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1542,6 +1614,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bc7jciqa68sn_5d881213_20261003.png?v=5d881213",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f625a21221",
+          "name": "Francisco Cenrundolo vs Jakub Mensik | 18:45 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f625a21221",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f625a21221",
+                  "name": "Francisco Cenrundolo vs Jakub Mensik",
+                  "streams": [
+                    {
+                      "id": "st-f625a21221",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5f8c534313",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791025004_hd/1791025004_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Beijing Open",
+            "team_a": "Francisco Cenrundolo",
+            "team_b": "Jakub Mensik",
+            "logo_a": "",
+            "logo_b": "",
+            "time": "18:45:00",
+            "date": "03/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zu80fioaocpd_6654c734_20261003.png?v=6654c734",
             "width": 1600,
             "height": 1200
           }
