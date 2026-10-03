@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abda2c024d46db870d76b4c_518414a8_20261003.png?v=518414a8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-6ecbdc855c",
-          "name": "Hàn Quốc vs Nhật Bản | 17:30 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6ecbdc855c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6ecbdc855c",
-                  "name": "Hàn Quốc vs Nhật Bản",
-                  "streams": [
-                    {
-                      "id": "st-6ecbdc855c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3f880ec40d",
-                          "name": "BLV Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790966773_hd/1790966773_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASIAD 2026 Chung Kết",
-            "team_a": "Hàn Quốc",
-            "team_b": "Nhật Bản",
-            "logo_a": "https://images.keovip88.net/images/teams/south-korea-u23.png",
-            "logo_b": "https://images.keovip88.net/images/teams/japan.png",
-            "time": "17:30:00",
-            "date": "03/10",
-            "blv": "BLV Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/u6fiwz5ggwyg_c4926fd9_20261003.png?v=c4926fd9",
             "width": 1600,
             "height": 1200
           }
@@ -1311,6 +1239,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-4c8fc4e69b",
+          "name": "Bryne vs Lyn | 19:30 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4c8fc4e69b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4c8fc4e69b",
+                  "name": "Bryne vs Lyn",
+                  "streams": [
+                    {
+                      "id": "st-4c8fc4e69b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ef40a579ad",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791017188_hd/1791017188_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Norway - OBOS-ligaen",
+            "team_a": "Bryne",
+            "team_b": "Lyn",
+            "logo_a": "https://static.flashscore.com/res/image/data/zyDlfTYA-MgUxY1Yb.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/QFujrmCa-GEWDK90d.png",
+            "time": "19:30:00",
+            "date": "04/10",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vjhvyt6kxy80_418a8525_20261003.png?v=418a8525",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1694,7 +1694,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1707,10 +1707,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1759,7 +1759,7 @@
             "time": "20:00:00",
             "date": "03/10",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
