@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "gv-06b060261d",
-          "name": "Machida Zelvia vs Kyoto Sanga | 14:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-06b060261d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-06b060261d",
-                  "name": "Machida Zelvia vs Kyoto Sanga",
-                  "streams": [
-                    {
-                      "id": "st-06b060261d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-88029c000d",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790780649_hd/1790780649_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japan - J. League Cup",
-            "team_a": "Machida Zelvia",
-            "team_b": "Kyoto Sanga",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTyQbV7R_wsuY6OfdPSIu1WhPyrDH-xXNobnjpwe0mzw&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsyS-g3Y0GBa_pP99_2IXAcIY4V6LLwUo47zV0mUFsg&s=10",
-            "time": "14:00:00",
-            "date": "03/10",
-            "blv": "Mù",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/l4mwp2fvcukx_f00455bf_20261003.png?v=f00455bf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-14a3d1303a",
           "name": "Oita Trinita vs Yamagata Montedio | 15:00 03/10",
           "type": "single",
@@ -1236,6 +1164,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vjhvyt6kxy80_418a8525_20261003.png?v=418a8525",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b2ab819034",
+          "name": "Fleury 91 W vs PSG W | 20:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b2ab819034",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b2ab819034",
+                  "name": "Fleury 91 W vs PSG W",
+                  "streams": [
+                    {
+                      "id": "st-b2ab819034",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-78f223d953",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791017321_hd/1791017321_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "France - Première Ligue",
+            "team_a": "Fleury 91 W",
+            "team_b": "PSG W",
+            "logo_a": "https://static.flashscore.com/res/image/data/b5t4Xih5-Q1BcQwtS.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/GSQZijHG-hjAZZSzd.png",
+            "time": "20:00:00",
+            "date": "04/10",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j10b03wex77g_1a2c1832_20261003.png?v=1a2c1832",
             "width": 1600,
             "height": 1200
           }
