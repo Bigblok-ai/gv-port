@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-db0dff426a",
-          "name": "Canada vs Peru | 01:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-db0dff426a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-db0dff426a",
-                  "name": "Canada vs Peru",
-                  "streams": [
-                    {
-                      "id": "st-db0dff426a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a2d6ea0834",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791012160_hd/1791012160_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao hữu quốc tế",
-            "team_a": "Canada",
-            "team_b": "Peru",
-            "logo_a": "https://images.keovip88.net/images/teams/canada.png",
-            "logo_b": "https://images.keovip88.net/images/teams/peru.png",
-            "time": "01:00:00",
-            "date": "04/10",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab9ae2d24d46db870ba4070_46237b99_20261004.png?v=46237b99",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6f567689dc",
           "name": "Tây Ban Nha vs Cộng hòa Séc | 01:45 04/10",
@@ -228,78 +156,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf50_98affc48_20261004.png?v=98affc48",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-52b18bb0c3",
-          "name": "Atletico Mineiro vs Bragantino SP | 04:30 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-52b18bb0c3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-52b18bb0c3",
-                  "name": "Atletico Mineiro vs Bragantino SP",
-                  "streams": [
-                    {
-                      "id": "st-52b18bb0c3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-baff55f89c",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791041818_hd/1791041818_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Brazil",
-            "team_a": "Atletico Mineiro",
-            "team_b": "Bragantino SP",
-            "logo_a": "https://images.keovip88.net/images/teams/atletico-mineiro.png",
-            "logo_b": "https://images.keovip88.net/images/teams/bragantino.png",
-            "time": "04:30:00",
-            "date": "04/10",
-            "blv": "Ngọng",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a60081e24d46db870322581_2f5fd4c2_20261004.png?v=2f5fd4c2",
             "width": 1600,
             "height": 1200
           }
