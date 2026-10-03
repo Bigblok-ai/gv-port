@@ -1838,83 +1838,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-756c0e102e",
-          "name": "Spirit vs ShindeN | 18:30 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-756c0e102e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-756c0e102e",
-                  "name": "Spirit vs ShindeN",
-                  "streams": [
-                    {
-                      "id": "st-756c0e102e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-092f7b201c",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790967452_hd/1790967452_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-ESL Pro League Season 24",
-            "team_a": "Spirit",
-            "team_b": "ShindeN",
-            "logo_a": "https://static.flashscore.com/res/image/data/QcXfQGf5-KKlHXGtD.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/AZ2CdRDa-8bIKPsX4.png",
-            "time": "18:30:00",
-            "date": "03/10",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ykrun7um0lxd_ab04a193_20261003.png?v=ab04a193",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ce115e0a65",
           "name": "Aurora vs 9z Team | 21:00 03/10",
