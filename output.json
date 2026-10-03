@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-84b3d713b3",
-          "name": "Phần Lan vs Albania | 20:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-84b3d713b3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-84b3d713b3",
-                  "name": "Phần Lan vs Albania",
-                  "streams": [
-                    {
-                      "id": "st-84b3d713b3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3109dd3acb",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791025759_hd/1791025759_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Phần Lan",
-            "team_b": "Albania",
-            "logo_a": "https://images.keovip88.net/images/teams/finland.png",
-            "logo_b": "https://images.keovip88.net/images/teams/albania.png",
-            "time": "20:00:00",
-            "date": "03/10",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f2a1a2bb398665fd0908e1_e833bcda_20261003.png?v=e833bcda",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-57683db2b8",
           "name": "Ấn Độ vs Brazil | 21:00 03/10",
@@ -1311,6 +1239,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-655b0ecdd4",
+          "name": "Basket Zaragoza vs Valencia | 22:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-655b0ecdd4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-655b0ecdd4",
+                  "name": "Basket Zaragoza vs Valencia",
+                  "streams": [
+                    {
+                      "id": "st-655b0ecdd4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b455ec2c5c",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791018009_hd/1791018009_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ACB",
+            "team_a": "Basket Zaragoza",
+            "team_b": "Valencia",
+            "logo_a": "https://static.flashscore.com/res/image/data/QLeBxygl-lOzorRoq.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/UFmsOtyB-0xo9H7fm.png",
+            "time": "22:00:00",
+            "date": "04/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/956mudyg0vwt_7fda6b44_20261003.png?v=7fda6b44",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1533,87 +1533,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/njzlpe07h95m_4a513d24_20261003.png?v=4a513d24",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-7db51d9f36",
-          "name": "ATP Beijing Open vs ATP Beijing Open | 10:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7db51d9f36",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7db51d9f36",
-                  "name": "ATP Beijing Open vs ATP Beijing Open",
-                  "streams": [
-                    {
-                      "id": "st-7db51d9f36",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-01f0f34c40",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790988213_hd/1790988213_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Beijing Open",
-            "team_a": "ATP Beijing Open",
-            "team_b": "ATP Beijing Open",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwvnWRBNvGnO1GVEQTNkkJgE_aJlxZDxa0iNQWy_06A&s",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwvnWRBNvGnO1GVEQTNkkJgE_aJlxZDxa0iNQWy_06A&s",
-            "time": "10:00:00",
-            "date": "03/10",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bc7jciqa68sn_5d881213_20261003.png?v=5d881213",
             "width": 1600,
             "height": 1200
           }
