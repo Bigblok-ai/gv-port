@@ -1919,83 +1919,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (3 LIVE)",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-137ef2220a",
-          "name": "Swiss Stage Round 1 (Game 4 5 6) vs Swiss Stage Round 1 (Game 4 5 6) | 18:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-137ef2220a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-137ef2220a",
-                  "name": "Swiss Stage Round 1 (Game 4 5 6) vs Swiss Stage Round 1 (Game 4 5 6)",
-                  "streams": [
-                    {
-                      "id": "st-137ef2220a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5b5ce7423a",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790967852_hd/1790967852_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Demacia Cup Global Invitational",
-            "team_a": "Swiss Stage Round 1 (Game 4 5 6)",
-            "team_b": "Swiss Stage Round 1 (Game 4 5 6)",
-            "logo_a": "https://store-images.s-microsoft.com/image/apps.18996.14127010465288187.f9de4a96-0ee4-4da3-bf66-d4132b38c599.caf661a7-e0b3-492d-b91b-63627e47283e",
-            "logo_b": "https://store-images.s-microsoft.com/image/apps.18996.14127010465288187.f9de4a96-0ee4-4da3-bf66-d4132b38c599.caf661a7-e0b3-492d-b91b-63627e47283e",
-            "time": "18:00:00",
-            "date": "03/10",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r3px8gfd2gx0_6732c057_20261003.png?v=6732c057",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-756c0e102e",
           "name": "Spirit vs ShindeN | 18:30 03/10",
@@ -2064,78 +1992,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ykrun7um0lxd_ab04a193_20261003.png?v=ab04a193",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-508d02b855",
-          "name": "Vitality vs 1w Team | 18:30 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-508d02b855",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-508d02b855",
-                  "name": "Vitality vs 1w Team",
-                  "streams": [
-                    {
-                      "id": "st-508d02b855",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1d7e7eb252",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790967562_hd/1790967562_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-ESL Pro League Season 24",
-            "team_a": "Vitality",
-            "team_b": "1w Team",
-            "logo_a": "https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/fBlVXJAr-jgIAIbfS.png",
-            "time": "18:30:00",
-            "date": "03/10",
-            "blv": "Tôm",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/i4c0r9bhxwgh_80e33452_20261003.png?v=80e33452",
             "width": 1600,
             "height": 1200
           }
