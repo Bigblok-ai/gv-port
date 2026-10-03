@@ -1919,7 +1919,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1997,6 +1997,78 @@
           }
         },
         {
+          "id": "gv-6c5ef2b619",
+          "name": "Legacy vs PARIVISION | 16:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6c5ef2b619",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6c5ef2b619",
+                  "name": "Legacy vs PARIVISION",
+                  "streams": [
+                    {
+                      "id": "st-6c5ef2b619",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e1ad7827ae",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790967298_hd/1790967298_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-ESL Pro League Season 24",
+            "team_a": "Legacy",
+            "team_b": "PARIVISION",
+            "logo_a": "https://static.flashscore.com/res/image/data/vJYZUiDa-rHAHYj7n.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/hCocHMYg-nsgDhzrP.png",
+            "time": "16:00:00",
+            "date": "03/10",
+            "blv": "Tôm",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rqdb8eh2cmcv_aeee99a8_20261003.png?v=aeee99a8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-2941da94f7",
           "name": "G2 Esports vs NaVi | 11:30 03/10",
           "type": "single",
@@ -2064,78 +2136,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ps5wmw0tgcj6_7398aa54_20261003.png?v=7398aa54",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-6c5ef2b619",
-          "name": "Legacy vs PARIVISION | 16:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6c5ef2b619",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6c5ef2b619",
-                  "name": "Legacy vs PARIVISION",
-                  "streams": [
-                    {
-                      "id": "st-6c5ef2b619",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e1ad7827ae",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790967298_hd/1790967298_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-ESL Pro League Season 24",
-            "team_a": "Legacy",
-            "team_b": "PARIVISION",
-            "logo_a": "https://static.flashscore.com/res/image/data/vJYZUiDa-rHAHYj7n.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/hCocHMYg-nsgDhzrP.png",
-            "time": "16:00:00",
-            "date": "03/10",
-            "blv": "Tôm",
-            "is_live": false,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rqdb8eh2cmcv_aeee99a8_20261003.png?v=aeee99a8",
             "width": 1600,
             "height": 1200
           }
