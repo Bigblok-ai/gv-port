@@ -1392,6 +1392,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-b87e1a10ee",
+          "name": "Obradoiro CAB vs Real Madrid | 17:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b87e1a10ee",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b87e1a10ee",
+                  "name": "Obradoiro CAB vs Real Madrid",
+                  "streams": [
+                    {
+                      "id": "st-b87e1a10ee",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1cf3c15092",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791017529_hd/1791017529_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ACB",
+            "team_a": "Obradoiro CAB",
+            "team_b": "Real Madrid",
+            "logo_a": "https://static.flashscore.com/res/image/data/GQO85GxS-MkO5VDN4.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/GnbCKDYA-bXlcmj9T.png",
+            "time": "17:00:00",
+            "date": "04/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/njzlpe07h95m_4a513d24_20261003.png?v=4a513d24",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
