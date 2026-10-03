@@ -1698,6 +1698,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-2941da94f7",
+          "name": "G2 Esports vs NaVi | 23:30 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2941da94f7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2941da94f7",
+                  "name": "G2 Esports vs NaVi",
+                  "streams": [
+                    {
+                      "id": "st-2941da94f7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77c0b0d8b1",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791014505_hd/1791014505_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-ESL Pro League Season 24",
+            "team_a": "G2 Esports",
+            "team_b": "NaVi",
+            "logo_a": "https://static.flashscore.com/res/image/data/EgYNlNDa-YoDO6SX0.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/nyckaNwS-dMZzuAHL.png",
+            "time": "23:30:00",
+            "date": "03/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ps5wmw0tgcj6_7398aa54_20261003.png?v=7398aa54",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
