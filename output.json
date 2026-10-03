@@ -1784,83 +1784,11 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật (2 LIVE)",
+      "name": "🥊 Võ Thuật (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-82610613e2",
-          "name": "Ben Whittaker vs Conor Wallace | 23:00 03/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-82610613e2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-82610613e2",
-                  "name": "Ben Whittaker vs Conor Wallace",
-                  "streams": [
-                    {
-                      "id": "st-82610613e2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-74f8b052ab",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791013750_hd/1791013750_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Boxing Fight Night",
-            "team_a": "Ben Whittaker",
-            "team_b": "Conor Wallace",
-            "logo_a": "https://static.flashscore.com/res/image/data/0OsJt6Fa-CxYUcq3p.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/MsWF5LDa-IqxxqBwB.png",
-            "time": "23:00:00",
-            "date": "03/10",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "vothuat"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8cphq0hi2c0q_f51c02a8_20261004.png?v=f51c02a8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-44be191fc5",
           "name": "Silva vs Wang | 03:00 04/10",
