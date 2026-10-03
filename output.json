@@ -1108,6 +1108,159 @@
       ]
     },
     {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-b033deb2e7",
+          "name": "Tokyo Open vs Tokyo Open | 09:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b033deb2e7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b033deb2e7",
+                  "name": "Tokyo Open vs Tokyo Open",
+                  "streams": [
+                    {
+                      "id": "st-b033deb2e7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-696ccfbde8",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790988121_hd/1790988121_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Tokyo Open ",
+            "team_a": "Tokyo Open",
+            "team_b": "Tokyo Open",
+            "logo_a": "https://storage.allsportdb.com/orig/event/4106f4c6-3113-497e-9755-a5745c9b7fbc",
+            "logo_b": "https://storage.allsportdb.com/orig/event/4106f4c6-3113-497e-9755-a5745c9b7fbc",
+            "time": "09:00:00",
+            "date": "03/10",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/c5qed1wa6w0h_538bd167_20261003.png?v=538bd167",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7db51d9f36",
+          "name": "ATP Beijing Open vs ATP Beijing Open | 10:00 03/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7db51d9f36",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7db51d9f36",
+                  "name": "ATP Beijing Open vs ATP Beijing Open",
+                  "streams": [
+                    {
+                      "id": "st-7db51d9f36",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-01f0f34c40",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1790988213_hd/1790988213_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Beijing Open",
+            "team_a": "ATP Beijing Open",
+            "team_b": "ATP Beijing Open",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwvnWRBNvGnO1GVEQTNkkJgE_aJlxZDxa0iNQWy_06A&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwvnWRBNvGnO1GVEQTNkkJgE_aJlxZDxa0iNQWy_06A&s",
+            "time": "10:00:00",
+            "date": "03/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bc7jciqa68sn_5d881213_20261003.png?v=5d881213",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_bongchuyen",
       "name": "🏐 Bóng Chuyền",
       "display": "vertical",
