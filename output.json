@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-f2998f64c0",
-          "name": "Malta vs Andorra | 23:00 04/10",
+          "id": "gv-9217e2f999",
+          "name": "Hà Lan vs Serbia | 01:45 05/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-f2998f64c0",
+              "id": "src-9217e2f999",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-f2998f64c0",
-                  "name": "Malta vs Andorra",
+                  "id": "ct-9217e2f999",
+                  "name": "Hà Lan vs Serbia",
                   "streams": [
                     {
-                      "id": "st-f2998f64c0",
+                      "id": "st-9217e2f999",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-8be1d51a93",
-                          "name": "Bee",
+                          "id": "lnk-c45976171d",
+                          "name": "BLV Hấu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791115077_hd/1791115077_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791115210_hd/1791115210_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -69,13 +69,13 @@
           ],
           "org_metadata": {
             "league": "UEFA Nations League",
-            "team_a": "Malta",
-            "team_b": "Andorra",
-            "logo_a": "https://images.keovip88.net/images/teams/malta.png",
-            "logo_b": "https://images.keovip88.net/images/teams/andorra.png",
-            "time": "23:00:00",
-            "date": "04/10",
-            "blv": "Bee",
+            "team_a": "Hà Lan",
+            "team_b": "Serbia",
+            "logo_a": "https://images.keovip88.net/images/teams/netherlands.png",
+            "logo_b": "https://images.keovip88.net/images/teams/serbia.png",
+            "time": "01:45:00",
+            "date": "05/10",
+            "blv": "BLV Hấu",
             "is_live": true,
             "cate_type": "football"
           },
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf77_968fc009_20261005.png?v=968fc009",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf764_09116cf9_20261005.png?v=09116cf9",
             "width": 1600,
             "height": 1200
           }
@@ -300,78 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf765_e50d1671_20261005.png?v=e50d1671",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-9217e2f999",
-          "name": "Hà Lan vs Serbia | 01:45 05/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9217e2f999",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9217e2f999",
-                  "name": "Hà Lan vs Serbia",
-                  "streams": [
-                    {
-                      "id": "st-9217e2f999",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c45976171d",
-                          "name": "BLV Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791115210_hd/1791115210_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Hà Lan",
-            "team_b": "Serbia",
-            "logo_a": "https://images.keovip88.net/images/teams/netherlands.png",
-            "logo_b": "https://images.keovip88.net/images/teams/serbia.png",
-            "time": "01:45:00",
-            "date": "05/10",
-            "blv": "BLV Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf764_09116cf9_20261005.png?v=09116cf9",
             "width": 1600,
             "height": 1200
           }
@@ -1007,83 +935,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-655b0ecdd4",
-          "name": "Basket Zaragoza vs Valencia | 22:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-655b0ecdd4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-655b0ecdd4",
-                  "name": "Basket Zaragoza vs Valencia",
-                  "streams": [
-                    {
-                      "id": "st-655b0ecdd4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-991dc71615",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791018009_hd/1791018009_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ACB",
-            "team_a": "Basket Zaragoza",
-            "team_b": "Valencia",
-            "logo_a": "https://static.flashscore.com/res/image/data/QLeBxygl-lOzorRoq.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/UFmsOtyB-0xo9H7fm.png",
-            "time": "22:00:00",
-            "date": "04/10",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/956mudyg0vwt_7fda6b44_20261005.png?v=7fda6b44",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-21f3ef13a2",
           "name": "Murcia vs Barcelona | 00:00 05/10",
