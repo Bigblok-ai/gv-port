@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,6 +84,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab9ae3124d46db870ba4622_fc23eddf_20261004.png?v=fc23eddf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b2ab819034",
+          "name": "Fleury 91 W vs PSG W | 20:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b2ab819034",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b2ab819034",
+                  "name": "Fleury 91 W vs PSG W",
+                  "streams": [
+                    {
+                      "id": "st-b2ab819034",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ffc4d7236b",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791017321_hd/1791017321_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "France - Première Ligue",
+            "team_a": "Fleury 91 W",
+            "team_b": "PSG W",
+            "logo_a": "https://static.flashscore.com/res/image/data/b5t4Xih5-Q1BcQwtS.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/GSQZijHG-hjAZZSzd.png",
+            "time": "20:00:00",
+            "date": "04/10",
+            "blv": "Bee",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j10b03wex77g_1a2c1832_20261004.png?v=1a2c1832",
             "width": 1600,
             "height": 1200
           }
@@ -372,78 +444,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vjhvyt6kxy80_418a8525_20261004.png?v=418a8525",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b2ab819034",
-          "name": "Fleury 91 W vs PSG W | 20:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b2ab819034",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b2ab819034",
-                  "name": "Fleury 91 W vs PSG W",
-                  "streams": [
-                    {
-                      "id": "st-b2ab819034",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ffc4d7236b",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791017321_hd/1791017321_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "France - Première Ligue",
-            "team_a": "Fleury 91 W",
-            "team_b": "PSG W",
-            "logo_a": "https://static.flashscore.com/res/image/data/b5t4Xih5-Q1BcQwtS.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/GSQZijHG-hjAZZSzd.png",
-            "time": "20:00:00",
-            "date": "04/10",
-            "blv": "Bee",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j10b03wex77g_1a2c1832_20261004.png?v=1a2c1832",
             "width": 1600,
             "height": 1200
           }
