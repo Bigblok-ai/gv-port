@@ -2035,6 +2035,87 @@
       ]
     },
     {
+      "id": "cate_Billiards",
+      "name": "🎱 Billiards",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-85731a653c",
+          "name": "🇨🇳 ZHENG XIAOHUAI vs 🇨🇳 ZHAO RULIANG | 17:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-85731a653c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-85731a653c",
+                  "name": "🇨🇳 ZHENG XIAOHUAI vs 🇨🇳 ZHAO RULIANG",
+                  "streams": [
+                    {
+                      "id": "st-85731a653c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a5542eab6e",
+                          "name": "BLV Test",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791108193_hd/1791108193_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": " 🏆 FINAL Duya Legends Tour",
+            "team_a": "🇨🇳 ZHENG XIAOHUAI",
+            "team_b": "🇨🇳 ZHAO RULIANG",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-kHi9q4BOC6w77xgAx1gz7FyIkETdkPXK7Mnvq1-eeg&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn6B01uBBDA805J7xF6iHeh7BJD3D_qGvfmSjqJbyOgg&s=10",
+            "time": "17:00:00",
+            "date": "04/10",
+            "blv": "BLV Test",
+            "is_live": false,
+            "cate_type": "Billiards"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/g8mdc1jki0sj_8c6e0675_20261004.png?v=8c6e0675",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_rugby",
       "name": "🏅 Thể Thao",
       "display": "vertical",
