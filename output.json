@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a93f5b1c70",
-          "name": "Davao Aguilas vs Tuloy | 16:45 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a93f5b1c70",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a93f5b1c70",
-                  "name": "Davao Aguilas vs Tuloy",
-                  "streams": [
-                    {
-                      "id": "st-a93f5b1c70",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1eecb646ff",
-                          "name": "Tỵ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791094508_hd/1791094508_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Philippines",
-            "team_a": "Davao Aguilas",
-            "team_b": "Tuloy",
-            "logo_a": "https://static.flashscore.com/res/image/data/29c9J7e5-M3wSGPcG.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/rJNHBSEa-6N76cNOA.png",
-            "time": "16:45:00",
-            "date": "04/10",
-            "blv": "Tỵ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/dfprcvtaytob_0df627a0_20261004.png?v=0df627a0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-159d6a0870",
           "name": "Barito Putera vs Persela | 15:30 04/10",
@@ -156,6 +84,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/k20w13z8ti4q_93228944_20261004.png?v=93228944",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a93f5b1c70",
+          "name": "Davao Aguilas vs Tuloy | 16:45 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a93f5b1c70",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a93f5b1c70",
+                  "name": "Davao Aguilas vs Tuloy",
+                  "streams": [
+                    {
+                      "id": "st-a93f5b1c70",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f2028bec8d",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791094508_hd/1791094508_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Philippines",
+            "team_a": "Davao Aguilas",
+            "team_b": "Tuloy",
+            "logo_a": "https://static.flashscore.com/res/image/data/29c9J7e5-M3wSGPcG.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rJNHBSEa-6N76cNOA.png",
+            "time": "16:45:00",
+            "date": "04/10",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/dfprcvtaytob_0df627a0_20261004.png?v=0df627a0",
             "width": 1600,
             "height": 1200
           }
@@ -1271,7 +1271,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1356,10 +1356,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1408,7 +1408,7 @@
             "time": "16:00:00",
             "date": "04/10",
             "blv": "BLV Hấu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
@@ -1428,10 +1428,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1480,7 +1480,7 @@
             "time": "16:00:00",
             "date": "04/10",
             "blv": "Mickey",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
