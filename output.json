@@ -1702,6 +1702,159 @@
       ]
     },
     {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-b49e544e2d",
+          "name": "RED Canids vs KT | 14:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b49e544e2d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b49e544e2d",
+                  "name": "RED Canids vs KT",
+                  "streams": [
+                    {
+                      "id": "st-b49e544e2d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1ecad0f83c",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791092717_hd/1791092717_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Demacia Cup Global Invitational",
+            "team_a": "RED Canids",
+            "team_b": "KT",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOShi9w7oKH_QwSzHrXEKAQNfRtCbJVHpSOydQ6KKFQ&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Z_VcLeqBnYlomnoDMUlVRUV3i4BHkpZxrwgGjacwKQ&s",
+            "time": "14:00:00",
+            "date": "04/10",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/exi76y9d1y3n_66e4e691_20261004.png?v=66e4e691",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c54c7de936",
+          "name": "WE vs BRO | 16:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c54c7de936",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c54c7de936",
+                  "name": "WE vs BRO",
+                  "streams": [
+                    {
+                      "id": "st-c54c7de936",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a5205965b7",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791092839_hd/1791092839_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Demacia Cup Global Invitational",
+            "team_a": "WE",
+            "team_b": "BRO",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ93kWdW4lojNbz2kclG30QhQpInGukGF4f_L2q57UfrQ&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB2CM4MP-NO8YJiz4R1y_wGJ2_RoVcSb5FyC0xaDLvIw&s=10",
+            "time": "16:00:00",
+            "date": "04/10",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tdymrifrgs8w_5a0c669a_20261004.png?v=5a0c669a",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_caulong",
       "name": "🏸 Cầu Lông (1 LIVE)",
       "display": "vertical",
