@@ -870,11 +870,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-606165c5ab",
-                          "name": "Cầy",
+                          "id": "lnk-0ed51e8546",
+                          "name": "Ngu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791131863_hd/1791131863_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791132122_hd/1791132122_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -901,7 +901,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/belgium-u19.png",
             "time": "18:00:00",
             "date": "05/10",
-            "blv": "Cầy",
+            "blv": "Ngu",
             "is_live": false,
             "cate_type": "football"
           },
@@ -2037,6 +2037,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c0f4af3b74",
+          "name": "NAVI vs FLY | 16:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c0f4af3b74",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c0f4af3b74",
+                  "name": "NAVI vs FLY",
+                  "streams": [
+                    {
+                      "id": "st-c0f4af3b74",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0b801bc1e7",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791132036_hd/1791132036_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Demacia Cup Global Invitational",
+            "team_a": "NAVI",
+            "team_b": "FLY",
+            "logo_a": "https://static.flashscore.com/res/image/data/nyckaNwS-dMZzuAHL.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/KSfxi1Br-CITctYCH.png",
+            "time": "16:00:00",
+            "date": "05/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ac0ogpkgxdt2_ebea2a0e_20261004.png?v=ebea2a0e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2996,83 +3068,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-22a2faa1ec",
-          "name": "Washington Commanders vs Indianapolis Colts | 20:30 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-22a2faa1ec",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-22a2faa1ec",
-                  "name": "Washington Commanders vs Indianapolis Colts",
-                  "streams": [
-                    {
-                      "id": "st-22a2faa1ec",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b4dccd15dc",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791095113_hd/1791095113_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "Washington Commanders",
-            "team_b": "Indianapolis Colts",
-            "logo_a": "https://static.flashscore.com/res/image/data/KbmUMPg5-tbPaYDWc.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/MN9imLGG-YyQpH4gP.png",
-            "time": "20:30:00",
-            "date": "04/10",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gkjgfmtug9qg_6015c79f_20261004.png?v=6015c79f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-dded876a29",
           "name": "Kansas City Chiefs vs Las Vegas Raiders | 03:25 05/10",
