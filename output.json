@@ -1046,83 +1046,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-1d52363bae",
-          "name": "Fenerbahce nữ vs Manisa BB Nữ | 17:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1d52363bae",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1d52363bae",
-                  "name": "Fenerbahce nữ vs Manisa BB Nữ",
-                  "streams": [
-                    {
-                      "id": "st-1d52363bae",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-947cf552ea",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791018075_hd/1791018075_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Sultanlar Ligi Nữ",
-            "team_a": "Fenerbahce nữ",
-            "team_b": "Manisa BB Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/IROBodZA-z9Ihsud3.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/tU3wbCh5-fDi1I6CJ.png",
-            "time": "17:00:00",
-            "date": "04/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xxznsgay4jcl_52cd60e5_20261004.png?v=52cd60e5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-045d77ed0b",
           "name": "Scandicci Nữ vs Chieri '76 Nữ | 21:00 04/10",
