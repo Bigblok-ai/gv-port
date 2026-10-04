@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "09:00:00",
             "date": "04/10",
             "blv": "BLV Hấu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -2009,83 +2009,11 @@
     },
     {
       "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày (2 LIVE)",
+      "name": "⚾ Bóng Chày (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-1809388c3f",
-          "name": "New York Yankees vs Tampa Bay Rays | 05:30 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1809388c3f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1809388c3f",
-                  "name": "New York Yankees vs Tampa Bay Rays",
-                  "streams": [
-                    {
-                      "id": "st-1809388c3f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-639802597b",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791015617_hd/1791015617_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "MLB",
-            "team_a": "New York Yankees",
-            "team_b": "Tampa Bay Rays",
-            "logo_a": "https://static.flashscore.com/res/image/data/plT1Aqil-OpJ5uAOg.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/lGlxbdyB-6yNDMrbJ.png",
-            "time": "05:30:00",
-            "date": "04/10",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "bongchay"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d6e8z9500a5h_dc3f8b98_20261004.png?v=dc3f8b98",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-83577a42dc",
           "name": "San Diego Padres vs Milwaukee Brewers | 07:30 04/10",
