@@ -740,83 +740,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a4c7ee23d3",
-          "name": "Wonju Dongbu Promy vs Goyang Orions | 12:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a4c7ee23d3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a4c7ee23d3",
-                  "name": "Wonju Dongbu Promy vs Goyang Orions",
-                  "streams": [
-                    {
-                      "id": "st-a4c7ee23d3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2003278109",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791052169_hd/1791052169_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Wonju Dongbu Promy",
-            "team_b": "Goyang Orions",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ad13a8e4c726a65f277f7da7a19a4126.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/5b0e513f868dee6a403d7d5dfc3628b3.png",
-            "time": "12:00:00",
-            "date": "04/10",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23750375_b48b5c90_20261004.png?v=b48b5c90",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-debdd6bbba",
           "name": "Adelaide 36ers vs New Zealand Breakers | 13:00 04/10",
