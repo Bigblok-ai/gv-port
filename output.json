@@ -1949,6 +1949,150 @@
           }
         },
         {
+          "id": "gv-8a0faf090f",
+          "name": "KCC Egis vs KOGAS | 17:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8a0faf090f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8a0faf090f",
+                  "name": "KCC Egis vs KOGAS",
+                  "streams": [
+                    {
+                      "id": "st-8a0faf090f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-623a0e8e02",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791133208_hd/1791133208_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "KCC Egis",
+            "team_b": "KOGAS",
+            "logo_a": "https://static.flashscore.com/res/image/data/6akehaEa-QVr2kiM7.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/E9xGHfcM-vehtS5P1.png",
+            "time": "17:00:00",
+            "date": "07/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uau0467g4s1u_e526375c_20261005.png?v=e526375c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3540355a21",
+          "name": "Terrafima Dyip vs TNT Tropang 5G | 18:30 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3540355a21",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3540355a21",
+                  "name": "Terrafima Dyip vs TNT Tropang 5G",
+                  "streams": [
+                    {
+                      "id": "st-3540355a21",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4db215cc10",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791133252_hd/1791133252_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Philippines MPBL",
+            "team_a": "Terrafima Dyip",
+            "team_b": "TNT Tropang 5G",
+            "logo_a": "https://static.flashscore.com/res/image/data/vssaS5zB-GfI3TW5S.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/nTNHGwAr-hCospehC.png",
+            "time": "18:30:00",
+            "date": "07/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vvu8ulzg43e5_30cc5f05_20261005.png?v=30cc5f05",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-af868b7675",
           "name": "Indiana Pacers vs Minnesota Timberwolves | 06:00 08/10",
           "type": "single",
