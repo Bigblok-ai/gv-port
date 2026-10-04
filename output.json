@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-5f99401078",
-          "name": "Vegalta Sendai vs Jubilo Iwata | 13:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5f99401078",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5f99401078",
-                  "name": "Vegalta Sendai vs Jubilo Iwata",
-                  "streams": [
-                    {
-                      "id": "st-5f99401078",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-78337a3a93",
-                          "name": "Tỵ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791052056_hd/1791052056_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng 2 Nhật Bản",
-            "team_a": "Vegalta Sendai",
-            "team_b": "Jubilo Iwata",
-            "logo_a": "https://images.keovip88.net/images/teams/vegalta-sendai.png",
-            "logo_b": "https://images.keovip88.net/images/teams/jubilo-iwata.png",
-            "time": "13:00:00",
-            "date": "04/10",
-            "blv": "Tỵ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab9ae3024d46db870ba44b3_781c259d_20261004.png?v=781c259d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-159d6a0870",
           "name": "Barito Putera vs Persela | 15:30 04/10",
@@ -1640,7 +1568,7 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật",
+      "name": "🥊 Võ Thuật (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1653,10 +1581,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1705,7 +1633,7 @@
             "time": "16:00:00",
             "date": "04/10",
             "blv": "BLV Túi Mù",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "vothuat"
           },
           "image": {
