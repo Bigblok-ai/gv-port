@@ -1865,83 +1865,11 @@
     },
     {
       "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày (1 LIVE)",
+      "name": "⚾ Bóng Chày",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-83577a42dc",
-          "name": "San Diego Padres vs Milwaukee Brewers | 07:30 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-83577a42dc",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-83577a42dc",
-                  "name": "San Diego Padres vs Milwaukee Brewers",
-                  "streams": [
-                    {
-                      "id": "st-83577a42dc",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-733286e11e",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791052616_hd/1791052616_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "MLB - Division Series",
-            "team_a": "San Diego Padres",
-            "team_b": "Milwaukee Brewers",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/iM_hcWzccgEfD4bo-sp6Wg_96x96.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",
-            "time": "07:30:00",
-            "date": "04/10",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "bongchay"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bk0wjau1chgt_bc158724_20261004.png?v=bc158724",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ef28b8f480",
           "name": "Los Angeles Dodgers vs Atlanta Braves | 07:00 05/10",
