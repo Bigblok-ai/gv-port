@@ -1392,6 +1392,231 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-1e29e5419d",
+          "name": "Charlotte Hornets vs Brooklyn Nets | 06:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1e29e5419d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1e29e5419d",
+                  "name": "Charlotte Hornets vs Brooklyn Nets",
+                  "streams": [
+                    {
+                      "id": "st-1e29e5419d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7336730fc0",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791131525_hd/1791131525_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Charlotte Hornets",
+            "team_b": "Brooklyn Nets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c01b5e6f6659dd42195e9db3aaef13b7.png",
+            "time": "06:00:00",
+            "date": "07/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27802478_75551c69_20261004.png?v=75551c69",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-af868b7675",
+          "name": "Indiana Pacers vs Minnesota Timberwolves | 06:00 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-af868b7675",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-af868b7675",
+                  "name": "Indiana Pacers vs Minnesota Timberwolves",
+                  "streams": [
+                    {
+                      "id": "st-af868b7675",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-223b2bd112",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791131556_hd/1791131556_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Indiana Pacers",
+            "team_b": "Minnesota Timberwolves",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
+            "time": "06:00:00",
+            "date": "08/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20902472_46dd97e0_20261004.png?v=46dd97e0",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-71d768195e",
+          "name": "Vakifbank vs Eczacibasi | 23:00 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-71d768195e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-71d768195e",
+                  "name": "Vakifbank vs Eczacibasi",
+                  "streams": [
+                    {
+                      "id": "st-71d768195e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a4c166493",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791131605_hd/1791131605_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Super Cup Nữ - Chung kết",
+            "team_a": "Vakifbank",
+            "team_b": "Eczacibasi",
+            "logo_a": "https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Eczac%C4%B1ba%C5%9F%C4%B1.svg/1280px-Eczac%C4%B1ba%C5%9F%C4%B1.svg.png",
+            "time": "23:00:00",
+            "date": "06/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/o7qthijxghh7_200cf1af_20261004.png?v=200cf1af",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
