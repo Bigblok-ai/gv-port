@@ -1635,6 +1635,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-351ee6b5b5",
+          "name": "ONE Friday Fights 175 vs The Inner Circle 35 | 18:30 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-351ee6b5b5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-351ee6b5b5",
+                  "name": "ONE Friday Fights 175 vs The Inner Circle 35",
+                  "streams": [
+                    {
+                      "id": "st-351ee6b5b5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-55d06cb6b3",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791127661_hd/1791127661_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ONE Friday Fights 175 & The Inner Circle 35",
+            "team_a": "ONE Friday Fights 175",
+            "team_b": "The Inner Circle 35",
+            "logo_a": "https://cdn.onefc.com/wp-content/uploads/2026/09/261016-BKK-OFF175_TIC35-1800x1200px.jpg",
+            "logo_b": "https://cdn.onefc.com/wp-content/uploads/2026/09/261016-BKK-OFF175_TIC35-1800x1200px.jpg",
+            "time": "18:30:00",
+            "date": "16/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38erfpoyp7r2_d4a4e557_20261004.png?v=d4a4e557",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e82880cf98",
+          "name": "ONE SAMURAI 4 vs ONE SAMURAI 4 | 14:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e82880cf98",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e82880cf98",
+                  "name": "ONE SAMURAI 4 vs ONE SAMURAI 4",
+                  "streams": [
+                    {
+                      "id": "st-e82880cf98",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2f7be71be9",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791127745_hd/1791127745_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ONE SAMURAI 4",
+            "team_a": "ONE SAMURAI 4",
+            "team_b": "ONE SAMURAI 4",
+            "logo_a": "https://cdn.onefc.com/wp-content/uploads/2026/06/261017-OS4-1800x1200px-2.jpg",
+            "logo_b": "https://cdn.onefc.com/wp-content/uploads/2026/06/261017-OS4-1800x1200px-2.jpg",
+            "time": "14:00:00",
+            "date": "17/10",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/eefzx5x5avaf_d9125078_20261004.png?v=d9125078",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
