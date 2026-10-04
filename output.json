@@ -17,6 +17,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-1c631806ac",
+          "name": "Guerrilla FC vs Raniza FC | 08:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1c631806ac",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1c631806ac",
+                  "name": "Guerrilla FC vs Raniza FC",
+                  "streams": [
+                    {
+                      "id": "st-1c631806ac",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96fc1f4aa0",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791155816_hd/1791155816_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Kings Cup Mexico",
+            "team_a": "Guerrilla FC",
+            "team_b": "Raniza FC",
+            "logo_a": "https://static.flashscore.com/res/image/data/M73oSlgl-0vOGE30O.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/APZRCReM-0toPMBYu.png",
+            "time": "08:00:00",
+            "date": "05/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cbtzk8sfypjx_7b02ae86_20261005.png?v=7b02ae86",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-8d966b425a",
           "name": "Guerrilla FC vs Raniza FC | 08:00 05/10",
           "type": "single",
