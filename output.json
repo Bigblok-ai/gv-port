@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-adf921de5f",
-          "name": "FC Tulsa vs Sacramento Republic FC | 07:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-adf921de5f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-adf921de5f",
-                  "name": "FC Tulsa vs Sacramento Republic FC",
-                  "streams": [
-                    {
-                      "id": "st-adf921de5f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-36874263b1",
-                          "name": "BLV Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791051657_hd/1791051657_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "USL Championship Mỹ",
-            "team_a": "FC Tulsa",
-            "team_b": "Sacramento Republic FC",
-            "logo_a": "https://images.keovip88.net/images/teams/fc-tulsa.png",
-            "logo_b": "https://images.keovip88.net/images/teams/sacramento-republic-fc.png",
-            "time": "07:00:00",
-            "date": "04/10",
-            "blv": "BLV Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab9ae2f24d46db870ba4387_f83630df_20261004.png?v=f83630df",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ee4e8c2f62",
           "name": "Mỹ vs Mexico | 09:00 04/10",
