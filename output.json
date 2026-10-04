@@ -737,6 +737,345 @@
           }
         },
         {
+          "id": "gv-fca8d52c39",
+          "name": "Malaysia vs Việt Nam | 16:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fca8d52c39",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fca8d52c39",
+                  "name": "Malaysia vs Việt Nam",
+                  "streams": [
+                    {
+                      "id": "st-fca8d52c39",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7dd368e16d",
+                          "name": "Đầu Cầu Việt Nam Vô Địch",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791131707_hd/1791131707_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e94eaae830",
+                          "name": "Đầu cầu Malaysia",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791131718_hd/1791131718_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-51fc4a2047",
+                          "name": "Đầu Cầu Vui Vẻ",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791131741_hd/1791131741_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Malaysia",
+            "team_b": "Việt Nam",
+            "logo_a": "https://images.keovip88.net/images/teams/malaysia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/vietnam.png",
+            "time": "16:00:00",
+            "date": "05/10",
+            "blv": "Đầu Cầu Việt Nam Vô Địch, Đầu cầu Malaysia, Đầu Cầu Vui Vẻ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac1970724d46db87058ba0d_d75b0839_20261004.png?v=d75b0839",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2155d39478",
+          "name": "U19 Anh vs U19 Bỉ | 18:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2155d39478",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2155d39478",
+                  "name": "U19 Anh vs U19 Bỉ",
+                  "streams": [
+                    {
+                      "id": "st-2155d39478",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-606165c5ab",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791131863_hd/1791131863_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "U19 Anh",
+            "team_b": "U19 Bỉ",
+            "logo_a": "https://images.keovip88.net/images/teams/england-u19.png",
+            "logo_b": "https://images.keovip88.net/images/teams/belgium-u19.png",
+            "time": "18:00:00",
+            "date": "05/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac0459b24d46db8705b29ac_ffa2ce1c_20261004.png?v=ffa2ce1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b67480bd2a",
+          "name": "Indonesia vs Thái Lan | 20:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b67480bd2a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b67480bd2a",
+                  "name": "Indonesia vs Thái Lan",
+                  "streams": [
+                    {
+                      "id": "st-b67480bd2a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-949628fb94",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791131835_hd/1791131835_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-8a37e9a0bf",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791131840_hd/1791131840_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIFA ASEAN Cup",
+            "team_a": "Indonesia",
+            "team_b": "Thái Lan",
+            "logo_a": "https://images.keovip88.net/images/teams/indonesia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/thailand.png",
+            "time": "20:00:00",
+            "date": "05/10",
+            "blv": "BLV Hấu, Cận",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac1970824d46db87058bd90_8527ef26_20261004.png?v=8527ef26",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fcc5a862a9",
+          "name": "U21 Montenegro vs U21 Armenia | 21:30 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fcc5a862a9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fcc5a862a9",
+                  "name": "U21 Montenegro vs U21 Armenia",
+                  "streams": [
+                    {
+                      "id": "st-fcc5a862a9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa818775ec",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791131991_hd/1791131991_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VCK U21 Châu Âu",
+            "team_a": "U21 Montenegro",
+            "team_b": "U21 Armenia",
+            "logo_a": "https://images.keovip88.net/images/teams/montenegro-u21.png",
+            "logo_b": "https://images.keovip88.net/images/teams/armenia-u21.png",
+            "time": "21:30:00",
+            "date": "05/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/683b98524bc32556c602744b_1c158d17_20261004.png?v=1c158d17",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c785e5d002",
           "name": "Đảo Síp vs Latvia | 23:00 05/10",
           "type": "single",
@@ -2433,6 +2772,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q77e57z89l8c_c8dab93f_20261004.png?v=c8dab93f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-242869a7e3",
+          "name": "Cleverland Guardians vs Chicago White Sox | 04:00 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-242869a7e3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-242869a7e3",
+                  "name": "Cleverland Guardians vs Chicago White Sox",
+                  "streams": [
+                    {
+                      "id": "st-242869a7e3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9c93dce8a3",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791131689_hd/1791131689_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB",
+            "team_a": "Cleverland Guardians",
+            "team_b": "Chicago White Sox",
+            "logo_a": "https://static.flashscore.com/res/image/data/CMe9zXzS-QNrz0V5B.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rHrt6LAr-MFkjl69i.png",
+            "time": "04:00:00",
+            "date": "06/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/c67lqba49hlo_96e57238_20261004.png?v=96e57238",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4f67d6e634",
+          "name": "New York Yankees vs Tampa Bay Rays | 07:00 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4f67d6e634",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4f67d6e634",
+                  "name": "New York Yankees vs Tampa Bay Rays",
+                  "streams": [
+                    {
+                      "id": "st-4f67d6e634",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c7af86e021",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791131768_hd/1791131768_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB",
+            "team_a": "New York Yankees",
+            "team_b": "Tampa Bay Rays",
+            "logo_a": "https://static.flashscore.com/res/image/data/plT1Aqil-OpJ5uAOg.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/lGlxbdyB-6yNDMrbJ.png",
+            "time": "07:00:00",
+            "date": "06/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28mg9losp36t_dc3f8b98_20261004.png?v=dc3f8b98",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2165409ffa",
+          "name": "Los Angeles Dodgers vs Atlanta Braves | 05:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2165409ffa",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2165409ffa",
+                  "name": "Los Angeles Dodgers vs Atlanta Braves",
+                  "streams": [
+                    {
+                      "id": "st-2165409ffa",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5023724e4a",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791131841_hd/1791131841_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB",
+            "team_a": "Los Angeles Dodgers",
+            "team_b": "Atlanta Braves",
+            "logo_a": "https://static.flashscore.com/res/image/data/YeWStKhl-xUjXmOIP.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/IPmhSoEa-hvtJM6zJ.png",
+            "time": "05:00:00",
+            "date": "07/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/z1qemnhtztik_b53f5977_20261004.png?v=b53f5977",
             "width": 1600,
             "height": 1200
           }
