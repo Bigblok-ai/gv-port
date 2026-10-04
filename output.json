@@ -1223,83 +1223,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-21f3ef13a2",
-          "name": "Murcia vs Barcelona | 00:00 05/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-21f3ef13a2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-21f3ef13a2",
-                  "name": "Murcia vs Barcelona",
-                  "streams": [
-                    {
-                      "id": "st-21f3ef13a2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fb253e7e53",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791130554_hd/1791130554_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ACB",
-            "team_a": "Murcia",
-            "team_b": "Barcelona",
-            "logo_a": "https://static.flashscore.com/res/image/data/bFsA9LdM-hxasO7Sq.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Sn90D8FG-AZCWGI9F.png",
-            "time": "00:00:00",
-            "date": "05/10",
-            "blv": "Tôm",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/pltsgbqitxex_1d0d13f4_20261005.png?v=1d0d13f4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e514fb114e",
           "name": "Atlanta Dream vs New York Liberty | 01:00 05/10",
