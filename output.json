@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-8d966b425a",
+          "name": "Guerrilla FC vs Raniza FC | 08:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8d966b425a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8d966b425a",
+                  "name": "Guerrilla FC vs Raniza FC",
+                  "streams": [
+                    {
+                      "id": "st-8d966b425a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c330df1e60",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791050006_hd/1791050006_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "",
+            "team_a": "Guerrilla FC",
+            "team_b": "Raniza FC",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQARXwLvNfh3VIewkNu-Sy3keDOkgM_7FzQJA2CzJcw9w&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtZ9CILrPxOilMAlcrFj6vD89Pb0TLBDXB5LWN6iuog&s=10",
+            "time": "08:00:00",
+            "date": "05/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6o6r52atxvuz_3a9ebbc3_20261004.png?v=3a9ebbc3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
