@@ -1545,6 +1545,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-20e06ce9ac",
+          "name": "Beijing Open vs 2026 | 12:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-20e06ce9ac",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-20e06ce9ac",
+                  "name": "Beijing Open vs 2026",
+                  "streams": [
+                    {
+                      "id": "st-20e06ce9ac",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6b032c29f8",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791086369_hd/1791086369_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Beijing Open",
+            "team_a": "Beijing Open",
+            "team_b": "2026",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADC3pRGirDoA1eaQtvYds8PQ-vmcEESiPHvywMVtvYU3ERTP__FyL8m8F&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsQspwrh-Dk7JtfASP2qpK4oJgKz4Xd02T8keMrfzJeQ02gF-3s7n3mKY&s=10",
+            "time": "12:00:00",
+            "date": "04/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0hw54is3dabe_1ad43bdf_20261004.png?v=1ad43bdf",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2132,11 +2204,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-e8829120dd",
+                          "id": "lnk-b0f4cb7a07",
                           "name": "Súp",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791080347_hd/1791080347_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791080347_hd/1791080347_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
