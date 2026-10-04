@@ -521,6 +521,222 @@
           }
         },
         {
+          "id": "gv-f2998f64c0",
+          "name": "Malta vs Andorra | 23:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f2998f64c0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f2998f64c0",
+                  "name": "Malta vs Andorra",
+                  "streams": [
+                    {
+                      "id": "st-f2998f64c0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0775aa3055",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115077_hd/1791115077_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Malta",
+            "team_b": "Andorra",
+            "logo_a": "https://images.keovip88.net/images/teams/malta.png",
+            "logo_b": "https://images.keovip88.net/images/teams/andorra.png",
+            "time": "23:00:00",
+            "date": "04/10",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf77_968fc009_20261004.png?v=968fc009",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f379d79a8b",
+          "name": "Kosovo vs Áo | 23:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f379d79a8b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f379d79a8b",
+                  "name": "Kosovo vs Áo",
+                  "streams": [
+                    {
+                      "id": "st-f379d79a8b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1fb3103111",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115134_hd/1791115134_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Kosovo",
+            "team_b": "Áo",
+            "logo_a": "https://images.keovip88.net/images/teams/kosovo.png",
+            "logo_b": "https://images.keovip88.net/images/teams/austria.png",
+            "time": "23:00:00",
+            "date": "04/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf5a_625c8318_20261004.png?v=625c8318",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8268e338bb",
+          "name": "Hy Lạp vs Đức | 01:45 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8268e338bb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8268e338bb",
+                  "name": "Hy Lạp vs Đức",
+                  "streams": [
+                    {
+                      "id": "st-8268e338bb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c7c1562742",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115177_hd/1791115177_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Hy Lạp",
+            "team_b": "Đức",
+            "logo_a": "https://images.keovip88.net/images/teams/greece.png",
+            "logo_b": "https://images.keovip88.net/images/teams/germany.png",
+            "time": "01:45:00",
+            "date": "05/10",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf765_e50d1671_20261004.png?v=e50d1671",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-8d966b425a",
           "name": "Guerrilla FC vs Raniza FC | 08:00 05/10",
           "type": "single",
