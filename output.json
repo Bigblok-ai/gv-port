@@ -404,11 +404,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-c7c1562742",
+                          "id": "lnk-24017d08cb",
                           "name": "Ngọng",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115177_hd/1791115177_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791115177_hd/1791115177_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -663,16 +663,160 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c785e5d002",
+          "name": "Đảo Síp vs Latvia | 23:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c785e5d002",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c785e5d002",
+                  "name": "Đảo Síp vs Latvia",
+                  "streams": [
+                    {
+                      "id": "st-c785e5d002",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c686bcef2d",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791130571_hd/1791130571_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Đảo Síp",
+            "team_b": "Latvia",
+            "logo_a": "https://images.keovip88.net/images/teams/cyprus.png",
+            "logo_b": "https://images.keovip88.net/images/teams/latvia.png",
+            "time": "23:00:00",
+            "date": "05/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf66_8fefa9e5_20261004.png?v=8fefa9e5",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-21f3ef13a2",
+          "name": "Murcia vs Barcelona | 00:00 04/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-21f3ef13a2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-21f3ef13a2",
+                  "name": "Murcia vs Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-21f3ef13a2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fb253e7e53",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791130554_hd/1791130554_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ACB",
+            "team_a": "Murcia",
+            "team_b": "Barcelona",
+            "logo_a": "https://static.flashscore.com/res/image/data/bFsA9LdM-hxasO7Sq.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/Sn90D8FG-AZCWGI9F.png",
+            "time": "00:00:00",
+            "date": "04/10",
+            "blv": "Tôm",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/pltsgbqitxex_1d0d13f4_20261004.png?v=1d0d13f4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-655b0ecdd4",
           "name": "Basket Zaragoza vs Valencia | 22:00 04/10",
@@ -773,11 +917,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-e29b2d6e77",
+                          "id": "lnk-6b44bab533",
                           "name": "Điếc",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115599_hd/1791115599_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791115599_hd/1791115599_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1790,6 +1934,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-36c2d53a7c",
+          "name": "San Diego Padres vs Milwaukee Brewers | 03:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-36c2d53a7c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-36c2d53a7c",
+                  "name": "San Diego Padres vs Milwaukee Brewers",
+                  "streams": [
+                    {
+                      "id": "st-36c2d53a7c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b513740184",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791130612_hd/1791130612_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - Division Series",
+            "team_a": "San Diego Padres",
+            "team_b": "Milwaukee Brewers",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/467Meu6PL9-FddkGftApJA_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/iM_hcWzccgEfD4bo-sp6Wg_96x96.png",
+            "time": "03:00:00",
+            "date": "05/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/plpupkfv56qu_f53ce1ca_20261004.png?v=f53ce1ca",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-ef28b8f480",
           "name": "Los Angeles Dodgers vs Atlanta Braves | 07:00 05/10",
           "type": "single",
@@ -1938,6 +2154,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gkjgfmtug9qg_6015c79f_20261004.png?v=6015c79f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-dded876a29",
+          "name": "Kansas City Chiefs vs Las Vegas Raiders | 03:25 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dded876a29",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-dded876a29",
+                  "name": "Kansas City Chiefs vs Las Vegas Raiders",
+                  "streams": [
+                    {
+                      "id": "st-dded876a29",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d7ef7aa1aa",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791130741_hd/1791130741_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Kansas City Chiefs",
+            "team_b": "Las Vegas Raiders",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/w7shEYWVYqmugc3x-DGVKg_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/UVLlczXJQ1wxxKMT9ShJQw_96x96.png",
+            "time": "03:25:00",
+            "date": "05/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/t19hln3gu1gi_624d7f69_20261004.png?v=624d7f69",
             "width": 1600,
             "height": 1200
           }
