@@ -1422,7 +1422,7 @@
       "channels": [
         {
           "id": "gv-b49e544e2d",
-          "name": "RED Canids vs KT | 14:00 04/10",
+          "name": "BFX vs LDG | 14:00 04/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1441,7 +1441,7 @@
               "contents": [
                 {
                   "id": "ct-b49e544e2d",
-                  "name": "RED Canids vs KT",
+                  "name": "BFX vs LDG",
                   "streams": [
                     {
                       "id": "st-b49e544e2d",
@@ -1473,10 +1473,10 @@
           ],
           "org_metadata": {
             "league": "Demacia Cup Global Invitational",
-            "team_a": "RED Canids",
-            "team_b": "KT",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJOShi9w7oKH_QwSzHrXEKAQNfRtCbJVHpSOydQ6KKFQ&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Z_VcLeqBnYlomnoDMUlVRUV3i4BHkpZxrwgGjacwKQ&s",
+            "team_a": "BFX",
+            "team_b": "LDG",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRrEmNb1ep4AF3ZmHm103vbTGm5vAVnPog_JDcdUYxQ&s=10",
+            "logo_b": "https://liquipedia.net/commons/images/thumb/2/2f/LGD_Gaming_Dec_2019_allmode.png/600px-LGD_Gaming_Dec_2019_allmode.png",
             "time": "14:00:00",
             "date": "04/10",
             "blv": "BLV Hấu",
@@ -1487,7 +1487,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/exi76y9d1y3n_66e4e691_20261004.png?v=66e4e691",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/exi76y9d1y3n_d2508643_20261004.png?v=d2508643",
             "width": 1600,
             "height": 1200
           }
@@ -2027,83 +2027,11 @@
     },
     {
       "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn (1 LIVE)",
+      "name": "🏓 Bóng Bàn",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-54fa06e5b3",
-          "name": "Iulian CHIRITA vs Wen RuiBo | 11:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-54fa06e5b3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-54fa06e5b3",
-                  "name": "Iulian CHIRITA vs Wen RuiBo",
-                  "streams": [
-                    {
-                      "id": "st-54fa06e5b3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b0f4cb7a07",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791080347_hd/1791080347_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "China SMash 2026",
-            "team_a": "Iulian CHIRITA",
-            "team_b": "Wen RuiBo",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbg18GIOWp8q_dFBu8rLgj9m7noorvHBbyg2iTJdznlWaqZYtt82kUrff2CQqLh7aoppplMKuMO7x03x2ASfD-5i5mlC_KAtM1nKqDt4o&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9eYudge4knbzlgr84sm_CnlELN8WSWY1LX3Df3Wx2TqV61t6jGAZR-xH24a6yo6tL6nzjqo4Q_DnC4ZjhpdFOdVII8Ib1f6QWagp6bhQ&s=10",
-            "time": "11:00:00",
-            "date": "04/10",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hgk8o2rsc8bl_d372c1e5_20261004.png?v=d372c1e5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b59e5fa29b",
           "name": "China Smash 2026 vs China Smash 2026 | 17:00 04/10",
