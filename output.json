@@ -1106,6 +1106,150 @@
           }
         },
         {
+          "id": "gv-e514fb114e",
+          "name": "Atlanta Dream vs New York Liberty | 01:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e514fb114e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e514fb114e",
+                  "name": "Atlanta Dream vs New York Liberty",
+                  "streams": [
+                    {
+                      "id": "st-e514fb114e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e29b2d6e77",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115599_hd/1791115599_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "Atlanta Dream",
+            "team_b": "New York Liberty",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f527c983cab3560c60e7b9d147904d7d.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7a41b2cf98e8350722b096134858af8e.png",
+            "time": "01:00:00",
+            "date": "05/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24442475_7b3a274c_20261004.png?v=7b3a274c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bed6c2f6c9",
+          "name": "Golden State Valkyries vs Las Vegas Aces | 03:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bed6c2f6c9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bed6c2f6c9",
+                  "name": "Golden State Valkyries vs Las Vegas Aces",
+                  "streams": [
+                    {
+                      "id": "st-bed6c2f6c9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1fe94694bc",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115830_hd/1791115830_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "Golden State Valkyries",
+            "team_b": "Las Vegas Aces",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/911d51e9d324e887960542ac17a87e1b.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cbf9424df17d6e06d655dca78651d329.png",
+            "time": "03:00:00",
+            "date": "05/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38762474_8d23a1d0_20261004.png?v=8d23a1d0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-90f6343d8e",
           "name": "Ulsan Hyundai Mobis Phoebus vs Jeonju KCC Egis | 12:00 05/10",
           "type": "single",
