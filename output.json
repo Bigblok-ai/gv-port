@@ -476,11 +476,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-bcdfcd24bf",
+                          "id": "lnk-c45976171d",
                           "name": "BLV Hấu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115210_hd/1791115210_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791115210_hd/1791115210_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -548,11 +548,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-117dba4f7b",
-                          "name": "Chồn",
+                          "id": "lnk-604785e0b3",
+                          "name": "Mù",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115230_hd/1791115230_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791130944_hd/1791130944_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -579,7 +579,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/norway.png",
             "time": "01:45:00",
             "date": "05/10",
-            "blv": "Chồn",
+            "blv": "Mù",
             "is_live": false,
             "cate_type": "football"
           },
@@ -588,6 +588,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf49_8c913d5a_20261004.png?v=8c913d5a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-638bb83053",
+          "name": "Wales vs Đan Mạch | 01:45 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-638bb83053",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-638bb83053",
+                  "name": "Wales vs Đan Mạch",
+                  "streams": [
+                    {
+                      "id": "st-638bb83053",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dd6d1b4563",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791130956_hd/1791130956_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Wales",
+            "team_b": "Đan Mạch",
+            "logo_a": "https://images.keovip88.net/images/teams/wales.png",
+            "logo_b": "https://images.keovip88.net/images/teams/denmark.png",
+            "time": "01:45:00",
+            "date": "05/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf773_8685fcd4_20261004.png?v=8685fcd4",
             "width": 1600,
             "height": 1200
           }
@@ -740,83 +812,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-21f3ef13a2",
-          "name": "Murcia vs Barcelona | 00:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-21f3ef13a2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-21f3ef13a2",
-                  "name": "Murcia vs Barcelona",
-                  "streams": [
-                    {
-                      "id": "st-21f3ef13a2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fb253e7e53",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791130554_hd/1791130554_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ACB",
-            "team_a": "Murcia",
-            "team_b": "Barcelona",
-            "logo_a": "https://static.flashscore.com/res/image/data/bFsA9LdM-hxasO7Sq.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Sn90D8FG-AZCWGI9F.png",
-            "time": "00:00:00",
-            "date": "04/10",
-            "blv": "Tôm",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/pltsgbqitxex_1d0d13f4_20261004.png?v=1d0d13f4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-655b0ecdd4",
           "name": "Basket Zaragoza vs Valencia | 22:00 04/10",
@@ -989,11 +989,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-1fe94694bc",
+                          "id": "lnk-d6281f6d2b",
                           "name": "Vịt",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115830_hd/1791115830_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791115830_hd/1791115830_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1173,87 +1173,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26750378_861cbdda_20261004.png?v=861cbdda",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-045d77ed0b",
-          "name": "Scandicci Nữ vs Chieri '76 Nữ | 21:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-045d77ed0b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-045d77ed0b",
-                  "name": "Scandicci Nữ vs Chieri '76 Nữ",
-                  "streams": [
-                    {
-                      "id": "st-045d77ed0b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d3a0a4ea9f",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791018164_hd/1791018164_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seri A1 Nữ",
-            "team_a": "Scandicci Nữ",
-            "team_b": "Chieri '76 Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/0QZRMbg5-MuuCgGgG.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/6m34C7xS-zwIwk56d.png",
-            "time": "21:00:00",
-            "date": "04/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sttvqsnygthc_c142e1f2_20261004.png?v=c142e1f2",
             "width": 1600,
             "height": 1200
           }
