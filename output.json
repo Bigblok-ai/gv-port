@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-6182e4435a",
-          "name": "Consadole Sapporo vs Iwaki FC | 11:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6182e4435a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6182e4435a",
-                  "name": "Consadole Sapporo vs Iwaki FC",
-                  "streams": [
-                    {
-                      "id": "st-6182e4435a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-20c0385ee1",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791052019_hd/1791052019_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng 2 Nhật Bản",
-            "team_a": "Consadole Sapporo",
-            "team_b": "Iwaki FC",
-            "logo_a": "https://images.keovip88.net/images/teams/consadole-sapporo.png",
-            "logo_b": "https://images.keovip88.net/images/teams/iwaki-fc.png",
-            "time": "11:00:00",
-            "date": "04/10",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab9ae3024d46db870ba4417_5b61ea17_20261004.png?v=5b61ea17",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-5f99401078",
           "name": "Vegalta Sendai vs Jubilo Iwata | 13:00 04/10",
@@ -812,83 +740,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-3b9f7b12e1",
-          "name": "South East Melbourne Phoenix vs Illawarra Hawks | 11:00 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3b9f7b12e1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3b9f7b12e1",
-                  "name": "South East Melbourne Phoenix vs Illawarra Hawks",
-                  "streams": [
-                    {
-                      "id": "st-3b9f7b12e1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ec4a33f0ff",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791052103_hd/1791052103_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "South East Melbourne Phoenix",
-            "team_b": "Illawarra Hawks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e5c63f30ad74c5c5159f1e7695173ae5.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97aa6ff62044e05b1dc126043568a18.png",
-            "time": "11:00:00",
-            "date": "04/10",
-            "blv": "Tôm",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/12322278_8d3ccd6d_20261004.png?v=8d3ccd6d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a4c7ee23d3",
           "name": "Wonju Dongbu Promy vs Goyang Orions | 12:00 04/10",
