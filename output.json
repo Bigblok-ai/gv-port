@@ -737,6 +737,150 @@
           }
         },
         {
+          "id": "gv-9217e2f999",
+          "name": "Hà Lan vs Serbia | 01:45 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9217e2f999",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9217e2f999",
+                  "name": "Hà Lan vs Serbia",
+                  "streams": [
+                    {
+                      "id": "st-9217e2f999",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bcdfcd24bf",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115210_hd/1791115210_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Hà Lan",
+            "team_b": "Serbia",
+            "logo_a": "https://images.keovip88.net/images/teams/netherlands.png",
+            "logo_b": "https://images.keovip88.net/images/teams/serbia.png",
+            "time": "01:45:00",
+            "date": "05/10",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf764_09116cf9_20261004.png?v=09116cf9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-480942b66d",
+          "name": "Bồ Đào Nha vs Na Uy | 01:45 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-480942b66d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-480942b66d",
+                  "name": "Bồ Đào Nha vs Na Uy",
+                  "streams": [
+                    {
+                      "id": "st-480942b66d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-117dba4f7b",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791115230_hd/1791115230_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Bồ Đào Nha",
+            "team_b": "Na Uy",
+            "logo_a": "https://images.keovip88.net/images/teams/portugal.png",
+            "logo_b": "https://images.keovip88.net/images/teams/norway.png",
+            "time": "01:45:00",
+            "date": "05/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf49_8c913d5a_20261004.png?v=8c913d5a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-8d966b425a",
           "name": "Guerrilla FC vs Raniza FC | 08:00 05/10",
           "type": "single",
