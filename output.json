@@ -1406,7 +1406,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1419,10 +1419,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1471,7 +1471,7 @@
             "time": "21:00:00",
             "date": "04/10",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
@@ -1487,7 +1487,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (2 LIVE)",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1560,78 +1560,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ifg3o1ysrx8a_c9594163_20261004.png?v=c9594163",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-825a912840",
-          "name": "WE vs BRO | 18:30 04/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-825a912840",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-825a912840",
-                  "name": "WE vs BRO",
-                  "streams": [
-                    {
-                      "id": "st-825a912840",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1513fa656f",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791093038_hd/1791093038_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Demacia Cup Global Invitational",
-            "team_a": "WE",
-            "team_b": "BRO",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IxiaTQriha08T6hGo7sDEIY_hoctGgOSziyBYvz_kQ&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRROVyF3K0ggd96nHyTgwPWUwJCJfq36DIVgHfl7jIadw&s=10",
-            "time": "18:30:00",
-            "date": "04/10",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2b2dp1vxm5r8_5cde052d_20261004.png?v=5cde052d",
             "width": 1600,
             "height": 1200
           }
