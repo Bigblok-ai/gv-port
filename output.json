@@ -195,6 +195,78 @@
           }
         },
         {
+          "id": "gv-cb196c3080",
+          "name": "Việt Nam vs Palestine | 18:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cb196c3080",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cb196c3080",
+                  "name": "Việt Nam vs Palestine",
+                  "streams": [
+                    {
+                      "id": "st-cb196c3080",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3aa734df44",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791192795_hd/1791192795_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VÒNG LOẠI U17 NỮ CHÂU Á 2027",
+            "team_a": "Việt Nam",
+            "team_b": "Palestine",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/qxBrX9S2fwxQ5BHasGlEuQ_96x96.png",
+            "time": "18:00:00",
+            "date": "05/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gjr19vyootk8_3977f65b_20261005.png?v=3977f65b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-b67480bd2a",
           "name": "Indonesia vs Thái Lan | 20:00 05/10",
           "type": "single",
