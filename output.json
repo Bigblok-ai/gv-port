@@ -123,6 +123,78 @@
           }
         },
         {
+          "id": "gv-ea3f538408",
+          "name": "Mỹ U19 vs U19 Na Uy | 16:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ea3f538408",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ea3f538408",
+                  "name": "Mỹ U19 vs U19 Na Uy",
+                  "streams": [
+                    {
+                      "id": "st-ea3f538408",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7a64b1dda4",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791190342_hd/1791190342_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Mỹ U19",
+            "team_b": "U19 Na Uy",
+            "logo_a": "https://images.keovip88.net/images/teams/usau19.png",
+            "logo_b": "https://images.keovip88.net/images/teams/norway-u19.png",
+            "time": "16:00:00",
+            "date": "05/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac0459a24d46db8705b2982_c4b6f9ab_20261005.png?v=c4b6f9ab",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-2155d39478",
           "name": "U19 Anh vs U19 Bỉ | 18:00 05/10",
           "type": "single",
@@ -1931,11 +2003,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-0b801bc1e7",
+                          "id": "lnk-4737397a6d",
                           "name": "Cận",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791132036_hd/1791132036_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791132036_hd/1791132036_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
