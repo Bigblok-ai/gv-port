@@ -1740,6 +1740,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-45f11d3a76",
+          "name": "Jiri Lehecka vs Valentin Vacherot | 18:00 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-45f11d3a76",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-45f11d3a76",
+                  "name": "Jiri Lehecka vs Valentin Vacherot",
+                  "streams": [
+                    {
+                      "id": "st-45f11d3a76",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3a0b35877",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791191766_hd/1791191766_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Tokyo Open",
+            "team_a": "Jiri Lehecka",
+            "team_b": "Valentin Vacherot",
+            "logo_a": "https://static.flashscore.com/res/image/data/AqYxUkCa-ne6Kkdx9.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/fkT5LycM-6VJ5WJfp.png",
+            "time": "18:00:00",
+            "date": "05/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q645bpegv6ic_c7e63db5_20261005.png?v=c7e63db5",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1946,23 +2018,6 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
-                        },
-                        {
-                          "id": "lnk-2b95ddfd88",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791190727_hd/1791190727_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
                         }
                       ]
                     }
@@ -1979,7 +2034,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/KSfxi1Br-CITctYCH.png",
             "time": "16:00:00",
             "date": "05/10",
-            "blv": "Cận, Dory",
+            "blv": "Cận",
             "is_live": true,
             "cate_type": "esport"
           },
