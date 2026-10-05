@@ -3162,6 +3162,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-e12a647e5b",
+          "name": "Spain Men vs Phillippines Man | 12:30 05/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e12a647e5b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e12a647e5b",
+                  "name": "Spain Men vs Phillippines Man",
+                  "streams": [
+                    {
+                      "id": "st-e12a647e5b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c67c84e1e3",
+                          "name": "Bón",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791162937_hd/1791162937_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WPA Men's Doubles 10-Ball World Championship",
+            "team_a": "Spain Men",
+            "team_b": "Phillippines Man",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_the_Kingdom_of_Spain.svg/1280px-Flag_of_the_Kingdom_of_Spain.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1280px-Flag_of_the_Philippines.svg.png?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+            "time": "12:30:00",
+            "date": "05/10",
+            "blv": "Bón",
+            "is_live": false,
+            "cate_type": "Billiards"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tnc1bzhi2ibs_6e811be8_20261005.png?v=6e811be8",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
