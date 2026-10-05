@@ -1664,7 +1664,7 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis",
+      "name": "🎾 Tennis (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1677,10 +1677,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1729,7 +1729,7 @@
             "time": "14:00:00",
             "date": "05/10",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "tennis"
           },
           "image": {
@@ -1769,11 +1769,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-6c681c3e8b",
+                          "id": "lnk-079376344e",
                           "name": "Ben",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791182367_hd/1791182367_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791182367_hd/1791182367_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1898,7 +1898,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1911,10 +1911,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1963,7 +1963,7 @@
             "time": "14:00:00",
             "date": "05/10",
             "blv": "BLV Hấu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
