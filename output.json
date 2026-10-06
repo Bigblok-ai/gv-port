@@ -3077,6 +3077,78 @@
           }
         },
         {
+          "id": "gv-c20acb7976",
+          "name": "G2 vs PARIVISION | 19:00 06/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c20acb7976",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c20acb7976",
+                  "name": "G2 vs PARIVISION",
+                  "streams": [
+                    {
+                      "id": "st-c20acb7976",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-202d692bd2",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791281186_hd/1791281186_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-ESL Pro League Season 24",
+            "team_a": "G2",
+            "team_b": "PARIVISION",
+            "logo_a": "https://static.flashscore.com/res/image/data/EgYNlNDa-YoDO6SX0.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/hCocHMYg-nsgDhzrP.png",
+            "time": "19:00:00",
+            "date": "06/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xi6mv26jcc0s_8f0f5c32_20261006.png?v=8f0f5c32",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-2602f4632a",
           "name": "GAM vs FLY | 14:00 07/10",
           "type": "single",
