@@ -3890,7 +3890,7 @@
     },
     {
       "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn",
+      "name": "🏓 Bóng Bàn (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -3903,10 +3903,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -3923,11 +3923,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-e26a651763",
+                          "id": "lnk-024f39317c",
                           "name": "Dory",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791280384_hd/1791280384_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791280384_hd/1791280384_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -3950,19 +3950,19 @@
             "league": "",
             "team_a": "Benedikt DUDA",
             "team_b": "Wen Ruibo",
-            "logo_a": "",
-            "logo_b": "",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwE7AsmPa2RDcqB82hhyVMlzm2JUc5z6K_4e8ikPnqg&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ-CC5SImBCPrWC3snoUfS6pfcXhkIEtmr8b-4vODDyA&s=10",
             "time": "17:00:00",
             "date": "06/10",
             "blv": "Dory",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongban"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/m6ppw7y8x359_6654c734_20261006.png?v=6654c734",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/m6ppw7y8x359_38261574_20261006.png?v=38261574",
             "width": 1600,
             "height": 1200
           }
