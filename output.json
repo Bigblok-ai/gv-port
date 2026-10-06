@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "07:00:00",
             "date": "07/10",
             "blv": "Ngọng",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1100,7 +1100,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1185,10 +1185,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1237,7 +1237,7 @@
             "time": "07:00:00",
             "date": "07/10",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2864,7 +2864,7 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao",
+      "name": "🏅 Thể Thao (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2877,10 +2877,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2929,7 +2929,7 @@
             "time": "07:00:00",
             "date": "07/10",
             "blv": "Riko",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "rugby"
           },
           "image": {
@@ -2937,6 +2937,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9u1ewtvj6mku_9b443a1d_20261007.png?v=9b443a1d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e3d3f1e503",
+          "name": "Southern Miss vs Troy | 07:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e3d3f1e503",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e3d3f1e503",
+                  "name": "Southern Miss vs Troy",
+                  "streams": [
+                    {
+                      "id": "st-e3d3f1e503",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b454f4d3cf",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791330131_hd/1791330131_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NCAA",
+            "team_a": "Southern Miss",
+            "team_b": "Troy",
+            "logo_a": "https://static.flashscore.com/res/image/data/OvE2Irjl-jsMTAAgs.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OAR7KKCa-YXNc32Ym.png",
+            "time": "07:00:00",
+            "date": "07/10",
+            "blv": "Riko",
+            "is_live": true,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nh8luzohlzog_fa35dd72_20261007.png?v=fa35dd72",
             "width": 1600,
             "height": 1200
           }
