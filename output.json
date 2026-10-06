@@ -1527,6 +1527,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-81784b0bd9",
+          "name": "Gainare Tottori vs Tokyo Verdy | 17:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-81784b0bd9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-81784b0bd9",
+                  "name": "Gainare Tottori vs Tokyo Verdy",
+                  "streams": [
+                    {
+                      "id": "st-81784b0bd9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f3309ac48f",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791132844_hd/1791132844_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japan - Emperor's Cup",
+            "team_a": "Gainare Tottori",
+            "team_b": "Tokyo Verdy",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/8qOgROZAQkzfxxgdvGtS0w_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/ysp3NGnL8uFUoo21Je0AtA_96x96.png",
+            "time": "17:00:00",
+            "date": "07/10",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5y4xvuf5wf6c_edaebf6e_20261006.png?v=edaebf6e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-705fc89528",
+          "name": "Kawasaki Frontale vs Tegevajaro Miyazaki | 17:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-705fc89528",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-705fc89528",
+                  "name": "Kawasaki Frontale vs Tegevajaro Miyazaki",
+                  "streams": [
+                    {
+                      "id": "st-705fc89528",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c7d28ae740",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791132879_hd/1791132879_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japan - Emperor's Cup",
+            "team_a": "Kawasaki Frontale",
+            "team_b": "Tegevajaro Miyazaki",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/JzqHyQjUTYRQf_9HHYqFBw_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/MelzBij6yO52WUiasID7xA_96x96.png",
+            "time": "17:00:00",
+            "date": "07/10",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/y3q4gwpseogy_1f2c60c3_20261006.png?v=1f2c60c3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
