@@ -1599,6 +1599,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-f7de0a44c9",
+          "name": "Buriram United vs Borneo FC Samarinda | 19:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f7de0a44c9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f7de0a44c9",
+                  "name": "Buriram United vs Borneo FC Samarinda",
+                  "streams": [
+                    {
+                      "id": "st-f7de0a44c9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-199c5f0f87",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791132988_hd/1791132988_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Club Championship",
+            "team_a": "Buriram United",
+            "team_b": "Borneo FC Samarinda",
+            "logo_a": "https://images.keovip88.net/images/teams/buriram-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/borneo-fc-samarinda.png",
+            "time": "19:00:00",
+            "date": "07/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a3b209929d03bd35c0da63b_f4e3e957_20261006.png?v=f4e3e957",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0fbd727ce5",
+          "name": "Ratchaburi FC vs TP Hồ Chí Minh | 19:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0fbd727ce5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0fbd727ce5",
+                  "name": "Ratchaburi FC vs TP Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-0fbd727ce5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-12d05d5b56",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791132994_hd/1791132994_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Club Championship",
+            "team_a": "Ratchaburi FC",
+            "team_b": "TP Hồ Chí Minh",
+            "logo_a": "https://images.keovip88.net/images/teams/ratchaburi-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ho-chi-minh-city.png",
+            "time": "19:00:00",
+            "date": "07/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a98b9ebc3cb5766bc0155ed_02cb60d6_20261006.png?v=02cb60d6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2783,83 +2927,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (3 LIVE)",
+      "name": "🎮 Esport (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-5657da15d1",
-          "name": "JDG vs LGD | 16:00 06/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5657da15d1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5657da15d1",
-                  "name": "JDG vs LGD",
-                  "streams": [
-                    {
-                      "id": "st-5657da15d1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b2a2dc7b5e",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791276865_hd/1791276865_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Demacia Cup Global Invitational",
-            "team_a": "JDG",
-            "team_b": "LGD",
-            "logo_a": "https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/K2DzGSil-IizXy6Yg.png",
-            "time": "16:00:00",
-            "date": "06/10",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sqlc3z0mssqf_26d40a89_20261006.png?v=26d40a89",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ced6115fb5",
           "name": "Round 4 High Matches vs 2026 | 19:00 06/10",
