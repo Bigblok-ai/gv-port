@@ -1106,78 +1106,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-1e29e5419d",
-          "name": "Charlotte Hornets vs Brooklyn Nets | 06:00 07/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1e29e5419d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1e29e5419d",
-                  "name": "Charlotte Hornets vs Brooklyn Nets",
-                  "streams": [
-                    {
-                      "id": "st-1e29e5419d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7336730fc0",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791131525_hd/1791131525_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Charlotte Hornets",
-            "team_b": "Brooklyn Nets",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c01b5e6f6659dd42195e9db3aaef13b7.png",
-            "time": "06:00:00",
-            "date": "07/10",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27802478_75551c69_20261007.png?v=75551c69",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-8f107260a3",
           "name": "Oklahoma City Thunder vs New Orleans Pelicans | 07:00 07/10",
           "type": "single",
@@ -1329,10 +1257,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1381,7 +1309,7 @@
             "time": "09:00:00",
             "date": "07/10",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
