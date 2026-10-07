@@ -620,11 +620,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-12d05d5b56",
+                          "id": "lnk-eca3255d35",
                           "name": "Trĩ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791132994_hd/1791132994_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791132994_hd/1791132994_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -692,11 +692,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-380ab45b3c",
+                          "id": "lnk-1f696be72c",
                           "name": "BLV Hấu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791133012_hd/1791133012_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791133012_hd/1791133012_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -764,11 +764,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-f3c4ba8dc3",
-                          "name": "Bee",
+                          "id": "lnk-758351a546",
+                          "name": "Tôm",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791133030_hd/1791133030_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791348021_hd/1791348021_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -795,7 +795,7 @@
             "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/csM2SxjijCuBViSDABD89Q_96x96.png",
             "time": "22:00:00",
             "date": "07/10",
-            "blv": "Bee",
+            "blv": "Tôm",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1277,11 +1277,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-4db215cc10",
-                          "name": "Chồn",
+                          "id": "lnk-064ad5d40e",
+                          "name": "Trực Tiếp Nhà Đài",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791133252_hd/1791133252_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791347741_hd/1791347741_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1308,7 +1308,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/nTNHGwAr-hCospehC.png",
             "time": "18:30:00",
             "date": "07/10",
-            "blv": "Chồn",
+            "blv": "Trực Tiếp Nhà Đài",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -1973,7 +1973,7 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis",
+      "name": "🎾 Tennis (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1986,10 +1986,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2038,7 +2038,7 @@
             "time": "12:00:00",
             "date": "07/10",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "tennis"
           },
           "image": {
