@@ -2196,7 +2196,7 @@
         },
         {
           "id": "gv-a1adb05efb",
-          "name": "Ann Li vs Elina Svitolina | 21:30 07/10",
+          "name": "Ann Li vs Elina Svitolina | 19:30 07/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2251,7 +2251,7 @@
             "team_b": "Elina Svitolina",
             "logo_a": "https://static.flashscore.com/res/image/data/llUgNVZA-f1sNjIYC.png",
             "logo_b": "https://static.flashscore.com/res/image/data/0hCIo7h5-WCqsXbkh.png",
-            "time": "21:30:00",
+            "time": "19:30:00",
             "date": "07/10",
             "blv": "Sún",
             "is_live": false,
@@ -3963,6 +3963,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hmjx2p54hrq7_2a6fc7de_20261007.png?v=2a6fc7de",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-17a3fb4770",
+          "name": "SUN Yingsha vs Orawan PARANANG | 17:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-17a3fb4770",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-17a3fb4770",
+                  "name": "SUN Yingsha vs Orawan PARANANG",
+                  "streams": [
+                    {
+                      "id": "st-17a3fb4770",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4f4899f3bd",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791348985_hd/1791348985_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "China Smash 2026",
+            "team_a": "SUN Yingsha",
+            "team_b": "Orawan PARANANG",
+            "logo_a": "https://static.flashscore.com/res/image/data/U9Szb8Wg-b7qbNXIQ.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/O2l05rZg-OrAJV5sp.png",
+            "time": "17:00:00",
+            "date": "07/10",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/inq60x3d2rsm_479a5932_20261007.png?v=479a5932",
             "width": 1600,
             "height": 1200
           }
