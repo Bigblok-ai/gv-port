@@ -1991,7 +1991,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (2 LIVE)",
+      "name": "🎮 Esport (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2148,10 +2148,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2168,11 +2168,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-22eab6aaae",
+                          "id": "lnk-8f03441fb7",
                           "name": "Mickey",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791348653_hd/1791348653_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791348653_hd/1791348653_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2200,7 +2200,7 @@
             "time": "19:00:00",
             "date": "07/10",
             "blv": "Mickey",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
