@@ -3167,6 +3167,150 @@
           }
         },
         {
+          "id": "gv-44b1aa167e",
+          "name": "Chicago White Sox vs Cleverland Guardians | 03:00 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-44b1aa167e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-44b1aa167e",
+                  "name": "Chicago White Sox vs Cleverland Guardians",
+                  "streams": [
+                    {
+                      "id": "st-44b1aa167e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6539893ed8",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791343449_hd/1791343449_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - Division Series",
+            "team_a": "Chicago White Sox",
+            "team_b": "Cleverland Guardians",
+            "logo_a": "https://static.flashscore.com/res/image/data/rHrt6LAr-MFkjl69i.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/CMe9zXzS-QNrz0V5B.png",
+            "time": "03:00:00",
+            "date": "08/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fynjv84lm6zn_dc918707_20261007.png?v=dc918707",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b0f091c910",
+          "name": "Los Angeles Dodgers vs Atlanta Braves | 05:00 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b0f091c910",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b0f091c910",
+                  "name": "Los Angeles Dodgers vs Atlanta Braves",
+                  "streams": [
+                    {
+                      "id": "st-b0f091c910",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-65a4a35e59",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791343518_hd/1791343518_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - Division Series",
+            "team_a": "Los Angeles Dodgers",
+            "team_b": "Atlanta Braves",
+            "logo_a": "https://static.flashscore.com/res/image/data/YeWStKhl-xUjXmOIP.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/IPmhSoEa-hvtJM6zJ.png",
+            "time": "05:00:00",
+            "date": "08/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wpuelveo4rak_b53f5977_20261007.png?v=b53f5977",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-27271c0dec",
           "name": "Tây Ban Nha vs Đức | 23:59 09/10",
           "type": "single",
