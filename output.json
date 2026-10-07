@@ -44,11 +44,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-1ea54a1b30",
+                          "id": "lnk-82473e2394",
                           "name": "BLV Hấu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791132704_hd/1791132704_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791132704_hd/1791132704_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1133,11 +1133,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-a976a3c26b",
-                          "name": "Chồn",
+                          "id": "lnk-54289fa0d2",
+                          "name": "Vịt",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791133122_hd/1791133122_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791347424_hd/1791347424_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1164,7 +1164,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/zmqCswGG-jDh1Bm4g.png",
             "time": "16:15:00",
             "date": "07/10",
-            "blv": "Chồn",
+            "blv": "Vịt",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -3467,83 +3467,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-e3d3f1e503",
-          "name": "Southern Miss vs Troy | 07:00 07/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e3d3f1e503",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e3d3f1e503",
-                  "name": "Southern Miss vs Troy",
-                  "streams": [
-                    {
-                      "id": "st-e3d3f1e503",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b454f4d3cf",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791330131_hd/1791330131_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NCAA",
-            "team_a": "Southern Miss",
-            "team_b": "Troy",
-            "logo_a": "https://static.flashscore.com/res/image/data/OvE2Irjl-jsMTAAgs.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/OAR7KKCa-YXNc32Ym.png",
-            "time": "07:00:00",
-            "date": "07/10",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nh8luzohlzog_fa35dd72_20261007.png?v=fa35dd72",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f804c651bc",
           "name": "New York Jets vs Cleveland Browns | 23:59 11/10",
