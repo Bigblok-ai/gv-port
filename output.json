@@ -1997,78 +1997,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-0bd0d93077",
-          "name": "NRG vs T1 | 16:00 07/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0bd0d93077",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0bd0d93077",
-                  "name": "NRG vs T1",
-                  "streams": [
-                    {
-                      "id": "st-0bd0d93077",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0b0686ecbd",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791348421_hd/1791348421_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Valorant Champions 2026",
-            "team_a": "NRG",
-            "team_b": "T1",
-            "logo_a": "https://liquipedia.net/commons/images/thumb/1/16/NRG_2024_allmode.png/150px-NRG_2024_allmode.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/hxbcCXEa-rgb1I9qH.png",
-            "time": "16:00:00",
-            "date": "07/10",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/l3x15u0x3m5m_00e9a775_20261007.png?v=00e9a775",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-fc9b85de0e",
           "name": "FLY vs SR | 18:00 07/10",
           "type": "single",
@@ -2141,6 +2069,78 @@
           }
         },
         {
+          "id": "gv-0bd0d93077",
+          "name": "Paper Rex vs LOUD | 19:00 07/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0bd0d93077",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0bd0d93077",
+                  "name": "Paper Rex vs LOUD",
+                  "streams": [
+                    {
+                      "id": "st-0bd0d93077",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0b0686ecbd",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791348421_hd/1791348421_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Valorant Champions 2026",
+            "team_a": "Paper Rex",
+            "team_b": "LOUD",
+            "logo_a": "https://static.gosugamers.net/93/6a/65/fd539f88aa3e5f4e32e7cf3c3dd36ec606fa55b948b2a414baaf77f319.png?w=256",
+            "logo_b": "https://static.gosugamers.net/51/85/75/9012ca59fd1632217db39bf80f33da09b0db3410e28a2dd776fd19583a.png?w=256",
+            "time": "19:00:00",
+            "date": "07/10",
+            "blv": "Điếc",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/l3x15u0x3m5m_0ed54e6c_20261007.png?v=0ed54e6c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-92356d30e1",
           "name": "Round 5 Matches vs Round 5 Matches | 19:00 07/10",
           "type": "single",
@@ -2208,78 +2208,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n0i7sn3vm628_b846e942_20261007.png?v=b846e942",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-7a6c21bcec",
-          "name": "Paper Rex vs LOUD | 19:00 07/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7a6c21bcec",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7a6c21bcec",
-                  "name": "Paper Rex vs LOUD",
-                  "streams": [
-                    {
-                      "id": "st-7a6c21bcec",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-02bb537a70",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791348730_hd/1791348730_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Valorant Champions 2026",
-            "team_a": "Paper Rex",
-            "team_b": "LOUD",
-            "logo_a": "https://static.gosugamers.net/93/6a/65/fd539f88aa3e5f4e32e7cf3c3dd36ec606fa55b948b2a414baaf77f319.png?w=256",
-            "logo_b": "https://static.gosugamers.net/51/85/75/9012ca59fd1632217db39bf80f33da09b0db3410e28a2dd776fd19583a.png?w=256",
-            "time": "19:00:00",
-            "date": "07/10",
-            "blv": "Điếc",
-            "is_live": false,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/iaz7flurfil4_0ed54e6c_20261007.png?v=0ed54e6c",
             "width": 1600,
             "height": 1200
           }
