@@ -3185,6 +3185,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-fcfd7b72e8",
+          "name": "Tampa Bay Buccaneers vs Dallas Cowboys | 07:15 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fcfd7b72e8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fcfd7b72e8",
+                  "name": "Tampa Bay Buccaneers vs Dallas Cowboys",
+                  "streams": [
+                    {
+                      "id": "st-fcfd7b72e8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8e9eed31ce",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791463246_hd/1791463246_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Tampa Bay Buccaneers",
+            "team_b": "Dallas Cowboys",
+            "logo_a": "https://static.flashscore.com/res/image/data/Ym4bBOeM-SAmySbid.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/2DROi6Wg-IqxwDINa.png",
+            "time": "07:15:00",
+            "date": "09/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/t127yuswgv0f_af1af33d_20261008.png?v=af1af33d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-f804c651bc",
           "name": "New York Jets vs Cleveland Browns | 23:59 11/10",
           "type": "single",
