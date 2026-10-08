@@ -521,6 +521,78 @@
           }
         },
         {
+          "id": "gv-1e0b50adcf",
+          "name": "Al-Shamal vs Al-Duhail | 21:45 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1e0b50adcf",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1e0b50adcf",
+                  "name": "Al-Shamal vs Al-Duhail",
+                  "streams": [
+                    {
+                      "id": "st-1e0b50adcf",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b52155af2f",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791442056_hd/1791442056_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Qatar",
+            "team_a": "Al-Shamal",
+            "team_b": "Al-Duhail",
+            "logo_a": "https://images.keovip88.net/images/teams/al-shamal.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-duhail.png",
+            "time": "21:45:00",
+            "date": "08/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abda2be24d46db870d769cd_fc25f1d0_20261008.png?v=fc25f1d0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-a436f1ba86",
           "name": "Al Nasr vs Hatta | 22:45 08/10",
           "type": "single",
