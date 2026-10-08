@@ -3347,6 +3347,150 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-5077c3780f",
+          "name": "Mannarino A. vs Cobolli F. | 11:00 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5077c3780f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5077c3780f",
+                  "name": "Mannarino A. vs Cobolli F.",
+                  "streams": [
+                    {
+                      "id": "st-5077c3780f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a48f79ff71",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791490552_hd/1791490552_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Shanghai Open",
+            "team_a": "Mannarino A.",
+            "team_b": "Cobolli F.",
+            "logo_a": "https://static.flashscore.com/res/image/data/6X67JIYA-4AguOuCD.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/E1rCFmCr-4rBjn5Su.png",
+            "time": "11:00:00",
+            "date": "09/10",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/mj4crk2yxbye_ce823076_20261009.png?v=ce823076",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c01b1ea75a",
+          "name": "Qinwen Zheng vs Elina Svitolina | 14:00 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c01b1ea75a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c01b1ea75a",
+                  "name": "Qinwen Zheng vs Elina Svitolina",
+                  "streams": [
+                    {
+                      "id": "st-c01b1ea75a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f4afb88414",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791490677_hd/1791490677_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTA Beijing Open",
+            "team_a": "Qinwen Zheng",
+            "team_b": "Elina Svitolina",
+            "logo_a": "https://static.flashscore.com/res/image/data/b7N9NHdM-MZFHcn8n.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/0hCIo7h5-WCqsXbkh.png",
+            "time": "14:00:00",
+            "date": "09/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/v2yykslfx0gr_2b4ff794_20261009.png?v=2b4ff794",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-5c41d05f7b",
           "name": "Elise Mertens vs Iga Swiatek | 18:00 10/10",
           "type": "single",
