@@ -740,83 +740,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (4 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2507af327f",
-          "name": "Memphis Grizzlies vs Orlando Magic | 07:00 08/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2507af327f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2507af327f",
-                  "name": "Memphis Grizzlies vs Orlando Magic",
-                  "streams": [
-                    {
-                      "id": "st-2507af327f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7d926d6472",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791374766_hd/1791374766_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Memphis Grizzlies",
-            "team_b": "Orlando Magic",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2566b135b0e54971193a132bd8a1473c.png",
-            "time": "07:00:00",
-            "date": "08/10",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27812479_6a3dc6f8_20261008.png?v=6a3dc6f8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-61ba4c4d2c",
           "name": "Chicago Bulls vs Phoenix Suns | 07:00 08/10",
@@ -2801,7 +2729,7 @@
     },
     {
       "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn",
+      "name": "🏓 Bóng Bàn (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2814,10 +2742,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2866,7 +2794,7 @@
             "time": "10:00:00",
             "date": "08/10",
             "blv": "Mickey",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongban"
           },
           "image": {
