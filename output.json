@@ -2206,6 +2206,159 @@
       ]
     },
     {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-9af765aae1",
+          "name": "100T vs G2 Esports | 16:00 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9af765aae1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9af765aae1",
+                  "name": "100T vs G2 Esports",
+                  "streams": [
+                    {
+                      "id": "st-9af765aae1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a67840816d",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791443659_hd/1791443659_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Valorant Champions 2026",
+            "team_a": "100T",
+            "team_b": "G2 Esports",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0d2v6956ItjoYprOwgmhzlSzPnK5oDsMDC-_5cmqwZw&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2edGjWO7xfOa35xzAGka5cE_8EdajWHfOFRAHFep7JQ&s=10",
+            "time": "16:00:00",
+            "date": "08/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/eluxql9njw3o_98912dcc_20261008.png?v=98912dcc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-56fbbc2231",
+          "name": "Paper Rex vs LOUD | 19:00 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-56fbbc2231",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-56fbbc2231",
+                  "name": "Paper Rex vs LOUD",
+                  "streams": [
+                    {
+                      "id": "st-56fbbc2231",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8880c64e17",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791443776_hd/1791443776_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Valorant Champions 2026",
+            "team_a": "Paper Rex",
+            "team_b": "LOUD",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl4d_FslvL7vMpFaQBux2y7Wu3buyPVZT_DB4EFAIKpA&s",
+            "logo_b": "https://static.gosugamers.net/51/85/75/9012ca59fd1632217db39bf80f33da09b0db3410e28a2dd776fd19583a.png?w=256",
+            "time": "19:00:00",
+            "date": "08/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tf79vxxrtgv9_9792c434_20261008.png?v=9792c434",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_caulong",
       "name": "🏸 Cầu Lông (1 LIVE)",
       "display": "vertical",
@@ -3027,6 +3180,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8axw5wuqmb8p_ca863648_20261008.png?v=ca863648",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c61dcd0a12",
+          "name": "Truls MOREGARD vs WEN Ruibo | 17:00 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c61dcd0a12",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c61dcd0a12",
+                  "name": "Truls MOREGARD vs WEN Ruibo",
+                  "streams": [
+                    {
+                      "id": "st-c61dcd0a12",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ff2b980400",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791443935_hd/1791443935_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "China Smash 2026",
+            "team_a": "Truls MOREGARD",
+            "team_b": "WEN Ruibo",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK1YpmDLlAR7tEO9O35-KL9KCEChtzus_0XoVBjB1-IayU9LkJyEGGaynW&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgeJkqn5uc1Qz61ysJe17YDRzcouykW74VTEkfIXfKYw&s=10",
+            "time": "17:00:00",
+            "date": "08/10",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/w6y7ydeui1wd_4aa5bee1_20261008.png?v=4aa5bee1",
             "width": 1600,
             "height": 1200
           }
