@@ -449,6 +449,78 @@
           }
         },
         {
+          "id": "gv-44171a0bbe",
+          "name": "Inter San Carlos vs Pérez Zeledón | 09:00 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-44171a0bbe",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-44171a0bbe",
+                  "name": "Inter San Carlos vs Pérez Zeledón",
+                  "streams": [
+                    {
+                      "id": "st-44171a0bbe",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-732c3d0653",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791489666_hd/1791489666_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Costa Rica - Primera División",
+            "team_a": "Inter San Carlos",
+            "team_b": "Pérez Zeledón",
+            "logo_a": "https://static.flashscore.com/res/image/data/bw87h7Fa-8CkQXYH4.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/Q5NPpfyB-YB0DoGZt.png",
+            "time": "09:00:00",
+            "date": "09/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/axjhook6pqsn_1e337880_20261009.png?v=1e337880",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-3b7de812c3",
           "name": "Finland W vs Serbia W | 10:30 09/10",
           "type": "single",
@@ -2109,6 +2181,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10022475_af2b65ca_20261009.png?v=af2b65ca",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b615461097",
+          "name": "Los Angeles Lakers vs Sacramento Kings | 09:30 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b615461097",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b615461097",
+                  "name": "Los Angeles Lakers vs Sacramento Kings",
+                  "streams": [
+                    {
+                      "id": "st-b615461097",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0ac272a242",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791489825_hd/1791489825_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Los Angeles Lakers",
+            "team_b": "Sacramento Kings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png",
+            "time": "09:30:00",
+            "date": "09/10",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27902277_644b6878_20261009.png?v=644b6878",
             "width": 1600,
             "height": 1200
           }
