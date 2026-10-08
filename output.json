@@ -1826,6 +1826,78 @@
           }
         },
         {
+          "id": "gv-89c30ca501",
+          "name": "SEM Phoenix vs United | 15:30 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-89c30ca501",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-89c30ca501",
+                  "name": "SEM Phoenix vs United",
+                  "streams": [
+                    {
+                      "id": "st-89c30ca501",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f6bc7ceaa5",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791480907_hd/1791480907_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "SEM Phoenix",
+            "team_b": "United",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7HBlMMfw9Q73f8MJahtaVFZs8jiJKK45LfuQwCqW0Cg&s=10",
+            "logo_b": "",
+            "time": "15:30:00",
+            "date": "09/10",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kvjcj4mh4wpw_bcec1e61_20261009.png?v=bcec1e61",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-04ef4fa692",
           "name": "Illawarra Hawks vs Tasmania JackJumpers | 15:30 09/10",
           "type": "single",
