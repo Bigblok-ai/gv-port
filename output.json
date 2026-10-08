@@ -593,6 +593,78 @@
           }
         },
         {
+          "id": "gv-f87c6397a0",
+          "name": "Mobarakeh Sepahan vs Fajr Sepasi | 21:45 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f87c6397a0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f87c6397a0",
+                  "name": "Mobarakeh Sepahan vs Fajr Sepasi",
+                  "streams": [
+                    {
+                      "id": "st-f87c6397a0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9acf085a99",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791443073_hd/1791443073_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Iran",
+            "team_a": "Mobarakeh Sepahan",
+            "team_b": "Fajr Sepasi",
+            "logo_a": "https://images.keovip88.net/images/teams/sepahan.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fajr-sepasi.png",
+            "time": "21:45:00",
+            "date": "08/10",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac2e89124d46db87056e490_49352ae8_20261008.png?v=49352ae8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-a436f1ba86",
           "name": "Al Nasr vs Hatta | 22:45 08/10",
           "type": "single",
