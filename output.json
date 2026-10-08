@@ -2474,6 +2474,150 @@
           }
         },
         {
+          "id": "gv-b274ed0b39",
+          "name": "Busan KTF Magicwings vs Goyang Orions | 12:00 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b274ed0b39",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b274ed0b39",
+                  "name": "Busan KTF Magicwings vs Goyang Orions",
+                  "streams": [
+                    {
+                      "id": "st-b274ed0b39",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8a6e34f08f",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791490342_hd/1791490342_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Busan KTF Magicwings",
+            "team_b": "Goyang Orions",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2cf065fbe1f93fb229c981c1d88d9618.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/5b0e513f868dee6a403d7d5dfc3628b3.png",
+            "time": "12:00:00",
+            "date": "09/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20850373_011b3452_20261009.png?v=011b3452",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-470741a595",
+          "name": "Seoul Samsung Thunders vs Anyang Jung Kwan Jang Red Boosters | 14:30 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-470741a595",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-470741a595",
+                  "name": "Seoul Samsung Thunders vs Anyang Jung Kwan Jang Red Boosters",
+                  "streams": [
+                    {
+                      "id": "st-470741a595",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2421dc225b",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791490434_hd/1791490434_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Seoul Samsung Thunders",
+            "team_b": "Anyang Jung Kwan Jang Red Boosters",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/77da210054627a8fde62b8e6d76f3d74.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a41dc05de91a396420f82f30bab19765.png",
+            "time": "14:30:00",
+            "date": "09/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21850374_c18a6d5b_20261009.png?v=c18a6d5b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-04ef4fa692",
           "name": "Illawarra Hawks vs Tasmania JackJumpers | 15:30 09/10",
           "type": "single",
