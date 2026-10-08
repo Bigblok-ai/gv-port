@@ -3016,6 +3016,87 @@
       ]
     },
     {
+      "id": "cate_bongban",
+      "name": "🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-bce02e0f1b",
+          "name": "SORA MATSUSHIMA vs KUO GUAN HONG | 10:00 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bce02e0f1b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bce02e0f1b",
+                  "name": "SORA MATSUSHIMA vs KUO GUAN HONG",
+                  "streams": [
+                    {
+                      "id": "st-bce02e0f1b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cd3fea4d7b",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791423573_hd/1791423573_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "China Smash 2026",
+            "team_a": "SORA MATSUSHIMA",
+            "team_b": "KUO GUAN HONG",
+            "logo_a": "https://photofiles.worldtabletennis.com/wtt-media/photos/400px/135996_Headshot_R_Sora%20MATSUSHIMA.png?v=2_2026-10-02",
+            "logo_b": "https://vn.tabletennis-reference.com/images/player/12828_1_450.png",
+            "time": "10:00:00",
+            "date": "08/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8axw5wuqmb8p_ca863648_20261008.png?v=ca863648",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_rugby",
       "name": "🏅 Thể Thao",
       "display": "vertical",
