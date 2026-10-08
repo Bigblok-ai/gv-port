@@ -449,6 +449,78 @@
           }
         },
         {
+          "id": "gv-a436f1ba86",
+          "name": "Al Nasr vs Hatta | 22:45 08/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a436f1ba86",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a436f1ba86",
+                  "name": "Al Nasr vs Hatta",
+                  "streams": [
+                    {
+                      "id": "st-a436f1ba86",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-397a5e5f66",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791441738_hd/1791441738_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "United Arab Emirates - UAE League Cup",
+            "team_a": "Al Nasr",
+            "team_b": "Hatta",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwEM-xxWzeVitnazbPYdIgmN-Fwgj2GaxvcwAYuRtPRA&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9D6pnwX20n30r470E-1VSHl6-LOxHBLuvkxjWrwSMgw&s=10",
+            "time": "22:45:00",
+            "date": "08/10",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r9u1l6wktak4_ded9e0bd_20261008.png?v=ded9e0bd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-70661f5f24",
           "name": "KuPS vs AC Oulu | 23:00 08/10",
           "type": "single",
