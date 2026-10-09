@@ -809,6 +809,78 @@
           }
         },
         {
+          "id": "gv-6bdc8c2162",
+          "name": "Al Sharjah vs Al Jazira | 22:45 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6bdc8c2162",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6bdc8c2162",
+                  "name": "Al Sharjah vs Al Jazira",
+                  "streams": [
+                    {
+                      "id": "st-6bdc8c2162",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-44a508c3f8",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791532318_hd/1791532318_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UAE - League Cup",
+            "team_a": "Al Sharjah",
+            "team_b": "Al Jazira",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/R1BRy1i59-DRim_diMHBcw_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/uuSfEroVsAlF4dtu3vAqew_96x96.png",
+            "time": "22:45:00",
+            "date": "09/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qua9vm2bcf48_a42b3c32_20261009.png?v=a42b3c32",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-f628a91e66",
           "name": "Zlin vs Slavia Praha | 23:00 09/10",
           "type": "single",
@@ -2195,6 +2267,78 @@
           }
         },
         {
+          "id": "gv-3b8a9b9178",
+          "name": "Elise Mertens vs Iga Swiatek | 18:00 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3b8a9b9178",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3b8a9b9178",
+                  "name": "Elise Mertens vs Iga Swiatek",
+                  "streams": [
+                    {
+                      "id": "st-3b8a9b9178",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab7f09df0c",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791532355_hd/1791532355_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTA Beijing Open",
+            "team_a": "Elise Mertens",
+            "team_b": "Iga Swiatek",
+            "logo_a": "https://static.flashscore.com/res/image/data/zuslwRfM-jX0SdYnI.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/S2NdWdWg-tOt4Rhy2.png",
+            "time": "18:00:00",
+            "date": "09/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/i5pon752nfq1_3859de08_20261009.png?v=3859de08",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-5c41d05f7b",
           "name": "Elise Mertens vs Iga Swiatek | 18:00 10/10",
           "type": "single",
@@ -3310,6 +3454,78 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-6b73b04592",
+          "name": "Italy vs Colombia | 17:00 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6b73b04592",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6b73b04592",
+                  "name": "Italy vs Colombia",
+                  "streams": [
+                    {
+                      "id": "st-6b73b04592",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a91c2668c0",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791532417_hd/1791532417_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vòng loại Premier 12",
+            "team_a": "Italy",
+            "team_b": "Colombia",
+            "logo_a": "https://static.flashscore.com/res/image/data/h6v1tOAr-xCsenx2O.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/04s7uChl-C6kVdO5F.png",
+            "time": "17:00:00",
+            "date": "09/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5ww6gvbxhzoc_a37f58d6_20261009.png?v=a37f58d6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-27271c0dec",
           "name": "Tây Ban Nha vs Đức | 23:59 09/10",
