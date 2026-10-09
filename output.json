@@ -260,11 +260,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-446ef9f1cf",
+                          "id": "lnk-c575dcb039",
                           "name": "Mason",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791478540_hd/1791478540_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791478540_hd/1791478540_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -332,11 +332,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-bc18f15606",
+                          "id": "lnk-cb66cff9bb",
                           "name": "Sún",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791478641_hd/1791478641_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791478641_hd/1791478641_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2703,6 +2703,159 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/atasute6bah9_f70132e9_20261009.png?v=f70132e9",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-87da1d550f",
+          "name": "Quarter-finals vs Quarter-finals | 15:30 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-87da1d550f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-87da1d550f",
+                  "name": "Quarter-finals vs Quarter-finals",
+                  "streams": [
+                    {
+                      "id": "st-87da1d550f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c42cb0b5c2",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791531675_hd/1791531675_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-ESL Pro League Season 24",
+            "team_a": "Quarter-finals",
+            "team_b": "Quarter-finals",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_V4uCfMQhVqW3fxt58_n3yPAeer-U2mTk5rB40FdHwA&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_V4uCfMQhVqW3fxt58_n3yPAeer-U2mTk5rB40FdHwA&s",
+            "time": "15:30:00",
+            "date": "09/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hw8xv2cofakj_df0ff684_20261009.png?v=df0ff684",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e050e60bbe",
+          "name": "T1 vs Paper Rex | 16:00 09/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e050e60bbe",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e050e60bbe",
+                  "name": "T1 vs Paper Rex",
+                  "streams": [
+                    {
+                      "id": "st-e050e60bbe",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b24f40a0e4",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791531767_hd/1791531767_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Valorant Champions 2026",
+            "team_a": "T1",
+            "team_b": "Paper Rex",
+            "logo_a": "https://liquipedia.net/commons/images/thumb/7/7b/Paper_Rex_darkmode.png/89px-Paper_Rex_darkmode.png",
+            "logo_b": "https://liquipedia.net/commons/images/thumb/e/e4/T1_2019_allmode.png/150px-T1_2019_allmode.png",
+            "time": "16:00:00",
+            "date": "09/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/dpplh77yblaz_f5825bec_20261009.png?v=f5825bec",
             "width": 1600,
             "height": 1200
           }
