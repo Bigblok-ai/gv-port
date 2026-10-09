@@ -305,60 +305,6 @@
           }
         },
         {
-          "id": "gv-f628a91e66",
-          "name": "Zlin vs Slavia Praha | 23:00 09/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f628a91e66",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f628a91e66",
-                  "name": "Zlin vs Slavia Praha",
-                  "streams": [
-                    {
-                      "id": "st-f628a91e66",
-                      "name": "GV",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Séc",
-            "team_a": "Zlin",
-            "team_b": "Slavia Praha",
-            "logo_a": "https://images.keovip88.net/images/teams/tescoma-zlin.png",
-            "logo_b": "https://images.keovip88.net/images/teams/slavia-praha.png",
-            "time": "23:00:00",
-            "date": "09/10",
-            "blv": "",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abda2c124d46db870d76d6d_fee99ad0_20261009.png?v=fee99ad0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-7000aa49c3",
           "name": "Vejle vs Hvidovre | 23:00 09/10",
           "type": "single",
@@ -1866,6 +1812,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abef44824d46db870908ed2_04c6a14c_20261009.png?v=04c6a14c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-877fa944a2",
+          "name": "Alaves vs Atletico Madrid | 21:15 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-877fa944a2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-877fa944a2",
+                  "name": "Alaves vs Atletico Madrid",
+                  "streams": [
+                    {
+                      "id": "st-877fa944a2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d1e272906e",
+                          "name": "blv-bon",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791480248_hd/1791480248_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Alaves",
+            "team_b": "Atletico Madrid",
+            "logo_a": "https://images.keovip88.net/images/teams/alaves.png",
+            "logo_b": "https://images.keovip88.net/images/teams/atletico-madrid.png",
+            "time": "21:15:00",
+            "date": "10/10",
+            "blv": "blv-bon",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f0748_dc8d0071_20261009.png?v=dc8d0071",
             "width": 1600,
             "height": 1200
           }
