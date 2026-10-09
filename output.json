@@ -89,8 +89,8 @@
           }
         },
         {
-          "id": "gv-3c887ea8a7",
-          "name": "Eastern SC vs North District | 19:00 09/10",
+          "id": "gv-af42447e72",
+          "name": "Malawi W vs Zimbabwe W | 20:00 09/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -100,78 +100,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3c887ea8a7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3c887ea8a7",
-                  "name": "Eastern SC vs North District",
-                  "streams": [
-                    {
-                      "id": "st-3c887ea8a7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1b5c896c32",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791478720_hd/1791478720_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hong Kong - Hong Kong Premier League",
-            "team_a": "Eastern SC",
-            "team_b": "North District",
-            "logo_a": "https://static.flashscore.com/res/image/data/dESWuXAr-ncgqFvN6.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Ia2oY3Cr-OInYTOoD.png",
-            "time": "19:00:00",
-            "date": "09/10",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e9lh6o1lecw5_c93d303d_20261009.png?v=c93d303d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-af42447e72",
-          "name": "Malawi W vs Zimbabwe W | 20:00 09/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "20:00:00",
             "date": "09/10",
             "blv": "Mason",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
