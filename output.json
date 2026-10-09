@@ -1815,6 +1815,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-770ae2acf6",
+          "name": "Rayo Vallecano vs Athletic Bilbao | 19:00 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-770ae2acf6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-770ae2acf6",
+                  "name": "Rayo Vallecano vs Athletic Bilbao",
+                  "streams": [
+                    {
+                      "id": "st-770ae2acf6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3018ff6919",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791480035_hd/1791480035_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Rayo Vallecano",
+            "team_b": "Athletic Bilbao",
+            "logo_a": "https://images.keovip88.net/images/teams/rayo-vallecano.png",
+            "logo_b": "https://images.keovip88.net/images/teams/athletic-bilbao.png",
+            "time": "19:00:00",
+            "date": "10/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f0747_992c7e0c_20261009.png?v=992c7e0c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -3222,7 +3294,7 @@
         },
         {
           "id": "gv-e050e60bbe",
-          "name": "T1 vs Paper Rex | 16:00 09/10",
+          "name": "100 Thieves vs Nongsim Redforce | 19:00 09/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3241,7 +3313,7 @@
               "contents": [
                 {
                   "id": "ct-e050e60bbe",
-                  "name": "T1 vs Paper Rex",
+                  "name": "100 Thieves vs Nongsim Redforce",
                   "streams": [
                     {
                       "id": "st-e050e60bbe",
@@ -3273,11 +3345,11 @@
           ],
           "org_metadata": {
             "league": "Valorant Champions 2026",
-            "team_a": "T1",
-            "team_b": "Paper Rex",
-            "logo_a": "https://liquipedia.net/commons/images/thumb/7/7b/Paper_Rex_darkmode.png/89px-Paper_Rex_darkmode.png",
-            "logo_b": "https://liquipedia.net/commons/images/thumb/e/e4/T1_2019_allmode.png/150px-T1_2019_allmode.png",
-            "time": "16:00:00",
+            "team_a": "100 Thieves",
+            "team_b": "Nongsim Redforce",
+            "logo_a": "https://liquipedia.net/commons/images/thumb/c/c2/100_Thieves_lightmode.png/127px-100_Thieves_lightmode.png",
+            "logo_b": "https://liquipedia.net/commons/images/thumb/d/de/Nongshim_RedForce_allmode.png/74px-Nongshim_RedForce_allmode.png",
+            "time": "19:00:00",
             "date": "09/10",
             "blv": "Riko",
             "is_live": true,
@@ -3287,7 +3359,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/dpplh77yblaz_f5825bec_20261009.png?v=f5825bec",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/dpplh77yblaz_0fafe108_20261009.png?v=0fafe108",
             "width": 1600,
             "height": 1200
           }
