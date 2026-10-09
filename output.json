@@ -3890,23 +3890,23 @@
     },
     {
       "id": "cate_duaxe",
-      "name": "🏎️ Đua Xe (1 LIVE)",
+      "name": "🏎️ Đua Xe",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
           "id": "gv-88826b2ee3",
-          "name": "F1 vs F1 | 15:30 09/10",
+          "name": "F1 vs F1 | 19:30 09/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -3952,10 +3952,10 @@
             "team_b": "F1",
             "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2spIPNDoixkTFXTAOehPNhkoKFyyJl3xBpkYdBl2mfg&s=10",
             "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Gb3S_hVBxADavywtKLX_sSpJUrlsxbdBeKq6YIXZqQ&s",
-            "time": "15:30:00",
+            "time": "19:30:00",
             "date": "09/10",
             "blv": "Ngu",
-            "is_live": true,
+            "is_live": false,
             "cate_type": "duaxe"
           },
           "image": {
