@@ -330,25 +330,7 @@
                     {
                       "id": "st-f628a91e66",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9d7e28fe4e",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791340047_hd/1791340047_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -363,7 +345,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/slavia-praha.png",
             "time": "23:00:00",
             "date": "09/10",
-            "blv": "Trĩ",
+            "blv": "",
             "is_live": false,
             "cate_type": "football"
           },
@@ -3954,87 +3936,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5j10gvrpx9dm_91699240_20261009.png?v=91699240",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_duaxe",
-      "name": "🏎️ Đua Xe (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-88826b2ee3",
-          "name": "F1 vs F1 | 19:30 09/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-88826b2ee3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-88826b2ee3",
-                  "name": "F1 vs F1",
-                  "streams": [
-                    {
-                      "id": "st-88826b2ee3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5b680f1412",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791532600_hd/1791532600_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Singapore Grand Prix",
-            "team_a": "F1",
-            "team_b": "F1",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2spIPNDoixkTFXTAOehPNhkoKFyyJl3xBpkYdBl2mfg&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Gb3S_hVBxADavywtKLX_sSpJUrlsxbdBeKq6YIXZqQ&s",
-            "time": "19:30:00",
-            "date": "09/10",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "duaxe"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yagum13ethyg_d08543f7_20261009.png?v=d08543f7",
             "width": 1600,
             "height": 1200
           }
