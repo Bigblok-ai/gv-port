@@ -593,6 +593,78 @@
           }
         },
         {
+          "id": "gv-a49a243086",
+          "name": "PSV vs Heerenveen | 06:00 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a49a243086",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a49a243086",
+                  "name": "PSV vs Heerenveen",
+                  "streams": [
+                    {
+                      "id": "st-a49a243086",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bda4c53043",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791559597_hd/1791559597_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Eredivisie",
+            "team_a": "PSV",
+            "team_b": "Heerenveen",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/FylTPR72JXIGFzqwQocSAQ_96x96.png",
+            "logo_b": "https://images.keovip88.net/images/teams/henan-football-club.png",
+            "time": "06:00:00",
+            "date": "10/10",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uf1xl8kf99ok_02813932_20261009.png?v=02813932",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-ba85394c95",
           "name": "Lexington vs FC Tulsa | 06:30 10/10",
           "type": "single",
