@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ee105586de",
-          "name": "Lille OSC vs Le Havre | 22:15 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ee105586de",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ee105586de",
-                  "name": "Lille OSC vs Le Havre",
-                  "streams": [
-                    {
-                      "id": "st-ee105586de",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c3bf7a0e49",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791480354_hd/1791480354_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ligue 1",
-            "team_a": "Lille OSC",
-            "team_b": "Le Havre",
-            "logo_a": "https://images.keovip88.net/images/teams/lille.png",
-            "logo_b": "https://images.keovip88.net/images/teams/le-havre.png",
-            "time": "22:15:00",
-            "date": "10/10",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07ae_4ba44c76_20261011.png?v=4ba44c76",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b7bf0b56a4",
           "name": "Inter Milan vs Parma | 23:00 10/10",
