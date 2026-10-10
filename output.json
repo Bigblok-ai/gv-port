@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -168,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +220,7 @@
             "time": "15:30:00",
             "date": "10/10",
             "blv": "BLV Hấu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -2998,7 +2998,7 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (2 LIVE)",
+      "name": "🎾 Tennis (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -3071,78 +3071,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29we4c0py349_84ea7b8e_20261010.png?v=84ea7b8e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-515abad838",
-          "name": "Mirra Andreeva vs Nikola Bartunkova | 14:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-515abad838",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-515abad838",
-                  "name": "Mirra Andreeva vs Nikola Bartunkova",
-                  "streams": [
-                    {
-                      "id": "st-515abad838",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fce6a3a62b",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791561268_hd/1791561268_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTA Beijing Open",
-            "team_a": "Mirra Andreeva",
-            "team_b": "Nikola Bartunkova",
-            "logo_a": "https://static.flashscore.com/res/image/data/ncDnFmzB-xE40e4KN.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/U1bZs9e5-Qajqi1nf.png",
-            "time": "14:00:00",
-            "date": "10/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wsaej6wzsbxk_e4d7ebd6_20261010.png?v=e4d7ebd6",
             "width": 1600,
             "height": 1200
           }
