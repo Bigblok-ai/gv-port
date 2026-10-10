@@ -826,6 +826,150 @@
           }
         },
         {
+          "id": "gv-e9073118c4",
+          "name": "Malut United vs Borneo FC Samarinda | 15:30 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e9073118c4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e9073118c4",
+                  "name": "Malut United vs Borneo FC Samarinda",
+                  "streams": [
+                    {
+                      "id": "st-e9073118c4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-05e6dead81",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791655003_hd/1791655003_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Indonesia",
+            "team_a": "Malut United",
+            "team_b": "Borneo FC Samarinda",
+            "logo_a": "https://images.keovip88.net/images/teams/malut-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/borneo-fc-samarinda.png",
+            "time": "15:30:00",
+            "date": "11/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045c624d46db8705b5fd9_22bec8ba_20261011.png?v=22bec8ba",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5d5272f227",
+          "name": "Sông Lam Nghệ An vs TP Hồ Chí Minh | 18:00 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5d5272f227",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5d5272f227",
+                  "name": "Sông Lam Nghệ An vs TP Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-5d5272f227",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f38abe34fb",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791655033_hd/1791655033_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Sông Lam Nghệ An",
+            "team_b": "TP Hồ Chí Minh",
+            "logo_a": "https://images.keovip88.net/images/teams/song-lam-nghe-an.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ho-chi-minh-city.png",
+            "time": "18:00:00",
+            "date": "11/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045c724d46db8705b63cf_eff7c127_20261011.png?v=eff7c127",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-75bab26ae2",
           "name": "Sisaket FC vs Chonburi Shark FC | 18:30 11/10",
           "type": "single",
@@ -893,6 +1037,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045c724d46db8705b6452_539fdd30_20261011.png?v=539fdd30",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3e4c44373c",
+          "name": "Elche vs Celta Vigo | 19:00 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3e4c44373c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3e4c44373c",
+                  "name": "Elche vs Celta Vigo",
+                  "streams": [
+                    {
+                      "id": "st-3e4c44373c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9a11ecf78b",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791655076_hd/1791655076_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Elche",
+            "team_b": "Celta Vigo",
+            "logo_a": "https://images.keovip88.net/images/teams/elche.png",
+            "logo_b": "https://images.keovip88.net/images/teams/celta-vigo.png",
+            "time": "19:00:00",
+            "date": "11/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f074b_4d6cb372_20261011.png?v=4d6cb372",
             "width": 1600,
             "height": 1200
           }
@@ -2288,78 +2504,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/p6rjds77uypm_12fae35d_20261011.png?v=12fae35d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-67b9c23dc1",
-          "name": "G2 vs Vitality | 19:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-67b9c23dc1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-67b9c23dc1",
-                  "name": "G2 vs Vitality",
-                  "streams": [
-                    {
-                      "id": "st-67b9c23dc1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3afb0c13e8",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791619621_hd/1791619621_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Valorant Champions 2026",
-            "team_a": "G2",
-            "team_b": "Vitality",
-            "logo_a": "https://static.flashscore.com/res/image/data/EgYNlNDa-YoDO6SX0.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",
-            "time": "19:00:00",
-            "date": "10/10",
-            "blv": "Điếc",
-            "is_live": false,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bfmukuqy9an7_cc5bfbaf_20261011.png?v=cc5bfbaf",
             "width": 1600,
             "height": 1200
           }
