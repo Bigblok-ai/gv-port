@@ -377,8 +377,8 @@
           }
         },
         {
-          "id": "gv-770ae2acf6",
-          "name": "Rayo Vallecano vs Athletic Bilbao | 19:00 10/10",
+          "id": "gv-9e7f5655c5",
+          "name": "Genoa vs Fiorentina | 20:00 10/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -392,23 +392,23 @@
           ],
           "sources": [
             {
-              "id": "src-770ae2acf6",
+              "id": "src-9e7f5655c5",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-770ae2acf6",
-                  "name": "Rayo Vallecano vs Athletic Bilbao",
+                  "id": "ct-9e7f5655c5",
+                  "name": "Genoa vs Fiorentina",
                   "streams": [
                     {
-                      "id": "st-770ae2acf6",
+                      "id": "st-9e7f5655c5",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-153370bf90",
-                          "name": "Cầy",
+                          "id": "lnk-481500e2f0",
+                          "name": "Dory",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791480035_hd/1791480035_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791631430_hd/1791631430_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -428,14 +428,14 @@
             }
           ],
           "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Rayo Vallecano",
-            "team_b": "Athletic Bilbao",
-            "logo_a": "https://images.keovip88.net/images/teams/rayo-vallecano.png",
-            "logo_b": "https://images.keovip88.net/images/teams/athletic-bilbao.png",
-            "time": "19:00:00",
+            "league": "Seria A",
+            "team_a": "Genoa",
+            "team_b": "Fiorentina",
+            "logo_a": "https://images.keovip88.net/images/teams/genoa.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fiorentina.png",
+            "time": "20:00:00",
             "date": "10/10",
-            "blv": "Cầy",
+            "blv": "Dory",
             "is_live": false,
             "cate_type": "football"
           },
@@ -443,7 +443,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f0747_992c7e0c_20261010.png?v=992c7e0c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abef44424d46db870907f1e_c14d2279_20261010.png?v=c14d2279",
             "width": 1600,
             "height": 1200
           }
