@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-28c73254de",
-          "name": "Avispa Fukuoka vs Okayama FC | 13:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-28c73254de",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-28c73254de",
-                  "name": "Avispa Fukuoka vs Okayama FC",
-                  "streams": [
-                    {
-                      "id": "st-28c73254de",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ce5ffe5ca8",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791535727_hd/1791535727_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Avispa Fukuoka",
-            "team_b": "Okayama FC",
-            "logo_a": "https://images.keovip88.net/images/teams/avispa-fukuoka.png",
-            "logo_b": "https://images.keovip88.net/images/teams/fagiano-okayama.png",
-            "time": "13:00:00",
-            "date": "10/10",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abef44024d46db8709078b0_9c91b28d_20261010.png?v=9c91b28d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f42d618e75",
           "name": "Gimcheon Sangmu vs FC Anyang | 14:30 10/10",
@@ -449,78 +377,6 @@
           }
         },
         {
-          "id": "gv-0636eab529",
-          "name": "Hải Phòng vs Thanh Hóa | 18:00 10/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0636eab529",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0636eab529",
-                  "name": "Hải Phòng vs Thanh Hóa",
-                  "streams": [
-                    {
-                      "id": "st-0636eab529",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-08f7cb43f5",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791479752_hd/1791479752_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V-League",
-            "team_a": "Hải Phòng",
-            "team_b": "Thanh Hóa",
-            "logo_a": "https://images.keovip88.net/images/teams/hai-phong.png",
-            "logo_b": "https://images.keovip88.net/images/teams/thanh-hoa.png",
-            "time": "18:00:00",
-            "date": "10/10",
-            "blv": "Mù",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abef44124d46db870907b2d_85b2de3e_20261010.png?v=85b2de3e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-5d9f2da141",
           "name": "Thép Xanh Nam Định vs Phu Dong | 18:00 10/10",
           "type": "single",
@@ -588,6 +444,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abef44124d46db870907b31_786146d8_20261010.png?v=786146d8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0636eab529",
+          "name": "Hải Phòng vs Thanh Hóa | 18:00 10/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0636eab529",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0636eab529",
+                  "name": "Hải Phòng vs Thanh Hóa",
+                  "streams": [
+                    {
+                      "id": "st-0636eab529",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-08f7cb43f5",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791479752_hd/1791479752_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Hải Phòng",
+            "team_b": "Thanh Hóa",
+            "logo_a": "https://images.keovip88.net/images/teams/hai-phong.png",
+            "logo_b": "https://images.keovip88.net/images/teams/thanh-hoa.png",
+            "time": "18:00:00",
+            "date": "10/10",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6abef44124d46db870907b2d_85b2de3e_20261010.png?v=85b2de3e",
             "width": 1600,
             "height": 1200
           }
