@@ -1444,23 +1444,6 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
-                        },
-                        {
-                          "id": "lnk-829f63706a",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791340593_hd/1791340593_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
                         }
                       ]
                     }
@@ -1477,7 +1460,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/tottenham-hotspur.png",
             "time": "23:30:00",
             "date": "10/10",
-            "blv": "BLV Hấu, Bee, Chồn",
+            "blv": "BLV Hấu, Bee",
             "is_live": false,
             "cate_type": "football"
           },
@@ -2071,6 +2054,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28322274_579ca69a_20261010.png?v=579ca69a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cb2a91992f",
+          "name": "Breogan vs Basquet Girona | 02:00 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cb2a91992f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cb2a91992f",
+                  "name": "Breogan vs Basquet Girona",
+                  "streams": [
+                    {
+                      "id": "st-cb2a91992f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e818710ff6",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791605042_hd/1791605042_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ACB",
+            "team_a": "Breogan",
+            "team_b": "Basquet Girona",
+            "logo_a": "https://static.flashscore.com/res/image/data/GnMnvHhl-UNsdztR4.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/h4mAxXEa-YgmHmwO2.png",
+            "time": "02:00:00",
+            "date": "11/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9zqzevirhl7n_0384af3e_20261010.png?v=0384af3e",
             "width": 1600,
             "height": 1200
           }
