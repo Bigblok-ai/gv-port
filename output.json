@@ -161,6 +161,78 @@
           }
         },
         {
+          "id": "gv-ccd1a6c7ec",
+          "name": "Rangers vs Warriors | 15:00 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ccd1a6c7ec",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ccd1a6c7ec",
+                  "name": "Rangers vs Warriors",
+                  "streams": [
+                    {
+                      "id": "st-ccd1a6c7ec",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-42f2a22f69",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791703104_hd/1791703104_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hong Kong - Hong Kong Premier League",
+            "team_a": "Rangers",
+            "team_b": "Warriors",
+            "logo_a": "https://static.flashscore.com/res/image/data/MZyANfYg-f5cCdGda.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/xA03aUzB-S8Q0DgXs.png",
+            "time": "15:00:00",
+            "date": "11/10",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ew456biivzb8_4456fb8c_20261011.png?v=4456fb8c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-e9073118c4",
           "name": "Malut United vs Borneo FC Samarinda | 15:30 11/10",
           "type": "single",
@@ -188,11 +260,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-05e6dead81",
+                          "id": "lnk-f7c08abff0",
                           "name": "Tỵ ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791655003_hd/1791655003_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791655003_hd/1791655003_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
