@@ -699,6 +699,222 @@
           }
         },
         {
+          "id": "gv-c98bdf0475",
+          "name": "Germany U17 W vs Iceland U17 W | 17:30 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c98bdf0475",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c98bdf0475",
+                  "name": "Germany U17 W vs Iceland U17 W",
+                  "streams": [
+                    {
+                      "id": "st-c98bdf0475",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a51f169ac1",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791734750_hd/1791734750_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Europe - Euro U17 Women Qualification Round 1 League A",
+            "team_a": "Germany U17 W",
+            "team_b": "Iceland U17 W",
+            "logo_a": "https://static.flashscore.com/res/image/data/4YcNadxS-UTKdsw7L.png",
+            "logo_b": "https://images.keovip88.net/images/teams/iceland.png",
+            "time": "17:30:00",
+            "date": "12/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ojh8nnopw6w0_444c3910_20261011.png?v=444c3910",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a7e6cd3e25",
+          "name": "Hougang United vs Balestier Khalsa | 18:30 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a7e6cd3e25",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a7e6cd3e25",
+                  "name": "Hougang United vs Balestier Khalsa",
+                  "streams": [
+                    {
+                      "id": "st-a7e6cd3e25",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ebd729dce7",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791734902_hd/1791734902_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Singapore - Singapore Premier League",
+            "team_a": "Hougang United",
+            "team_b": "Balestier Khalsa",
+            "logo_a": "https://images.keovip88.net/images/teams/hougang-united-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/balestier-khalsa-fc.png",
+            "time": "18:30:00",
+            "date": "12/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bqfshrxcp62c_05b07e87_20261011.png?v=05b07e87",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3cefe09eb8",
+          "name": "Pakhtakor Tashkent vs Al-Qadasiya | 20:45 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3cefe09eb8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3cefe09eb8",
+                  "name": "Pakhtakor Tashkent vs Al-Qadasiya",
+                  "streams": [
+                    {
+                      "id": "st-3cefe09eb8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-db901946f4",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791734978_hd/1791734978_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League",
+            "team_a": "Pakhtakor Tashkent",
+            "team_b": "Al-Qadasiya",
+            "logo_a": "https://images.keovip88.net/images/teams/pakhtakor.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-qadsiah.png",
+            "time": "20:45:00",
+            "date": "12/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd81_6d7a8a8a_20261011.png?v=6d7a8a8a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c0f322455e",
           "name": "Al Wasl FC vs Al Ahli Jeddah | 23:00 12/10",
           "type": "single",
