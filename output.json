@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-abeef8527e",
-          "name": "Real Sociedad vs Deportivo La Coruna | 21:15 11/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-abeef8527e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-abeef8527e",
-                  "name": "Real Sociedad vs Deportivo La Coruna",
-                  "streams": [
-                    {
-                      "id": "st-abeef8527e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1292949f18",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791655350_hd/1791655350_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Real Sociedad",
-            "team_b": "Deportivo La Coruna",
-            "logo_a": "https://images.keovip88.net/images/teams/real-sociedad.png",
-            "logo_b": "https://images.keovip88.net/images/teams/deportivo-la-coruna.png",
-            "time": "21:15:00",
-            "date": "11/10",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f074c_e6aa4f79_20261011.png?v=e6aa4f79",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-26c21a201f",
           "name": "Liverpool vs Manchester City | 22:30 11/10",
@@ -843,6 +771,78 @@
           }
         },
         {
+          "id": "gv-799ddfbf46",
+          "name": "FarDU vs Kattaqurgon | 20:00 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-799ddfbf46",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-799ddfbf46",
+                  "name": "FarDU vs Kattaqurgon",
+                  "streams": [
+                    {
+                      "id": "st-799ddfbf46",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9255facf95",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791735013_hd/1791735013_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Uzbekistan - Pro Liga",
+            "team_a": "FarDU",
+            "team_b": "Kattaqurgon",
+            "logo_a": "https://images.keovip88.net/images/teams/mashal-muborak.png",
+            "logo_b": "https://images.keovip88.net/images/teams/otmk-olmaliq.png",
+            "time": "20:00:00",
+            "date": "12/10",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac6dd5224d46db870d13c56_7dffa19d_20261011.png?v=7dffa19d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-3cefe09eb8",
           "name": "Pakhtakor Tashkent vs Al-Qadasiya | 20:45 12/10",
           "type": "single",
@@ -910,6 +910,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd81_6d7a8a8a_20261011.png?v=6d7a8a8a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bd0049feb7",
+          "name": "Moldova W vs Georgia W | 21:00 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bd0049feb7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bd0049feb7",
+                  "name": "Moldova W vs Georgia W",
+                  "streams": [
+                    {
+                      "id": "st-bd0049feb7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fb83167fb0",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791735164_hd/1791735164_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Moldova W",
+            "team_b": "Georgia W",
+            "logo_a": "https://images.keovip88.net/images/teams/moldova.png",
+            "logo_b": "https://images.keovip88.net/images/teams/georgia.png",
+            "time": "21:00:00",
+            "date": "12/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n2ziqd5wrc4v_8cdc2684_20261011.png?v=8cdc2684",
             "width": 1600,
             "height": 1200
           }
