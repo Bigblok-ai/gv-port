@@ -1316,83 +1316,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-80aca18098",
-          "name": "Miami Heat vs Minnesota Timberwolves | 07:00 11/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-80aca18098",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-80aca18098",
-                  "name": "Miami Heat vs Minnesota Timberwolves",
-                  "streams": [
-                    {
-                      "id": "st-80aca18098",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3628e97841",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791616186_hd/1791616186_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Miami Heat",
-            "team_b": "Minnesota Timberwolves",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/43ebb4d6ad3ea5b68e9b1c969dff055b.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
-            "time": "07:00:00",
-            "date": "11/10",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/15022278_a39745dd_20261011.png?v=a39745dd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-0c4744e78b",
           "name": "Golden State Warriors vs Sacramento Kings | 07:30 11/10",
@@ -3000,87 +2928,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q9gvcw8bholw_41706bdf_20261011.png?v=41706bdf",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-2a057ca0ad",
-          "name": "Cleverland Guardians vs Chicago White Sox | 07:00 11/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2a057ca0ad",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2a057ca0ad",
-                  "name": "Cleverland Guardians vs Chicago White Sox",
-                  "streams": [
-                    {
-                      "id": "st-2a057ca0ad",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e88567eb8c",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791617303_hd/1791617303_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "MLB",
-            "team_a": "Cleverland Guardians",
-            "team_b": "Chicago White Sox",
-            "logo_a": "https://static.flashscore.com/res/image/data/CMe9zXzS-QNrz0V5B.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/rHrt6LAr-MFkjl69i.png",
-            "time": "07:00:00",
-            "date": "11/10",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "bongchay"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d6a2386a2zvj_96e57238_20261011.png?v=96e57238",
             "width": 1600,
             "height": 1200
           }
