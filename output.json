@@ -764,11 +764,45 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-0bbf9f650e",
-                          "name": "Ben",
+                          "id": "lnk-d5fd39eee2",
+                          "name": "Man Xì Tin: Ben",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791655397_hd/1791655397_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791712349_hd/1791712349_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-1052d52611",
+                          "name": "Cò đần: Tỵ + Trĩ",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791712368_hd/1791712368_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-0fdbea554e",
+                          "name": "Trung lập: Chồn + Hấu",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791712375_hd/1791712375_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -795,7 +829,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/manchester-city.png",
             "time": "22:30:00",
             "date": "11/10",
-            "blv": "Ben",
+            "blv": "Man Xì Tin: Ben, Cò đần: Tỵ + Trĩ, Trung lập: Chồn + Hấu",
             "is_live": false,
             "cate_type": "football"
           },
