@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2bbf2e6c33",
-          "name": "Hà Nội vs TDTT Bac Ninh | 19:15 11/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2bbf2e6c33",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2bbf2e6c33",
-                  "name": "Hà Nội vs TDTT Bac Ninh",
-                  "streams": [
-                    {
-                      "id": "st-2bbf2e6c33",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d64970cbb7",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791655196_hd/1791655196_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V-League",
-            "team_a": "Hà Nội",
-            "team_b": "TDTT Bac Ninh",
-            "logo_a": "https://images.keovip88.net/images/teams/hanoi-fc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/tdtt-bac-ninh.PNG",
-            "time": "19:15:00",
-            "date": "11/10",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045c824d46db8705b6506_c9ce3d0a_20261011.png?v=c9ce3d0a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-98592f693d",
           "name": "Hull City vs Everton | 20:00 11/10",
