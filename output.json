@@ -2337,6 +2337,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-059d1ca1d8",
+          "name": "Francisco Cerundolo vs Jakub Mensik | 13:20 11/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-059d1ca1d8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-059d1ca1d8",
+                  "name": "Francisco Cerundolo vs Jakub Mensik",
+                  "streams": [
+                    {
+                      "id": "st-059d1ca1d8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6d304417d9",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791679897_hd/1791679897_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Shanghai Open",
+            "team_a": "Francisco Cerundolo",
+            "team_b": "Jakub Mensik",
+            "logo_a": "https://static.flashscore.com/res/image/data/zPdeWyDr-pOTe4nSM.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/AiIWwJyB-ELzts6wg.png",
+            "time": "13:20:00",
+            "date": "11/10",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/igiurd7u1785_1e432509_20261011.png?v=1e432509",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
