@@ -332,11 +332,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-a217042595",
+                          "id": "lnk-0e094b43ad",
                           "name": "BLV Hấu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791655233_hd/1791655233_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791655233_hd/1791655233_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -620,11 +620,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-a1d49c1179",
+                          "id": "lnk-1292949f18",
                           "name": "Mason",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791655350_hd/1791655350_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791655350_hd/1791655350_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -709,11 +709,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-1052d52611",
+                          "id": "lnk-0d3b7cb558",
                           "name": "Cò đần: Tỵ + Trĩ",
                           "type": "hls",
                           "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791712368_hd/1791712368_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791712368_hd/1791712368_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -726,11 +726,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-0fdbea554e",
+                          "id": "lnk-60c7c8e9fe",
                           "name": "Trung lập: Chồn + Hấu",
                           "type": "hls",
                           "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791712375_hd/1791712375_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791712375_hd/1791712375_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1134,83 +1134,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-496768bf25",
-          "name": "Houston Rockets vs Dallas Mavericks | 17:00 11/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-496768bf25",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-496768bf25",
-                  "name": "Houston Rockets vs Dallas Mavericks",
-                  "streams": [
-                    {
-                      "id": "st-496768bf25",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d82490bee5",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791655838_hd/1791655838_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Houston Rockets",
-            "team_b": "Dallas Mavericks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
-            "time": "17:00:00",
-            "date": "11/10",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24732477_6db68831_20261011.png?v=6db68831",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-8f8a486803",
           "name": "Denver Nuggets vs Chicago Bulls | 08:00 12/10",
@@ -1895,6 +1823,78 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-a5a9289a04",
+          "name": "2026 PFL Africa: Morocco vs 2026 PFL Africa: Morocco | 00:00 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a5a9289a04",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a5a9289a04",
+                  "name": "2026 PFL Africa: Morocco vs 2026 PFL Africa: Morocco",
+                  "streams": [
+                    {
+                      "id": "st-a5a9289a04",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b1430db4a0",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791722617_hd/1791722617_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "2026 PFL Africa: Morocco",
+            "team_a": "2026 PFL Africa: Morocco",
+            "team_b": "2026 PFL Africa: Morocco",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXEvyqm6qs3j_g4sVPyWYc-jdhR7wDJkhatBZf6yRZA&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbXEvyqm6qs3j_g4sVPyWYc-jdhR7wDJkhatBZf6yRZA&s=10",
+            "time": "00:00:00",
+            "date": "12/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n6qtkv5zrkcg_75786c57_20261011.png?v=75786c57",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-aa79b00ebc",
           "name": "Dana White's Contender Series: Season 10, Week 10 vs Dana White's Contender Series: Season 10, Week 10 | 06:00 14/10",
