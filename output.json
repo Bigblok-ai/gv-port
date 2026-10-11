@@ -1287,83 +1287,11 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (2 LIVE)",
+      "name": "🎾 Tennis (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ab44105186",
-          "name": "Alexander Zverev vs Quentin Halys | 17:00 11/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ab44105186",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ab44105186",
-                  "name": "Alexander Zverev vs Quentin Halys",
-                  "streams": [
-                    {
-                      "id": "st-ab44105186",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6dbffa1057",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791703327_hd/1791703327_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Shanghai Open",
-            "team_a": "Alexander Zverev",
-            "team_b": "Quentin Halys",
-            "logo_a": "https://static.flashscore.com/res/image/data/tO5cePjl-2DqYxEbl.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/0GxnPUDa-d4CRNZWd.png",
-            "time": "17:00:00",
-            "date": "11/10",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac045c724d46db8705b639c_8a59abe1_20261011.png?v=8a59abe1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fe88c07670",
           "name": "Alejandro Davivdovich Fokina vs Frances Tiafoe | 18:30 11/10",
@@ -2330,6 +2258,87 @@
       ]
     },
     {
+      "id": "cate_bongchay",
+      "name": "⚾ Bóng Chày",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-b02ce534f5",
+          "name": "Los Angeles Dodgers vs Milwaukee Brewers | 07:00 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b02ce534f5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b02ce534f5",
+                  "name": "Los Angeles Dodgers vs Milwaukee Brewers",
+                  "streams": [
+                    {
+                      "id": "st-b02ce534f5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a4706c240c",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791722494_hd/1791722494_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - Championship Series",
+            "team_a": "Los Angeles Dodgers",
+            "team_b": "Milwaukee Brewers",
+            "logo_a": "https://static.flashscore.com/res/image/data/YeWStKhl-xUjXmOIP.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",
+            "time": "07:00:00",
+            "date": "12/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/u6xsyhzc64yx_6472594c_20261011.png?v=6472594c",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_duaxe",
       "name": "🏎️ Đua Xe (1 LIVE)",
       "display": "vertical",
@@ -2485,6 +2494,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rvibz1pti29p_b5a54202_20261011.png?v=b5a54202",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d494725db6",
+          "name": "Atlanta Falcons vs Baltimore Ravens | 07:30 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d494725db6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d494725db6",
+                  "name": "Atlanta Falcons vs Baltimore Ravens",
+                  "streams": [
+                    {
+                      "id": "st-d494725db6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-27a8356fe3",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791722549_hd/1791722549_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Atlanta Falcons",
+            "team_b": "Baltimore Ravens",
+            "logo_a": "https://static.flashscore.com/res/image/data/be5PNHyB-z5QECN77.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/dUe4S2il-40MWbKRi.png",
+            "time": "07:30:00",
+            "date": "12/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jphv9ueeb39k_f06c7278_20261011.png?v=f06c7278",
             "width": 1600,
             "height": 1200
           }
