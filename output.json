@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-bd0049feb7",
-          "name": "Moldova W vs Georgia W | 21:00 12/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bd0049feb7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-bd0049feb7",
-                  "name": "Moldova W vs Georgia W",
-                  "streams": [
-                    {
-                      "id": "st-bd0049feb7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b68bcf4df9",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791735164_hd/1791735164_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao hữu quốc tế",
-            "team_a": "Moldova W",
-            "team_b": "Georgia W",
-            "logo_a": "https://images.keovip88.net/images/teams/moldova.png",
-            "logo_b": "https://images.keovip88.net/images/teams/georgia.png",
-            "time": "21:00:00",
-            "date": "12/10",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/n2ziqd5wrc4v_8cdc2684_20261012.png?v=8cdc2684",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-700426d12f",
           "name": "Al Adalh vs Al-Anwar | 21:55 12/10",
@@ -1349,11 +1277,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-6e22b26358",
+                          "id": "lnk-9086effed3",
                           "name": "Cầy",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791800378_hd/1791800378_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791800378_hd/1791800378_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1421,11 +1349,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-9f8b382dde",
+                          "id": "lnk-fd7412cac2",
                           "name": "Tôm",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791800407_hd/1791800407_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791800407_hd/1791800407_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -3122,11 +3050,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-855ec79498",
+                          "id": "lnk-ebd5435be3",
                           "name": "Cận",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791800836_hd/1791800836_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791800836_hd/1791800836_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
