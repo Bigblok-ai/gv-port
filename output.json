@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd82_266b9fe2_20261013.png?v=266b9fe2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-50cb9aacab",
-          "name": "Torino vs Udinese | 01:45 13/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-50cb9aacab",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-50cb9aacab",
-                  "name": "Torino vs Udinese",
-                  "streams": [
-                    {
-                      "id": "st-50cb9aacab",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6cc083197d",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791655672_hd/1791655672_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Torino",
-            "team_b": "Udinese",
-            "logo_a": "https://images.keovip88.net/images/teams/torino.png",
-            "logo_b": "https://images.keovip88.net/images/teams/udinese.png",
-            "time": "01:45:00",
-            "date": "13/10",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac2e8cc24d46db870572f5f_522ab316_20261013.png?v=522ab316",
             "width": 1600,
             "height": 1200
           }
@@ -2126,83 +2054,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-512b14adc6",
-          "name": "Ziraat Bankasi vs Galatasaray | 23:30 12/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-512b14adc6",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-512b14adc6",
-                  "name": "Ziraat Bankasi vs Galatasaray",
-                  "streams": [
-                    {
-                      "id": "st-512b14adc6",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-77ead4e51d",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791780435_hd/1791780435_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Thổ Nhĩ Kỳ Super Cup - Chung kết",
-            "team_a": "Ziraat Bankasi",
-            "team_b": "Galatasaray",
-            "logo_a": "https://static.flashscore.com/res/image/data/nN1hHJYA-vaQC7xt4.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/5/51/Galatasaray_daikin_voleybol_logo.png",
-            "time": "23:30:00",
-            "date": "12/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gha1i94ivme2_663fa393_20261013.png?v=663fa393",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-90efbf6f05",
           "name": "Daejeon JKJ Nữ vs Pepper Savings Bank Nữ | 13:30 13/10",
