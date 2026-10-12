@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c98bdf0475",
-          "name": "Germany U17 W vs Iceland U17 W | 17:30 12/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c98bdf0475",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c98bdf0475",
-                  "name": "Germany U17 W vs Iceland U17 W",
-                  "streams": [
-                    {
-                      "id": "st-c98bdf0475",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a51f169ac1",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791734750_hd/1791734750_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Europe - Euro U17 Women Qualification Round 1 League A",
-            "team_a": "Germany U17 W",
-            "team_b": "Iceland U17 W",
-            "logo_a": "https://static.flashscore.com/res/image/data/4YcNadxS-UTKdsw7L.png",
-            "logo_b": "https://images.keovip88.net/images/teams/iceland.png",
-            "time": "17:30:00",
-            "date": "12/10",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ojh8nnopw6w0_444c3910_20261012.png?v=444c3910",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a7e6cd3e25",
           "name": "Hougang United vs Balestier Khalsa | 18:30 12/10",
