@@ -2193,6 +2193,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-f62be9c77c",
+          "name": "Arthur Gea vs Jakub Mensik | 12:30 13/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f62be9c77c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f62be9c77c",
+                  "name": "Arthur Gea vs Jakub Mensik",
+                  "streams": [
+                    {
+                      "id": "st-f62be9c77c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8513bddd8a",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791819553_hd/1791819553_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Shanghai Open",
+            "team_a": "Arthur Gea",
+            "team_b": "Jakub Mensik",
+            "logo_a": "https://static.flashscore.com/res/image/data/E9MoxtwS-IaAVktFg.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/AiIWwJyB-ELzts6wg.png",
+            "time": "12:30:00",
+            "date": "13/10",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1nvem7z9stl9_9d91373a_20261012.png?v=9d91373a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
