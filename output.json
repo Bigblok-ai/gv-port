@@ -2123,6 +2123,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-512b14adc6",
+          "name": "Ziraat Bankasi vs Galatasaray | 23:30 12/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-512b14adc6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-512b14adc6",
+                  "name": "Ziraat Bankasi vs Galatasaray",
+                  "streams": [
+                    {
+                      "id": "st-512b14adc6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77ead4e51d",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791780435_hd/1791780435_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Thổ Nhĩ Kỳ Super Cup - Chung kết",
+            "team_a": "Ziraat Bankasi",
+            "team_b": "Galatasaray",
+            "logo_a": "https://static.flashscore.com/res/image/data/nN1hHJYA-vaQC7xt4.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/5/51/Galatasaray_daikin_voleybol_logo.png",
+            "time": "23:30:00",
+            "date": "12/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gha1i94ivme2_663fa393_20261012.png?v=663fa393",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-90efbf6f05",
           "name": "Daejeon JKJ Nữ vs Pepper Savings Bank Nữ | 13:30 13/10",
           "type": "single",
