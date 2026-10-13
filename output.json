@@ -2063,83 +2063,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (2 LIVE)",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-0ae6f5ff87",
-          "name": "WE vs FLY | 13:00 13/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0ae6f5ff87",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0ae6f5ff87",
-                  "name": "WE vs FLY",
-                  "streams": [
-                    {
-                      "id": "st-0ae6f5ff87",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e5da2ac204",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791792008_hd/1791792008_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Demacia Cup Global Invitational",
-            "team_a": "WE",
-            "team_b": "FLY",
-            "logo_a": "https://static.flashscore.com/res/image/data/rFWqQsgl-Mqc5HTbN.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/W2tjRICr-WM82XxUn.png",
-            "time": "13:00:00",
-            "date": "13/10",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ttr0wkttclhb_2bc34e81_20261013.png?v=2bc34e81",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-900b94917a",
           "name": "BRO vs LGD | 16:00 13/10",
