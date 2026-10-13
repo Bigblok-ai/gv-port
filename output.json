@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-12a2721f90",
-          "name": "Arsenal vs Lille OSC | 02:00 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-12a2721f90",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-12a2721f90",
-                  "name": "Arsenal vs Lille OSC",
-                  "streams": [
-                    {
-                      "id": "st-12a2721f90",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f5aa5f16b2",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791656284_hd/1791656284_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Arsenal",
-            "team_b": "Lille OSC",
-            "logo_a": "https://images.keovip88.net/images/teams/arsenal.png",
-            "logo_b": "https://images.keovip88.net/images/teams/lille.png",
-            "time": "02:00:00",
-            "date": "14/10",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a92220607a55a68f709da96_270e16a7_20261014.png?v=270e16a7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f2367d5a3c",
           "name": "Atletico Madrid vs Manchester United | 02:00 14/10",
@@ -461,78 +389,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4cd164566b7f70b4336_a0988a30_20261014.png?v=a0988a30",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-a474fca7df",
-          "name": "Villarreal vs Napoli | 02:00 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a474fca7df",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a474fca7df",
-                  "name": "Villarreal vs Napoli",
-                  "streams": [
-                    {
-                      "id": "st-a474fca7df",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4c51fbc12",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791902706_hd/1791902706_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Villarreal",
-            "team_b": "Napoli",
-            "logo_a": "https://images.keovip88.net/images/teams/villarreal.png",
-            "logo_b": "https://images.keovip88.net/images/teams/napoli.png",
-            "time": "02:00:00",
-            "date": "14/10",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4cd164566b7f70b4335_16d6d2ff_20261014.png?v=16d6d2ff",
             "width": 1600,
             "height": 1200
           }
