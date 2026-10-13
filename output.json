@@ -1915,6 +1915,78 @@
           }
         },
         {
+          "id": "gv-f8e29a7ddd",
+          "name": "Hapoel Tel-Aviv vs Besiktas Cola Turka | 23:00 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f8e29a7ddd",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f8e29a7ddd",
+                  "name": "Hapoel Tel-Aviv vs Besiktas Cola Turka",
+                  "streams": [
+                    {
+                      "id": "st-f8e29a7ddd",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e7dcfaff23",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791903529_hd/1791903529_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Hapoel Tel-Aviv",
+            "team_b": "Besiktas Cola Turka",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3cf0f296f43dd0a1184d339fd24c97af.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/4c56f517bc64726563ed7f0d226a828e.png",
+            "time": "23:00:00",
+            "date": "14/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35592270_ea666876_20261013.png?v=ea666876",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-779fdeae1d",
           "name": "Efes Pilsen vs FC Bayern Munchen | 00:30 15/10",
           "type": "single",
