@@ -260,11 +260,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-bfb3dbaaf4",
-                          "name": "Súp",
+                          "id": "lnk-ba145e9a0d",
+                          "name": "Bee",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791656162_hd/1791656162_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791902861_hd/1791902861_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -291,7 +291,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/al-hussein-irbid.png",
             "time": "23:00:00",
             "date": "13/10",
-            "blv": "Súp",
+            "blv": "Bee",
             "is_live": false,
             "cate_type": "football"
           },
@@ -781,11 +781,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-2b80741302",
-                          "name": "Ngu",
+                          "id": "lnk-a63c5dea7e",
+                          "name": "Dory",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791656388_hd/1791656388_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791902787_hd/1791902787_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -812,7 +812,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/psv-eindhoven.png",
             "time": "02:00:00",
             "date": "14/10",
-            "blv": "Ngu",
+            "blv": "Dory",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1042,6 +1042,294 @@
           }
         },
         {
+          "id": "gv-bdbf44fcdd",
+          "name": "Fagiano Okayama vs Nagoya Grampus | 17:00 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bdbf44fcdd",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bdbf44fcdd",
+                  "name": "Fagiano Okayama vs Nagoya Grampus",
+                  "streams": [
+                    {
+                      "id": "st-bdbf44fcdd",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-56372e616c",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791902374_hd/1791902374_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japan - J. League Cup",
+            "team_a": "Fagiano Okayama",
+            "team_b": "Nagoya Grampus",
+            "logo_a": "https://images.keovip88.net/images/teams/fagiano-okayama.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Nagoya_Grampus_Logo.svg/1280px-Nagoya_Grampus_Logo.svg.png",
+            "time": "17:00:00",
+            "date": "14/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d57damcm12ew_a7584a8a_20261013.png?v=a7584a8a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b43ef5168a",
+          "name": "Matsumoto Yamaga vs Sanfrecce Hiroshima | 17:00 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b43ef5168a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b43ef5168a",
+                  "name": "Matsumoto Yamaga vs Sanfrecce Hiroshima",
+                  "streams": [
+                    {
+                      "id": "st-b43ef5168a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c1bab80150",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791902466_hd/1791902466_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japan - J. League Cup",
+            "team_a": "Matsumoto Yamaga",
+            "team_b": "Sanfrecce Hiroshima",
+            "logo_a": "https://images.keovip88.net/images/teams/montedio-yamagata.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hiroshima-sanfrecce.png",
+            "time": "17:00:00",
+            "date": "14/10",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yh5vykoxy9g2_5547d641_20261013.png?v=5547d641",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b752815877",
+          "name": "Yokohama F. Marinos vs Shimizu S-Pulse | 17:00 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b752815877",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b752815877",
+                  "name": "Yokohama F. Marinos vs Shimizu S-Pulse",
+                  "streams": [
+                    {
+                      "id": "st-b752815877",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1a3da5bea5",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791902557_hd/1791902557_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japan - J. League Cup",
+            "team_a": "Yokohama F. Marinos",
+            "team_b": "Shimizu S-Pulse",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/vi/2/2c/YokohamaFMarinos.png",
+            "logo_b": "https://images.keovip88.net/images/teams/shimizu-s-pulse.png",
+            "time": "17:00:00",
+            "date": "14/10",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/psaityeuh17q_d5bd0ab2_20261013.png?v=d5bd0ab2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-27106d4f56",
+          "name": "Dinamo Minsk U19 vs Dinamo Tbilisi U19 | 19:00 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-27106d4f56",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-27106d4f56",
+                  "name": "Dinamo Minsk U19 vs Dinamo Tbilisi U19",
+                  "streams": [
+                    {
+                      "id": "st-27106d4f56",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e66c684b2d",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791902641_hd/1791902641_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Youth League",
+            "team_a": "Dinamo Minsk U19",
+            "team_b": "Dinamo Tbilisi U19",
+            "logo_a": "https://images.keovip88.net/images/teams/dinamo-minsk-u19.png",
+            "logo_b": "https://images.keovip88.net/images/teams/dinamo-tbilisi-u19.png",
+            "time": "19:00:00",
+            "date": "14/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa73bdfb654182c23033a36_a42e222d_20261013.png?v=a42e222d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-e1ed2c0e4a",
           "name": "Persib Bandung vs Thể Công Viettel | 19:15 14/10",
           "type": "single",
@@ -1194,60 +1482,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a800a0c450",
-          "name": "Fenerbahce Ulker vs Zalgiris | 00:45 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a800a0c450",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a800a0c450",
-                  "name": "Fenerbahce Ulker vs Zalgiris",
-                  "streams": [
-                    {
-                      "id": "st-a800a0c450",
-                      "name": "GV",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Fenerbahce Ulker",
-            "team_b": "Zalgiris",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ad2880c512e15870ba354e89f5809541.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cf2957a0cbc4d855d7204f2154e2971f.png",
-            "time": "00:45:00",
-            "date": "14/10",
-            "blv": "",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38492272_d514cdd5_20261013.png?v=d514cdd5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ef64692f8c",
           "name": "Orlando Magic vs Cleveland Cavaliers | 06:00 14/10",
