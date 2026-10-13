@@ -2637,6 +2637,87 @@
       ]
     },
     {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-7a24fd0c3a",
+          "name": "Daniil Medvedev vs Stefanos Tsitsipas | 17:10 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7a24fd0c3a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7a24fd0c3a",
+                  "name": "Daniil Medvedev vs Stefanos Tsitsipas",
+                  "streams": [
+                    {
+                      "id": "st-7a24fd0c3a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c39ebb78da",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791909314_hd/1791909314_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Shanghai Open",
+            "team_a": "Daniil Medvedev",
+            "team_b": "Stefanos Tsitsipas",
+            "logo_a": "https://static.flashscore.com/res/image/data/QujxPtf5-6Z1AkBdk.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/zLzqR2Xg-hbIQr8HQ.png",
+            "time": "17:10:00",
+            "date": "14/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nu83u3b4kypk_1b35917d_20261013.png?v=1b35917d",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_bongchuyen",
       "name": "🏐 Bóng Chuyền",
       "display": "vertical",
