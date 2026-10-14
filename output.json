@@ -2777,6 +2777,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-28f077dc55",
+          "name": "Philadelphia 76ers vs Boston Celtics | 06:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-28f077dc55",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-28f077dc55",
+                  "name": "Philadelphia 76ers vs Boston Celtics",
+                  "streams": [
+                    {
+                      "id": "st-28f077dc55",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6941e2babe",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791950389_hd/1791950389_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Philadelphia 76ers",
+            "team_b": "Boston Celtics",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7f086c864d1e283b7862a756f0b88373.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
+            "time": "06:00:00",
+            "date": "17/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29800377_db4f361b_20261014.png?v=db4f361b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
