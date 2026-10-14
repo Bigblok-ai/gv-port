@@ -829,7 +829,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -842,10 +842,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -894,7 +894,7 @@
             "time": "23:00:00",
             "date": "14/10",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1918,7 +1918,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1991,6 +1991,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/44llxvwjnjg8_bc4ae9e6_20261014.png?v=bc4ae9e6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2f22d39e43",
+          "name": "Fenerbahce Nữ vs Goztepe Nữ | 23:00 14/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2f22d39e43",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2f22d39e43",
+                  "name": "Fenerbahce Nữ vs Goztepe Nữ",
+                  "streams": [
+                    {
+                      "id": "st-2f22d39e43",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4c7819ffa6",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791990891_hd/1791990891_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi Nữ ",
+            "team_a": "Fenerbahce Nữ",
+            "team_b": "Goztepe Nữ",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/am1hqNcHXX7QHNzqOjT6qw_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/WB1orOJBxA3j12X_54XREg_96x96.png",
+            "time": "23:00:00",
+            "date": "14/10",
+            "blv": "Sún",
+            "is_live": true,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fpe1qt6jgbsl_e51709f3_20261014.png?v=e51709f3",
             "width": 1600,
             "height": 1200
           }
