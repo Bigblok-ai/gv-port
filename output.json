@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (8 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -106,78 +106,6 @@
           }
         },
         {
-          "id": "gv-ceae7af995",
-          "name": "Aston Villa vs Fenerbahce | 02:00 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ceae7af995",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ceae7af995",
-                  "name": "Aston Villa vs Fenerbahce",
-                  "streams": [
-                    {
-                      "id": "st-ceae7af995",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e5b5da1761",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791903194_hd/1791903194_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Aston Villa",
-            "team_b": "Fenerbahce",
-            "logo_a": "https://images.keovip88.net/images/teams/aston-villa.png",
-            "logo_b": "https://images.keovip88.net/images/teams/fenerbahce.png",
-            "time": "02:00:00",
-            "date": "15/10",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e3c_c57b946f_20261015.png?v=c57b946f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-97c95c57ac",
           "name": "Real Betis vs FC Porto | 02:00 15/10",
           "type": "single",
@@ -245,78 +173,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a92220607a55a68f709da97_bac80412_20261015.png?v=bac80412",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-f193a23f60",
-          "name": "Bodo Glimt vs Borussia Dortmund | 02:00 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f193a23f60",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f193a23f60",
-                  "name": "Bodo Glimt vs Borussia Dortmund",
-                  "streams": [
-                    {
-                      "id": "st-f193a23f60",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-27181be836",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791903263_hd/1791903263_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Bodo Glimt",
-            "team_b": "Borussia Dortmund",
-            "logo_a": "https://images.keovip88.net/images/teams/bodo-glimt.png",
-            "logo_b": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
-            "time": "02:00:00",
-            "date": "15/10",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e36_d83610ee_20261015.png?v=d83610ee",
             "width": 1600,
             "height": 1200
           }
@@ -2278,83 +2134,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2f22d39e43",
-          "name": "Fenerbahce Nữ vs Goztepe Nữ | 23:00 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2f22d39e43",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2f22d39e43",
-                  "name": "Fenerbahce Nữ vs Goztepe Nữ",
-                  "streams": [
-                    {
-                      "id": "st-2f22d39e43",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4c7819ffa6",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791990891_hd/1791990891_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkey Sultanlar Ligi Nữ ",
-            "team_a": "Fenerbahce Nữ",
-            "team_b": "Goztepe Nữ",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/am1hqNcHXX7QHNzqOjT6qw_96x96.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/WB1orOJBxA3j12X_54XREg_96x96.png",
-            "time": "23:00:00",
-            "date": "14/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fpe1qt6jgbsl_e51709f3_20261015.png?v=e51709f3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fa86b49f6a",
           "name": "Pepper Savings Bank Nữ vs Hungkuk Nữ | 13:30 15/10",
