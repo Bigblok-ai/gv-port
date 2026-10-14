@@ -3299,6 +3299,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-ee1f5228fc",
+          "name": "Vero Volley Nữ vs Novara Nữ | 01:30 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ee1f5228fc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ee1f5228fc",
+                  "name": "Vero Volley Nữ vs Novara Nữ",
+                  "streams": [
+                    {
+                      "id": "st-ee1f5228fc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f192bc3c97",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791951003_hd/1791951003_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italy - Seri A1 Nữ ",
+            "team_a": "Vero Volley Nữ",
+            "team_b": "Novara Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/prWwhLwS-dbN3tce0.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/8UCiWxdM-KbBsKXD2.png",
+            "time": "01:30:00",
+            "date": "18/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fntgwdtprbd0_0387c538_20261014.png?v=0387c538",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -3674,6 +3746,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/eefzx5x5avaf_d9125078_20261014.png?v=d9125078",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-031cbfb026",
+          "name": "Dubois vs vs Wardley 2 | 23:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-031cbfb026",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-031cbfb026",
+                  "name": "Dubois vs vs Wardley 2",
+                  "streams": [
+                    {
+                      "id": "st-031cbfb026",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d3413a1dc1",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791951122_hd/1791951122_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WBO Heavyweight Title",
+            "team_a": "Dubois vs",
+            "team_b": "Wardley 2",
+            "logo_a": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT75WzoIGFNpa3vJcmLm1Wff-VoeqkryAQp8rV_0plQkDX0rokV",
+            "logo_b": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT75WzoIGFNpa3vJcmLm1Wff-VoeqkryAQp8rV_0plQkDX0rokV",
+            "time": "23:00:00",
+            "date": "17/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qcqvu4tdq7tx_98766c8b_20261014.png?v=98766c8b",
             "width": 1600,
             "height": 1200
           }
