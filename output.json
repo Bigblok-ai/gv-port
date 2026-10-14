@@ -1918,83 +1918,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9fb1456274",
-          "name": "Aras Kargo Nữ vs Galatasaray nữ | 20:00 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9fb1456274",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9fb1456274",
-                  "name": "Aras Kargo Nữ vs Galatasaray nữ",
-                  "streams": [
-                    {
-                      "id": "st-9fb1456274",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b57e39149f",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791909240_hd/1791909240_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkey Sultanlar Ligi Nữ ",
-            "team_a": "Aras Kargo Nữ",
-            "team_b": "Galatasaray nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/OlaTX8Xg-OWRI6OC5.png",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/5/51/Galatasaray_daikin_voleybol_logo.png",
-            "time": "20:00:00",
-            "date": "14/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/44llxvwjnjg8_bc4ae9e6_20261014.png?v=bc4ae9e6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2f22d39e43",
           "name": "Fenerbahce Nữ vs Goztepe Nữ | 23:00 14/10",
