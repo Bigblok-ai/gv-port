@@ -1411,78 +1411,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-ef64692f8c",
-          "name": "Orlando Magic vs Cleveland Cavaliers | 06:00 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ef64692f8c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ef64692f8c",
-                  "name": "Orlando Magic vs Cleveland Cavaliers",
-                  "streams": [
-                    {
-                      "id": "st-ef64692f8c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-435da3b914",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791800593_hd/1791800593_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Orlando Magic",
-            "team_b": "Cleveland Cavaliers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2566b135b0e54971193a132bd8a1473c.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
-            "time": "06:00:00",
-            "date": "14/10",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24532475_c3835f54_20261014.png?v=c3835f54",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-8939899aa1",
           "name": "Toronto Raptors vs New York Knicks | 06:00 14/10",
           "type": "single",
@@ -1634,10 +1562,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1686,7 +1614,7 @@
             "time": "09:00:00",
             "date": "14/10",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
