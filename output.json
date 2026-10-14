@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-7b2c97c542",
-          "name": "Melbourne Victory vs Seoul | 14:45 14/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7b2c97c542",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7b2c97c542",
-                  "name": "Melbourne Victory vs Seoul",
-                  "streams": [
-                    {
-                      "id": "st-7b2c97c542",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e1a09f1c10",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791952885_hd/1791952885_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asia - AFC Champions League Two",
-            "team_a": "Melbourne Victory",
-            "team_b": "Seoul",
-            "logo_a": "https://static.flashscore.com/res/image/data/xQp2OjDa-8xXa2Yg2.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/lYmWcCfM-8rKfsneA.png",
-            "time": "14:45:00",
-            "date": "14/10",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rjedrqtdnljg_1ce9b924_20261014.png?v=1ce9b924",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ba3a0ce1e8",
           "name": "Vissel Kobe vs Jeonbuk Hyundai Motors | 17:00 14/10",
@@ -2791,7 +2719,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2804,10 +2732,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2856,7 +2784,7 @@
             "time": "17:00:00",
             "date": "14/10",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
