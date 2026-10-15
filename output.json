@@ -1100,7 +1100,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1113,10 +1113,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1165,7 +1165,7 @@
             "time": "15:30:00",
             "date": "15/10",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1613,83 +1613,11 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-3dd77db548",
-          "name": "Arthur Gea vs Alejandro Davidovich Fokina | 13:30 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3dd77db548",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3dd77db548",
-                  "name": "Arthur Gea vs Alejandro Davidovich Fokina",
-                  "streams": [
-                    {
-                      "id": "st-3dd77db548",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-de18c737fe",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792027900_hd/1792027900_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Shanghai Open",
-            "team_a": "Arthur Gea",
-            "team_b": "Alejandro Davidovich Fokina",
-            "logo_a": "https://static.flashscore.com/res/image/data/E9MoxtwS-IaAVktFg.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/fLk5DXhl-SbT3RDiH.png",
-            "time": "13:30:00",
-            "date": "15/10",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/b7am2olm1em3_1bf6cab3_20261015.png?v=1bf6cab3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a5c0667ee7",
           "name": "Alexander Zverev vs Alex de Minaur | 17:00 15/10",
@@ -1766,83 +1694,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-fa86b49f6a",
-          "name": "Pepper Savings Bank Nữ vs Hungkuk Nữ | 13:30 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fa86b49f6a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fa86b49f6a",
-                  "name": "Pepper Savings Bank Nữ vs Hungkuk Nữ",
-                  "streams": [
-                    {
-                      "id": "st-fa86b49f6a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7633900b8e",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791944255_hd/1791944255_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Cúp KOVO Nữ",
-            "team_a": "Pepper Savings Bank Nữ",
-            "team_b": "Hungkuk Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/zaBfVVfM-Y57t5X1j.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/8bAPfUCa-SfuGhwLE.png",
-            "time": "13:30:00",
-            "date": "15/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/f881h08giym0_8340ec8d_20261015.png?v=8340ec8d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-15c9a861bc",
           "name": "IBK Nữ vs Daejeon JKJ Nữ | 17:00 15/10",
@@ -1991,7 +1847,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2004,10 +1860,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2056,7 +1912,7 @@
             "time": "15:30:00",
             "date": "15/10",
             "blv": "Mickey",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
@@ -2658,6 +2514,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xgsb6l3o9fes_f8c28a68_20261015.png?v=f8c28a68",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_Billiards",
+      "name": "🎱 Billiards",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-e1c1cfee74",
+          "name": "Team Asia vs Team Rest of the World (ROW) | 18:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e1c1cfee74",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e1c1cfee74",
+                  "name": "Team Asia vs Team Rest of the World (ROW)",
+                  "streams": [
+                    {
+                      "id": "st-e1c1cfee74",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20898779bf",
+                          "name": "Mason vs Kim Chon",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792051906_hd/1792051906_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Reyes Cup 2026",
+            "team_a": "Team Asia",
+            "team_b": "Team Rest of the World (ROW)",
+            "logo_a": "https://img-evg4.tv360.vn/2026/10/b0812ead772c79a3860c9bad2e602698-1024x576.jpg",
+            "logo_b": "https://worldnineballtour.com/wp-content/uploads/B-REYES-CUP-21.jpg",
+            "time": "18:00:00",
+            "date": "15/10",
+            "blv": "Mason vs Kim Chon",
+            "is_live": false,
+            "cate_type": "Billiards"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7qzhnu618ppm_a48f1384_20261015.png?v=a48f1384",
             "width": 1600,
             "height": 1200
           }
