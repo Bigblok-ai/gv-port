@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (8 LIVE)",
+      "name": "⚽ Bóng Đá (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d245f48860",
-          "name": "Hajduk Split vs Ajax Amsterdam | 23:45 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d245f48860",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d245f48860",
-                  "name": "Hajduk Split vs Ajax Amsterdam",
-                  "streams": [
-                    {
-                      "id": "st-d245f48860",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ec1cbabefe",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791948276_hd/1791948276_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Europa Conference League",
-            "team_a": "Hajduk Split",
-            "team_b": "Ajax Amsterdam",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzuBPSpFE4MZqld5dbCBje-1EdjK5ZjPNXmRyE-Vuvcg&s",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjCjghjF4NjmwuiusDkUDy-Posi_xi7_vp5tkvkuL98A&s=10",
-            "time": "23:45:00",
-            "date": "15/10",
-            "blv": "Dory",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d9164566b7f70b43a5_5d29070e_20261016.png?v=5d29070e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-cddb5b7588",
           "name": "AFC Bournemouth vs Sturm Graz | 02:00 16/10",
