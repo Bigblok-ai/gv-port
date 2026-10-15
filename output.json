@@ -17,6 +17,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-6e0744a860",
+          "name": "Wofoo Tai Po vs Lion City Sailors | 17:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6e0744a860",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6e0744a860",
+                  "name": "Wofoo Tai Po vs Lion City Sailors",
+                  "streams": [
+                    {
+                      "id": "st-6e0744a860",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8d3fcc0dcb",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792049982_hd/1792049982_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Cup",
+            "team_a": "Wofoo Tai Po",
+            "team_b": "Lion City Sailors",
+            "logo_a": "https://images.keovip88.net/images/teams/wofoo-tai-po.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lion-city-sailors.png",
+            "time": "17:00:00",
+            "date": "15/10",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd94_8a567d33_20261015.png?v=8a567d33",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-5e22d34e87",
           "name": "SC Uniao Torreense vs Sunderland | 23:45 15/10",
           "type": "single",
@@ -1492,6 +1564,150 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-d22c728c01",
+          "name": "Single Elimination vs Bracket | 15:30 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d22c728c01",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d22c728c01",
+                  "name": "Single Elimination vs Bracket",
+                  "streams": [
+                    {
+                      "id": "st-d22c728c01",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-43c5d5d84e",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792049446_hd/1792049446_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-Thunderpick World Championship 2026",
+            "team_a": "Single Elimination",
+            "team_b": "Bracket",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9C8u5REg6anHhtvSgx9SI9-mj5EWxpD4ptLm1BvZEhrYGTfQlAl-pPQLZ&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51BbFm9V18wwl5QBoeQyaLCisKQA6gITiCWZjw4pyuqlpt49Kx12YafzO&s=10",
+            "time": "15:30:00",
+            "date": "15/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/owjbx5gdsuii_855f7dad_20261015.png?v=855f7dad",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-30dcc2876e",
+          "name": "WE vs BRO | 16:00 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-30dcc2876e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-30dcc2876e",
+                  "name": "WE vs BRO",
+                  "streams": [
+                    {
+                      "id": "st-30dcc2876e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5fb5ddddef",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792049587_hd/1792049587_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Demacia Cup Global Invitational",
+            "team_a": "WE",
+            "team_b": "BRO",
+            "logo_a": "https://static.flashscore.com/res/image/data/rFWqQsgl-Mqc5HTbN.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/dWdjTlyS-tSnxXc8U.png",
+            "time": "16:00:00",
+            "date": "15/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9lwh9ai09rr6_f08bfd3c_20261015.png?v=f08bfd3c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-7513aaf650",
           "name": "C9 vs KC | 01:00 16/10",
