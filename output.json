@@ -1023,6 +1023,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-73bfef6788",
+          "name": "Sydney FC vs Western Sydney Wanderers | 16:00 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-73bfef6788",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-73bfef6788",
+                  "name": "Sydney FC vs Western Sydney Wanderers",
+                  "streams": [
+                    {
+                      "id": "st-73bfef6788",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-452962379e",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792067492_hd/1792067492_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Sydney FC",
+            "team_b": "Western Sydney Wanderers",
+            "logo_a": "https://images.keovip88.net/images/teams/sydney-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/western-sydney.png",
+            "time": "16:00:00",
+            "date": "16/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac6dd5024d46db870d13a66_a5badc60_20261015.png?v=a5badc60",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4871c2cb4c",
+          "name": "Henan FC vs Tianjin Jinmen Tiger | 18:35 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4871c2cb4c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4871c2cb4c",
+                  "name": "Henan FC vs Tianjin Jinmen Tiger",
+                  "streams": [
+                    {
+                      "id": "st-4871c2cb4c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2c7ebbb187",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792067616_hd/1792067616_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Trung Quốc",
+            "team_a": "Henan FC",
+            "team_b": "Tianjin Jinmen Tiger",
+            "logo_a": "https://images.keovip88.net/images/teams/henan-football-club.png",
+            "logo_b": "https://images.keovip88.net/images/teams/tianjin-tigers.png",
+            "time": "18:35:00",
+            "date": "16/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac6dd5024d46db870d13ab4_9274738e_20261015.png?v=9274738e",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1173,6 +1317,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/30588270_e429a364_20261015.png?v=e429a364",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1c62c03bad",
+          "name": "Tasmania JackJumpers vs Adelaide 36ers | 15:30 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1c62c03bad",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1c62c03bad",
+                  "name": "Tasmania JackJumpers vs Adelaide 36ers",
+                  "streams": [
+                    {
+                      "id": "st-1c62c03bad",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9a1c245cb1",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792067437_hd/1792067437_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Tasmania JackJumpers",
+            "team_b": "Adelaide 36ers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6a6d3d4063e675d1ce3e701153e3f367.png",
+            "time": "15:30:00",
+            "date": "16/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23422270_6edcb36f_20261015.png?v=6edcb36f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9695eacf81",
+          "name": "Goyang Orions vs Ulsan Hyundai Mobis Phoebus | 17:00 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9695eacf81",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9695eacf81",
+                  "name": "Goyang Orions vs Ulsan Hyundai Mobis Phoebus",
+                  "streams": [
+                    {
+                      "id": "st-9695eacf81",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2f55e25d81",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792067549_hd/1792067549_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Goyang Orions",
+            "team_b": "Ulsan Hyundai Mobis Phoebus",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/5b0e513f868dee6a403d7d5dfc3628b3.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e22caa597076764dd0d04b55d46f764e.png",
+            "time": "17:00:00",
+            "date": "16/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21950375_f5706302_20261015.png?v=f5706302",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4407217073",
+          "name": "Shanghai bilibili vs Shenzhen Leopards | 18:35 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4407217073",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4407217073",
+                  "name": "Shanghai bilibili vs Shenzhen Leopards",
+                  "streams": [
+                    {
+                      "id": "st-4407217073",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2398cff8ec",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792067666_hd/1792067666_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Shanghai bilibili",
+            "team_b": "Shenzhen Leopards",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d67cd54e91fe7a46a2f9bdd646544989.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/4d9ec843176ad902c32b3b317118e543.png",
+            "time": "18:35:00",
+            "date": "16/10",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21263473_7df54afd_20261015.png?v=7df54afd",
             "width": 1600,
             "height": 1200
           }
