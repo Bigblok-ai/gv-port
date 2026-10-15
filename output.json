@@ -2279,7 +2279,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (3 LIVE)",
+      "name": "🎮 Esport (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2352,78 +2352,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/owjbx5gdsuii_855f7dad_20261015.png?v=855f7dad",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-30dcc2876e",
-          "name": "WE vs BRO | 16:00 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-30dcc2876e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-30dcc2876e",
-                  "name": "WE vs BRO",
-                  "streams": [
-                    {
-                      "id": "st-30dcc2876e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5fb5ddddef",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792049587_hd/1792049587_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Demacia Cup Global Invitational",
-            "team_a": "WE",
-            "team_b": "BRO",
-            "logo_a": "https://static.flashscore.com/res/image/data/rFWqQsgl-Mqc5HTbN.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/dWdjTlyS-tSnxXc8U.png",
-            "time": "16:00:00",
-            "date": "15/10",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9lwh9ai09rr6_f08bfd3c_20261015.png?v=f08bfd3c",
             "width": 1600,
             "height": 1200
           }
@@ -2793,6 +2721,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38erfpoyp7r2_d4a4e557_20261015.png?v=d4a4e557",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7c8d9f74da",
+          "name": "Prajanchai vs Wang Junguang | 18:30 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7c8d9f74da",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7c8d9f74da",
+                  "name": "Prajanchai vs Wang Junguang",
+                  "streams": [
+                    {
+                      "id": "st-7c8d9f74da",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-de3490e747",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792069508_hd/1792069508_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ONE Friday Fights 175 & The Inner Circle 35",
+            "team_a": "Prajanchai",
+            "team_b": "Wang Junguang",
+            "logo_a": "https://cdn.onefc.com/wp-content/uploads/2021/07/Prajanchai-1200x1165-1.png",
+            "logo_b": "https://cdn.onefc.com/wp-content/uploads/2019/09/Wang_Junguangavatar-500x345.png",
+            "time": "18:30:00",
+            "date": "16/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/00a69vlsz3ck_866c57a5_20261015.png?v=866c57a5",
             "width": 1600,
             "height": 1200
           }
