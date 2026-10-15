@@ -449,6 +449,78 @@
           }
         },
         {
+          "id": "gv-6d2633ea4c",
+          "name": "Sparta Prague vs Lillestrom | 23:45 15/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6d2633ea4c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6d2633ea4c",
+                  "name": "Sparta Prague vs Lillestrom",
+                  "streams": [
+                    {
+                      "id": "st-6d2633ea4c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-61eb474d70",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1792078516_hd/1792078516_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "Sparta Prague",
+            "team_b": "Lillestrom",
+            "logo_a": "https://images.keovip88.net/images/teams/ac-sparta-prague.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lillestrom.png",
+            "time": "23:45:00",
+            "date": "15/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9767c031f9dda471080120_7d12a201_20261015.png?v=7d12a201",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-d245f48860",
           "name": "Hajduk Split vs Ajax Amsterdam | 23:45 15/10",
           "type": "single",
@@ -876,6 +948,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e72_bbcf2cc9_20261015.png?v=bbcf2cc9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a9198ff022",
+          "name": "Marseille vs Olympiakos Piraeus | 02:00 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a9198ff022",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a9198ff022",
+                  "name": "Marseille vs Olympiakos Piraeus",
+                  "streams": [
+                    {
+                      "id": "st-a9198ff022",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fca00f669b",
+                          "name": "Tỵ + Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1792078639_hd/1792078639_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "Marseille",
+            "team_b": "Olympiakos Piraeus",
+            "logo_a": "https://images.keovip88.net/images/teams/marseille.png",
+            "logo_b": "https://images.keovip88.net/images/teams/olympiakos-piraeus.png",
+            "time": "02:00:00",
+            "date": "16/10",
+            "blv": "Tỵ + Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e75_c8a4dc84_20261015.png?v=c8a4dc84",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ab8baf73fc",
+          "name": "Brighton   Hove Albion vs Kauno Zalgiris | 02:00 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ab8baf73fc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ab8baf73fc",
+                  "name": "Brighton   Hove Albion vs Kauno Zalgiris",
+                  "streams": [
+                    {
+                      "id": "st-ab8baf73fc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dcd39b8b82",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1792078684_hd/1792078684_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Europa Conference League",
+            "team_a": "Brighton   Hove Albion",
+            "team_b": "Kauno Zalgiris",
+            "logo_a": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
+            "logo_b": "https://images.keovip88.net/images/teams/kauno-zalgiris.png",
+            "time": "02:00:00",
+            "date": "16/10",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93739cfccd5ecc44060ea4_a0a665c5_20261015.png?v=a0a665c5",
             "width": 1600,
             "height": 1200
           }
