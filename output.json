@@ -1622,83 +1622,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-15c9a861bc",
-          "name": "IBK Nữ vs Daejeon JKJ Nữ | 17:00 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-15c9a861bc",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-15c9a861bc",
-                  "name": "IBK Nữ vs Daejeon JKJ Nữ",
-                  "streams": [
-                    {
-                      "id": "st-15c9a861bc",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-60e49c8cba",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792051601_hd/1792051601_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Cúp KOVO Nữ",
-            "team_a": "IBK Nữ",
-            "team_b": "Daejeon JKJ Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/GCVCfeyS-8pDUfQGg.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/C6oehGYg-YPeUstG1.png",
-            "time": "17:00:00",
-            "date": "15/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rbepwqxocd6z_dde94a07_20261015.png?v=dde94a07",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ee1f5228fc",
           "name": "Vero Volley Nữ vs Novara Nữ | 01:30 18/10",
