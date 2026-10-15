@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (10 LIVE)",
+      "name": "⚽ Bóng Đá (8 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c81d510730",
-          "name": "Lyonnais vs Crystal Palace | 23:45 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c81d510730",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c81d510730",
-                  "name": "Lyonnais vs Crystal Palace",
-                  "streams": [
-                    {
-                      "id": "st-c81d510730",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-80c40b46cd",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791948130_hd/1791948130_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Lyonnais",
-            "team_b": "Crystal Palace",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAW68tQ3-InZLFqpbdhhFHoHsBYps_kw5gNTlf8e44w&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_uF-MshFQM40Ufe3TmEYTAUDgxk5jM1T6uwjbqVBeaw&s",
-            "time": "23:45:00",
-            "date": "15/10",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b437e_69347f3f_20261016.png?v=69347f3f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-5e22d34e87",
-          "name": "SC Uniao Torreense vs Sunderland | 23:45 15/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5e22d34e87",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5e22d34e87",
-                  "name": "SC Uniao Torreense vs Sunderland",
-                  "streams": [
-                    {
-                      "id": "st-5e22d34e87",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ab04bafd05",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791948033_hd/1791948033_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "SC Uniao Torreense",
-            "team_b": "Sunderland",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/dc/S.C.U._Torreense_logo.svg/1280px-S.C.U._Torreense_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0R30nhdb7FbM4hjzSM26SJYHQACpyBZ0uMEnL82RBQ&s=10",
-            "time": "23:45:00",
-            "date": "15/10",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9767c031f9dda471080121_131389b0_20261016.png?v=131389b0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-d245f48860",
           "name": "Hajduk Split vs Ajax Amsterdam | 23:45 15/10",
@@ -305,150 +161,6 @@
           }
         },
         {
-          "id": "gv-551f063ed9",
-          "name": "Stade Rennais FC vs OFI Crete | 02:00 16/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-551f063ed9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-551f063ed9",
-                  "name": "Stade Rennais FC vs OFI Crete",
-                  "streams": [
-                    {
-                      "id": "st-551f063ed9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-48e149b854",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791948727_hd/1791948727_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Stade Rennais FC",
-            "team_b": "OFI Crete",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKz0pOeKrA0l8EBimogpOLZ6lULoZo8-al_q1civCnQ&s",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6Vo65Dm1-WRzy3F4nVT_WD025nxzuAB2ZWOgTqYA8w&s",
-            "time": "02:00:00",
-            "date": "16/10",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9767c031f9dda471080123_24e66757_20261016.png?v=24e66757",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-d3e343d4e6",
-          "name": "Hoffenheim vs Besiktas JK | 02:00 16/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d3e343d4e6",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d3e343d4e6",
-                  "name": "Hoffenheim vs Besiktas JK",
-                  "streams": [
-                    {
-                      "id": "st-d3e343d4e6",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3becb6813f",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791948839_hd/1791948839_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Hoffenheim",
-            "team_b": "Besiktas JK",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzC0hjw5RCAssKHynWJ0ZLGUI9ydy210pY1ZoNH2w3w&s",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScx_SbQfW5lp7mKrPGs6nqyyDLzOK8SbR7Eb1X3v_t-A&s",
-            "time": "02:00:00",
-            "date": "16/10",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b4380_aa0a7af1_20261016.png?v=aa0a7af1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-75c8936a1f",
           "name": "Celta Vigo vs Juventus | 02:00 16/10",
           "type": "single",
@@ -588,6 +300,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e72_b8115c4e_20261016.png?v=b8115c4e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-551f063ed9",
+          "name": "Stade Rennais FC vs OFI Crete | 02:00 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-551f063ed9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-551f063ed9",
+                  "name": "Stade Rennais FC vs OFI Crete",
+                  "streams": [
+                    {
+                      "id": "st-551f063ed9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-48e149b854",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791948727_hd/1791948727_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "Stade Rennais FC",
+            "team_b": "OFI Crete",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKz0pOeKrA0l8EBimogpOLZ6lULoZo8-al_q1civCnQ&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6Vo65Dm1-WRzy3F4nVT_WD025nxzuAB2ZWOgTqYA8w&s",
+            "time": "02:00:00",
+            "date": "16/10",
+            "blv": "Mason",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9767c031f9dda471080123_24e66757_20261016.png?v=24e66757",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d3e343d4e6",
+          "name": "Hoffenheim vs Besiktas JK | 02:00 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d3e343d4e6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d3e343d4e6",
+                  "name": "Hoffenheim vs Besiktas JK",
+                  "streams": [
+                    {
+                      "id": "st-d3e343d4e6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3becb6813f",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791948839_hd/1791948839_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "Hoffenheim",
+            "team_b": "Besiktas JK",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzC0hjw5RCAssKHynWJ0ZLGUI9ydy210pY1ZoNH2w3w&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScx_SbQfW5lp7mKrPGs6nqyyDLzOK8SbR7Eb1X3v_t-A&s",
+            "time": "02:00:00",
+            "date": "16/10",
+            "blv": "Ngọng",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b4380_aa0a7af1_20261016.png?v=aa0a7af1",
             "width": 1600,
             "height": 1200
           }
@@ -1380,6 +1236,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0775_229cdc90_20261016.png?v=229cdc90",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8b96730c41",
+          "name": "Le Mans vs Toulouse | 01:45 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8b96730c41",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8b96730c41",
+                  "name": "Le Mans vs Toulouse",
+                  "streams": [
+                    {
+                      "id": "st-8b96730c41",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-312344257a",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791950132_hd/1791950132_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Le Mans",
+            "team_b": "Toulouse",
+            "logo_a": "https://images.keovip88.net/images/teams/le-mans.png",
+            "logo_b": "https://images.keovip88.net/images/teams/toulouse.png",
+            "time": "01:45:00",
+            "date": "17/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07b6_5ae71589_20261016.png?v=5ae71589",
             "width": 1600,
             "height": 1200
           }
