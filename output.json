@@ -2798,6 +2798,87 @@
       ]
     },
     {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-9f5973b9fa",
+          "name": "Alexander Zverev vs Alejandro Davidovich Fokina | 15:30 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f5973b9fa",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9f5973b9fa",
+                  "name": "Alexander Zverev vs Alejandro Davidovich Fokina",
+                  "streams": [
+                    {
+                      "id": "st-9f5973b9fa",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67e7bc82dc",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792169628_hd/1792169628_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Shanghai Open",
+            "team_a": "Alexander Zverev",
+            "team_b": "Alejandro Davidovich Fokina",
+            "logo_a": "https://static.flashscore.com/res/image/data/tO5cePjl-2DqYxEbl.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/fLk5DXhl-SbT3RDiH.png",
+            "time": "15:30:00",
+            "date": "17/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2j74krgs62u7_3d0239a9_20261016.png?v=3d0239a9",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_bongchuyen",
       "name": "🏐 Bóng Chuyền",
       "display": "vertical",
