@@ -11,11 +11,83 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-73bfef6788",
+          "name": "Sydney FC vs Western Sydney Wanderers | 16:00 16/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-73bfef6788",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-73bfef6788",
+                  "name": "Sydney FC vs Western Sydney Wanderers",
+                  "streams": [
+                    {
+                      "id": "st-73bfef6788",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-452962379e",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792067492_hd/1792067492_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Sydney FC",
+            "team_b": "Western Sydney Wanderers",
+            "logo_a": "https://images.keovip88.net/images/teams/sydney-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/western-sydney.png",
+            "time": "16:00:00",
+            "date": "16/10",
+            "blv": "Tỵ ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac6dd5024d46db870d13a66_a5badc60_20261016.png?v=a5badc60",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-337c5ed3bc",
           "name": "PSIM Yogyakarta vs PSM Makassar | 15:30 16/10",
@@ -84,78 +156,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac6dd5024d46db870d13a4e_beffcbf9_20261016.png?v=beffcbf9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-73bfef6788",
-          "name": "Sydney FC vs Western Sydney Wanderers | 16:00 16/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-73bfef6788",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-73bfef6788",
-                  "name": "Sydney FC vs Western Sydney Wanderers",
-                  "streams": [
-                    {
-                      "id": "st-73bfef6788",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-452962379e",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792067492_hd/1792067492_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Úc",
-            "team_a": "Sydney FC",
-            "team_b": "Western Sydney Wanderers",
-            "logo_a": "https://images.keovip88.net/images/teams/sydney-fc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/western-sydney.png",
-            "time": "16:00:00",
-            "date": "16/10",
-            "blv": "Tỵ ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac6dd5024d46db870d13a66_a5badc60_20261016.png?v=a5badc60",
             "width": 1600,
             "height": 1200
           }
@@ -1677,6 +1677,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29612277_f803d6d1_20261016.png?v=f803d6d1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-13ea356862",
+          "name": "Memphis Grizzlies vs Charlotte Hornets | 07:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-13ea356862",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-13ea356862",
+                  "name": "Memphis Grizzlies vs Charlotte Hornets",
+                  "streams": [
+                    {
+                      "id": "st-13ea356862",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a1cabb7465",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792136997_hd/1792136997_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Memphis Grizzlies",
+            "team_b": "Charlotte Hornets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
+            "time": "07:00:00",
+            "date": "17/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24632476_899f9e81_20261016.png?v=899f9e81",
             "width": 1600,
             "height": 1200
           }
