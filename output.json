@@ -3552,6 +3552,78 @@
           }
         },
         {
+          "id": "gv-a832b8b1a2",
+          "name": "Dubois vs Wardley | 22:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a832b8b1a2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a832b8b1a2",
+                  "name": "Dubois vs Wardley",
+                  "streams": [
+                    {
+                      "id": "st-a832b8b1a2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7692fde463",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792170062_hd/1792170062_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WBO Heavyweight Title",
+            "team_a": "Dubois",
+            "team_b": "Wardley",
+            "logo_a": "https://static.flashscore.com/res/image/data/06x6Z2Yg-4Y9TamWM.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rwQ0FieM-lxCLakwH.png",
+            "time": "22:00:00",
+            "date": "17/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xj9dgdv5uota_79ede6f2_20261017.png?v=79ede6f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-031cbfb026",
           "name": "Dubois vs vs Wardley 2 | 23:00 17/10",
           "type": "single",
