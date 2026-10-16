@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-4871c2cb4c",
-          "name": "Henan FC vs Tianjin Jinmen Tiger | 18:35 16/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4871c2cb4c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4871c2cb4c",
-                  "name": "Henan FC vs Tianjin Jinmen Tiger",
-                  "streams": [
-                    {
-                      "id": "st-4871c2cb4c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2c7ebbb187",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792067616_hd/1792067616_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Trung Quốc",
-            "team_a": "Henan FC",
-            "team_b": "Tianjin Jinmen Tiger",
-            "logo_a": "https://images.keovip88.net/images/teams/henan-football-club.png",
-            "logo_b": "https://images.keovip88.net/images/teams/tianjin-tigers.png",
-            "time": "18:35:00",
-            "date": "16/10",
-            "blv": "Tỵ ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac6dd5024d46db870d13ab4_9274738e_20261016.png?v=9274738e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-30780eca10",
           "name": "Malut United vs Bali United FC | 19:00 16/10",
           "type": "single",
@@ -240,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +220,7 @@
             "time": "21:00:00",
             "date": "16/10",
             "blv": "Tỵ ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -2846,83 +2774,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d686065fcf",
-          "name": "100 Thieves vs G2 Esports | 16:00 16/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d686065fcf",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d686065fcf",
-                  "name": "100 Thieves vs G2 Esports",
-                  "streams": [
-                    {
-                      "id": "st-d686065fcf",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-536543e2df",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792068474_hd/1792068474_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Valorant Champions 2026",
-            "team_a": "100 Thieves",
-            "team_b": "G2 Esports",
-            "logo_a": "https://static.flashscore.com/res/image/data/Y5Fp2sFG-j7Z9IDCI.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/EgYNlNDa-YoDO6SX0.png",
-            "time": "16:00:00",
-            "date": "16/10",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e7c1g9847iea_ff1ac2f4_20261016.png?v=ff1ac2f4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-98097ae989",
           "name": "WE vs BFX | 16:00 17/10",
