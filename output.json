@@ -3466,83 +3466,11 @@
     },
     {
       "id": "cate_Billiards",
-      "name": "🎱 Billiards (1 LIVE)",
+      "name": "🎱 Billiards",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-41f97d63ec",
-          "name": "Team Asia vs Team Rest of the World (ROW) | 18:00 16/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-41f97d63ec",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-41f97d63ec",
-                  "name": "Team Asia vs Team Rest of the World (ROW)",
-                  "streams": [
-                    {
-                      "id": "st-41f97d63ec",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-13dcc65187",
-                          "name": "Trực Tiếp Nhà Đài",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792156972_hd/1792156972_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Reyes Cup 2026",
-            "team_a": "Team Asia",
-            "team_b": "Team Rest of the World (ROW)",
-            "logo_a": "https://img-evg4.tv360.vn/2026/10/b0812ead772c79a3860c9bad2e602698-1024x576.jpg",
-            "logo_b": "https://worldnineballtour.com/wp-content/uploads/B-REYES-CUP-21.jpg",
-            "time": "18:00:00",
-            "date": "16/10",
-            "blv": "Trực Tiếp Nhà Đài",
-            "is_live": true,
-            "cate_type": "Billiards"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/y0uudpnqs8jj_a48f1384_20261016.png?v=a48f1384",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-da40674c71",
           "name": "Team Asia vs Team Rest of the World (ROW) | 18:00 17/10",
