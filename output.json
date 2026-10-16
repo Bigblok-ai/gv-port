@@ -1311,6 +1311,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-cc7c1d802a",
+          "name": "Venezia F.C. vs Napoli | 20:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cc7c1d802a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cc7c1d802a",
+                  "name": "Venezia F.C. vs Napoli",
+                  "streams": [
+                    {
+                      "id": "st-cc7c1d802a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3f6515adcb",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791951151_hd/1791951151_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Venezia F.C.",
+            "team_b": "Napoli",
+            "logo_a": "https://images.keovip88.net/images/teams/venezia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/napoli.png",
+            "time": "20:00:00",
+            "date": "17/10",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ed824d46db87090ddc1_82e849be_20261016.png?v=82e849be",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
