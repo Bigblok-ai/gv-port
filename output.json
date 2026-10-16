@@ -3080,7 +3080,7 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật",
+      "name": "🥊 Võ Thuật (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -3093,10 +3093,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -3145,7 +3145,7 @@
             "time": "18:30:00",
             "date": "16/10",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "vothuat"
           },
           "image": {
@@ -3602,7 +3602,7 @@
     },
     {
       "id": "cate_Billiards",
-      "name": "🎱 Billiards",
+      "name": "🎱 Billiards (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -3615,10 +3615,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -3667,7 +3667,7 @@
             "time": "18:00:00",
             "date": "16/10",
             "blv": "BLV Kim Chon",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "Billiards"
           },
           "image": {
