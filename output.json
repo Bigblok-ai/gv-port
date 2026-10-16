@@ -735,6 +735,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-5518086ac0",
+          "name": "Auckland FC vs Melbourne City | 11:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5518086ac0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5518086ac0",
+                  "name": "Auckland FC vs Melbourne City",
+                  "streams": [
+                    {
+                      "id": "st-5518086ac0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5564a3b695",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792136643_hd/1792136643_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Auckland FC",
+            "team_b": "Melbourne City",
+            "logo_a": "https://images.keovip88.net/images/teams/auckland-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/melbourne-city.png",
+            "time": "11:00:00",
+            "date": "17/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ed324d46db87090d6a5_4b370d0a_20261016.png?v=4b370d0a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-08b0bedb6f",
+          "name": "Cerezo Osaka vs Kawasaki Frontale | 13:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-08b0bedb6f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-08b0bedb6f",
+                  "name": "Cerezo Osaka vs Kawasaki Frontale",
+                  "streams": [
+                    {
+                      "id": "st-08b0bedb6f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-50a70de377",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792136685_hd/1792136685_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Cerezo Osaka",
+            "team_b": "Kawasaki Frontale",
+            "logo_a": "https://images.keovip88.net/images/teams/cerezo-osaka.png",
+            "logo_b": "https://images.keovip88.net/images/teams/kawasaki-frontale.png",
+            "time": "13:00:00",
+            "date": "17/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ed324d46db87090d746_e5e6bb84_20261016.png?v=e5e6bb84",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1245,6 +1389,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29800377_db4f361b_20261016.png?v=db4f361b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fbeb8121d7",
+          "name": "Suzhou Dragons vs Fujian Sturgeons | 18:35 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fbeb8121d7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fbeb8121d7",
+                  "name": "Suzhou Dragons vs Fujian Sturgeons",
+                  "streams": [
+                    {
+                      "id": "st-fbeb8121d7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f837584ace",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792136639_hd/1792136639_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Suzhou Dragons",
+            "team_b": "Fujian Sturgeons",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d1c8a0f21d4d300f8ddce93f11b79c70.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/513a673e2abf3080d21b0dc4d0b0dad8.png",
+            "time": "18:35:00",
+            "date": "17/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23263475_fbf0d32b_20261016.png?v=fbf0d32b",
             "width": 1600,
             "height": 1200
           }
