@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-e9c34bc4fe",
-          "name": "Eintracht Frankfurt vs Koln | 01:30 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e9c34bc4fe",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e9c34bc4fe",
-                  "name": "Eintracht Frankfurt vs Koln",
-                  "streams": [
-                    {
-                      "id": "st-e9c34bc4fe",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-99ec946d0e",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791950103_hd/1791950103_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Eintracht Frankfurt",
-            "team_b": "Koln",
-            "logo_a": "https://images.keovip88.net/images/teams/eintracht-frankfurt.png",
-            "logo_b": "https://images.keovip88.net/images/teams/fc-koln.png",
-            "time": "01:30:00",
-            "date": "17/10",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0775_229cdc90_20261017.png?v=229cdc90",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-8b96730c41",
           "name": "Le Mans vs Toulouse | 01:45 17/10",
