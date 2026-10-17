@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "gv-f88ed007e2",
+          "name": "JEF United vs Urawa Reds | 11:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f88ed007e2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f88ed007e2",
+                  "name": "JEF United vs Urawa Reds",
+                  "streams": [
+                    {
+                      "id": "st-f88ed007e2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0f970afd05",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792228330_hd/1792228330_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japan - WE League",
+            "team_a": "JEF United",
+            "team_b": "Urawa Reds",
+            "logo_a": "https://static.flashscore.com/res/image/data/hCz5kaZg-0rbJf5W9.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/8Ql03eh5-EsSICT7E.png",
+            "time": "11:00:00",
+            "date": "17/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uo2azodu7fnt_3186c924_20261017.png?v=3186c924",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c40379a6cc",
           "name": "Thanh Hóa vs Thép Xanh Nam Định | 17:00 17/10",
           "type": "single",
@@ -1054,6 +1126,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f077b_4381d682_20261017.png?v=4381d682",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1d4a8bd94e",
+          "name": "Adelaide United FC vs Brisbane Roar FC | 11:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1d4a8bd94e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1d4a8bd94e",
+                  "name": "Adelaide United FC vs Brisbane Roar FC",
+                  "streams": [
+                    {
+                      "id": "st-1d4a8bd94e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-43998b2a14",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792228300_hd/1792228300_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Adelaide United FC",
+            "team_b": "Brisbane Roar FC",
+            "logo_a": "https://images.keovip88.net/images/teams/adelaide-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/brisbane-roar.png",
+            "time": "11:00:00",
+            "date": "18/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac9805324d46db8704f912b_f221d22e_20261017.png?v=f221d22e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-316977c95b",
+          "name": "Gangwon FC vs Incheon United FC | 14:30 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-316977c95b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-316977c95b",
+                  "name": "Gangwon FC vs Incheon United FC",
+                  "streams": [
+                    {
+                      "id": "st-316977c95b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-235fbbe8d6",
+                          "name": "BLV Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792228483_hd/1792228483_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "K-League Hàn Quốc",
+            "team_a": "Gangwon FC",
+            "team_b": "Incheon United FC",
+            "logo_a": "https://images.keovip88.net/images/teams/gangwon-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/incheon-united.png",
+            "time": "14:30:00",
+            "date": "18/10",
+            "blv": "BLV Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac9805424d46db8704f9216_76269310_20261017.png?v=76269310",
             "width": 1600,
             "height": 1200
           }
