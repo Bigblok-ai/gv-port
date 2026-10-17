@@ -2492,83 +2492,11 @@
     },
     {
       "id": "cate_Billiards",
-      "name": "🎱 Billiards (1 LIVE)",
+      "name": "🎱 Billiards",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-da40674c71",
-          "name": "Team Asia vs Team Rest of the World (ROW) | 18:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-da40674c71",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-da40674c71",
-                  "name": "Team Asia vs Team Rest of the World (ROW)",
-                  "streams": [
-                    {
-                      "id": "st-da40674c71",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-663affad2b",
-                          "name": "BLV Kim Chon",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792138322_hd/1792138322_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Reyes Cup 2026",
-            "team_a": "Team Asia",
-            "team_b": "Team Rest of the World (ROW)",
-            "logo_a": "https://img-evg4.tv360.vn/2026/10/b0812ead772c79a3860c9bad2e602698-1024x576.jpg",
-            "logo_b": "https://worldnineballtour.com/wp-content/uploads/B-REYES-CUP-21.jpg",
-            "time": "18:00:00",
-            "date": "17/10",
-            "blv": "BLV Kim Chon",
-            "is_live": true,
-            "cate_type": "Billiards"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7zcc37ilhphr_a48f1384_20261017.png?v=a48f1384",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-157da4ac22",
           "name": "Team Asia vs Team Rest of the World (ROW) | 18:00 18/10",
