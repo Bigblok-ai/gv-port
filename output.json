@@ -1278,83 +1278,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-3d21e2deb8",
-          "name": "Anyang Jung Kwan Jang vs Sonicboom | 12:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3d21e2deb8",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3d21e2deb8",
-                  "name": "Anyang Jung Kwan Jang vs Sonicboom",
-                  "streams": [
-                    {
-                      "id": "st-3d21e2deb8",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3564a1eb64",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792138392_hd/1792138392_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "Anyang Jung Kwan Jang",
-            "team_b": "Sonicboom",
-            "logo_a": "https://static.flashscore.com/res/image/data/viUBkizB-KtOrDRPL.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/t4IslGYg-vDolgDz8.png",
-            "time": "12:00:00",
-            "date": "17/10",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xlit2p5banz9_f9f012dd_20261017.png?v=f9f012dd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f94bb3a616",
           "name": "Wonju DB Promy vs Samsung Thunders | 12:00 17/10",
