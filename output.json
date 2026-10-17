@@ -2317,6 +2317,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c5971c82ab",
+          "name": "3rd Place vs Decider Match | 18:30 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c5971c82ab",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c5971c82ab",
+                  "name": "3rd Place vs Decider Match",
+                  "streams": [
+                    {
+                      "id": "st-c5971c82ab",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a4acaa688d",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792222478_hd/1792222478_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-Thunderpick World Championship 2026",
+            "team_a": "3rd Place",
+            "team_b": "Decider Match",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9C8u5REg6anHhtvSgx9SI9-mj5EWxpD4ptLm1BvZEhrYGTfQlAl-pPQLZ&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51BbFm9V18wwl5QBoeQyaLCisKQA6gITiCWZjw4pyuqlpt49Kx12YafzO&s=10",
+            "time": "18:30:00",
+            "date": "18/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/c282ygr1h0nr_855f7dad_20261017.png?v=855f7dad",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
