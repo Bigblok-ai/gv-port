@@ -11,172 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-5a50b61f48",
-          "name": "Manchester City vs Ipswich | 21:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5a50b61f48",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5a50b61f48",
-                  "name": "Manchester City vs Ipswich",
-                  "streams": [
-                    {
-                      "id": "st-5a50b61f48",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8cfdd46eb8",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792137082_hd/1792137082_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Manchester City",
-            "team_b": "Ipswich",
-            "logo_a": "https://images.keovip88.net/images/teams/manchester-city.png",
-            "logo_b": "https://images.keovip88.net/images/teams/ipswich-town.png",
-            "time": "21:00:00",
-            "date": "17/10",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06ed_2754e598_20261017.png?v=2754e598",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-d10310d971",
-          "name": "Brentford vs Liverpool | 21:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d10310d971",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d10310d971",
-                  "name": "Brentford vs Liverpool",
-                  "streams": [
-                    {
-                      "id": "st-d10310d971",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eee83d7b2f",
-                          "name": "Tỵ + Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792137723_hd/1792137723_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-3447eae56b",
-                          "name": "BLV Hấu",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792137930_hd/1792137930_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Brentford",
-            "team_b": "Liverpool",
-            "logo_a": "https://images.keovip88.net/images/teams/brentford.png",
-            "logo_b": "https://images.keovip88.net/images/teams/liverpool.png",
-            "time": "21:00:00",
-            "date": "17/10",
-            "blv": "Tỵ + Trĩ, BLV Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06ec_44a3e7e4_20261017.png?v=44a3e7e4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-de82bfcc5b",
           "name": "Strasbourg vs Paris Saint Germain | 22:15 17/10",
@@ -533,6 +372,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f077b_4381d682_20261017.png?v=4381d682",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2965385b1d",
+          "name": "AS Roma vs Genoa | 01:45 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2965385b1d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2965385b1d",
+                  "name": "AS Roma vs Genoa",
+                  "streams": [
+                    {
+                      "id": "st-2965385b1d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c01d232641",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791950756_hd/1791950756_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "AS Roma",
+            "team_b": "Genoa",
+            "logo_a": "https://images.keovip88.net/images/teams/as-roma.png",
+            "logo_b": "https://images.keovip88.net/images/teams/genoa.png",
+            "time": "01:45:00",
+            "date": "18/10",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac9805124d46db8704f8def_4caf2553_20261017.png?v=4caf2553",
             "width": 1600,
             "height": 1200
           }
