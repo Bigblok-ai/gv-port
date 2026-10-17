@@ -2092,6 +2092,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-d24e06470e",
+          "name": "Eczacibasi vs Vakifbank | 22:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d24e06470e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d24e06470e",
+                  "name": "Eczacibasi vs Vakifbank",
+                  "streams": [
+                    {
+                      "id": "st-d24e06470e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3155da9749",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792223060_hd/1792223060_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi Nữ",
+            "team_a": "Eczacibasi",
+            "team_b": "Vakifbank",
+            "logo_a": "https://static.flashscore.com/res/image/data/6wWfI3zB-jm1g2SD5.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",
+            "time": "22:00:00",
+            "date": "18/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/deq4ayj1tjhk_e08accef_20261017.png?v=e08accef",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
