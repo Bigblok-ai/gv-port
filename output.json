@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f88ed007e2",
-          "name": "JEF United vs Urawa Reds | 11:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f88ed007e2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f88ed007e2",
-                  "name": "JEF United vs Urawa Reds",
-                  "streams": [
-                    {
-                      "id": "st-f88ed007e2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0f970afd05",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792228330_hd/1792228330_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japan - WE League",
-            "team_a": "JEF United",
-            "team_b": "Urawa Reds",
-            "logo_a": "https://static.flashscore.com/res/image/data/hCz5kaZg-0rbJf5W9.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/8Ql03eh5-EsSICT7E.png",
-            "time": "11:00:00",
-            "date": "17/10",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uo2azodu7fnt_3186c924_20261017.png?v=3186c924",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-c40379a6cc",
           "name": "Thanh Hóa vs Thép Xanh Nam Định | 17:00 17/10",
@@ -96,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +76,7 @@
             "time": "17:00:00",
             "date": "17/10",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -156,6 +84,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ed424d46db87090d8af_6825415a_20261017.png?v=6825415a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-94daa98eed",
+          "name": "Hồng Lĩnh Hà Tĩnh vs Sông Lam Nghệ An | 18:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-94daa98eed",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-94daa98eed",
+                  "name": "Hồng Lĩnh Hà Tĩnh vs Sông Lam Nghệ An",
+                  "streams": [
+                    {
+                      "id": "st-94daa98eed",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-28913a89c7",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792136241_hd/1792136241_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Hồng Lĩnh Hà Tĩnh",
+            "team_b": "Sông Lam Nghệ An",
+            "logo_a": "https://images.keovip88.net/images/teams/hong-linh-ha-tinh.png",
+            "logo_b": "https://images.keovip88.net/images/teams/song-lam-nghe-an.png",
+            "time": "18:00:00",
+            "date": "17/10",
+            "blv": "Tỵ ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ed524d46db87090d9bc_70755a5d_20261017.png?v=70755a5d",
             "width": 1600,
             "height": 1200
           }
@@ -228,78 +228,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ed524d46db87090d9b2_390934f1_20261017.png?v=390934f1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-94daa98eed",
-          "name": "Hồng Lĩnh Hà Tĩnh vs Sông Lam Nghệ An | 18:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-94daa98eed",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-94daa98eed",
-                  "name": "Hồng Lĩnh Hà Tĩnh vs Sông Lam Nghệ An",
-                  "streams": [
-                    {
-                      "id": "st-94daa98eed",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-28913a89c7",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792136241_hd/1792136241_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V-League",
-            "team_a": "Hồng Lĩnh Hà Tĩnh",
-            "team_b": "Sông Lam Nghệ An",
-            "logo_a": "https://images.keovip88.net/images/teams/hong-linh-ha-tinh.png",
-            "logo_b": "https://images.keovip88.net/images/teams/song-lam-nghe-an.png",
-            "time": "18:00:00",
-            "date": "17/10",
-            "blv": "Tỵ ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ed524d46db87090d9bc_70755a5d_20261017.png?v=70755a5d",
             "width": 1600,
             "height": 1200
           }
