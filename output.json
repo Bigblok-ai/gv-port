@@ -11,11 +11,299 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-65c6b7a407",
+          "name": "Bologna vs Inter Milan | 23:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-65c6b7a407",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-65c6b7a407",
+                  "name": "Bologna vs Inter Milan",
+                  "streams": [
+                    {
+                      "id": "st-65c6b7a407",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2aefd50554",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792248177_hd/1792248177_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Bologna",
+            "team_b": "Inter Milan",
+            "logo_a": "https://images.keovip88.net/images/teams/bologna.png",
+            "logo_b": "https://images.keovip88.net/images/teams/inter-milan.png",
+            "time": "23:00:00",
+            "date": "17/10",
+            "blv": "Bee",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ee324d46db87090ec00_91dc9f6d_20261018.png?v=91dc9f6d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b3f55fb0cc",
+          "name": "Newcastle United vs Aston Villa | 23:30 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b3f55fb0cc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b3f55fb0cc",
+                  "name": "Newcastle United vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-b3f55fb0cc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-279a6a366f",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791950605_hd/1791950605_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Newcastle United",
+            "team_b": "Aston Villa",
+            "logo_a": "https://images.keovip88.net/images/teams/newcastle-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/aston-villa.png",
+            "time": "23:30:00",
+            "date": "17/10",
+            "blv": "Mason",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06ee_552bb3bb_20261018.png?v=552bb3bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0b1205f246",
+          "name": "Real Betis vs Barcelona | 23:30 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0b1205f246",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0b1205f246",
+                  "name": "Real Betis vs Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-0b1205f246",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ed5e9b39e",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791950686_hd/1791950686_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Real Betis",
+            "team_b": "Barcelona",
+            "logo_a": "https://images.keovip88.net/images/teams/real-betis.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fc-barcelona.png",
+            "time": "23:30:00",
+            "date": "17/10",
+            "blv": "Mù",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f0753_2ccca2d4_20261018.png?v=2ccca2d4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9da782eaf6",
+          "name": "Bayern Munich vs RB Leipzig | 23:30 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9da782eaf6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9da782eaf6",
+                  "name": "Bayern Munich vs RB Leipzig",
+                  "streams": [
+                    {
+                      "id": "st-9da782eaf6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-247eb2adff",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791950863_hd/1791950863_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Bayern Munich",
+            "team_b": "RB Leipzig",
+            "logo_a": "https://images.keovip88.net/images/teams/bayern-munchen.png",
+            "logo_b": "https://images.keovip88.net/images/teams/rb-leipzig.png",
+            "time": "23:30:00",
+            "date": "17/10",
+            "blv": "Ngu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f077b_4381d682_20261018.png?v=4381d682",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-2965385b1d",
           "name": "AS Roma vs Genoa | 01:45 18/10",
@@ -1745,11 +2033,83 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-7052f6f36b",
+          "name": "Semi vs Finals | 21:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7052f6f36b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7052f6f36b",
+                  "name": "Semi vs Finals",
+                  "streams": [
+                    {
+                      "id": "st-7052f6f36b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e93341dae5",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792169940_hd/1792169940_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-Thunderpick World Championship 2026",
+            "team_a": "Semi",
+            "team_b": "Finals",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9C8u5REg6anHhtvSgx9SI9-mj5EWxpD4ptLm1BvZEhrYGTfQlAl-pPQLZ&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51BbFm9V18wwl5QBoeQyaLCisKQA6gITiCWZjw4pyuqlpt49Kx12YafzO&s=10",
+            "time": "21:00:00",
+            "date": "17/10",
+            "blv": "Mickey",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/g8yrs9r2ii45_855f7dad_20261018.png?v=855f7dad",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-6af5caf2ee",
           "name": "LOUD vs Team Vitality | 14:00 18/10",
@@ -1970,11 +2330,83 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật",
+      "name": "🥊 Võ Thuật (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-a832b8b1a2",
+          "name": "Dubois vs Wardley | 22:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a832b8b1a2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a832b8b1a2",
+                  "name": "Dubois vs Wardley",
+                  "streams": [
+                    {
+                      "id": "st-a832b8b1a2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7692fde463",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792170062_hd/1792170062_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WBO Heavyweight Title",
+            "team_a": "Dubois",
+            "team_b": "Wardley",
+            "logo_a": "https://static.flashscore.com/res/image/data/06x6Z2Yg-4Y9TamWM.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rwQ0FieM-lxCLakwH.png",
+            "time": "22:00:00",
+            "date": "17/10",
+            "blv": "Cầy",
+            "is_live": true,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xj9dgdv5uota_79ede6f2_20261018.png?v=79ede6f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-af934093b3",
           "name": "Joaquin Buckley vs Mike Malott | 04:00 18/10",
@@ -2213,11 +2645,83 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-a7e2b06205",
+          "name": "Ohio State Buckeyes vs Indiana Hoosiers | 23:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a7e2b06205",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a7e2b06205",
+                  "name": "Ohio State Buckeyes vs Indiana Hoosiers",
+                  "streams": [
+                    {
+                      "id": "st-a7e2b06205",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0966bdca62",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792248723_hd/1792248723_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NCAA",
+            "team_a": "Ohio State Buckeyes",
+            "team_b": "Indiana Hoosiers",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1qRFPxAQ_n6CyTLmKpadbS9HRnsVJg2AOFZAlLbWrw&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3DHiw3DQou7icZ9lAxfQjTWm3V8VEQ0tiWxVjkoTsTw&s=10",
+            "time": "23:00:00",
+            "date": "17/10",
+            "blv": "Riko",
+            "is_live": true,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d0okwjyfbxat_0c0496ac_20261018.png?v=0c0496ac",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-06a184e7db",
           "name": "Houston Texans vs Jacksonville Jaguars | 20:30 18/10",
@@ -2286,6 +2790,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7pp0089k9ww5_3a3c3cbc_20261018.png?v=3a3c3cbc",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_formula1",
+      "name": "🏅 Thể Thao (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-5e03ea7c32",
+          "name": "New Jersey Devils vs Washington Capitals | 23:59 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5e03ea7c32",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5e03ea7c32",
+                  "name": "New Jersey Devils vs Washington Capitals",
+                  "streams": [
+                    {
+                      "id": "st-5e03ea7c32",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3f8539bf8e",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792248872_hd/1792248872_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "New Jersey Devils",
+            "team_b": "Washington Capitals",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnSl4DQUYDgX-VsVwRIquElZd3TcqkRHaSh0KNUOju0g&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGcPwFocB0PGfJD1a5OBGjEmkL5faASYoM4CkLbYIoGw&s",
+            "time": "23:59:00",
+            "date": "17/10",
+            "blv": "Tôm",
+            "is_live": true,
+            "cate_type": "formula1"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ovcpmqidvz61_be07b635_20261018.png?v=be07b635",
             "width": 1600,
             "height": 1200
           }
