@@ -1278,83 +1278,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f94bb3a616",
-          "name": "Wonju DB Promy vs Samsung Thunders | 12:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f94bb3a616",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f94bb3a616",
-                  "name": "Wonju DB Promy vs Samsung Thunders",
-                  "streams": [
-                    {
-                      "id": "st-f94bb3a616",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9b9bd9770e",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792138878_hd/1792138878_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "Wonju DB Promy",
-            "team_b": "Samsung Thunders",
-            "logo_a": "https://static.flashscore.com/res/image/data/ELYOWIAr-xtco8W2d.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/xYOD9rXg-viABvcCI.png",
-            "time": "12:00:00",
-            "date": "17/10",
-            "blv": "Tôm",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/k5zzl5mdyy2t_ff4b4156_20261017.png?v=ff4b4156",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fbfda8fb56",
           "name": "South East Melbourne Phoenix vs Cairns Taipans | 13:30 17/10",
