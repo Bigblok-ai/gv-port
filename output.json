@@ -322,6 +322,78 @@
           }
         },
         {
+          "id": "gv-65c6b7a407",
+          "name": "Bologna vs Inter Milan | 23:00 17/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-65c6b7a407",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-65c6b7a407",
+                  "name": "Bologna vs Inter Milan",
+                  "streams": [
+                    {
+                      "id": "st-65c6b7a407",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2aefd50554",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792248177_hd/1792248177_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Bologna",
+            "team_b": "Inter Milan",
+            "logo_a": "https://images.keovip88.net/images/teams/bologna.png",
+            "logo_b": "https://images.keovip88.net/images/teams/inter-milan.png",
+            "time": "23:00:00",
+            "date": "17/10",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ee324d46db87090ec00_91dc9f6d_20261017.png?v=91dc9f6d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-0b1205f246",
           "name": "Real Betis vs Barcelona | 23:30 17/10",
           "type": "single",
@@ -605,6 +677,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac9805324d46db8704f912b_f221d22e_20261017.png?v=f221d22e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-38107da094",
+          "name": "JEF United vs Urawa Reds | 11:00 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-38107da094",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-38107da094",
+                  "name": "JEF United vs Urawa Reds",
+                  "streams": [
+                    {
+                      "id": "st-38107da094",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2f2966d5e1",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792248107_hd/1792248107_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japan - WE League",
+            "team_a": "JEF United",
+            "team_b": "Urawa Reds",
+            "logo_a": "https://static.flashscore.com/res/image/data/hCz5kaZg-0rbJf5W9.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/8Ql03eh5-EsSICT7E.png",
+            "time": "11:00:00",
+            "date": "18/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/p9ve2b8q95fi_3186c924_20261017.png?v=3186c924",
             "width": 1600,
             "height": 1200
           }
@@ -2147,11 +2291,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-d3413a1dc1",
+                          "id": "lnk-7849f2b31f",
                           "name": "Cầy",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791951122_hd/1791951122_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791951122_hd/1791951122_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2219,11 +2363,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-b07af44fd6",
+                          "id": "lnk-1411dd20b7",
                           "name": "Cầy",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791128060_hd/1791128060_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791128060_hd/1791128060_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2291,11 +2435,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-1609ae329f",
+                          "id": "lnk-1207f00f86",
                           "name": "Cầy",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1791128130_hd/1791128130_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791128130_hd/1791128130_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
