@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4d5ccb54e9",
-          "name": "Kashima Antlers vs V-Varen Nagasaki | 13:00 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4d5ccb54e9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4d5ccb54e9",
-                  "name": "Kashima Antlers vs V-Varen Nagasaki",
-                  "streams": [
-                    {
-                      "id": "st-4d5ccb54e9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-da03d21086",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792136710_hd/1792136710_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Kashima Antlers",
-            "team_b": "V-Varen Nagasaki",
-            "logo_a": "https://images.keovip88.net/images/teams/kashima-antlers.png",
-            "logo_b": "https://images.keovip88.net/images/teams/v-varen-nagasaki.png",
-            "time": "13:00:00",
-            "date": "17/10",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac82ed324d46db87090d74e_6e20d737_20261017.png?v=6e20d737",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-08b0bedb6f",
           "name": "Cerezo Osaka vs Kawasaki Frontale | 13:00 17/10",
@@ -1872,83 +1800,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2843d1fe93",
-          "name": "Astemo Rivale Ibaraki Nữ vs Gunma Greenwings Nữ | 12:05 17/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2843d1fe93",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2843d1fe93",
-                  "name": "Astemo Rivale Ibaraki Nữ vs Gunma Greenwings Nữ",
-                  "streams": [
-                    {
-                      "id": "st-2843d1fe93",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ea5e333b15",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792138977_hd/1792138977_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Nhật Bản SV. League",
-            "team_a": "Astemo Rivale Ibaraki Nữ",
-            "team_b": "Gunma Greenwings Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/0rpuWOAr-6FZ2yXJ6.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png",
-            "time": "12:05:00",
-            "date": "17/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/eqel2equr8l7_095c93dc_20261017.png?v=095c93dc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ee1f5228fc",
           "name": "Vero Volley Nữ vs Novara Nữ | 01:30 18/10",
