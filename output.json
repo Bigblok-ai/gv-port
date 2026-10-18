@@ -2249,83 +2249,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (2 LIVE)",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-6af5caf2ee",
-          "name": "LOUD vs Team Vitality | 14:00 18/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6af5caf2ee",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6af5caf2ee",
-                  "name": "LOUD vs Team Vitality",
-                  "streams": [
-                    {
-                      "id": "st-6af5caf2ee",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b9de4c6daa",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792247812_hd/1792247812_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Valorant Champions 2026",
-            "team_a": "LOUD",
-            "team_b": "Team Vitality",
-            "logo_a": "https://static.flashscore.com/res/image/data/zZePNPHG-jRVcUs7G.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",
-            "time": "14:00:00",
-            "date": "18/10",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/l92u44p8agzi_35b8b986_20261018.png?v=35b8b986",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-c5971c82ab",
           "name": "3rd Place vs Decider Match | 18:30 18/10",
