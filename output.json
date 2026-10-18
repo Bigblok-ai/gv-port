@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -334,6 +334,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac9805824d46db8704f9797_5ed43657_20261018.png?v=5ed43657",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a06ae332d1",
+          "name": "Paris FC vs Stade Rennais FC | 22:15 18/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a06ae332d1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a06ae332d1",
+                  "name": "Paris FC vs Stade Rennais FC",
+                  "streams": [
+                    {
+                      "id": "st-a06ae332d1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25684ef15f",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792331085_hd/1792331085_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Paris FC",
+            "team_b": "Stade Rennais FC",
+            "logo_a": "https://images.keovip88.net/images/teams/paris-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/rennes.png",
+            "time": "22:15:00",
+            "date": "18/10",
+            "blv": "Tôm",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07bd_b9156b71_20261018.png?v=b9156b71",
             "width": 1600,
             "height": 1200
           }
