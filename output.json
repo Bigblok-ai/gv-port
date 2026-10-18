@@ -781,11 +781,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-504a175985",
+                          "id": "lnk-6b1b86ab37",
                           "name": "Hứa",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1792310003_hd/1792310003_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792310003_hd/1792310003_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2219,6 +2219,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-d05bebd908",
+          "name": "Columbus Blue Jackets vs Minnesota Wild | 05:00 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d05bebd908",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d05bebd908",
+                  "name": "Columbus Blue Jackets vs Minnesota Wild",
+                  "streams": [
+                    {
+                      "id": "st-d05bebd908",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fee661fc4c",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792335728_hd/1792335728_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "Columbus Blue Jackets",
+            "team_b": "Minnesota Wild",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/7lrK9CX_nZj_veEeleHTmg_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/2AkZ-bLhHUaPoj_LlLPBVA_96x96.png",
+            "time": "05:00:00",
+            "date": "19/10",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rbq4d5bk89b9_4929e18b_20261018.png?v=4929e18b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7049c18240",
+          "name": "Calgary Flames vs Carolina Hurricanes | 07:00 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7049c18240",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7049c18240",
+                  "name": "Calgary Flames vs Carolina Hurricanes",
+                  "streams": [
+                    {
+                      "id": "st-7049c18240",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6f35db77cd",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792335771_hd/1792335771_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "Calgary Flames",
+            "team_b": "Carolina Hurricanes",
+            "logo_a": "https://static.flashscore.com/res/image/data/EZDBK3FG-zBmwri9p.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/jo2tZcXg-Ea3nasx0.png",
+            "time": "07:00:00",
+            "date": "19/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zay96q5ym58k_19a2e016_20261018.png?v=19a2e016",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2909,6 +3053,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49332jkvepbf_9b558a74_20261018.png?v=9b558a74",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-34b71f3ad1",
+          "name": "Dallas Cowboys vs Green Bay Packers | 07:20 19/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-34b71f3ad1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-34b71f3ad1",
+                  "name": "Dallas Cowboys vs Green Bay Packers",
+                  "streams": [
+                    {
+                      "id": "st-34b71f3ad1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fe60cadcb2",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792335678_hd/1792335678_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Dallas Cowboys",
+            "team_b": "Green Bay Packers",
+            "logo_a": "https://static.flashscore.com/res/image/data/2DROi6Wg-IqxwDINa.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/hpgNlTf5-AinqGEaT.png",
+            "time": "07:20:00",
+            "date": "19/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7nqc3qz4w341_a05b2995_20261018.png?v=a05b2995",
             "width": 1600,
             "height": 1200
           }
