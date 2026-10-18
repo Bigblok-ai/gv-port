@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07be_72d44bc9_20261019.png?v=72d44bc9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-d3b01b7605",
-          "name": "Juventus vs Lazio | 01:45 19/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d3b01b7605",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d3b01b7605",
-                  "name": "Juventus vs Lazio",
-                  "streams": [
-                    {
-                      "id": "st-d3b01b7605",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0da02011da",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1791951480_hd/1791951480_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Juventus",
-            "team_b": "Lazio",
-            "logo_a": "https://images.keovip88.net/images/teams/juventus.png",
-            "logo_b": "https://images.keovip88.net/images/teams/lazio.png",
-            "time": "01:45:00",
-            "date": "19/10",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6acc235024d46db8701808d1_6907b434_20261019.png?v=6907b434",
             "width": 1600,
             "height": 1200
           }
