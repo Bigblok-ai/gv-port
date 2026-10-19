@@ -809,6 +809,78 @@
           }
         },
         {
+          "id": "gv-e7ea075633",
+          "name": "Escorpiones Belén vs Puntarenas | 09:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e7ea075633",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e7ea075633",
+                  "name": "Escorpiones Belén vs Puntarenas",
+                  "streams": [
+                    {
+                      "id": "st-e7ea075633",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b5792af386",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792424461_hd/1792424461_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Costa Rica - Primera Division",
+            "team_a": "Escorpiones Belén",
+            "team_b": "Puntarenas",
+            "logo_a": "https://static.flashscore.com/res/image/data/ppB6jQwS-dCzfrT6j.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/86Cp41Wg-E9M87ZAr.png",
+            "time": "09:00:00",
+            "date": "20/10",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5z215blqg8m3_5e721af8_20261019.png?v=5e721af8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-bb891883d2",
           "name": "Adhyaksa Farmel FC vs Malut United | 15:30 20/10",
           "type": "single",
@@ -1393,6 +1465,78 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-c2ee3c2825",
+          "name": "Golden State Valkyries vs Atlanta Dream | 07:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c2ee3c2825",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c2ee3c2825",
+                  "name": "Golden State Valkyries vs Atlanta Dream",
+                  "streams": [
+                    {
+                      "id": "st-c2ee3c2825",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3f6a074087",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792424554_hd/1792424554_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "Golden State Valkyries",
+            "team_b": "Atlanta Dream",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/911d51e9d324e887960542ac17a87e1b.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/f527c983cab3560c60e7b9d147904d7d.png",
+            "time": "07:00:00",
+            "date": "20/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27335479_ec8579d0_20261019.png?v=ec8579d0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-b393bd42c5",
           "name": "Seoul SK Knights vs Anyang Jung Kwan Jang Red Boosters | 17:00 20/10",
@@ -2487,6 +2631,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bg2q68hn5yia_72c38974_20261019.png?v=72c38974",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchay",
+      "name": "⚾ Bóng Chày",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-ba0d8ff6f3",
+          "name": "Tampa Bay Rays vs Cleverland Guardians | 07:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ba0d8ff6f3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ba0d8ff6f3",
+                  "name": "Tampa Bay Rays vs Cleverland Guardians",
+                  "streams": [
+                    {
+                      "id": "st-ba0d8ff6f3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c833dd7441",
+                          "name": "Đầu cầu vui vẻ: Cận vs Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792424636_hd/1792424636_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - Championship Series",
+            "team_a": "Tampa Bay Rays",
+            "team_b": "Cleverland Guardians",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OKV4PkdXNzXJd_Qalvh63g_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/zGJ5ZWjK2s9nUNXy8CGf5A_96x96.png",
+            "time": "07:00:00",
+            "date": "20/10",
+            "blv": "Đầu cầu vui vẻ: Cận vs Ngu",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ur1rtp5deikj_f8c28a68_20261019.png?v=f8c28a68",
             "width": 1600,
             "height": 1200
           }
