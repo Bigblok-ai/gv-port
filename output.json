@@ -1311,6 +1311,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-4a0f9345c1",
+          "name": "Al Orubah vs Al Bukayriyah | 22:20 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4a0f9345c1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4a0f9345c1",
+                  "name": "Al Orubah vs Al Bukayriyah",
+                  "streams": [
+                    {
+                      "id": "st-4a0f9345c1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20f57bc0a6",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792310542_hd/1792310542_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Hoàng tử Faisal bin Fahd",
+            "team_a": "Al Orubah",
+            "team_b": "Al Bukayriyah",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/3/33/Al-Orobah_Logo.svg",
+            "logo_b": "https://imgts.sportpulseapiz.com/football/team/y0or5jhenvxqwzv/image/small",
+            "time": "22:20:00",
+            "date": "20/10",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/mphqsekw5xdb_5255e317_20261019.png?v=5255e317",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
