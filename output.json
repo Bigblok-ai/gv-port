@@ -2258,6 +2258,78 @@
           }
         },
         {
+          "id": "gv-9ca396f1c4",
+          "name": "New York Knicks vs Philadelphia 76ers | 06:00 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9ca396f1c4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9ca396f1c4",
+                  "name": "New York Knicks vs Philadelphia 76ers",
+                  "streams": [
+                    {
+                      "id": "st-9ca396f1c4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5f7f6dd684",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792431209_hd/1792431209_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "New York Knicks",
+            "team_b": "Philadelphia 76ers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7f086c864d1e283b7862a756f0b88373.png",
+            "time": "06:00:00",
+            "date": "21/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39587278_f3c8c546_20261020.png?v=f3c8c546",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-3f33d1f849",
           "name": "San Antonio Spurs vs Oklahoma City Thunder | 08:30 21/10",
           "type": "single",
