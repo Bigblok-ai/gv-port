@@ -1028,83 +1028,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-823e3aa36b",
-          "name": "Suzhou Dragons Kentier vs Shenzhen Leopards | 18:35 19/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-823e3aa36b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-823e3aa36b",
-                  "name": "Suzhou Dragons Kentier vs Shenzhen Leopards",
-                  "streams": [
-                    {
-                      "id": "st-823e3aa36b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cba0afc1f9",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792311528_hd/1792311528_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Suzhou Dragons Kentier",
-            "team_b": "Shenzhen Leopards",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d1c8a0f21d4d300f8ddce93f11b79c70.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/4d9ec843176ad902c32b3b317118e543.png",
-            "time": "18:35:00",
-            "date": "19/10",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21363474_e4fa1edf_20261019.png?v=e4fa1edf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b393bd42c5",
           "name": "Seoul SK Knights vs Anyang Jung Kwan Jang Red Boosters | 17:00 20/10",
