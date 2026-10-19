@@ -1909,87 +1909,6 @@
       ]
     },
     {
-      "id": "cate_caulong",
-      "name": "🏸 Cầu Lông",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-132db51935",
-          "name": "UFC 333 Alexander Volkanovski vs Movsar Evloev | 23:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-132db51935",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-132db51935",
-                  "name": "UFC 333 Alexander Volkanovski vs Movsar Evloev",
-                  "streams": [
-                    {
-                      "id": "st-132db51935",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1d081919fe",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792312146_hd/1792312146_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UFC 333 Alexander Volkanovski vs Movsar Evloev",
-            "team_a": "UFC 333 Alexander Volkanovski",
-            "team_b": "Movsar Evloev",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCFwiRWjTW9-MLdjRREytn6oSFmdGJZpHzKt4P-aIAA&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_O-78aQRlTM4OdZ-5l2U-gkWTlyKtCjExJvE7jj6pw&s",
-            "time": "23:00:00",
-            "date": "24/10",
-            "blv": "Dory",
-            "is_live": false,
-            "cate_type": "caulong"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/oj930b0i8692_24565cfe_20261019.png?v=24565cfe",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
       "id": "cate_vothuat",
       "name": "🥊 Võ Thuật",
       "display": "vertical",
@@ -2136,6 +2055,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r3scrditqxci_208cd6f5_20261019.png?v=208cd6f5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-132db51935",
+          "name": "UFC 333 Alexander Volkanovski vs Movsar Evloev | 23:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-132db51935",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-132db51935",
+                  "name": "UFC 333 Alexander Volkanovski vs Movsar Evloev",
+                  "streams": [
+                    {
+                      "id": "st-132db51935",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1d081919fe",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792312146_hd/1792312146_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UFC 333 Alexander Volkanovski vs Movsar Evloev",
+            "team_a": "UFC 333 Alexander Volkanovski",
+            "team_b": "Movsar Evloev",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCFwiRWjTW9-MLdjRREytn6oSFmdGJZpHzKt4P-aIAA&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_O-78aQRlTM4OdZ-5l2U-gkWTlyKtCjExJvE7jj6pw&s",
+            "time": "23:00:00",
+            "date": "24/10",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/oj930b0i8692_24565cfe_20261019.png?v=24565cfe",
             "width": 1600,
             "height": 1200
           }
