@@ -1538,6 +1538,78 @@
           }
         },
         {
+          "id": "gv-c4beb9a80c",
+          "name": "Xinjiang Flying Tigers vs Tianjin Pioneers | 19:00 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c4beb9a80c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c4beb9a80c",
+                  "name": "Xinjiang Flying Tigers vs Tianjin Pioneers",
+                  "streams": [
+                    {
+                      "id": "st-c4beb9a80c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2c44a145e3",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792420787_hd/1792420787_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Xinjiang Flying Tigers",
+            "team_b": "Tianjin Pioneers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f68788874e0a17dd655083cb42b1d00b.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c95a72565d21fd4797acfbfb63c829e8.PNG",
+            "time": "19:00:00",
+            "date": "20/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39363472_baa11cc1_20261019.png?v=baa11cc1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-08b00c52ee",
           "name": "Tasmania JackJumpers vs Brisbane Bullets | 15:30 21/10",
           "type": "single",
