@@ -1172,83 +1172,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-e5b55d7486",
-          "name": "Wonju Dongbu Promy vs Daegu KoGas Pegasus | 17:00 19/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e5b55d7486",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e5b55d7486",
-                  "name": "Wonju Dongbu Promy vs Daegu KoGas Pegasus",
-                  "streams": [
-                    {
-                      "id": "st-e5b55d7486",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4db547aa41",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792311437_hd/1792311437_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Wonju Dongbu Promy",
-            "team_b": "Daegu KoGas Pegasus",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ad13a8e4c726a65f277f7da7a19a4126.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a322b3f45e8fc272b36c48003e467f20.png",
-            "time": "17:00:00",
-            "date": "19/10",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38950372_6357b7df_20261019.png?v=6357b7df",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-0b9c148c35",
           "name": "Beijing Royal Fighters vs Shanghai Jiushi Sharks | 18:35 19/10",
