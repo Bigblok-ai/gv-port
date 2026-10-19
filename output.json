@@ -1023,6 +1023,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-6f77d8a409",
+          "name": "Hajer vs Al Najma | 21:45 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6f77d8a409",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6f77d8a409",
+                  "name": "Hajer vs Al Najma",
+                  "streams": [
+                    {
+                      "id": "st-6f77d8a409",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-57d2a5bb15",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1792310354_hd/1792310354_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Hoàng tử Faisal bin Fahd",
+            "team_a": "Hajer",
+            "team_b": "Al Najma",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/8/86/Hajer_FC_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/6/66/Al_Najma_Sports_club_%28Official%29.png",
+            "time": "21:45:00",
+            "date": "20/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wmdfe6913xsw_347a48ec_20261019.png?v=347a48ec",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1178,78 +1250,6 @@
           }
         },
         {
-          "id": "gv-41e7099524",
-          "name": "Fujian Xunxing Sturgeons vs Zhejiang Lions | 18:35 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-41e7099524",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-41e7099524",
-                  "name": "Fujian Xunxing Sturgeons vs Zhejiang Lions",
-                  "streams": [
-                    {
-                      "id": "st-41e7099524",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-68c8d1272c",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792311659_hd/1792311659_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Fujian Xunxing Sturgeons",
-            "team_b": "Zhejiang Lions",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/513a673e2abf3080d21b0dc4d0b0dad8.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/17bf3755eecad867cf5fcc08b83104af.png",
-            "time": "18:35:00",
-            "date": "20/10",
-            "blv": "Vịt",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37363470_b7591c2d_20261019.png?v=b7591c2d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-6bcf0c9707",
           "name": "Jilin Northeast Tigers vs SiChuan Jingqiang Blue Whales | 18:35 20/10",
           "type": "single",
@@ -1389,6 +1389,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25363478_930c11ce_20261019.png?v=930c11ce",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-faf8b87bf1",
+          "name": "NanJing Monkey Kings vs Guangzhou Loong Lions | 18:35 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-faf8b87bf1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-faf8b87bf1",
+                  "name": "NanJing Monkey Kings vs Guangzhou Loong Lions",
+                  "streams": [
+                    {
+                      "id": "st-faf8b87bf1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77b2eb6e6d",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792420726_hd/1792420726_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "NanJing Monkey Kings",
+            "team_b": "Guangzhou Loong Lions",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e3bbce6525ca22d736f744cd2e31ff59.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9d93f6e7f4e54c71cd975b2be434bcf9.png",
+            "time": "18:35:00",
+            "date": "20/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24363477_dcb78c0f_20261019.png?v=dcb78c0f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-41e7099524",
+          "name": "Fujian Xunxing Sturgeons vs Zhejiang Lions | 18:35 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-41e7099524",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-41e7099524",
+                  "name": "Fujian Xunxing Sturgeons vs Zhejiang Lions",
+                  "streams": [
+                    {
+                      "id": "st-41e7099524",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-68c8d1272c",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792311659_hd/1792311659_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Fujian Xunxing Sturgeons",
+            "team_b": "Zhejiang Lions",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/513a673e2abf3080d21b0dc4d0b0dad8.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/17bf3755eecad867cf5fcc08b83104af.png",
+            "time": "18:35:00",
+            "date": "20/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37363470_b7591c2d_20261019.png?v=b7591c2d",
             "width": 1600,
             "height": 1200
           }
