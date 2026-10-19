@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c14b043b13",
-          "name": "Warriors vs Kitchee | 17:30 19/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c14b043b13",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c14b043b13",
-                  "name": "Warriors vs Kitchee",
-                  "streams": [
-                    {
-                      "id": "st-c14b043b13",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6e7fab1abf",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792309510_hd/1792309510_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hong Kong - Hong Kong Premier League",
-            "team_a": "Warriors",
-            "team_b": "Kitchee",
-            "logo_a": "https://static.flashscore.com/res/image/data/xA03aUzB-S8Q0DgXs.png",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQIVP2dXIpeuo4NDDR2i015O0PnuxJAa3mtniCk8AzQ&s=10",
-            "time": "17:30:00",
-            "date": "19/10",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/oibrcn60nbn5_a05fce33_20261019.png?v=a05fce33",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-5fb93eed7c",
           "name": "Al Zulfi vs Al Ula | 22:05 19/10",
