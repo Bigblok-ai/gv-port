@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wmdfe6913xsw_347a48ec_20261020.png?v=347a48ec",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-9079fd5f9d",
-          "name": "Xorazm Urganch vs Buxoro FK | 22:00 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9079fd5f9d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9079fd5f9d",
-                  "name": "Xorazm Urganch vs Buxoro FK",
-                  "streams": [
-                    {
-                      "id": "st-9079fd5f9d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f8d261961b",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792310429_hd/1792310429_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Uzbekistan Super League",
-            "team_a": "Xorazm Urganch",
-            "team_b": "Buxoro FK",
-            "logo_a": "https://images.keovip88.net/images/teams/xorazm-urganch.png",
-            "logo_b": "https://images.keovip88.net/images/teams/buxoro-fk.png",
-            "time": "22:00:00",
-            "date": "20/10",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6acd74c924d46db870dd0059_ade7e5fa_20261020.png?v=ade7e5fa",
             "width": 1600,
             "height": 1200
           }
