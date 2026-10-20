@@ -1887,6 +1887,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-4b23232e7e",
+          "name": "Lion City Sailors vs Tampines Rovers FC | 18:30 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4b23232e7e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4b23232e7e",
+                  "name": "Lion City Sailors vs Tampines Rovers FC",
+                  "streams": [
+                    {
+                      "id": "st-4b23232e7e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a14925885f",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792310924_hd/1792310924_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG  Singapore",
+            "team_a": "Lion City Sailors",
+            "team_b": "Tampines Rovers FC",
+            "logo_a": "https://images.keovip88.net/images/teams/lion-city-sailors.png",
+            "logo_b": "https://images.keovip88.net/images/teams/tampines-rovers-fc.png",
+            "time": "18:30:00",
+            "date": "21/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad2baaf24d46db870e25bfe_43af4efd_20261020.png?v=43af4efd",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
