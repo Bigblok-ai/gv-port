@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-6f77d8a409",
-          "name": "Hajer vs Al Najma | 21:45 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6f77d8a409",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6f77d8a409",
-                  "name": "Hajer vs Al Najma",
-                  "streams": [
-                    {
-                      "id": "st-6f77d8a409",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-670731310a",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792310354_hd/1792310354_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Hoàng tử Faisal bin Fahd",
-            "team_a": "Hajer",
-            "team_b": "Al Najma",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/8/86/Hajer_FC_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/6/66/Al_Najma_Sports_club_%28Official%29.png",
-            "time": "21:45:00",
-            "date": "20/10",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wmdfe6913xsw_347a48ec_20261020.png?v=347a48ec",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-aa9ebef1ea",
           "name": "Al-Draih vs Al-Riyadh | 22:00 20/10",
           "type": "single",
@@ -377,6 +305,78 @@
           }
         },
         {
+          "id": "gv-dcfd597a55",
+          "name": "Sabah FK vs Borussia Dortmund | 23:45 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dcfd597a55",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-dcfd597a55",
+                  "name": "Sabah FK vs Borussia Dortmund",
+                  "streams": [
+                    {
+                      "id": "st-dcfd597a55",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2d260e0298",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792430561_hd/1792430561_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "Sabah FK",
+            "team_b": "Borussia Dortmund",
+            "logo_a": "https://images.keovip88.net/images/teams/sabah-fk-baku.png",
+            "logo_b": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
+            "time": "23:45:00",
+            "date": "20/10",
+            "blv": "Trĩ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e37_98a0fb1e_20261020.png?v=98a0fb1e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-9079fd5f9d",
           "name": "Xorazm Urganch vs Buxoro FK | 22:00 20/10",
           "type": "single",
@@ -444,78 +444,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6acd74c924d46db870dd0059_ade7e5fa_20261020.png?v=ade7e5fa",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-dcfd597a55",
-          "name": "Sabah FK vs Borussia Dortmund | 23:45 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dcfd597a55",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-dcfd597a55",
-                  "name": "Sabah FK vs Borussia Dortmund",
-                  "streams": [
-                    {
-                      "id": "st-dcfd597a55",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2d260e0298",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792430561_hd/1792430561_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Sabah FK",
-            "team_b": "Borussia Dortmund",
-            "logo_a": "https://images.keovip88.net/images/teams/sabah-fk-baku.png",
-            "logo_b": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
-            "time": "23:45:00",
-            "date": "20/10",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e37_98a0fb1e_20261020.png?v=98a0fb1e",
             "width": 1600,
             "height": 1200
           }
@@ -1956,6 +1884,184 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cpx0l6tv7uc8_a0a22478_20261020.png?v=a0a22478",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8c4b07bc6f",
+          "name": "Como vs Manchester United | 23:45 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8c4b07bc6f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8c4b07bc6f",
+                  "name": "Como vs Manchester United",
+                  "streams": [
+                    {
+                      "id": "st-8c4b07bc6f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f5d7521460",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792431676_hd/1792431676_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-dd0549a272",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792431685_hd/1792431685_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-5cbf8c9b7a",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792431691_hd/1792431691_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "Como",
+            "team_b": "Manchester United",
+            "logo_a": "https://images.keovip88.net/images/teams/como.png",
+            "logo_b": "https://images.keovip88.net/images/teams/manchester-united.png",
+            "time": "23:45:00",
+            "date": "21/10",
+            "blv": "Hấu, Dory, Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a92220607a55a68f709da99_8e31df05_20261020.png?v=8e31df05",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d4a2579ff5",
+          "name": "Lille OSC vs Galatasaray | 23:45 21/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d4a2579ff5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d4a2579ff5",
+                  "name": "Lille OSC vs Galatasaray",
+                  "streams": [
+                    {
+                      "id": "st-d4a2579ff5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7749a73c5c",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792431765_hd/1792431765_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "Lille OSC",
+            "team_b": "Galatasaray",
+            "logo_a": "https://images.keovip88.net/images/teams/lille.png",
+            "logo_b": "https://images.keovip88.net/images/teams/galatasaray.png",
+            "time": "23:45:00",
+            "date": "21/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e2b_c5ba006c_20261020.png?v=c5ba006c",
             "width": 1600,
             "height": 1200
           }
