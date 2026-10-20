@@ -1964,7 +1964,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (4 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2037,78 +2037,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23363476_a6be48cf_20261020.png?v=a6be48cf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-f1576a7853",
-          "name": "Ningbo Rockets vs Shanxi Loongs Fenjiu | 18:35 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f1576a7853",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f1576a7853",
-                  "name": "Ningbo Rockets vs Shanxi Loongs Fenjiu",
-                  "streams": [
-                    {
-                      "id": "st-f1576a7853",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ebed7e6313",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792311765_hd/1792311765_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Ningbo Rockets",
-            "team_b": "Shanxi Loongs Fenjiu",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/78539aa7b6e4518265799642461ab855.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2b1276c6b68b581bd3023f5f11bb6f44.png",
-            "time": "18:35:00",
-            "date": "20/10",
-            "blv": "Hấu",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25363478_930c11ce_20261020.png?v=930c11ce",
             "width": 1600,
             "height": 1200
           }
