@@ -1892,7 +1892,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1970,6 +1970,78 @@
           }
         },
         {
+          "id": "gv-4a27f0d882",
+          "name": "Beijing Shougang Ducks vs Guangdong Southern Tigers | 18:35 20/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4a27f0d882",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4a27f0d882",
+                  "name": "Beijing Shougang Ducks vs Guangdong Southern Tigers",
+                  "streams": [
+                    {
+                      "id": "st-4a27f0d882",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7efa63795f",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792311621_hd/1792311621_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Beijing Shougang Ducks",
+            "team_b": "Guangdong Southern Tigers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/58867afcb7d9cb68ffd5338c62c7af6a.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/37b8668860b7f12aeb8a40fafaaa2e83.png",
+            "time": "18:35:00",
+            "date": "20/10",
+            "blv": "Cầy",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38363471_b9d2d653_20261020.png?v=b9d2d653",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-6bcf0c9707",
           "name": "Jilin Northeast Tigers vs SiChuan Jingqiang Blue Whales | 18:35 20/10",
           "type": "single",
@@ -2037,78 +2109,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23363476_a6be48cf_20261020.png?v=a6be48cf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-4a27f0d882",
-          "name": "Beijing Shougang Ducks vs Guangdong Southern Tigers | 18:35 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4a27f0d882",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4a27f0d882",
-                  "name": "Beijing Shougang Ducks vs Guangdong Southern Tigers",
-                  "streams": [
-                    {
-                      "id": "st-4a27f0d882",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7efa63795f",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792311621_hd/1792311621_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Beijing Shougang Ducks",
-            "team_b": "Guangdong Southern Tigers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/58867afcb7d9cb68ffd5338c62c7af6a.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/37b8668860b7f12aeb8a40fafaaa2e83.png",
-            "time": "18:35:00",
-            "date": "20/10",
-            "blv": "Cầy",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38363471_b9d2d653_20261020.png?v=b9d2d653",
             "width": 1600,
             "height": 1200
           }
