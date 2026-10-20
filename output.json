@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-af21a750a9",
-          "name": "Corinthians Paulista (SP) vs Vitoria Salvador BA | 06:00 20/10",
+          "id": "gv-e7ea075633",
+          "name": "Escorpiones Belén vs Puntarenas | 09:00 20/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -28,78 +28,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-af21a750a9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-af21a750a9",
-                  "name": "Corinthians Paulista (SP) vs Vitoria Salvador BA",
-                  "streams": [
-                    {
-                      "id": "st-af21a750a9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7a93584021",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792404052_hd/1792404052_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Brazil",
-            "team_a": "Corinthians Paulista (SP)",
-            "team_b": "Vitoria Salvador BA",
-            "logo_a": "https://images.keovip88.net/images/teams/corinthians-paulista-sp.png",
-            "logo_b": "https://images.keovip88.net/images/teams/vitoria-ba.png",
-            "time": "06:00:00",
-            "date": "20/10",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6acc235524d46db870180dd3_9a843d37_20261020.png?v=9a843d37",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-e7ea075633",
-          "name": "Escorpiones Belén vs Puntarenas | 09:00 20/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -148,7 +76,7 @@
             "time": "09:00:00",
             "date": "20/10",
             "blv": "Hứa",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
