@@ -1578,6 +1578,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-0ce8629711",
+          "name": "Lions vs Preston Lions | 15:30 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0ce8629711",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0ce8629711",
+                  "name": "Lions vs Preston Lions",
+                  "streams": [
+                    {
+                      "id": "st-0ce8629711",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e9c8242c9e",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792549688_hd/1792549688_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Australia - Australian Championship",
+            "team_a": "Lions",
+            "team_b": "Preston Lions",
+            "logo_a": "https://static.flashscore.com/res/image/data/j7l1L9e5-GnWJ2Fya.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/4rLQYLGG-lldGheui.png",
+            "time": "15:30:00",
+            "date": "22/10",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7457spzpv5xt_c6d35d5a_20261021.png?v=c6d35d5a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-49c4bab071",
+          "name": "Persik Kediri vs PSS Sleman | 15:30 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-49c4bab071",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-49c4bab071",
+                  "name": "Persik Kediri vs PSS Sleman",
+                  "streams": [
+                    {
+                      "id": "st-49c4bab071",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d6a0e7ac92",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792549807_hd/1792549807_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Indonesia",
+            "team_a": "Persik Kediri",
+            "team_b": "PSS Sleman",
+            "logo_a": "https://images.keovip88.net/images/teams/persik-kediri.png",
+            "logo_b": "https://images.keovip88.net/images/teams/pss-sleman.png",
+            "time": "15:30:00",
+            "date": "22/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d324d46db8705c8584_b6cded87_20261021.png?v=b6cded87",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-32810bf457",
+          "name": "PSM Makassar vs Persebaya Surabaya | 15:30 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-32810bf457",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-32810bf457",
+                  "name": "PSM Makassar vs Persebaya Surabaya",
+                  "streams": [
+                    {
+                      "id": "st-32810bf457",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d4a70c37e3",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792550664_hd/1792550664_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Indonesia",
+            "team_a": "PSM Makassar",
+            "team_b": "Persebaya Surabaya",
+            "logo_a": "https://images.keovip88.net/images/teams/psm-makassar.png",
+            "logo_b": "https://images.keovip88.net/images/teams/persebaya-surabaya.png",
+            "time": "15:30:00",
+            "date": "22/10",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d324d46db8705c858c_76505a56_20261021.png?v=76505a56",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
