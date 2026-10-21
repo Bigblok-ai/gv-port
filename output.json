@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d5f10be2e4",
-          "name": "Al Jeel vs Al Jandal | 21:45 21/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d5f10be2e4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d5f10be2e4",
-                  "name": "Al Jeel vs Al Jandal",
-                  "streams": [
-                    {
-                      "id": "st-d5f10be2e4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bf645a95ca",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792311205_hd/1792311205_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Hoàng tử Faisal bin Fahd",
-            "team_a": "Al Jeel",
-            "team_b": "Al Jandal",
-            "logo_a": "https://static.flashscore.com/res/image/data/Eyaf2bil-fe8kvGSu.png",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AJgw8eaRwGb5-gy1x6GpadWWh-vAhvQ6gOJ5RyDwXQ&s",
-            "time": "21:45:00",
-            "date": "21/10",
-            "blv": "Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/96p9r72fng76_6dc25b39_20261021.png?v=6dc25b39",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f44d96f3bb",
           "name": "Al-Anwar vs Al Wehda | 22:00 21/10",
@@ -1503,6 +1431,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d324d46db8705c85de_1d4c82d3_20261021.png?v=1d4c82d3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b4254b5159",
+          "name": "Kairat vs Panathinaikos | 21:30 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b4254b5159",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b4254b5159",
+                  "name": "Kairat vs Panathinaikos",
+                  "streams": [
+                    {
+                      "id": "st-b4254b5159",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-26394f2112",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792550915_hd/1792550915_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Europe - UEFA Conference League",
+            "team_a": "Kairat",
+            "team_b": "Panathinaikos",
+            "logo_a": "https://static.flashscore.com/res/image/data/6uyKz6FG-rwQpsSWo.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/Me3pW6Ea-GM4Cu0wi.png",
+            "time": "21:30:00",
+            "date": "22/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jmpqfatvbeo1_1b81c3dd_20261021.png?v=1b81c3dd",
             "width": 1600,
             "height": 1200
           }
