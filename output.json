@@ -1949,6 +1949,222 @@
           }
         },
         {
+          "id": "gv-cf9056f5ab",
+          "name": "Miami Heat vs Minnesota Timberwolves | 06:30 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cf9056f5ab",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cf9056f5ab",
+                  "name": "Miami Heat vs Minnesota Timberwolves",
+                  "streams": [
+                    {
+                      "id": "st-cf9056f5ab",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2dd955bcfa",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792570655_hd/1792570655_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Miami Heat",
+            "team_b": "Minnesota Timberwolves",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/43ebb4d6ad3ea5b68e9b1c969dff055b.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
+            "time": "06:30:00",
+            "date": "22/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/30687270_a39745dd_20261021.png?v=a39745dd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3fc5eea8d2",
+          "name": "Brooklyn Nets vs Charlotte Hornets | 06:30 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3fc5eea8d2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3fc5eea8d2",
+                  "name": "Brooklyn Nets vs Charlotte Hornets",
+                  "streams": [
+                    {
+                      "id": "st-3fc5eea8d2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-efee8f0d64",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792570702_hd/1792570702_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Brooklyn Nets",
+            "team_b": "Charlotte Hornets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c01b5e6f6659dd42195e9db3aaef13b7.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
+            "time": "06:30:00",
+            "date": "22/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23810372_e592f5c2_20261021.png?v=e592f5c2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6b4daf0fd9",
+          "name": "Toronto Raptors vs Chicago Bulls | 06:30 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6b4daf0fd9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6b4daf0fd9",
+                  "name": "Toronto Raptors vs Chicago Bulls",
+                  "streams": [
+                    {
+                      "id": "st-6b4daf0fd9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a24aeed19",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792570751_hd/1792570751_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Toronto Raptors",
+            "team_b": "Chicago Bulls",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3f61db02c20eb73e5f27948b3122f2fb.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c73eca8b9cc18ff386bf6ff4c1236b9e.png",
+            "time": "06:30:00",
+            "date": "22/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24810373_c28c4ac3_20261021.png?v=c28c4ac3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-7fa01f5077",
           "name": "Illawarra Hawks vs Sydney Kings | 15:30 22/10",
           "type": "single",
