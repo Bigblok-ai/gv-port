@@ -1460,83 +1460,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (4 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f0d2fd9ee1",
-          "name": "Houston Rockets vs Dallas Mavericks | 07:30 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f0d2fd9ee1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f0d2fd9ee1",
-                  "name": "Houston Rockets vs Dallas Mavericks",
-                  "streams": [
-                    {
-                      "id": "st-f0d2fd9ee1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4742ecb0a",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792598431_hd/1792598431_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Houston Rockets",
-            "team_b": "Dallas Mavericks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
-            "time": "07:30:00",
-            "date": "22/10",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33588273_6db68831_20261022.png?v=6db68831",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-3a649aa1aa",
           "name": "Los Angeles Lakers vs Golden State Warriors | 09:00 22/10",
