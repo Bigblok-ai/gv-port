@@ -1455,6 +1455,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-7ea9b5695c",
+          "name": "Buxoro FK vs Termez Surkhon | 21:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7ea9b5695c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7ea9b5695c",
+                  "name": "Buxoro FK vs Termez Surkhon",
+                  "streams": [
+                    {
+                      "id": "st-7ea9b5695c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f0203b57bc",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792568845_hd/1792568845_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Uzbekistan Super League",
+            "team_a": "Buxoro FK",
+            "team_b": "Termez Surkhon",
+            "logo_a": "https://images.keovip88.net/images/teams/buxoro-fk.png",
+            "logo_b": "https://images.keovip88.net/images/teams/termez-surkhon.png",
+            "time": "21:00:00",
+            "date": "23/10",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d624d46db8705c897a_9030cfaa_20261022.png?v=9030cfaa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e5ce0e3d45",
+          "name": "Pakhtakor Tashkent vs Neftchi Fargona | 21:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e5ce0e3d45",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e5ce0e3d45",
+                  "name": "Pakhtakor Tashkent vs Neftchi Fargona",
+                  "streams": [
+                    {
+                      "id": "st-e5ce0e3d45",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8d5fd6ab41",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792568954_hd/1792568954_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Uzbekistan Super League",
+            "team_a": "Pakhtakor Tashkent",
+            "team_b": "Neftchi Fargona",
+            "logo_a": "https://images.keovip88.net/images/teams/pakhtakor.png",
+            "logo_b": "https://images.keovip88.net/images/teams/neftchi-fargona.png",
+            "time": "21:00:00",
+            "date": "23/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d624d46db8705c8997_02f3a0b9_20261022.png?v=02f3a0b9",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
