@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-26ec86732c",
-          "name": "Saint Gilloise vs Hapoel Beer Sheva | 23:45 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-26ec86732c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-26ec86732c",
-                  "name": "Saint Gilloise vs Hapoel Beer Sheva",
-                  "streams": [
-                    {
-                      "id": "st-26ec86732c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-07cb5df70f",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577169_hd/1792577169_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Saint Gilloise",
-            "team_b": "Hapoel Beer Sheva",
-            "logo_a": "https://images.keovip88.net/images/teams/saint-gilloise.png",
-            "logo_b": "https://images.keovip88.net/images/teams/hapoel-beer-sheva.png",
-            "time": "23:45:00",
-            "date": "22/10",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9767c031f9dda471080125_6aeba09e_20261023.png?v=6aeba09e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b7aeb3c32b",
           "name": "Juventus vs Stade Rennais FC | 23:45 22/10",
