@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (8 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-6a5ccf1220",
-          "name": "FK Baumit Jablonec vs Brighton   Hove Albion | 23:45 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6a5ccf1220",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6a5ccf1220",
-                  "name": "FK Baumit Jablonec vs Brighton   Hove Albion",
-                  "streams": [
-                    {
-                      "id": "st-6a5ccf1220",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-03fae8ba64",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792676288_hd/1792676288_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Europa Conference League",
-            "team_a": "FK Baumit Jablonec",
-            "team_b": "Brighton   Hove Albion",
-            "logo_a": "https://images.keovip88.net/images/teams/baumit-jablonec.png",
-            "logo_b": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
-            "time": "23:45:00",
-            "date": "22/10",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93739cfccd5ecc44060ea5_a4c30e8f_20261023.png?v=a4c30e8f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-9c3f4d6d2e",
-          "name": "Sturm Graz vs Marseille | 23:45 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9c3f4d6d2e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9c3f4d6d2e",
-                  "name": "Sturm Graz vs Marseille",
-                  "streams": [
-                    {
-                      "id": "st-9c3f4d6d2e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-547f7df7ed",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577138_hd/1792577138_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Sturm Graz",
-            "team_b": "Marseille",
-            "logo_a": "https://images.keovip88.net/images/teams/sturm-graz.png",
-            "logo_b": "https://images.keovip88.net/images/teams/marseille.png",
-            "time": "23:45:00",
-            "date": "22/10",
-            "blv": "Tỵ ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e8f_a6f98da0_20261023.png?v=a6f98da0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-26ec86732c",
           "name": "Saint Gilloise vs Hapoel Beer Sheva | 23:45 22/10",
@@ -228,150 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9767c031f9dda471080125_6aeba09e_20261023.png?v=6aeba09e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-df916baee7",
-          "name": "OFI Crete vs Bayer Leverkusen | 23:45 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-df916baee7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-df916baee7",
-                  "name": "OFI Crete vs Bayer Leverkusen",
-                  "streams": [
-                    {
-                      "id": "st-df916baee7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-50a26873fe",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577217_hd/1792577217_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "OFI Crete",
-            "team_b": "Bayer Leverkusen",
-            "logo_a": "https://images.keovip88.net/images/teams/ofi-crete.png",
-            "logo_b": "https://images.keovip88.net/images/teams/bayer-leverkusen.png",
-            "time": "23:45:00",
-            "date": "22/10",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e7a_3c1ced23_20261023.png?v=3c1ced23",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-cf3b169a40",
-          "name": "Lech Poznan vs Sunderland | 23:45 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cf3b169a40",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cf3b169a40",
-                  "name": "Lech Poznan vs Sunderland",
-                  "streams": [
-                    {
-                      "id": "st-cf3b169a40",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0a2d790873",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577248_hd/1792577248_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Lech Poznan",
-            "team_b": "Sunderland",
-            "logo_a": "https://images.keovip88.net/images/teams/lech-poznan.png",
-            "logo_b": "https://images.keovip88.net/images/teams/sunderland-afc.png",
-            "time": "23:45:00",
-            "date": "22/10",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b4382_29e91bf2_20261023.png?v=29e91bf2",
             "width": 1600,
             "height": 1200
           }
@@ -521,6 +233,78 @@
           }
         },
         {
+          "id": "gv-e44eeaec00",
+          "name": "AFC Bournemouth vs AC Milan | 02:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e44eeaec00",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e44eeaec00",
+                  "name": "AFC Bournemouth vs AC Milan",
+                  "streams": [
+                    {
+                      "id": "st-e44eeaec00",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c1d2023160",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577332_hd/1792577332_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "AFC Bournemouth",
+            "team_b": "AC Milan",
+            "logo_a": "https://images.keovip88.net/images/teams/afc-bournemouth.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ac-milan.png",
+            "time": "02:00:00",
+            "date": "23/10",
+            "blv": "Ngọng",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e80_e95f6b14_20261023.png?v=e95f6b14",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-de026ebcb7",
           "name": "Omonia Nicosia FC vs SL Benfica | 02:00 23/10",
           "type": "single",
@@ -588,78 +372,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b4384_fc0fccc9_20261023.png?v=fc0fccc9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-e44eeaec00",
-          "name": "AFC Bournemouth vs AC Milan | 02:00 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e44eeaec00",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e44eeaec00",
-                  "name": "AFC Bournemouth vs AC Milan",
-                  "streams": [
-                    {
-                      "id": "st-e44eeaec00",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c1d2023160",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577332_hd/1792577332_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "AFC Bournemouth",
-            "team_b": "AC Milan",
-            "logo_a": "https://images.keovip88.net/images/teams/afc-bournemouth.png",
-            "logo_b": "https://images.keovip88.net/images/teams/ac-milan.png",
-            "time": "02:00:00",
-            "date": "23/10",
-            "blv": "Ngọng",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e80_e95f6b14_20261023.png?v=e95f6b14",
             "width": 1600,
             "height": 1200
           }
