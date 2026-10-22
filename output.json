@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -156,6 +156,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e8f_a6f98da0_20261022.png?v=a6f98da0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-26ec86732c",
+          "name": "Saint Gilloise vs Hapoel Beer Sheva | 23:45 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-26ec86732c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-26ec86732c",
+                  "name": "Saint Gilloise vs Hapoel Beer Sheva",
+                  "streams": [
+                    {
+                      "id": "st-26ec86732c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-07cb5df70f",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577169_hd/1792577169_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "Saint Gilloise",
+            "team_b": "Hapoel Beer Sheva",
+            "logo_a": "https://images.keovip88.net/images/teams/saint-gilloise.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hapoel-beer-sheva.png",
+            "time": "23:45:00",
+            "date": "22/10",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9767c031f9dda471080125_6aeba09e_20261022.png?v=6aeba09e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-df916baee7",
+          "name": "OFI Crete vs Bayer Leverkusen | 23:45 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-df916baee7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-df916baee7",
+                  "name": "OFI Crete vs Bayer Leverkusen",
+                  "streams": [
+                    {
+                      "id": "st-df916baee7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-50a26873fe",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577217_hd/1792577217_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "OFI Crete",
+            "team_b": "Bayer Leverkusen",
+            "logo_a": "https://images.keovip88.net/images/teams/ofi-crete.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bayer-leverkusen.png",
+            "time": "23:45:00",
+            "date": "22/10",
+            "blv": "Mason",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e7a_3c1ced23_20261022.png?v=3c1ced23",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cf3b169a40",
+          "name": "Lech Poznan vs Sunderland | 23:45 22/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cf3b169a40",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cf3b169a40",
+                  "name": "Lech Poznan vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "st-cf3b169a40",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0a2d790873",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577248_hd/1792577248_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "Lech Poznan",
+            "team_b": "Sunderland",
+            "logo_a": "https://images.keovip88.net/images/teams/lech-poznan.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sunderland-afc.png",
+            "time": "23:45:00",
+            "date": "22/10",
+            "blv": "Trĩ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b4382_29e91bf2_20261022.png?v=29e91bf2",
             "width": 1600,
             "height": 1200
           }
@@ -372,222 +588,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93739cfccd5ecc44060ea5_a4c30e8f_20261022.png?v=a4c30e8f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-26ec86732c",
-          "name": "Saint Gilloise vs Hapoel Beer Sheva | 23:45 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-26ec86732c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-26ec86732c",
-                  "name": "Saint Gilloise vs Hapoel Beer Sheva",
-                  "streams": [
-                    {
-                      "id": "st-26ec86732c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-07cb5df70f",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577169_hd/1792577169_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Saint Gilloise",
-            "team_b": "Hapoel Beer Sheva",
-            "logo_a": "https://images.keovip88.net/images/teams/saint-gilloise.png",
-            "logo_b": "https://images.keovip88.net/images/teams/hapoel-beer-sheva.png",
-            "time": "23:45:00",
-            "date": "22/10",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9767c031f9dda471080125_6aeba09e_20261022.png?v=6aeba09e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-df916baee7",
-          "name": "OFI Crete vs Bayer Leverkusen | 23:45 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-df916baee7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-df916baee7",
-                  "name": "OFI Crete vs Bayer Leverkusen",
-                  "streams": [
-                    {
-                      "id": "st-df916baee7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-50a26873fe",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577217_hd/1792577217_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "OFI Crete",
-            "team_b": "Bayer Leverkusen",
-            "logo_a": "https://images.keovip88.net/images/teams/ofi-crete.png",
-            "logo_b": "https://images.keovip88.net/images/teams/bayer-leverkusen.png",
-            "time": "23:45:00",
-            "date": "22/10",
-            "blv": "Mason",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e7a_3c1ced23_20261022.png?v=3c1ced23",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-cf3b169a40",
-          "name": "Lech Poznan vs Sunderland | 23:45 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cf3b169a40",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cf3b169a40",
-                  "name": "Lech Poznan vs Sunderland",
-                  "streams": [
-                    {
-                      "id": "st-cf3b169a40",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0a2d790873",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577248_hd/1792577248_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Lech Poznan",
-            "team_b": "Sunderland",
-            "logo_a": "https://images.keovip88.net/images/teams/lech-poznan.png",
-            "logo_b": "https://images.keovip88.net/images/teams/sunderland-afc.png",
-            "time": "23:45:00",
-            "date": "22/10",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b4382_29e91bf2_20261022.png?v=29e91bf2",
             "width": 1600,
             "height": 1200
           }
