@@ -17,150 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-b7aeb3c32b",
-          "name": "Juventus vs Stade Rennais FC | 23:45 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b7aeb3c32b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b7aeb3c32b",
-                  "name": "Juventus vs Stade Rennais FC",
-                  "streams": [
-                    {
-                      "id": "st-b7aeb3c32b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-03eba0d15c",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577275_hd/1792577275_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Juventus",
-            "team_b": "Stade Rennais FC",
-            "logo_a": "https://images.keovip88.net/images/teams/juventus.png",
-            "logo_b": "https://images.keovip88.net/images/teams/rennes.png",
-            "time": "23:45:00",
-            "date": "22/10",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a92221807a55a68f709daaf_1b2ccd7a_20261023.png?v=1b2ccd7a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-96a93d9205",
-          "name": "Dinamo Zagreb vs N.E.C. Nijmegen | 23:45 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-96a93d9205",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-96a93d9205",
-                  "name": "Dinamo Zagreb vs N.E.C. Nijmegen",
-                  "streams": [
-                    {
-                      "id": "st-96a93d9205",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4d38598ce",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577303_hd/1792577303_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Dinamo Zagreb",
-            "team_b": "N.E.C. Nijmegen",
-            "logo_a": "https://images.keovip88.net/images/teams/dinamo-zagreb.png",
-            "logo_b": "https://images.keovip88.net/images/teams/nec-nijmegen.png",
-            "time": "23:45:00",
-            "date": "22/10",
-            "blv": "Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9767c031f9dda471080126_a7d19285_20261023.png?v=a7d19285",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-e44eeaec00",
           "name": "AFC Bournemouth vs AC Milan | 02:00 23/10",
           "type": "single",
@@ -312,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +220,7 @@
             "time": "02:00:00",
             "date": "23/10",
             "blv": "Súp",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -384,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +292,7 @@
             "time": "02:00:00",
             "date": "23/10",
             "blv": "Mason",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
