@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-27e4a033a9",
-          "name": "Madura United vs Persib Bandung | 19:00 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-27e4a033a9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-27e4a033a9",
-                  "name": "Madura United vs Persib Bandung",
-                  "streams": [
-                    {
-                      "id": "st-27e4a033a9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-017e183a90",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792550856_hd/1792550856_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Indonesia",
-            "team_a": "Madura United",
-            "team_b": "Persib Bandung",
-            "logo_a": "https://images.keovip88.net/images/teams/madura-united.png",
-            "logo_b": "https://images.keovip88.net/images/teams/persib-bandung.png",
-            "time": "19:00:00",
-            "date": "22/10",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d324d46db8705c85d8_32a544f9_20261022.png?v=32a544f9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-98e1cdab8e",
           "name": "Công An Hà Nội vs Thanh Hóa | 19:15 22/10",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "21:30:00",
             "date": "22/10",
             "blv": "Chồn",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1604,83 +1532,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-7929872d9d",
-          "name": "Beijing Shougang Ducks vs Shenzhen Leopards | 18:35 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7929872d9d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7929872d9d",
-                  "name": "Beijing Shougang Ducks vs Shenzhen Leopards",
-                  "streams": [
-                    {
-                      "id": "st-7929872d9d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7f0c1b5e2c",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792551696_hd/1792551696_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Beijing Shougang Ducks",
-            "team_b": "Shenzhen Leopards",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/58867afcb7d9cb68ffd5338c62c7af6a.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/4d9ec843176ad902c32b3b317118e543.png",
-            "time": "18:35:00",
-            "date": "22/10",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23463477_cf6f2fed_20261022.png?v=cf6f2fed",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-5c185f99ca",
           "name": "Philadelphia 76ers vs Cleveland Cavaliers | 06:00 23/10",
