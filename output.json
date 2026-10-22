@@ -1455,6 +1455,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-427524ba4a",
+          "name": "Brisbane Roar FC vs Perth Glory FC | 16:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-427524ba4a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-427524ba4a",
+                  "name": "Brisbane Roar FC vs Perth Glory FC",
+                  "streams": [
+                    {
+                      "id": "st-427524ba4a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1f86750736",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792568586_hd/1792568586_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Brisbane Roar FC",
+            "team_b": "Perth Glory FC",
+            "logo_a": "https://images.keovip88.net/images/teams/brisbane-roar.png",
+            "logo_b": "https://images.keovip88.net/images/teams/perth-glory.png",
+            "time": "16:00:00",
+            "date": "23/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d424d46db8705c8781_0f7e1e18_20261022.png?v=0f7e1e18",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
