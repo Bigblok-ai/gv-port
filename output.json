@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (8 LIVE)",
+      "name": "⚽ Bóng Đá (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b4254b5159",
-          "name": "Kairat vs Panathinaikos | 21:30 22/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b4254b5159",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b4254b5159",
-                  "name": "Kairat vs Panathinaikos",
-                  "streams": [
-                    {
-                      "id": "st-b4254b5159",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-26394f2112",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792550915_hd/1792550915_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Europe - UEFA Conference League",
-            "team_a": "Kairat",
-            "team_b": "Panathinaikos",
-            "logo_a": "https://static.flashscore.com/res/image/data/6uyKz6FG-rwQpsSWo.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Me3pW6Ea-GM4Cu0wi.png",
-            "time": "21:30:00",
-            "date": "22/10",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jmpqfatvbeo1_1b81c3dd_20261022.png?v=1b81c3dd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6a5ccf1220",
           "name": "FK Baumit Jablonec vs Brighton   Hove Albion | 23:45 22/10",
