@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "gv-4a12f5277f",
+          "name": "Alebrijes de Oaxaca vs Cruz Azul Hidalgo | 08:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4a12f5277f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4a12f5277f",
+                  "name": "Alebrijes de Oaxaca vs Cruz Azul Hidalgo",
+                  "streams": [
+                    {
+                      "id": "st-4a12f5277f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b148a743a2",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792706313_hd/1792706313_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico - Liga de Expansión MX",
+            "team_a": "Alebrijes de Oaxaca",
+            "team_b": "Cruz Azul Hidalgo",
+            "logo_a": "https://static.flashscore.com/res/image/data/0KLjcaCr-2u4uDeVT.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/SWBMCvDr-pbUSmUuU.png",
+            "time": "08:00:00",
+            "date": "23/10",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7wcm1omraviq_29a802fe_20261023.png?v=29a802fe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-427524ba4a",
           "name": "Brisbane Roar FC vs Perth Glory FC | 16:00 23/10",
           "type": "single",
@@ -885,6 +957,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31687271_95cf9b55_20261023.png?v=95cf9b55",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9f2bdd84a6",
+          "name": "Oklahoma City Thunder vs Denver Nuggets | 08:30 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f2bdd84a6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9f2bdd84a6",
+                  "name": "Oklahoma City Thunder vs Denver Nuggets",
+                  "streams": [
+                    {
+                      "id": "st-9f2bdd84a6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8e8d91d690",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792706453_hd/1792706453_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Oklahoma City Thunder",
+            "team_b": "Denver Nuggets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
+            "time": "08:30:00",
+            "date": "23/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37687277_372f748f_20261023.png?v=372f748f",
             "width": 1600,
             "height": 1200
           }
