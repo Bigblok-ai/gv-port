@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-427524ba4a",
-          "name": "Brisbane Roar FC vs Perth Glory FC | 16:00 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-427524ba4a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-427524ba4a",
-                  "name": "Brisbane Roar FC vs Perth Glory FC",
-                  "streams": [
-                    {
-                      "id": "st-427524ba4a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1f86750736",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792568586_hd/1792568586_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Úc",
-            "team_a": "Brisbane Roar FC",
-            "team_b": "Perth Glory FC",
-            "logo_a": "https://images.keovip88.net/images/teams/brisbane-roar.png",
-            "logo_b": "https://images.keovip88.net/images/teams/perth-glory.png",
-            "time": "16:00:00",
-            "date": "23/10",
-            "blv": "Tỵ ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d424d46db8705c8781_0f7e1e18_20261023.png?v=0f7e1e18",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-dca3e5bdb4",
           "name": "Hoàng Anh Gia Lai vs Sông Lam Nghệ An | 17:00 23/10",
@@ -161,8 +89,8 @@
           }
         },
         {
-          "id": "gv-8c418027a2",
-          "name": "Bình Định vs Lâm Đồng FC | 18:00 23/10",
+          "id": "gv-7cbb7645b9",
+          "name": "Thể Công Viettel vs TDTT Bac Ninh | 19:15 23/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -172,6 +100,78 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7cbb7645b9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7cbb7645b9",
+                  "name": "Thể Công Viettel vs TDTT Bac Ninh",
+                  "streams": [
+                    {
+                      "id": "st-7cbb7645b9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8f9095d23",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792568755_hd/1792568755_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Thể Công Viettel",
+            "team_b": "TDTT Bac Ninh",
+            "logo_a": "https://images.keovip88.net/images/teams/viettel-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/tdtt-bac-ninh.PNG",
+            "time": "19:15:00",
+            "date": "23/10",
+            "blv": "Tỵ ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d524d46db8705c887f_b10fa49c_20261023.png?v=b10fa49c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8c418027a2",
+          "name": "Bình Định vs Lâm Đồng FC | 18:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -220,7 +220,7 @@
             "time": "18:00:00",
             "date": "23/10",
             "blv": "Ngu",
-            "is_live": true,
+            "is_live": false,
             "cate_type": "football"
           },
           "image": {
@@ -300,78 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1m3y4f06q5e5_de324540_20261023.png?v=de324540",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-7cbb7645b9",
-          "name": "Thể Công Viettel vs TDTT Bac Ninh | 19:15 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7cbb7645b9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7cbb7645b9",
-                  "name": "Thể Công Viettel vs TDTT Bac Ninh",
-                  "streams": [
-                    {
-                      "id": "st-7cbb7645b9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8f9095d23",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792568755_hd/1792568755_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V-League",
-            "team_a": "Thể Công Viettel",
-            "team_b": "TDTT Bac Ninh",
-            "logo_a": "https://images.keovip88.net/images/teams/viettel-fc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/tdtt-bac-ninh.PNG",
-            "time": "19:15:00",
-            "date": "23/10",
-            "blv": "Tỵ ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d524d46db8705c887f_b10fa49c_20261023.png?v=b10fa49c",
             "width": 1600,
             "height": 1200
           }
@@ -1172,7 +1100,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1329,10 +1257,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1381,7 +1309,7 @@
             "time": "18:35:00",
             "date": "23/10",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1401,10 +1329,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1453,7 +1381,7 @@
             "time": "18:35:00",
             "date": "23/10",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
