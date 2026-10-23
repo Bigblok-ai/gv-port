@@ -377,6 +377,78 @@
           }
         },
         {
+          "id": "gv-130539c951",
+          "name": "Selangor vs Kuching City | 20:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-130539c951",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-130539c951",
+                  "name": "Selangor vs Kuching City",
+                  "streams": [
+                    {
+                      "id": "st-130539c951",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9e701d00b3",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792739120_hd/1792739120_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Malaysia - Malaysia FA Cup",
+            "team_a": "Selangor",
+            "team_b": "Kuching City",
+            "logo_a": "https://images.keovip88.net/images/teams/selangor.png",
+            "logo_b": "https://images.keovip88.net/images/teams/kuala-lumpur-city-fc.png",
+            "time": "20:00:00",
+            "date": "23/10",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/62830awba9ph_a94b5892_20261023.png?v=a94b5892",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-a3a942f631",
           "name": "Al-Faisaly Harmah vs Al-Nassr FC | 20:30 23/10",
           "type": "single",
@@ -588,6 +660,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d624d46db8705c8997_02f3a0b9_20261023.png?v=02f3a0b9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f3fd3c4bf8",
+          "name": "Al Ittihad Jeddah vs Al-Draih | 22:30 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f3fd3c4bf8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f3fd3c4bf8",
+                  "name": "Al Ittihad Jeddah vs Al-Draih",
+                  "streams": [
+                    {
+                      "id": "st-f3fd3c4bf8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-219f8864b3",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792739260_hd/1792739260_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Ả Rập Xê Út",
+            "team_a": "Al Ittihad Jeddah",
+            "team_b": "Al-Draih",
+            "logo_a": "https://images.keovip88.net/images/teams/al-ittihad.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-draih.png",
+            "time": "22:30:00",
+            "date": "23/10",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d624d46db8705c89f3_799efe9b_20261023.png?v=799efe9b",
             "width": 1600,
             "height": 1200
           }
