@@ -2033,8 +2033,8 @@
             "league": "NHL",
             "team_a": "Carolina Hurricanes",
             "team_b": "Edmonton Oilers",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/GFR5_nXarHj6qRI8R05otg_96x96.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/nC8dMKdf-zPF4cWq_wSKHA_96x96.png",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/nC8dMKdf-zPF4cWq_wSKHA_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/GFR5_nXarHj6qRI8R05otg_96x96.png",
             "time": "08:00:00",
             "date": "23/10",
             "blv": "Cận",
@@ -2045,7 +2045,151 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/331jcbl4ntfr_b0111c2f_20261023.png?v=b0111c2f",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/331jcbl4ntfr_b096852b_20261023.png?v=b096852b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e1ef713889",
+          "name": "Utah Mammoth vs Seattle Kraken | 09:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e1ef713889",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e1ef713889",
+                  "name": "Utah Mammoth vs Seattle Kraken",
+                  "streams": [
+                    {
+                      "id": "st-e1ef713889",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dc57941f03",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792715330_hd/1792715330_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "Utah Mammoth",
+            "team_b": "Seattle Kraken",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/iZyCkSgmibqtCi1eua8kjw_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/gv_klUIk7LBmA857rbdOvw_96x96.png",
+            "time": "09:00:00",
+            "date": "23/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uuiiugq6yvby_53a35e17_20261023.png?v=53a35e17",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5673a5cbf4",
+          "name": "Detroit Red Wings vs Vancouver Canucks | 09:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5673a5cbf4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5673a5cbf4",
+                  "name": "Detroit Red Wings vs Vancouver Canucks",
+                  "streams": [
+                    {
+                      "id": "st-5673a5cbf4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4002a01f43",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792715453_hd/1792715453_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "Detroit Red Wings",
+            "team_b": "Vancouver Canucks",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QaP8buCif1FvjfqApkxsDg_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/1SVoPsK2xW65VIfyQB2soQ_96x96.png",
+            "time": "09:00:00",
+            "date": "23/10",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/i926d5ld8ous_01f44bc5_20261023.png?v=01f44bc5",
             "width": 1600,
             "height": 1200
           }
