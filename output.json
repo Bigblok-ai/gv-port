@@ -11,11 +11,83 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-4a12f5277f",
+          "name": "Alebrijes de Oaxaca vs Cruz Azul Hidalgo | 08:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4a12f5277f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4a12f5277f",
+                  "name": "Alebrijes de Oaxaca vs Cruz Azul Hidalgo",
+                  "streams": [
+                    {
+                      "id": "st-4a12f5277f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b148a743a2",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792706313_hd/1792706313_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico - Liga de Expansión MX",
+            "team_a": "Alebrijes de Oaxaca",
+            "team_b": "Cruz Azul Hidalgo",
+            "logo_a": "https://static.flashscore.com/res/image/data/0KLjcaCr-2u4uDeVT.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/SWBMCvDr-pbUSmUuU.png",
+            "time": "08:00:00",
+            "date": "23/10",
+            "blv": "Hấu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7wcm1omraviq_29a802fe_20261023.png?v=29a802fe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-05160108fb",
           "name": "Fort Lauderdale United vs Carolina Ascent | 06:30 23/10",
@@ -84,78 +156,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad2bad624d46db870e29091_17cfd9c2_20261023.png?v=17cfd9c2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-4a12f5277f",
-          "name": "Alebrijes de Oaxaca vs Cruz Azul Hidalgo | 08:00 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4a12f5277f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4a12f5277f",
-                  "name": "Alebrijes de Oaxaca vs Cruz Azul Hidalgo",
-                  "streams": [
-                    {
-                      "id": "st-4a12f5277f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b148a743a2",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792706313_hd/1792706313_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Mexico - Liga de Expansión MX",
-            "team_a": "Alebrijes de Oaxaca",
-            "team_b": "Cruz Azul Hidalgo",
-            "logo_a": "https://static.flashscore.com/res/image/data/0KLjcaCr-2u4uDeVT.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/SWBMCvDr-pbUSmUuU.png",
-            "time": "08:00:00",
-            "date": "23/10",
-            "blv": "Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7wcm1omraviq_29a802fe_20261023.png?v=29a802fe",
             "width": 1600,
             "height": 1200
           }
@@ -1973,11 +1973,83 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-0f81248803",
+          "name": "Carolina Hurricanes vs Edmonton Oilers | 08:00 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0f81248803",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0f81248803",
+                  "name": "Carolina Hurricanes vs Edmonton Oilers",
+                  "streams": [
+                    {
+                      "id": "st-0f81248803",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a7f44dc99",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792715081_hd/1792715081_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "Carolina Hurricanes",
+            "team_b": "Edmonton Oilers",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/GFR5_nXarHj6qRI8R05otg_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/nC8dMKdf-zPF4cWq_wSKHA_96x96.png",
+            "time": "08:00:00",
+            "date": "23/10",
+            "blv": "Cận",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/331jcbl4ntfr_b0111c2f_20261023.png?v=b0111c2f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-0fac5e3a3b",
           "name": "Swiss Stage Day 1 Ca 4 vs Swiss Stage Day 1 Ca 4 | 06:00 24/10",
