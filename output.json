@@ -1095,6 +1095,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-49568ec456",
+          "name": "Melbourne Victory FC vs Melbourne City | 15:40 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-49568ec456",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-49568ec456",
+                  "name": "Melbourne Victory FC vs Melbourne City",
+                  "streams": [
+                    {
+                      "id": "st-49568ec456",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b8aeadf49c",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792570579_hd/1792570579_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Melbourne Victory FC",
+            "team_b": "Melbourne City",
+            "logo_a": "https://images.keovip88.net/images/teams/melbourne-victory.png",
+            "logo_b": "https://images.keovip88.net/images/teams/melbourne-city.png",
+            "time": "15:40:00",
+            "date": "24/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021ae11_9e737131_20261023.png?v=9e737131",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
