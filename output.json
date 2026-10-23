@@ -1051,6 +1051,150 @@
           }
         },
         {
+          "id": "gv-50e3cadb03",
+          "name": "San Antonio Spurs vs Houston Rockets | 08:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-50e3cadb03",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-50e3cadb03",
+                  "name": "San Antonio Spurs vs Houston Rockets",
+                  "streams": [
+                    {
+                      "id": "st-50e3cadb03",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a9bba7b457",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792797206_hd/1792797206_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "San Antonio Spurs",
+            "team_b": "Houston Rockets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
+            "time": "08:30:00",
+            "date": "24/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38687278_836b7546_20261024.png?v=836b7546",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0d73845364",
+          "name": "Utah Jazz vs New Orleans Pelicans | 08:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0d73845364",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0d73845364",
+                  "name": "Utah Jazz vs New Orleans Pelicans",
+                  "streams": [
+                    {
+                      "id": "st-0d73845364",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b02a50bc73",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792797266_hd/1792797266_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Utah Jazz",
+            "team_b": "New Orleans Pelicans",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
+            "time": "08:30:00",
+            "date": "24/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36588276_a0832e61_20261024.png?v=a0832e61",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-1885935047",
           "name": "South East Melbourne Phoenix vs Adelaide 36ers | 15:30 24/10",
           "type": "single",
