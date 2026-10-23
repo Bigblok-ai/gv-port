@@ -692,11 +692,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-219f8864b3",
-                          "name": "Hứa",
+                          "id": "lnk-4c61b1a0a6",
+                          "name": "Tỵ ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792739260_hd/1792739260_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792740440_hd/1792740440_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -723,7 +723,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/al-draih.png",
             "time": "22:30:00",
             "date": "23/10",
-            "blv": "Hứa",
+            "blv": "Tỵ ",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1106,78 +1106,6 @@
           }
         },
         {
-          "id": "gv-e001dbfe7d",
-          "name": "Beijing Royal Fighters vs Suzhou Dragons Kentier | 18:35 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e001dbfe7d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e001dbfe7d",
-                  "name": "Beijing Royal Fighters vs Suzhou Dragons Kentier",
-                  "streams": [
-                    {
-                      "id": "st-e001dbfe7d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e556ef4fe8",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792569066_hd/1792569066_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Beijing Royal Fighters",
-            "team_b": "Suzhou Dragons Kentier",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/af8d9f59130550be6228fcd35c70ae11.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d1c8a0f21d4d300f8ddce93f11b79c70.png",
-            "time": "18:35:00",
-            "date": "23/10",
-            "blv": "Vịt",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37463471_70dba641_20261023.png?v=70dba641",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-bc13cb5adb",
           "name": "Liaoning Flying Leopards vs SiChuan Jingqiang Blue Whales | 18:35 23/10",
           "type": "single",
@@ -1389,6 +1317,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36463470_54282e3e_20261023.png?v=54282e3e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e001dbfe7d",
+          "name": "Beijing Royal Fighters vs Suzhou Dragons Kentier | 18:35 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e001dbfe7d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e001dbfe7d",
+                  "name": "Beijing Royal Fighters vs Suzhou Dragons Kentier",
+                  "streams": [
+                    {
+                      "id": "st-e001dbfe7d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e556ef4fe8",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792569066_hd/1792569066_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Beijing Royal Fighters",
+            "team_b": "Suzhou Dragons Kentier",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/af8d9f59130550be6228fcd35c70ae11.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d1c8a0f21d4d300f8ddce93f11b79c70.png",
+            "time": "18:35:00",
+            "date": "23/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37463471_70dba641_20261023.png?v=70dba641",
             "width": 1600,
             "height": 1200
           }
