@@ -1483,6 +1483,150 @@
           }
         },
         {
+          "id": "gv-83933b76eb",
+          "name": "Goyang Orions vs Jeonju KCC Egis | 14:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-83933b76eb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-83933b76eb",
+                  "name": "Goyang Orions vs Jeonju KCC Egis",
+                  "streams": [
+                    {
+                      "id": "st-83933b76eb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3a2cc8d8f4",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792797719_hd/1792797719_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Goyang Orions",
+            "team_b": "Jeonju KCC Egis",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/5b0e513f868dee6a403d7d5dfc3628b3.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a2ba5e8d224376506856ad5dd34de831.png",
+            "time": "14:30:00",
+            "date": "24/10",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24060370_b5f51555_20261024.png?v=b5f51555",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1ac1e02045",
+          "name": "Ulsan Hyundai Mobis Phoebus vs Seoul Samsung Thunders | 14:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1ac1e02045",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1ac1e02045",
+                  "name": "Ulsan Hyundai Mobis Phoebus vs Seoul Samsung Thunders",
+                  "streams": [
+                    {
+                      "id": "st-1ac1e02045",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-88947fcaa9",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792797786_hd/1792797786_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Ulsan Hyundai Mobis Phoebus",
+            "team_b": "Seoul Samsung Thunders",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e22caa597076764dd0d04b55d46f764e.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/77da210054627a8fde62b8e6d76f3d74.png",
+            "time": "14:30:00",
+            "date": "24/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25060371_adaa9ec8_20261024.png?v=adaa9ec8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-1885935047",
           "name": "South East Melbourne Phoenix vs Adelaide 36ers | 15:30 24/10",
           "type": "single",
