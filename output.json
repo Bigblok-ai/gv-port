@@ -17,6 +17,294 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-4b9fe60091",
+          "name": "Newcastle Jets FC vs FC Macarthur | 11:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4b9fe60091",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4b9fe60091",
+                  "name": "Newcastle Jets FC vs FC Macarthur",
+                  "streams": [
+                    {
+                      "id": "st-4b9fe60091",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b83561de68",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792798265_hd/1792798265_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Newcastle Jets FC",
+            "team_b": "FC Macarthur",
+            "logo_a": "https://images.keovip88.net/images/teams/newcastle-jets.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fc-macarthur.png",
+            "time": "11:00:00",
+            "date": "24/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695b24d46db87021ac2f_66f2f164_20261024.png?v=66f2f164",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8437c3b926",
+          "name": "Sanfrecce Hiroshima vs Shimizu S-Pulse | 12:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8437c3b926",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8437c3b926",
+                  "name": "Sanfrecce Hiroshima vs Shimizu S-Pulse",
+                  "streams": [
+                    {
+                      "id": "st-8437c3b926",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7cd4a9767a",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792798320_hd/1792798320_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Sanfrecce Hiroshima",
+            "team_b": "Shimizu S-Pulse",
+            "logo_a": "https://images.keovip88.net/images/teams/hiroshima-sanfrecce.png",
+            "logo_b": "https://images.keovip88.net/images/teams/shimizu-s-pulse.png",
+            "time": "12:00:00",
+            "date": "24/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695b24d46db87021ac68_39a1dcfe_20261024.png?v=39a1dcfe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3bb42c6a53",
+          "name": "Bucheon FC 1995 vs Gwangju FC | 12:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3bb42c6a53",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3bb42c6a53",
+                  "name": "Bucheon FC 1995 vs Gwangju FC",
+                  "streams": [
+                    {
+                      "id": "st-3bb42c6a53",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-55ee1900ce",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792798382_hd/1792798382_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "K-League Hàn Quốc",
+            "team_a": "Bucheon FC 1995",
+            "team_b": "Gwangju FC",
+            "logo_a": "https://images.keovip88.net/images/teams/bucheon-fc-1995.png",
+            "logo_b": "https://images.keovip88.net/images/teams/gwangju-football-club.png",
+            "time": "12:00:00",
+            "date": "24/10",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695b24d46db87021ac84_abefd2ea_20261024.png?v=abefd2ea",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-11f10ad8a2",
+          "name": "Vissel Kobe vs FC Machida Zelvia | 13:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-11f10ad8a2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-11f10ad8a2",
+                  "name": "Vissel Kobe vs FC Machida Zelvia",
+                  "streams": [
+                    {
+                      "id": "st-11f10ad8a2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-51f92305fa",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1792798427_hd/1792798427_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Vissel Kobe",
+            "team_b": "FC Machida Zelvia",
+            "logo_a": "https://images.keovip88.net/images/teams/vissel-kobe.png",
+            "logo_b": "https://images.keovip88.net/images/teams/machida-zelvia.png",
+            "time": "13:00:00",
+            "date": "24/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021ace0_d0738994_20261024.png?v=d0738994",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-49568ec456",
           "name": "Melbourne Victory FC vs Melbourne City | 15:40 24/10",
           "type": "single",
