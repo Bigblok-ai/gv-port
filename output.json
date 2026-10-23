@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,6 +84,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d424d46db8705c8785_c9515f9c_20261023.png?v=c9515f9c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-424f3de242",
+          "name": "DPMM FC vs Johor Darul Ta'zim | 19:15 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-424f3de242",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-424f3de242",
+                  "name": "DPMM FC vs Johor Darul Ta'zim",
+                  "streams": [
+                    {
+                      "id": "st-424f3de242",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8d26786da",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792739018_hd/1792739018_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Malaysia - Malaysia FA Cup",
+            "team_a": "DPMM FC",
+            "team_b": "Johor Darul Ta'zim",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0u4mLHMIT6vvvAvlSVx87Gv6w8A_biSm-SXk4sMWYA&s=10",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/c/c0/Johor_Darul_Ta%27zim_F.C..svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "time": "19:15:00",
+            "date": "23/10",
+            "blv": "Hứa",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1m3y4f06q5e5_de324540_20261023.png?v=de324540",
             "width": 1600,
             "height": 1200
           }
@@ -228,78 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d524d46db8705c87b3_0b4e15dc_20261023.png?v=0b4e15dc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-424f3de242",
-          "name": "DPMM FC vs Johor Darul Ta'zim | 19:15 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-424f3de242",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-424f3de242",
-                  "name": "DPMM FC vs Johor Darul Ta'zim",
-                  "streams": [
-                    {
-                      "id": "st-424f3de242",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8d26786da",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792739018_hd/1792739018_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Malaysia - Malaysia FA Cup",
-            "team_a": "DPMM FC",
-            "team_b": "Johor Darul Ta'zim",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0u4mLHMIT6vvvAvlSVx87Gv6w8A_biSm-SXk4sMWYA&s=10",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/c/c0/Johor_Darul_Ta%27zim_F.C..svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-            "time": "19:15:00",
-            "date": "23/10",
-            "blv": "Hứa",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1m3y4f06q5e5_de324540_20261023.png?v=de324540",
             "width": 1600,
             "height": 1200
           }
