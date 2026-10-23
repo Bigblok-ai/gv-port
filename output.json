@@ -17,150 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-7cbb7645b9",
-          "name": "Thể Công Viettel vs TDTT Bac Ninh | 19:15 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7cbb7645b9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7cbb7645b9",
-                  "name": "Thể Công Viettel vs TDTT Bac Ninh",
-                  "streams": [
-                    {
-                      "id": "st-7cbb7645b9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8f9095d23",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792568755_hd/1792568755_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V-League",
-            "team_a": "Thể Công Viettel",
-            "team_b": "TDTT Bac Ninh",
-            "logo_a": "https://images.keovip88.net/images/teams/viettel-fc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/tdtt-bac-ninh.PNG",
-            "time": "19:15:00",
-            "date": "23/10",
-            "blv": "Tỵ ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d524d46db8705c887f_b10fa49c_20261023.png?v=b10fa49c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-424f3de242",
-          "name": "DPMM FC vs Johor Darul Ta'zim | 19:15 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-424f3de242",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-424f3de242",
-                  "name": "DPMM FC vs Johor Darul Ta'zim",
-                  "streams": [
-                    {
-                      "id": "st-424f3de242",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8d26786da",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792739018_hd/1792739018_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Malaysia - Malaysia FA Cup",
-            "team_a": "DPMM FC",
-            "team_b": "Johor Darul Ta'zim",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0u4mLHMIT6vvvAvlSVx87Gv6w8A_biSm-SXk4sMWYA&s=10",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/c/c0/Johor_Darul_Ta%27zim_F.C..svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-            "time": "19:15:00",
-            "date": "23/10",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1m3y4f06q5e5_de324540_20261023.png?v=de324540",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-130539c951",
           "name": "Selangor vs Kuching City | 20:00 23/10",
           "type": "single",
@@ -377,6 +233,150 @@
           }
         },
         {
+          "id": "gv-368ea0c44d",
+          "name": "Al-Shamal vs Qatar SC | 21:30 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-368ea0c44d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-368ea0c44d",
+                  "name": "Al-Shamal vs Qatar SC",
+                  "streams": [
+                    {
+                      "id": "st-368ea0c44d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-95283080df",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792740461_hd/1792740461_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Qatar",
+            "team_a": "Al-Shamal",
+            "team_b": "Qatar SC",
+            "logo_a": "https://images.keovip88.net/images/teams/al-shamal.png",
+            "logo_b": "https://images.keovip88.net/images/teams/qatar-sc.png",
+            "time": "21:30:00",
+            "date": "23/10",
+            "blv": "Hứa",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d724d46db8705c8b05_d8e0d298_20261023.png?v=d8e0d298",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f3fd3c4bf8",
+          "name": "Al Ittihad Jeddah vs Al-Draih | 22:30 23/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f3fd3c4bf8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f3fd3c4bf8",
+                  "name": "Al Ittihad Jeddah vs Al-Draih",
+                  "streams": [
+                    {
+                      "id": "st-f3fd3c4bf8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4c61b1a0a6",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792740440_hd/1792740440_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Ả Rập Xê Út",
+            "team_a": "Al Ittihad Jeddah",
+            "team_b": "Al-Draih",
+            "logo_a": "https://images.keovip88.net/images/teams/al-ittihad.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-draih.png",
+            "time": "22:30:00",
+            "date": "23/10",
+            "blv": "Tỵ ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d624d46db8705c89f3_799efe9b_20261023.png?v=799efe9b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-8c418027a2",
           "name": "Bình Định vs Lâm Đồng FC | 18:00 23/10",
           "type": "single",
@@ -444,150 +444,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d524d46db8705c87b3_0b4e15dc_20261023.png?v=0b4e15dc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-368ea0c44d",
-          "name": "Al-Shamal vs Qatar SC | 21:30 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-368ea0c44d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-368ea0c44d",
-                  "name": "Al-Shamal vs Qatar SC",
-                  "streams": [
-                    {
-                      "id": "st-368ea0c44d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-95283080df",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792740461_hd/1792740461_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Qatar",
-            "team_a": "Al-Shamal",
-            "team_b": "Qatar SC",
-            "logo_a": "https://images.keovip88.net/images/teams/al-shamal.png",
-            "logo_b": "https://images.keovip88.net/images/teams/qatar-sc.png",
-            "time": "21:30:00",
-            "date": "23/10",
-            "blv": "Hứa",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d724d46db8705c8b05_d8e0d298_20261023.png?v=d8e0d298",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-f3fd3c4bf8",
-          "name": "Al Ittihad Jeddah vs Al-Draih | 22:30 23/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f3fd3c4bf8",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f3fd3c4bf8",
-                  "name": "Al Ittihad Jeddah vs Al-Draih",
-                  "streams": [
-                    {
-                      "id": "st-f3fd3c4bf8",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4c61b1a0a6",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792740440_hd/1792740440_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Ả Rập Xê Út",
-            "team_a": "Al Ittihad Jeddah",
-            "team_b": "Al-Draih",
-            "logo_a": "https://images.keovip88.net/images/teams/al-ittihad.png",
-            "logo_b": "https://images.keovip88.net/images/teams/al-draih.png",
-            "time": "22:30:00",
-            "date": "23/10",
-            "blv": "Tỵ ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad017d624d46db8705c89f3_799efe9b_20261023.png?v=799efe9b",
             "width": 1600,
             "height": 1200
           }
@@ -2215,7 +2071,7 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật",
+      "name": "🥊 Võ Thuật (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2228,10 +2084,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2280,7 +2136,7 @@
             "time": "22:00:00",
             "date": "23/10",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "vothuat"
           },
           "image": {
