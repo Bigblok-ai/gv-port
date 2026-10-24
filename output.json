@@ -188,11 +188,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-51f92305fa",
+                          "id": "lnk-f54880d046",
                           "name": "Trĩ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1792798427_hd/1792798427_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792798427_hd/1792798427_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2198,6 +2198,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22563477_040bb0b1_20261024.png?v=040bb0b1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-02a77606b1",
+          "name": "Atlanta Dream vs Golden State Valkyries | 00:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-02a77606b1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-02a77606b1",
+                  "name": "Atlanta Dream vs Golden State Valkyries",
+                  "streams": [
+                    {
+                      "id": "st-02a77606b1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f5334d7303",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821888_hd/1792821888_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "Atlanta Dream",
+            "team_b": "Golden State Valkyries",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f527c983cab3560c60e7b9d147904d7d.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/911d51e9d324e887960542ac17a87e1b.png",
+            "time": "00:00:00",
+            "date": "25/10",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39335471_93859613_20261024.png?v=93859613",
             "width": 1600,
             "height": 1200
           }
