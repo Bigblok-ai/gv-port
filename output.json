@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -233,6 +233,78 @@
           }
         },
         {
+          "id": "gv-be68cd1149",
+          "name": "Kashima Antlers vs Kashiwa Reysol | 13:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-be68cd1149",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-be68cd1149",
+                  "name": "Kashima Antlers vs Kashiwa Reysol",
+                  "streams": [
+                    {
+                      "id": "st-be68cd1149",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-76a3cfd206",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792819412_hd/1792819412_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kashima Antlers",
+            "team_b": "Kashiwa Reysol",
+            "logo_a": "https://images.keovip88.net/images/teams/kashima-antlers.png",
+            "logo_b": "https://images.keovip88.net/images/teams/kashiwa-reysol.png",
+            "time": "13:00:00",
+            "date": "24/10",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acd1_6c8a65d0_20261024.png?v=6c8a65d0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-11f10ad8a2",
           "name": "Vissel Kobe vs FC Machida Zelvia | 13:00 24/10",
           "type": "single",
@@ -300,78 +372,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021ace0_d0738994_20261024.png?v=d0738994",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-be68cd1149",
-          "name": "Kashima Antlers vs Kashiwa Reysol | 13:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-be68cd1149",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-be68cd1149",
-                  "name": "Kashima Antlers vs Kashiwa Reysol",
-                  "streams": [
-                    {
-                      "id": "st-be68cd1149",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-76a3cfd206",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792819412_hd/1792819412_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Kashima Antlers",
-            "team_b": "Kashiwa Reysol",
-            "logo_a": "https://images.keovip88.net/images/teams/kashima-antlers.png",
-            "logo_b": "https://images.keovip88.net/images/teams/kashiwa-reysol.png",
-            "time": "13:00:00",
-            "date": "24/10",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acd1_6c8a65d0_20261024.png?v=6c8a65d0",
             "width": 1600,
             "height": 1200
           }
@@ -516,6 +516,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acc7_8834ff81_20261024.png?v=8834ff81",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-319642dad5",
+          "name": "Gamba Osaka vs Kyoto Sanga | 14:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-319642dad5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-319642dad5",
+                  "name": "Gamba Osaka vs Kyoto Sanga",
+                  "streams": [
+                    {
+                      "id": "st-319642dad5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9a4d3cb51e",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1792819531_hd/1792819531_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Gamba Osaka",
+            "team_b": "Kyoto Sanga",
+            "logo_a": "https://images.keovip88.net/images/teams/gamba-osaka.png",
+            "logo_b": "https://images.keovip88.net/images/teams/kyoto-sanga.png",
+            "time": "14:00:00",
+            "date": "24/10",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acef_0a3b6b91_20261024.png?v=0a3b6b91",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-18224c3570",
+          "name": "Chengdu Rongcheng vs Dalian Yingbo | 14:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-18224c3570",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-18224c3570",
+                  "name": "Chengdu Rongcheng vs Dalian Yingbo",
+                  "streams": [
+                    {
+                      "id": "st-18224c3570",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0dcc52db09",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792819581_hd/1792819581_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Trung Quốc",
+            "team_a": "Chengdu Rongcheng",
+            "team_b": "Dalian Yingbo",
+            "logo_a": "https://images.keovip88.net/images/teams/chengdu-rongcheng-fc.PNG",
+            "logo_b": "https://images.keovip88.net/images/teams/dalian-zhixing.png",
+            "time": "14:30:00",
+            "date": "24/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021ad2f_cad12b5a_20261024.png?v=cad12b5a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d3582b7f03",
+          "name": "Shenzhen Xinpengcheng vs Shanghai Shenhua | 14:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d3582b7f03",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d3582b7f03",
+                  "name": "Shenzhen Xinpengcheng vs Shanghai Shenhua",
+                  "streams": [
+                    {
+                      "id": "st-d3582b7f03",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f37836a749",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792819637_hd/1792819637_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Trung Quốc",
+            "team_a": "Shenzhen Xinpengcheng",
+            "team_b": "Shanghai Shenhua",
+            "logo_a": "https://images.keovip88.net/images/teams/shenzhen-xinpengcheng.png",
+            "logo_b": "https://images.keovip88.net/images/teams/shanghai-shenhua.png",
+            "time": "14:30:00",
+            "date": "24/10",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021ad43_dfca0ee2_20261024.png?v=dfca0ee2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-eed22e0956",
+          "name": "Wuhan Three Towns vs Shandong Taishan | 14:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-eed22e0956",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-eed22e0956",
+                  "name": "Wuhan Three Towns vs Shandong Taishan",
+                  "streams": [
+                    {
+                      "id": "st-eed22e0956",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-291c35fa25",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792819687_hd/1792819687_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Trung Quốc",
+            "team_a": "Wuhan Three Towns",
+            "team_b": "Shandong Taishan",
+            "logo_a": "https://images.keovip88.net/images/teams/wuhan-three-towns.png",
+            "logo_b": "https://images.keovip88.net/images/teams/shandong-taishan.png",
+            "time": "14:30:00",
+            "date": "24/10",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021ad37_b15607a2_20261024.png?v=b15607a2",
             "width": 1600,
             "height": 1200
           }
