@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-5f30501a6d",
-          "name": "Napoli vs AS Roma | 23:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5f30501a6d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5f30501a6d",
-                  "name": "Napoli vs AS Roma",
-                  "streams": [
-                    {
-                      "id": "st-5f30501a6d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-00ac182c7d",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821398_hd/1792821398_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Napoli",
-            "team_b": "AS Roma",
-            "logo_a": "https://images.keovip88.net/images/teams/napoli.png",
-            "logo_b": "https://images.keovip88.net/images/teams/as-roma.png",
-            "time": "23:00:00",
-            "date": "24/10",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1696c24d46db87021c1ef_c0f326b3_20261025.png?v=c0f326b3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-c59aee5a77",
           "name": "Valencia vs Villarreal | 23:30 24/10",
