@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a8b4fd1d49",
-          "name": "Rayo Vallecano vs Elche | 19:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a8b4fd1d49",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a8b4fd1d49",
-                  "name": "Rayo Vallecano vs Elche",
-                  "streams": [
-                    {
-                      "id": "st-a8b4fd1d49",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b7b01f60ee",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792572096_hd/1792572096_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Rayo Vallecano",
-            "team_b": "Elche",
-            "logo_a": "https://images.keovip88.net/images/teams/rayo-vallecano.png",
-            "logo_b": "https://images.keovip88.net/images/teams/elche.png",
-            "time": "19:00:00",
-            "date": "24/10",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695f24d46db87021b0f9_dde16a69_20261024.png?v=dde16a69",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2c71be15e2",
           "name": "Cagliari vs Bologna | 20:00 24/10",
