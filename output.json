@@ -1941,8 +1941,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-f96efea49b",
-          "name": "CS2-PGL Masters Buncharest 2026 vs CS2-PGL Masters Buncharest 2026 | 17:00 24/10",
+          "id": "gv-a5a02b158b",
+          "name": "G2 Esports vs NAVI | 23:00 24/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1952,78 +1952,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f96efea49b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f96efea49b",
-                  "name": "CS2-PGL Masters Buncharest 2026 vs CS2-PGL Masters Buncharest 2026",
-                  "streams": [
-                    {
-                      "id": "st-f96efea49b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c2b9454dab",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792806519_hd/1792806519_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-PGL Masters Buncharest 2026",
-            "team_a": "CS2-PGL Masters Buncharest 2026",
-            "team_b": "CS2-PGL Masters Buncharest 2026",
-            "logo_a": "https://liquipedia.net/commons/images/f/f4/PGL_Masters_Bucharest_2026_lightmode.png",
-            "logo_b": "https://liquipedia.net/commons/images/f/f4/PGL_Masters_Bucharest_2026_lightmode.png",
-            "time": "17:00:00",
-            "date": "24/10",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5dxai318spse_8506c7b1_20261024.png?v=8506c7b1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-a5a02b158b",
-          "name": "G2 Esports vs NAVI | 23:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -2072,7 +2000,7 @@
             "time": "23:00:00",
             "date": "24/10",
             "blv": "Mickey",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
