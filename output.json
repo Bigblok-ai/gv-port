@@ -1112,6 +1112,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-f716757702",
+          "name": "SHB Đà Nẵng vs Hà Nội | 18:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f716757702",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f716757702",
+                  "name": "SHB Đà Nẵng vs Hà Nội",
+                  "streams": [
+                    {
+                      "id": "st-f716757702",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8cd603ae7d",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792827293_hd/1792827293_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "SHB Đà Nẵng",
+            "team_b": "Hà Nội",
+            "logo_a": "https://images.keovip88.net/images/teams/da-nang.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hanoi-fc.png",
+            "time": "18:00:00",
+            "date": "25/10",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5124d46db870c48d0e_7f2c1fff_20261024.png?v=7f2c1fff",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
