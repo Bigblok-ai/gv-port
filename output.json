@@ -973,7 +973,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (7 LIVE)",
+      "name": "🏀 Bóng Rổ (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1118,150 +1118,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26810375_733217ad_20261024.png?v=733217ad",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-0bc26a3eaf",
-          "name": "Washington Wizards vs Toronto Raptors | 06:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0bc26a3eaf",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0bc26a3eaf",
-                  "name": "Washington Wizards vs Toronto Raptors",
-                  "streams": [
-                    {
-                      "id": "st-0bc26a3eaf",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9b172d6452",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577844_hd/1792577844_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Washington Wizards",
-            "team_b": "Toronto Raptors",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f4a3bba0c74c9f2b90bc5861ec26e3c7.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/3f61db02c20eb73e5f27948b3122f2fb.png",
-            "time": "06:00:00",
-            "date": "24/10",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22904476_7619c79b_20261024.png?v=7619c79b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-4e1b4a581b",
-          "name": "Orlando Magic vs Minnesota Timberwolves | 06:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4e1b4a581b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4e1b4a581b",
-                  "name": "Orlando Magic vs Minnesota Timberwolves",
-                  "streams": [
-                    {
-                      "id": "st-4e1b4a581b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-da44ccbd45",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577886_hd/1792577886_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Orlando Magic",
-            "team_b": "Minnesota Timberwolves",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2566b135b0e54971193a132bd8a1473c.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
-            "time": "06:00:00",
-            "date": "24/10",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21904475_2e3f179f_20261024.png?v=2e3f179f",
             "width": 1600,
             "height": 1200
           }
@@ -1490,10 +1346,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1542,7 +1398,7 @@
             "time": "09:00:00",
             "date": "24/10",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
