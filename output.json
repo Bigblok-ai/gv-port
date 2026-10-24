@@ -1229,6 +1229,366 @@
           }
         },
         {
+          "id": "gv-5667cb0369",
+          "name": "Chicago Bulls vs Washington Wizards | 07:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5667cb0369",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5667cb0369",
+                  "name": "Chicago Bulls vs Washington Wizards",
+                  "streams": [
+                    {
+                      "id": "st-5667cb0369",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ca0eb896e1",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792880727_hd/1792880727_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Chicago Bulls",
+            "team_b": "Washington Wizards",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c73eca8b9cc18ff386bf6ff4c1236b9e.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/f4a3bba0c74c9f2b90bc5861ec26e3c7.png",
+            "time": "07:00:00",
+            "date": "25/10",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25436479_2f23ecd7_20261025.png?v=2f23ecd7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8a83add6d4",
+          "name": "Dallas Mavericks vs San Antonio Spurs | 07:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8a83add6d4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8a83add6d4",
+                  "name": "Dallas Mavericks vs San Antonio Spurs",
+                  "streams": [
+                    {
+                      "id": "st-8a83add6d4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-175ccf9ab0",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792880778_hd/1792880778_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Dallas Mavericks",
+            "team_b": "San Antonio Spurs",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
+            "time": "07:00:00",
+            "date": "25/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/30688271_1f121050_20261025.png?v=1f121050",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4feef77cd5",
+          "name": "Atlanta Hawks vs Houston Rockets | 07:30 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4feef77cd5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4feef77cd5",
+                  "name": "Atlanta Hawks vs Houston Rockets",
+                  "streams": [
+                    {
+                      "id": "st-4feef77cd5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f20872ca30",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792880824_hd/1792880824_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Atlanta Hawks",
+            "team_b": "Houston Rockets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/57bd383cc8c9b3d4f92a5d1c371e38e9.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
+            "time": "07:30:00",
+            "date": "25/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24436478_9068b4d2_20261025.png?v=9068b4d2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9d697cde11",
+          "name": "Denver Nuggets vs New Orleans Pelicans | 08:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9d697cde11",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9d697cde11",
+                  "name": "Denver Nuggets vs New Orleans Pelicans",
+                  "streams": [
+                    {
+                      "id": "st-9d697cde11",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-535ce46d17",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792880892_hd/1792880892_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Denver Nuggets",
+            "team_b": "New Orleans Pelicans",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
+            "time": "08:00:00",
+            "date": "25/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31688272_66ae1aa7_20261025.png?v=66ae1aa7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b2d58a4be6",
+          "name": "Phoenix Suns vs Golden State Warriors | 09:00 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b2d58a4be6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b2d58a4be6",
+                  "name": "Phoenix Suns vs Golden State Warriors",
+                  "streams": [
+                    {
+                      "id": "st-b2d58a4be6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20e39bdd2e",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792880945_hd/1792880945_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Phoenix Suns",
+            "team_b": "Golden State Warriors",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/6a6855785a58edb23c76c99ed6601a33.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c7341a14964f12885ea2ae80b76cebe8.png",
+            "time": "09:00:00",
+            "date": "25/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32688273_9cdde5cd_20261025.png?v=9cdde5cd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-a67926043f",
           "name": "Utah Jazz vs Los Angeles Lakers | 04:00 26/10",
           "type": "single",
