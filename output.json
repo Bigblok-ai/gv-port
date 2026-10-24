@@ -1439,7 +1439,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1524,10 +1524,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1576,7 +1576,7 @@
             "time": "06:30:00",
             "date": "25/10",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -3059,83 +3059,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ac28fa2df1",
-          "name": "Alabama Crimson Tide vs Texas A&M Aggies | 02:30 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ac28fa2df1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ac28fa2df1",
-                  "name": "Alabama Crimson Tide vs Texas A&M Aggies",
-                  "streams": [
-                    {
-                      "id": "st-ac28fa2df1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e65de82bea",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792822664_hd/1792822664_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NCAA",
-            "team_a": "Alabama Crimson Tide",
-            "team_b": "Texas A&M Aggies",
-            "logo_a": "https://static.flashscore.com/res/image/data/hlTw5ghl-6JXWGttI.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/I5m7Tbf5-Q19ywE2e.png",
-            "time": "02:30:00",
-            "date": "25/10",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vphcszn6wc4h_a5206062_20261025.png?v=a5206062",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fed172d7a9",
           "name": "Baltimore Ravens vs Cincinnati Bengals | 00:00 26/10",
