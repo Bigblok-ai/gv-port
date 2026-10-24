@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -76,7 +76,7 @@
             "time": "11:00:00",
             "date": "24/10",
             "blv": "Trĩ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -233,78 +233,6 @@
           }
         },
         {
-          "id": "gv-0571538ca2",
-          "name": "Western Sydney Wanderers vs Auckland FC | 13:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0571538ca2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0571538ca2",
-                  "name": "Western Sydney Wanderers vs Auckland FC",
-                  "streams": [
-                    {
-                      "id": "st-0571538ca2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6a34861af1",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792798499_hd/1792798499_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Úc",
-            "team_a": "Western Sydney Wanderers",
-            "team_b": "Auckland FC",
-            "logo_a": "https://images.keovip88.net/images/teams/western-sydney.png",
-            "logo_b": "https://images.keovip88.net/images/teams/auckland-fc.png",
-            "time": "13:00:00",
-            "date": "24/10",
-            "blv": "Cận",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acc7_8834ff81_20261024.png?v=8834ff81",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-11f10ad8a2",
           "name": "Vissel Kobe vs FC Machida Zelvia | 13:00 24/10",
           "type": "single",
@@ -372,6 +300,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021ace0_d0738994_20261024.png?v=d0738994",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0571538ca2",
+          "name": "Western Sydney Wanderers vs Auckland FC | 13:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0571538ca2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0571538ca2",
+                  "name": "Western Sydney Wanderers vs Auckland FC",
+                  "streams": [
+                    {
+                      "id": "st-0571538ca2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a34861af1",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792798499_hd/1792798499_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Western Sydney Wanderers",
+            "team_b": "Auckland FC",
+            "logo_a": "https://images.keovip88.net/images/teams/western-sydney.png",
+            "logo_b": "https://images.keovip88.net/images/teams/auckland-fc.png",
+            "time": "13:00:00",
+            "date": "24/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acc7_8834ff81_20261024.png?v=8834ff81",
             "width": 1600,
             "height": 1200
           }
