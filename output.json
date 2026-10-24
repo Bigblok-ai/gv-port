@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -89,6 +89,239 @@
           }
         },
         {
+          "id": "gv-c59aee5a77",
+          "name": "Valencia vs Villarreal | 23:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c59aee5a77",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c59aee5a77",
+                  "name": "Valencia vs Villarreal",
+                  "streams": [
+                    {
+                      "id": "st-c59aee5a77",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8d8c1d482b",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821436_hd/1792821436_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Valencia",
+            "team_b": "Villarreal",
+            "logo_a": "https://images.keovip88.net/images/teams/valencia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/villarreal.png",
+            "time": "23:30:00",
+            "date": "24/10",
+            "blv": "Mason",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1696d24d46db87021c3c2_d8b484fa_20261024.png?v=d8b484fa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-35e55bf674",
+          "name": "Chelsea FC vs Tottenham Hotspur | 23:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-35e55bf674",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-35e55bf674",
+                  "name": "Chelsea FC vs Tottenham Hotspur",
+                  "streams": [
+                    {
+                      "id": "st-35e55bf674",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e41947bdc7",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821470_hd/1792821470_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e14e23d815",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821518_hd/1792821518_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Chelsea FC",
+            "team_b": "Tottenham Hotspur",
+            "logo_a": "https://images.keovip88.net/images/teams/chelsea.png",
+            "logo_b": "https://images.keovip88.net/images/teams/tottenham-hotspur.png",
+            "time": "23:30:00",
+            "date": "24/10",
+            "blv": "Chồn, Ben",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06f7_898a0e59_20261024.png?v=898a0e59",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b35a78d3da",
+          "name": "Borussia Dortmund vs Eintracht Frankfurt | 23:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b35a78d3da",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b35a78d3da",
+                  "name": "Borussia Dortmund vs Eintracht Frankfurt",
+                  "streams": [
+                    {
+                      "id": "st-b35a78d3da",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f4b392d496",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821535_hd/1792821535_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Borussia Dortmund",
+            "team_b": "Eintracht Frankfurt",
+            "logo_a": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
+            "logo_b": "https://images.keovip88.net/images/teams/eintracht-frankfurt.png",
+            "time": "23:30:00",
+            "date": "24/10",
+            "blv": "Bee",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0780_9d6593a7_20261024.png?v=9d6593a7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-8fbd858e5b",
           "name": "RB Leipzig vs SV Elversberg | 20:30 24/10",
           "type": "single",
@@ -156,239 +389,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1696324d46db87021b6ab_43e76333_20261024.png?v=43e76333",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b35a78d3da",
-          "name": "Borussia Dortmund vs Eintracht Frankfurt | 23:30 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b35a78d3da",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b35a78d3da",
-                  "name": "Borussia Dortmund vs Eintracht Frankfurt",
-                  "streams": [
-                    {
-                      "id": "st-b35a78d3da",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f4b392d496",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821535_hd/1792821535_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Borussia Dortmund",
-            "team_b": "Eintracht Frankfurt",
-            "logo_a": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
-            "logo_b": "https://images.keovip88.net/images/teams/eintracht-frankfurt.png",
-            "time": "23:30:00",
-            "date": "24/10",
-            "blv": "Bee",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0780_9d6593a7_20261024.png?v=9d6593a7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-c59aee5a77",
-          "name": "Valencia vs Villarreal | 23:30 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c59aee5a77",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c59aee5a77",
-                  "name": "Valencia vs Villarreal",
-                  "streams": [
-                    {
-                      "id": "st-c59aee5a77",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8d8c1d482b",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821436_hd/1792821436_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Valencia",
-            "team_b": "Villarreal",
-            "logo_a": "https://images.keovip88.net/images/teams/valencia.png",
-            "logo_b": "https://images.keovip88.net/images/teams/villarreal.png",
-            "time": "23:30:00",
-            "date": "24/10",
-            "blv": "Mason",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1696d24d46db87021c3c2_d8b484fa_20261024.png?v=d8b484fa",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-35e55bf674",
-          "name": "Chelsea FC vs Tottenham Hotspur | 23:30 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-35e55bf674",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-35e55bf674",
-                  "name": "Chelsea FC vs Tottenham Hotspur",
-                  "streams": [
-                    {
-                      "id": "st-35e55bf674",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e41947bdc7",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821470_hd/1792821470_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e14e23d815",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821518_hd/1792821518_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Chelsea FC",
-            "team_b": "Tottenham Hotspur",
-            "logo_a": "https://images.keovip88.net/images/teams/chelsea.png",
-            "logo_b": "https://images.keovip88.net/images/teams/tottenham-hotspur.png",
-            "time": "23:30:00",
-            "date": "24/10",
-            "blv": "Chồn, Ben",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06f7_898a0e59_20261024.png?v=898a0e59",
             "width": 1600,
             "height": 1200
           }
