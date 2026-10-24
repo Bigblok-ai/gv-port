@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (8 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -456,10 +456,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -508,7 +508,7 @@
             "time": "14:00:00",
             "date": "24/10",
             "blv": "Mù",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -516,6 +516,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acef_0a3b6b91_20261024.png?v=0a3b6b91",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d3582b7f03",
+          "name": "Shenzhen Xinpengcheng vs Shanghai Shenhua | 14:30 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d3582b7f03",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d3582b7f03",
+                  "name": "Shenzhen Xinpengcheng vs Shanghai Shenhua",
+                  "streams": [
+                    {
+                      "id": "st-d3582b7f03",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f37836a749",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792819637_hd/1792819637_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Trung Quốc",
+            "team_a": "Shenzhen Xinpengcheng",
+            "team_b": "Shanghai Shenhua",
+            "logo_a": "https://images.keovip88.net/images/teams/shenzhen-xinpengcheng.png",
+            "logo_b": "https://images.keovip88.net/images/teams/shanghai-shenhua.png",
+            "time": "14:30:00",
+            "date": "24/10",
+            "blv": "Hứa",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021ad43_dfca0ee2_20261024.png?v=dfca0ee2",
             "width": 1600,
             "height": 1200
           }
@@ -588,78 +660,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021ad2f_cad12b5a_20261024.png?v=cad12b5a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-d3582b7f03",
-          "name": "Shenzhen Xinpengcheng vs Shanghai Shenhua | 14:30 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d3582b7f03",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d3582b7f03",
-                  "name": "Shenzhen Xinpengcheng vs Shanghai Shenhua",
-                  "streams": [
-                    {
-                      "id": "st-d3582b7f03",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f37836a749",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792819637_hd/1792819637_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Trung Quốc",
-            "team_a": "Shenzhen Xinpengcheng",
-            "team_b": "Shanghai Shenhua",
-            "logo_a": "https://images.keovip88.net/images/teams/shenzhen-xinpengcheng.png",
-            "logo_b": "https://images.keovip88.net/images/teams/shanghai-shenhua.png",
-            "time": "14:30:00",
-            "date": "24/10",
-            "blv": "Hứa",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021ad43_dfca0ee2_20261024.png?v=dfca0ee2",
             "width": 1600,
             "height": 1200
           }
@@ -1164,6 +1164,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1696224d46db87021b49d_204a08da_20261024.png?v=204a08da",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2c71be15e2",
+          "name": "Cagliari vs Bologna | 20:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2c71be15e2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2c71be15e2",
+                  "name": "Cagliari vs Bologna",
+                  "streams": [
+                    {
+                      "id": "st-2c71be15e2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a45a429f34",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792824425_hd/1792824425_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Cagliari",
+            "team_b": "Bologna",
+            "logo_a": "https://images.keovip88.net/images/teams/cagliari.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bologna.png",
+            "time": "20:00:00",
+            "date": "24/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1696224d46db87021b497_edcef7e6_20261024.png?v=edcef7e6",
             "width": 1600,
             "height": 1200
           }
@@ -2918,87 +2990,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33928271_749777cb_20261024.png?v=749777cb",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-725165c9ff",
-          "name": "Okayama Seagulls Nữ vs Ageo Nữ | 12:05 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-725165c9ff",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-725165c9ff",
-                  "name": "Okayama Seagulls Nữ vs Ageo Nữ",
-                  "streams": [
-                    {
-                      "id": "st-725165c9ff",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c87ce69d73",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792814420_hd/1792814420_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Nhật Bản SV. League",
-            "team_a": "Okayama Seagulls Nữ",
-            "team_b": "Ageo Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/IDJLoIcM-Q9VBAmE7.png",
-            "time": "12:05:00",
-            "date": "24/10",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/85xkwhez134u_0ea868c4_20261024.png?v=0ea868c4",
             "width": 1600,
             "height": 1200
           }
