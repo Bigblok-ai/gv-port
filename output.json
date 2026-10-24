@@ -1273,6 +1273,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-0336e22e0c",
+          "name": "Real Sociedad vs Levante | 00:30 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0336e22e0c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0336e22e0c",
+                  "name": "Real Sociedad vs Levante",
+                  "streams": [
+                    {
+                      "id": "st-0336e22e0c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77946ebaed",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821718_hd/1792821718_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Real Sociedad",
+            "team_b": "Levante",
+            "logo_a": "https://images.keovip88.net/images/teams/real-sociedad.png",
+            "logo_b": "https://images.keovip88.net/images/teams/levante.png",
+            "time": "00:30:00",
+            "date": "26/10",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5c24d46db870c4999c_609fb4ee_20261025.png?v=609fb4ee",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
