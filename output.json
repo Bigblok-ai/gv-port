@@ -737,6 +737,78 @@
           }
         },
         {
+          "id": "gv-8b1053c1cd",
+          "name": "Como vs US Sassuolo Calcio | 20:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8b1053c1cd",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8b1053c1cd",
+                  "name": "Como vs US Sassuolo Calcio",
+                  "streams": [
+                    {
+                      "id": "st-8b1053c1cd",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7ac4c30065",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792806376_hd/1792806376_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Como",
+            "team_b": "US Sassuolo Calcio",
+            "logo_a": "https://images.keovip88.net/images/teams/como.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sassuolo.png",
+            "time": "20:00:00",
+            "date": "24/10",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1696224d46db87021b49d_204a08da_20261024.png?v=204a08da",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-8fbd858e5b",
           "name": "RB Leipzig vs SV Elversberg | 20:30 24/10",
           "type": "single",
@@ -923,23 +995,6 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
-                        },
-                        {
-                          "id": "lnk-4aa7b42f1f",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792572202_hd/1792572202_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
                         }
                       ]
                     }
@@ -956,7 +1011,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/everton.png",
             "time": "21:00:00",
             "date": "24/10",
-            "blv": "Fan Arsenal: Ngọng + Cận, Chồn",
+            "blv": "Fan Arsenal: Ngọng + Cận",
             "is_live": false,
             "cate_type": "football"
           },
@@ -968,160 +1023,88 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-41ec5d247d",
+          "name": "Racing Santander vs Espanyol | 21:15 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-41ec5d247d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-41ec5d247d",
+                  "name": "Racing Santander vs Espanyol",
+                  "streams": [
+                    {
+                      "id": "st-41ec5d247d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a1f64fa18a",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792806401_hd/1792806401_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Racing Santander",
+            "team_b": "Espanyol",
+            "logo_a": "https://images.keovip88.net/images/teams/racing-santander.png",
+            "logo_b": "https://images.keovip88.net/images/teams/rcd-espanyol.png",
+            "time": "21:15:00",
+            "date": "24/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1696824d46db87021bd4a_3df029e9_20261024.png?v=3df029e9",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (8 LIVE)",
+      "name": "🏀 Bóng Rổ (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ffb9b6b08c",
-          "name": "Boston Celtics vs New York Knicks | 06:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ffb9b6b08c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ffb9b6b08c",
-                  "name": "Boston Celtics vs New York Knicks",
-                  "streams": [
-                    {
-                      "id": "st-ffb9b6b08c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-be5e0213e1",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577774_hd/1792577774_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Boston Celtics",
-            "team_b": "New York Knicks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png",
-            "time": "06:00:00",
-            "date": "24/10",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32687272_6d4f3733_20261024.png?v=6d4f3733",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-c81376d80c",
-          "name": "Indiana Pacers vs Dallas Mavericks | 06:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c81376d80c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c81376d80c",
-                  "name": "Indiana Pacers vs Dallas Mavericks",
-                  "streams": [
-                    {
-                      "id": "st-c81376d80c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-23ef945370",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792577809_hd/1792577809_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Indiana Pacers",
-            "team_b": "Dallas Mavericks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
-            "time": "06:00:00",
-            "date": "24/10",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26810375_733217ad_20261024.png?v=733217ad",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b92e7b5a29",
           "name": "Miami Heat vs Detroit Pistons | 07:00 24/10",
