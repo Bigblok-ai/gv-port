@@ -973,83 +973,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-02a77606b1",
-          "name": "Atlanta Dream vs Golden State Valkyries | 00:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-02a77606b1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-02a77606b1",
-                  "name": "Atlanta Dream vs Golden State Valkyries",
-                  "streams": [
-                    {
-                      "id": "st-02a77606b1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-53cbb0e2d2",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792859476_hd/1792859476_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women’s National Basketball Association",
-            "team_a": "Atlanta Dream",
-            "team_b": "Golden State Valkyries",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f527c983cab3560c60e7b9d147904d7d.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/911d51e9d324e887960542ac17a87e1b.png",
-            "time": "00:00:00",
-            "date": "25/10",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39335471_93859613_20261025.png?v=93859613",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b836cee2dc",
           "name": "Charlotte Hornets vs Miami Heat | 05:00 25/10",
@@ -2080,83 +2008,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (2 LIVE)",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c8b06d8625",
-          "name": "Indiana Hoosiers vs Michigan Wolverines | 23:00 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c8b06d8625",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c8b06d8625",
-                  "name": "Indiana Hoosiers vs Michigan Wolverines",
-                  "streams": [
-                    {
-                      "id": "st-c8b06d8625",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-51b4bc6f24",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792822580_hd/1792822580_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NCAA",
-            "team_a": "Indiana Hoosiers",
-            "team_b": "Michigan Wolverines",
-            "logo_a": "https://static.flashscore.com/res/image/data/rsjnNEZA-88T8XgEn.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/OzMivUfM-nPZTIbUt.png",
-            "time": "23:00:00",
-            "date": "24/10",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/h6756kdswzm1_ea2b29f0_20261025.png?v=ea2b29f0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ac28fa2df1",
           "name": "Alabama Crimson Tide vs Texas A&M Aggies | 02:30 25/10",
