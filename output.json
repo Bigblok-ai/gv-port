@@ -305,6 +305,150 @@
           }
         },
         {
+          "id": "gv-be68cd1149",
+          "name": "Kashima Antlers vs Kashiwa Reysol | 13:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-be68cd1149",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-be68cd1149",
+                  "name": "Kashima Antlers vs Kashiwa Reysol",
+                  "streams": [
+                    {
+                      "id": "st-be68cd1149",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-76a3cfd206",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792819412_hd/1792819412_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kashima Antlers",
+            "team_b": "Kashiwa Reysol",
+            "logo_a": "https://images.keovip88.net/images/teams/kashima-antlers.png",
+            "logo_b": "https://images.keovip88.net/images/teams/kashiwa-reysol.png",
+            "time": "13:00:00",
+            "date": "24/10",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acd1_6c8a65d0_20261024.png?v=6c8a65d0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-374af7e9e2",
+          "name": "Tokyo Verdy vs Avispa Fukuoka | 13:00 24/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-374af7e9e2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-374af7e9e2",
+                  "name": "Tokyo Verdy vs Avispa Fukuoka",
+                  "streams": [
+                    {
+                      "id": "st-374af7e9e2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a34dbb68a",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792819478_hd/1792819478_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Tokyo Verdy",
+            "team_b": "Avispa Fukuoka",
+            "logo_a": "https://images.keovip88.net/images/teams/tokyo-verdy.png",
+            "logo_b": "https://images.keovip88.net/images/teams/avispa-fukuoka.png",
+            "time": "13:00:00",
+            "date": "24/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021acd8_32f50f68_20261024.png?v=32f50f68",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-0571538ca2",
           "name": "Western Sydney Wanderers vs Auckland FC | 13:00 24/10",
           "type": "single",
