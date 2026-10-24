@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-18224c3570",
-          "name": "Chengdu Rongcheng vs Dalian Yingbo | 14:30 24/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-18224c3570",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-18224c3570",
-                  "name": "Chengdu Rongcheng vs Dalian Yingbo",
-                  "streams": [
-                    {
-                      "id": "st-18224c3570",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0dcc52db09",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792819581_hd/1792819581_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Trung Quốc",
-            "team_a": "Chengdu Rongcheng",
-            "team_b": "Dalian Yingbo",
-            "logo_a": "https://images.keovip88.net/images/teams/chengdu-rongcheng-fc.PNG",
-            "logo_b": "https://images.keovip88.net/images/teams/dalian-zhixing.png",
-            "time": "14:30:00",
-            "date": "24/10",
-            "blv": "Tỵ ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695c24d46db87021ad2f_cad12b5a_20261024.png?v=cad12b5a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-d3582b7f03",
           "name": "Shenzhen Xinpengcheng vs Shanghai Shenhua | 14:30 24/10",
           "type": "single",
@@ -234,16 +162,16 @@
         },
         {
           "id": "gv-1317685b57",
-          "name": "Bình Phước vs Thép Xanh Nam Định | 18:00 24/10",
+          "name": "Đồng Nai vs Thép Xanh Nam Định | 18:00 24/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -253,7 +181,7 @@
               "contents": [
                 {
                   "id": "ct-1317685b57",
-                  "name": "Bình Phước vs Thép Xanh Nam Định",
+                  "name": "Đồng Nai vs Thép Xanh Nam Định",
                   "streams": [
                     {
                       "id": "st-1317685b57",
@@ -285,21 +213,21 @@
           ],
           "org_metadata": {
             "league": "V-League",
-            "team_a": "Bình Phước",
+            "team_a": "Đồng Nai",
             "team_b": "Thép Xanh Nam Định",
             "logo_a": "https://images.keovip88.net/images/teams/truong-tuoi-dong-nai.png",
-            "logo_b": "https://images.keovip88.net/images/teams/nam-dinh-fc.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/6oSz1BdM-4YgEdVnq.png",
             "time": "18:00:00",
             "date": "24/10",
             "blv": "Tỵ ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695e24d46db87021afed_4ed104c9_20261024.png?v=4ed104c9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad1695e24d46db87021afed_5c3562bc_20261024.png?v=5c3562bc",
             "width": 1600,
             "height": 1200
           }
