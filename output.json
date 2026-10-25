@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "gv-3de73dd806",
-          "name": "Dingnan Ganlian vs Yanbian Longding | 18:30 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3de73dd806",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3de73dd806",
-                  "name": "Dingnan Ganlian vs Yanbian Longding",
-                  "streams": [
-                    {
-                      "id": "st-3de73dd806",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-47d8cd272b",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792572340_hd/1792572340_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng Nhất Trung Quốc",
-            "team_a": "Dingnan Ganlian",
-            "team_b": "Yanbian Longding",
-            "logo_a": "https://images.keovip88.net/images/teams/dingnan-ganlian.png",
-            "logo_b": "https://images.keovip88.net/images/teams/yanbian-longding.png",
-            "time": "18:30:00",
-            "date": "25/10",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5224d46db870c48dd3_3b6c3e0e_20261025.png?v=3b6c3e0e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-bad115cba2",
           "name": "Inter Milan vs Fiorentina | 18:30 25/10",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "18:30:00",
             "date": "25/10",
             "blv": "Súp",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -228,6 +156,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5224d46db870c48dc8_2ff8475b_20261025.png?v=2ff8475b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3de73dd806",
+          "name": "Dingnan Ganlian vs Yanbian Longding | 18:30 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3de73dd806",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3de73dd806",
+                  "name": "Dingnan Ganlian vs Yanbian Longding",
+                  "streams": [
+                    {
+                      "id": "st-3de73dd806",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-47d8cd272b",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792572340_hd/1792572340_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Trung Quốc",
+            "team_a": "Dingnan Ganlian",
+            "team_b": "Yanbian Longding",
+            "logo_a": "https://images.keovip88.net/images/teams/dingnan-ganlian.png",
+            "logo_b": "https://images.keovip88.net/images/teams/yanbian-longding.png",
+            "time": "18:30:00",
+            "date": "25/10",
+            "blv": "Trĩ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5224d46db870c48dd3_3b6c3e0e_20261025.png?v=3b6c3e0e",
             "width": 1600,
             "height": 1200
           }
@@ -1151,7 +1151,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1164,10 +1164,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1216,7 +1216,7 @@
             "time": "18:35:00",
             "date": "25/10",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1236,10 +1236,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1288,7 +1288,7 @@
             "time": "18:35:00",
             "date": "25/10",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
