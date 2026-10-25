@@ -593,6 +593,78 @@
           }
         },
         {
+          "id": "gv-cc7aec781b",
+          "name": "Udinese vs AC Milan | 02:45 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cc7aec781b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cc7aec781b",
+                  "name": "Udinese vs AC Milan",
+                  "streams": [
+                    {
+                      "id": "st-cc7aec781b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-89c1886498",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792946274_hd/1792946274_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Udinese",
+            "team_b": "AC Milan",
+            "logo_a": "https://images.keovip88.net/images/teams/udinese.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ac-milan.png",
+            "time": "02:45:00",
+            "date": "26/10",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5c24d46db870c49a81_d94f1a2c_20261025.png?v=d94f1a2c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-97b291b091",
           "name": "Barcelona vs Real Madrid | 03:00 26/10",
           "type": "single",
@@ -620,11 +692,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-2cdd445e4b",
-                          "name": "Đầu cầu Bà Xã: Súp",
+                          "id": "lnk-a592f9407b",
+                          "name": "Đầu cầu Real: Mason + Hấu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792937299_hd/1792937299_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792937303_hd/1792937303_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -637,11 +709,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-a592f9407b",
-                          "name": "Đầu cầu Real: Mason + Hấu",
+                          "id": "lnk-2cdd445e4b",
+                          "name": "Đầu cầu Bà Xã: Súp",
                           "type": "hls",
                           "default": false,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792937303_hd/1792937303_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792937299_hd/1792937299_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -685,7 +757,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/real-madrid.png",
             "time": "03:00:00",
             "date": "26/10",
-            "blv": "Đầu cầu Bà Xã: Súp, Đầu cầu Real: Mason + Hấu, Trung lập Chồn",
+            "blv": "Đầu cầu Real: Mason + Hấu, Đầu cầu Bà Xã: Súp, Trung lập Chồn",
             "is_live": false,
             "cate_type": "football"
           },
@@ -2178,83 +2250,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (2 LIVE)",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-db78ce38ad",
-          "name": "Pittsburgh Steelers vs New Orleans Saints | 20:30 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-db78ce38ad",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-db78ce38ad",
-                  "name": "Pittsburgh Steelers vs New Orleans Saints",
-                  "streams": [
-                    {
-                      "id": "st-db78ce38ad",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-de0d6f15cb",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792913176_hd/1792913176_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "Pittsburgh Steelers",
-            "team_b": "New Orleans Saints",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMoXZEvZC3FfXKAIIiyiMFPypJlCSK-aEiwI7zNs235w&s",
-            "logo_b": "https://static.flashscore.com/res/image/data/MDbgCuCr-h0cvUNB6.png",
-            "time": "20:30:00",
-            "date": "25/10",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rteppbfbpmzr_07b3b8eb_20261025.png?v=07b3b8eb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fed172d7a9",
           "name": "Baltimore Ravens vs Cincinnati Bengals | 23:50 25/10",
