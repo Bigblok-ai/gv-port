@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b98200fefc",
-          "name": "Stade Rennais FC vs Strasbourg | 23:15 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b98200fefc",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b98200fefc",
-                  "name": "Stade Rennais FC vs Strasbourg",
-                  "streams": [
-                    {
-                      "id": "st-b98200fefc",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b3bd1a7482",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821633_hd/1792821633_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ligue 1",
-            "team_a": "Stade Rennais FC",
-            "team_b": "Strasbourg",
-            "logo_a": "https://images.keovip88.net/images/teams/rennes.png",
-            "logo_b": "https://images.keovip88.net/images/teams/strasbourg.png",
-            "time": "23:15:00",
-            "date": "25/10",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07c3_50af5f64_20261026.png?v=50af5f64",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-da97893acb",
           "name": "Sunderland vs Leeds United | 23:30 25/10",
@@ -982,6 +910,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bg0brdod9efq_e243b219_20261026.png?v=e243b219",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5fb9be3d2c",
+          "name": "Al-Nassr FC vs Al Wasl FC | 01:15 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5fb9be3d2c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5fb9be3d2c",
+                  "name": "Al-Nassr FC vs Al Wasl FC",
+                  "streams": [
+                    {
+                      "id": "st-5fb9be3d2c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e569604bd2",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792913095_hd/1792913095_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League",
+            "team_a": "Al-Nassr FC",
+            "team_b": "Al Wasl FC",
+            "logo_a": "https://images.keovip88.net/images/teams/al-nassr.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-wasl.png",
+            "time": "01:15:00",
+            "date": "27/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a88e7865d02aeccba00527d_114e3d7f_20261026.png?v=114e3d7f",
             "width": 1600,
             "height": 1200
           }
