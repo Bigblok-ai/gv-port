@@ -452,83 +452,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (6 LIVE)",
+      "name": "🏀 Bóng Rổ (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a67926043f",
-          "name": "Utah Jazz vs Los Angeles Lakers | 04:00 26/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a67926043f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a67926043f",
-                  "name": "Utah Jazz vs Los Angeles Lakers",
-                  "streams": [
-                    {
-                      "id": "st-a67926043f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dff104fa47",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792943858_hd/1792943858_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Utah Jazz",
-            "team_b": "Los Angeles Lakers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
-            "time": "04:00:00",
-            "date": "26/10",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33688274_7ed9c348_20261026.png?v=7ed9c348",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-0fa05fde73",
           "name": "Brooklyn Nets vs Indiana Pacers | 05:00 26/10",
