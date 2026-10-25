@@ -2384,11 +2384,83 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật",
+      "name": "🥊 Võ Thuật (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-bdb1bc8dbf",
+          "name": "Chiếu lại vs UFC33 | 15:58 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bdb1bc8dbf",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bdb1bc8dbf",
+                  "name": "Chiếu lại vs UFC33",
+                  "streams": [
+                    {
+                      "id": "st-bdb1bc8dbf",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ac76cdedd3",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792917530_hd/1792917530_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UFC",
+            "team_a": "Chiếu lại",
+            "team_b": "UFC33",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCFwiRWjTW9-MLdjRREytn6oSFmdGJZpHzKt4P-aIAA&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo_O-78aQRlTM4OdZ-5l2U-gkWTlyKtCjExJvE7jj6pw&s",
+            "time": "15:58:00",
+            "date": "25/10",
+            "blv": "Dory",
+            "is_live": true,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/spjv2eh6hb8z_24565cfe_20261025.png?v=24565cfe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-dfa1bc2e09",
           "name": "ONE Friday Fights 176 vs The Inner Circle 36 | 18:30 30/10",
