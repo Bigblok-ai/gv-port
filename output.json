@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -161,6 +161,150 @@
           }
         },
         {
+          "id": "gv-da97893acb",
+          "name": "Sunderland vs Leeds United | 23:30 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-da97893acb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-da97893acb",
+                  "name": "Sunderland vs Leeds United",
+                  "streams": [
+                    {
+                      "id": "st-da97893acb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-507e6b5e5b",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821665_hd/1792821665_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Sunderland",
+            "team_b": "Leeds United",
+            "logo_a": "https://images.keovip88.net/images/teams/sunderland-afc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/leeds-united.png",
+            "time": "23:30:00",
+            "date": "25/10",
+            "blv": "Chồn",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06fc_7f61ca04_20261025.png?v=7f61ca04",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6427a5023b",
+          "name": "SC Freiburg vs Bayern Munich | 23:30 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6427a5023b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6427a5023b",
+                  "name": "SC Freiburg vs Bayern Munich",
+                  "streams": [
+                    {
+                      "id": "st-6427a5023b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8860d67f74",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821696_hd/1792821696_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "SC Freiburg",
+            "team_b": "Bayern Munich",
+            "logo_a": "https://images.keovip88.net/images/teams/sc-freiburg.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen.png",
+            "time": "23:30:00",
+            "date": "25/10",
+            "blv": "Hứa",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0782_5a083922_20261025.png?v=5a083922",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-fe72c69868",
           "name": "AS Monaco vs Lille OSC | 21:00 25/10",
           "type": "single",
@@ -228,150 +372,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07c2_d143be2d_20261025.png?v=d143be2d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-da97893acb",
-          "name": "Sunderland vs Leeds United | 23:30 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-da97893acb",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-da97893acb",
-                  "name": "Sunderland vs Leeds United",
-                  "streams": [
-                    {
-                      "id": "st-da97893acb",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-507e6b5e5b",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821665_hd/1792821665_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Sunderland",
-            "team_b": "Leeds United",
-            "logo_a": "https://images.keovip88.net/images/teams/sunderland-afc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/leeds-united.png",
-            "time": "23:30:00",
-            "date": "25/10",
-            "blv": "Chồn",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06fc_7f61ca04_20261025.png?v=7f61ca04",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-6427a5023b",
-          "name": "SC Freiburg vs Bayern Munich | 23:30 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6427a5023b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6427a5023b",
-                  "name": "SC Freiburg vs Bayern Munich",
-                  "streams": [
-                    {
-                      "id": "st-6427a5023b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8860d67f74",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821696_hd/1792821696_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "SC Freiburg",
-            "team_b": "Bayern Munich",
-            "logo_a": "https://images.keovip88.net/images/teams/sc-freiburg.png",
-            "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen.png",
-            "time": "23:30:00",
-            "date": "25/10",
-            "blv": "Hứa",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0782_5a083922_20261025.png?v=5a083922",
             "width": 1600,
             "height": 1200
           }
