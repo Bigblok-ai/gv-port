@@ -1439,83 +1439,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9d697cde11",
-          "name": "Denver Nuggets vs New Orleans Pelicans | 08:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9d697cde11",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9d697cde11",
-                  "name": "Denver Nuggets vs New Orleans Pelicans",
-                  "streams": [
-                    {
-                      "id": "st-9d697cde11",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-535ce46d17",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792880892_hd/1792880892_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Denver Nuggets",
-            "team_b": "New Orleans Pelicans",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
-            "time": "08:00:00",
-            "date": "25/10",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31688272_66ae1aa7_20261025.png?v=66ae1aa7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b2d58a4be6",
           "name": "Phoenix Suns vs Golden State Warriors | 09:00 25/10",
