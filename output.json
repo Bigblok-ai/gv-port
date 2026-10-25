@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -245,78 +245,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06f8_34afc507_20261025.png?v=34afc507",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-510fbea6cb",
-          "name": "Hull City vs Brentford | 21:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-510fbea6cb",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-510fbea6cb",
-                  "name": "Hull City vs Brentford",
-                  "streams": [
-                    {
-                      "id": "st-510fbea6cb",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8d4343bb44",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792572593_hd/1792572593_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Hull City",
-            "team_b": "Brentford",
-            "logo_a": "https://images.keovip88.net/images/teams/hull-city.png",
-            "logo_b": "https://images.keovip88.net/images/teams/brentford.png",
-            "time": "21:00:00",
-            "date": "25/10",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06f9_7c35b6d2_20261025.png?v=7c35b6d2",
             "width": 1600,
             "height": 1200
           }
@@ -682,6 +610,78 @@
           }
         },
         {
+          "id": "gv-62e63a0f4e",
+          "name": "Lecce vs Juventus | 00:00 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-62e63a0f4e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-62e63a0f4e",
+                  "name": "Lecce vs Juventus",
+                  "streams": [
+                    {
+                      "id": "st-62e63a0f4e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7f39708096",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1792943479_hd/1792943479_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Lecce",
+            "team_b": "Juventus",
+            "logo_a": "https://images.keovip88.net/images/teams/lecce.png",
+            "logo_b": "https://images.keovip88.net/images/teams/juventus.png",
+            "time": "00:00:00",
+            "date": "26/10",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5a24d46db870c496d1_1df6f09f_20261025.png?v=1df6f09f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-0336e22e0c",
           "name": "Real Sociedad vs Levante | 00:30 26/10",
           "type": "single",
@@ -749,6 +749,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5c24d46db870c4999c_609fb4ee_20261025.png?v=609fb4ee",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b4a1d78b95",
+          "name": "Paris Saint Germain vs Lyonnais | 02:30 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b4a1d78b95",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b4a1d78b95",
+                  "name": "Paris Saint Germain vs Lyonnais",
+                  "streams": [
+                    {
+                      "id": "st-b4a1d78b95",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ffdf03bba9",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1792943543_hd/1792943543_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Paris Saint Germain",
+            "team_b": "Lyonnais",
+            "logo_a": "https://images.keovip88.net/images/teams/paris-saint-germain-psg.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lyon.png",
+            "time": "02:30:00",
+            "date": "26/10",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5c24d46db870c49a8a1_69058c68_20261025.png?v=69058c68",
             "width": 1600,
             "height": 1200
           }
@@ -858,6 +930,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-3f1a89796e",
+          "name": "Al Ahli Jeddah vs Al-Gharafa | 23:00 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3f1a89796e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3f1a89796e",
+                  "name": "Al Ahli Jeddah vs Al-Gharafa",
+                  "streams": [
+                    {
+                      "id": "st-3f1a89796e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d1f4e20bd0",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792912890_hd/1792912890_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League",
+            "team_a": "Al Ahli Jeddah",
+            "team_b": "Al-Gharafa",
+            "logo_a": "https://images.keovip88.net/images/teams/al-ahli-sfc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-garrafa.png",
+            "time": "23:00:00",
+            "date": "26/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a6f4d3de1ad3e0d953c_0754a440_20261025.png?v=0754a440",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bf080520e4",
+          "name": "Al Ain vs Teraktor-Sazi | 23:00 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bf080520e4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bf080520e4",
+                  "name": "Al Ain vs Teraktor-Sazi",
+                  "streams": [
+                    {
+                      "id": "st-bf080520e4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-db20fe860a",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792912968_hd/1792912968_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League",
+            "team_a": "Al Ain",
+            "team_b": "Teraktor-Sazi",
+            "logo_a": "https://images.keovip88.net/images/teams/al-ain.png",
+            "logo_b": "https://images.keovip88.net/images/teams/tractor-sc.png",
+            "time": "23:00:00",
+            "date": "26/10",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a88e7865d02aeccba00527c_468ef229_20261025.png?v=468ef229",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -896,11 +1112,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-c7faf5337f",
-                          "name": "Tôm",
+                          "id": "lnk-dff104fa47",
+                          "name": "Cận",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792822001_hd/1792822001_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792943858_hd/1792943858_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -927,7 +1143,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
             "time": "04:00:00",
             "date": "26/10",
-            "blv": "Tôm",
+            "blv": "Cận",
             "is_live": false,
             "cate_type": "basketball"
           },
