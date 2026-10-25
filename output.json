@@ -1007,83 +1007,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b5941ad05e",
-          "name": "Liaoning Flying Leopards vs Xinjiang Flying Tigers | 18:35 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b5941ad05e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b5941ad05e",
-                  "name": "Liaoning Flying Leopards vs Xinjiang Flying Tigers",
-                  "streams": [
-                    {
-                      "id": "st-b5941ad05e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ece3e5c5d0",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792912786_hd/1792912786_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Liaoning Flying Leopards",
-            "team_b": "Xinjiang Flying Tigers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e5b2db0dc53319933071f194e099180f.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/f68788874e0a17dd655083cb42b1d00b.png",
-            "time": "18:35:00",
-            "date": "25/10",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20663476_f09033e4_20261025.png?v=f09033e4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-95bdc9ad5f",
           "name": "SiChuan Jingqiang Blue Whales vs Zhejiang Golden Bulls | 18:35 25/10",
