@@ -1439,83 +1439,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4feef77cd5",
-          "name": "Atlanta Hawks vs Houston Rockets | 07:30 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4feef77cd5",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4feef77cd5",
-                  "name": "Atlanta Hawks vs Houston Rockets",
-                  "streams": [
-                    {
-                      "id": "st-4feef77cd5",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f20872ca30",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792880824_hd/1792880824_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Atlanta Hawks",
-            "team_b": "Houston Rockets",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/57bd383cc8c9b3d4f92a5d1c371e38e9.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
-            "time": "07:30:00",
-            "date": "25/10",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24436478_9068b4d2_20261025.png?v=9068b4d2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-9d697cde11",
           "name": "Denver Nuggets vs New Orleans Pelicans | 08:00 25/10",
