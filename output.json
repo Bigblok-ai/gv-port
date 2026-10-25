@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "12:00:00",
             "date": "25/10",
             "blv": "Mason",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -2169,87 +2169,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bg2q68hn5yia_72c38974_20261025.png?v=72c38974",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-7e87c9deaa",
-          "name": "Tampa Bay Rays vs Milwaukee Brewers | 07:00 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7e87c9deaa",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7e87c9deaa",
-                  "name": "Tampa Bay Rays vs Milwaukee Brewers",
-                  "streams": [
-                    {
-                      "id": "st-7e87c9deaa",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2902c77e86",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792881308_hd/1792881308_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "MLB - World Series",
-            "team_a": "Tampa Bay Rays",
-            "team_b": "Milwaukee Brewers",
-            "logo_a": "https://static.flashscore.com/res/image/data/lGlxbdyB-6yNDMrbJ.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",
-            "time": "07:00:00",
-            "date": "25/10",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "bongchay"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9d6cvy7pbedu_9c3c2977_20261025.png?v=9c3c2977",
             "width": 1600,
             "height": 1200
           }
