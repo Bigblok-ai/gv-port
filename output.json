@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -305,6 +305,78 @@
           }
         },
         {
+          "id": "gv-62e63a0f4e",
+          "name": "Lecce vs Juventus | 23:59 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-62e63a0f4e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-62e63a0f4e",
+                  "name": "Lecce vs Juventus",
+                  "streams": [
+                    {
+                      "id": "st-62e63a0f4e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7a17d7fc00",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792943479_hd/1792943479_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Lecce",
+            "team_b": "Juventus",
+            "logo_a": "https://images.keovip88.net/images/teams/lecce.png",
+            "logo_b": "https://images.keovip88.net/images/teams/juventus.png",
+            "time": "23:59:00",
+            "date": "25/10",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5a24d46db870c496d1_1df6f09f_20261025.png?v=1df6f09f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-fe72c69868",
           "name": "AS Monaco vs Lille OSC | 21:00 25/10",
           "type": "single",
@@ -372,78 +444,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5f5e5e6975d550f07c2_d143be2d_20261025.png?v=d143be2d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-62e63a0f4e",
-          "name": "Lecce vs Juventus | 23:59 25/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-62e63a0f4e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-62e63a0f4e",
-                  "name": "Lecce vs Juventus",
-                  "streams": [
-                    {
-                      "id": "st-62e63a0f4e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7a17d7fc00",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792943479_hd/1792943479_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Lecce",
-            "team_b": "Juventus",
-            "logo_a": "https://images.keovip88.net/images/teams/lecce.png",
-            "logo_b": "https://images.keovip88.net/images/teams/juventus.png",
-            "time": "23:59:00",
-            "date": "25/10",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5a24d46db870c496d1_1df6f09f_20261025.png?v=1df6f09f",
             "width": 1600,
             "height": 1200
           }
@@ -1863,11 +1863,83 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-0fac5e3a3b",
+          "name": "Swiss Stage Round 3 vs Swiss Stage Round 3 | 23:59 25/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0fac5e3a3b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0fac5e3a3b",
+                  "name": "Swiss Stage Round 3 vs Swiss Stage Round 3",
+                  "streams": [
+                    {
+                      "id": "st-0fac5e3a3b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d3b4d458c5",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792944551_hd/1792944551_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Worlds 2026",
+            "team_a": "Swiss Stage Round 3",
+            "team_b": "Swiss Stage Round 3",
+            "logo_a": "https://store-images.s-microsoft.com/image/apps.18996.14127010465288187.f9de4a96-0ee4-4da3-bf66-d4132b38c599.caf661a7-e0b3-492d-b91b-63627e47283e",
+            "logo_b": "https://store-images.s-microsoft.com/image/apps.18996.14127010465288187.f9de4a96-0ee4-4da3-bf66-d4132b38c599.caf661a7-e0b3-492d-b91b-63627e47283e",
+            "time": "23:59:00",
+            "date": "25/10",
+            "blv": "Cận",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5dcqp34r6a7y_6732c057_20261025.png?v=6732c057",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-0a4f051f54",
           "name": "DK vs MKOI | 02:00 26/10",
@@ -2106,7 +2178,7 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2191,10 +2263,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2243,7 +2315,7 @@
             "time": "23:50:00",
             "date": "25/10",
             "blv": "Riko",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "rugby"
           },
           "image": {
