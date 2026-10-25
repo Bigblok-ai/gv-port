@@ -1428,6 +1428,78 @@
           }
         },
         {
+          "id": "gv-1f95f38d85",
+          "name": "Sacramento Kings vs Memphis Grizzlies | 08:00 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1f95f38d85",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1f95f38d85",
+                  "name": "Sacramento Kings vs Memphis Grizzlies",
+                  "streams": [
+                    {
+                      "id": "st-1f95f38d85",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9558d9233f",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792946992_hd/1792946992_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Sacramento Kings",
+            "team_b": "Memphis Grizzlies",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
+            "time": "08:00:00",
+            "date": "26/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36688277_61627975_20261025.png?v=61627975",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-f281f7baa6",
           "name": "Cleveland Cavaliers vs Minnesota Timberwolves | 06:00 27/10",
           "type": "single",
@@ -1711,6 +1783,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39436473_cc980a19_20261025.png?v=cc980a19",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-daa704d71b",
+          "name": "Oklahoma City Thunder vs Phoenix Suns | 07:00 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-daa704d71b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-daa704d71b",
+                  "name": "Oklahoma City Thunder vs Phoenix Suns",
+                  "streams": [
+                    {
+                      "id": "st-daa704d71b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0bbfb34999",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792947019_hd/1792947019_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Oklahoma City Thunder",
+            "team_b": "Phoenix Suns",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6a6855785a58edb23c76c99ed6601a33.png",
+            "time": "07:00:00",
+            "date": "27/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37688278_76637e67_20261025.png?v=76637e67",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6a03046a9f",
+          "name": "Milwaukee Bucks vs Indiana Pacers | 07:00 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a03046a9f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6a03046a9f",
+                  "name": "Milwaukee Bucks vs Indiana Pacers",
+                  "streams": [
+                    {
+                      "id": "st-6a03046a9f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-eed6d7c7c8",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792947053_hd/1792947053_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Milwaukee Bucks",
+            "team_b": "Indiana Pacers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e82de69ea44942a3e90a5be6cf0004da.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
+            "time": "07:00:00",
+            "date": "27/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20536475_d0b6347d_20261025.png?v=d0b6347d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bdc0a50de5",
+          "name": "Utah Jazz vs Memphis Grizzlies | 08:00 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bdc0a50de5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bdc0a50de5",
+                  "name": "Utah Jazz vs Memphis Grizzlies",
+                  "streams": [
+                    {
+                      "id": "st-bdc0a50de5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67f9a5f75e",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792947076_hd/1792947076_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Utah Jazz",
+            "team_b": "Memphis Grizzlies",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
+            "time": "08:00:00",
+            "date": "27/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49688270_31b71029_20261025.png?v=31b71029",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-07eb64661a",
+          "name": "Denver Nuggets vs Golden State Warriors | 09:00 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-07eb64661a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-07eb64661a",
+                  "name": "Denver Nuggets vs Golden State Warriors",
+                  "streams": [
+                    {
+                      "id": "st-07eb64661a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6777574879",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792947106_hd/1792947106_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Denver Nuggets",
+            "team_b": "Golden State Warriors",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c7341a14964f12885ea2ae80b76cebe8.png",
+            "time": "09:00:00",
+            "date": "27/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/30788272_8f9dc629_20261025.png?v=8f9dc629",
             "width": 1600,
             "height": 1200
           }
@@ -2240,6 +2600,87 @@
       ]
     },
     {
+      "id": "cate_bongchay",
+      "name": "⚾ Bóng Chày",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-9ac31f3745",
+          "name": "Tampa Bay Rays vs Milwaukee Brewers | 07:00 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9ac31f3745",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9ac31f3745",
+                  "name": "Tampa Bay Rays vs Milwaukee Brewers",
+                  "streams": [
+                    {
+                      "id": "st-9ac31f3745",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7f8b2f2f4e",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792947174_hd/1792947174_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - World Series",
+            "team_a": "Tampa Bay Rays",
+            "team_b": "Milwaukee Brewers",
+            "logo_a": "https://static.flashscore.com/res/image/data/lGlxbdyB-6yNDMrbJ.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",
+            "time": "07:00:00",
+            "date": "27/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zjl7gptdt7dp_9c3c2977_20261025.png?v=9c3c2977",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_duaxe",
       "name": "🏎️ Đua Xe",
       "display": "vertical",
@@ -2400,7 +2841,7 @@
           }
         },
         {
-          "id": "gv-bee04f969f",
+          "id": "gv-b6e2e97688",
           "name": "Las Vegas Raiders vs Los Angeles Rams | 03:25 26/10",
           "type": "single",
           "display": "thumbnail-only",
@@ -2415,23 +2856,23 @@
           ],
           "sources": [
             {
-              "id": "src-bee04f969f",
+              "id": "src-b6e2e97688",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-bee04f969f",
+                  "id": "ct-b6e2e97688",
                   "name": "Las Vegas Raiders vs Los Angeles Rams",
                   "streams": [
                     {
-                      "id": "st-bee04f969f",
+                      "id": "st-b6e2e97688",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-ba98e0eac5",
+                          "id": "lnk-af00f0b92d",
                           "name": "Riko",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792822801_hd/1792822801_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792947112_hd/1792947112_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2466,7 +2907,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/oeee0l5i95nm_51c10c43_20261025.png?v=51c10c43",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/khv95t6mkfy5_51c10c43_20261025.png?v=51c10c43",
             "width": 1600,
             "height": 1200
           }
