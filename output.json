@@ -913,6 +913,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-b8efc14876",
+          "name": "Al Ula vs Al Orubah | 23:45 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b8efc14876",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b8efc14876",
+                  "name": "Al Ula vs Al Orubah",
+                  "streams": [
+                    {
+                      "id": "st-b8efc14876",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f45b090ad5",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792912993_hd/1792912993_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Saudi Arabia - Division 1",
+            "team_a": "Al Ula",
+            "team_b": "Al Orubah",
+            "logo_a": "https://static.flashscore.com/res/image/data/zVXQXTXg-O0yydsS1.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/hGWqA7yB-d8jfLLJ3.png",
+            "time": "23:45:00",
+            "date": "26/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bg0brdod9efq_e243b219_20261025.png?v=e243b219",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
