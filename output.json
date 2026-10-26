@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9e6caa885a",
-          "name": "LỄ TRAO GIẢI QBV 2026 vs LỄ TRAO GIẢI QBV 2026 | 03:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9e6caa885a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9e6caa885a",
-                  "name": "LỄ TRAO GIẢI QBV 2026 vs LỄ TRAO GIẢI QBV 2026",
-                  "streams": [
-                    {
-                      "id": "st-9e6caa885a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4f40a8269e",
-                          "name": "Hấu + Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792981768_hd/1792981768_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "LỄ TRAO GIẢI QBV 2026",
-            "team_a": "LỄ TRAO GIẢI QBV 2026",
-            "team_b": "LỄ TRAO GIẢI QBV 2026",
-            "logo_a": "https://cdn-img.thethao247.vn/origin_640x0/storage/files/hoangnhien/2026/10/12/20-6acc972c5a139.jpg",
-            "logo_b": "https://cdn-img.thethao247.vn/origin_640x0/storage/files/hoangnhien/2026/10/12/20-6acc972c5a139.jpg",
-            "time": "03:00:00",
-            "date": "27/10",
-            "blv": "Hấu + Chồn",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/k82ew2dw3kjt_bec77109_20261027.png?v=bec77109",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e9a5655e67",
           "name": "Flamengo vs Atletico Mineiro | 06:00 27/10",
