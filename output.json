@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4c520751f7",
-          "name": "Neftchi Fargona vs Al Ittihad Jeddah | 20:45 26/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4c520751f7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4c520751f7",
-                  "name": "Neftchi Fargona vs Al Ittihad Jeddah",
-                  "streams": [
-                    {
-                      "id": "st-4c520751f7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c160ee8efa",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792950900_hd/1792950900_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League",
-            "team_a": "Neftchi Fargona",
-            "team_b": "Al Ittihad Jeddah",
-            "logo_a": "https://images.keovip88.net/images/teams/neftchi-fargona.png",
-            "logo_b": "https://images.keovip88.net/images/teams/al-ittihad.png",
-            "time": "20:45:00",
-            "date": "26/10",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a6f4d3de1ad3e0d953b_2dfbdf9c_20261026.png?v=2dfbdf9c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-3f1a89796e",
           "name": "Al Ahli Jeddah vs Al-Gharafa | 23:00 26/10",
@@ -300,6 +228,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bg0brdod9efq_e243b219_20261026.png?v=e243b219",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ce54060a1e",
+          "name": "Al-Qadasiya vs Al-Sadd | 01:15 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ce54060a1e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ce54060a1e",
+                  "name": "Al-Qadasiya vs Al-Sadd",
+                  "streams": [
+                    {
+                      "id": "st-ce54060a1e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7fcff883aa",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793029131_hd/1793029131_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League",
+            "team_a": "Al-Qadasiya",
+            "team_b": "Al-Sadd",
+            "logo_a": "https://images.keovip88.net/images/teams/al-qadsiah.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-sadd.png",
+            "time": "01:15:00",
+            "date": "27/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd84_023b5e18_20261026.png?v=023b5e18",
             "width": 1600,
             "height": 1200
           }
