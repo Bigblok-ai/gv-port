@@ -476,11 +476,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-0e204adfbd",
-                          "name": "Ngọng",
+                          "id": "lnk-70f55ccced",
+                          "name": "Mù",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792821774_hd/1792821774_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793025900_hd/1793025900_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -507,7 +507,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/lyon.png",
             "time": "02:30:00",
             "date": "27/10",
-            "blv": "Ngọng",
+            "blv": "Mù",
             "is_live": false,
             "cate_type": "football"
           },
@@ -2325,6 +2325,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35536470_02870e3e_20261026.png?v=02870e3e",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-1cb4af4c2e",
+          "name": "Worlds 2026 vs Worlds 2026 | 23:59 26/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1cb4af4c2e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1cb4af4c2e",
+                  "name": "Worlds 2026 vs Worlds 2026",
+                  "streams": [
+                    {
+                      "id": "st-1cb4af4c2e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-616706236c",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793025433_hd/1793025433_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Worlds 2026",
+            "team_a": "Worlds 2026",
+            "team_b": "Worlds 2026",
+            "logo_a": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/Worlds_2026.png/revision/latest?cb=20260322132449",
+            "logo_b": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/0d/Worlds_2026.png/revision/latest?cb=20260322132449",
+            "time": "23:59:00",
+            "date": "26/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qnumzeg6056i_b21d4ee8_20261026.png?v=b21d4ee8",
             "width": 1600,
             "height": 1200
           }
