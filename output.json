@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ce13238150",
-          "name": "Paris Saint Germain vs Lyonnais | 02:30 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ce13238150",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ce13238150",
-                  "name": "Paris Saint Germain vs Lyonnais",
-                  "streams": [
-                    {
-                      "id": "st-ce13238150",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-70f55ccced",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793025900_hd/1793025900_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ligue 1",
-            "team_a": "Paris Saint Germain",
-            "team_b": "Lyonnais",
-            "logo_a": "https://images.keovip88.net/images/teams/paris-saint-germain-psg.png",
-            "logo_b": "https://images.keovip88.net/images/teams/lyon.png",
-            "time": "02:30:00",
-            "date": "27/10",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad40c5c24d46db870c49a8a_69058c68_20261027.png?v=69058c68",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-9e6caa885a",
           "name": "LỄ TRAO GIẢI QBV 2026 vs LỄ TRAO GIẢI QBV 2026 | 03:00 27/10",
