@@ -452,7 +452,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -597,78 +597,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35688276_046d0394_20261026.png?v=046d0394",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-c84680f8a1",
-          "name": "Oklahoma City Thunder vs Los Angeles Clippers | 06:00 26/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c84680f8a1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c84680f8a1",
-                  "name": "Oklahoma City Thunder vs Los Angeles Clippers",
-                  "streams": [
-                    {
-                      "id": "st-c84680f8a1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1f7649c1c3",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792822083_hd/1792822083_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Oklahoma City Thunder",
-            "team_b": "Los Angeles Clippers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
-            "time": "06:00:00",
-            "date": "26/10",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34688275_2c4c4d99_20261026.png?v=2c4c4d99",
             "width": 1600,
             "height": 1200
           }
