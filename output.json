@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,6 +84,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd84_023b5e18_20261027.png?v=023b5e18",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cc6b3ffdb5",
+          "name": "Galatasaray vs Fenerbahce | 01:30 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cc6b3ffdb5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cc6b3ffdb5",
+                  "name": "Galatasaray vs Fenerbahce",
+                  "streams": [
+                    {
+                      "id": "st-cc6b3ffdb5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-04b9e8028a",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793026965_hd/1793026965_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Thổ Nhĩ Kỳ",
+            "team_a": "Galatasaray",
+            "team_b": "Fenerbahce",
+            "logo_a": "https://images.keovip88.net/images/teams/galatasaray.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fenerbahce.png",
+            "time": "01:30:00",
+            "date": "27/10",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad55dc824d46db87099c93b_2d5b81e4_20261027.png?v=2d5b81e4",
             "width": 1600,
             "height": 1200
           }
@@ -300,78 +372,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a88e7865d02aeccba00527d_114e3d7f_20261027.png?v=114e3d7f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-cc6b3ffdb5",
-          "name": "Galatasaray vs Fenerbahce | 01:30 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cc6b3ffdb5",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cc6b3ffdb5",
-                  "name": "Galatasaray vs Fenerbahce",
-                  "streams": [
-                    {
-                      "id": "st-cc6b3ffdb5",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-04b9e8028a",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793026965_hd/1793026965_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Thổ Nhĩ Kỳ",
-            "team_a": "Galatasaray",
-            "team_b": "Fenerbahce",
-            "logo_a": "https://images.keovip88.net/images/teams/galatasaray.png",
-            "logo_b": "https://images.keovip88.net/images/teams/fenerbahce.png",
-            "time": "01:30:00",
-            "date": "27/10",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad55dc824d46db87099c93b_2d5b81e4_20261027.png?v=2d5b81e4",
             "width": 1600,
             "height": 1200
           }
