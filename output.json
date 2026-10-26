@@ -2135,83 +2135,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-3ddfc6d835",
-          "name": "Seattle Seahawks vs Kansas City Chiefs | 07:20 26/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3ddfc6d835",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3ddfc6d835",
-                  "name": "Seattle Seahawks vs Kansas City Chiefs",
-                  "streams": [
-                    {
-                      "id": "st-3ddfc6d835",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-66719971f3",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792947259_hd/1792947259_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "Seattle Seahawks",
-            "team_b": "Kansas City Chiefs",
-            "logo_a": "https://static.flashscore.com/res/image/data/r3Fomsf5-ER5jeflb.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/0ly3wzFG-8KiTm088.png",
-            "time": "07:20:00",
-            "date": "26/10",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/c1b4l2evecnf_2b68af35_20261026.png?v=2b68af35",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-cae5d01bc5",
           "name": "Philadelphia Eagles vs Dallas Cowboys | 07:15 27/10",
