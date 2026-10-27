@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9dff4a47703c7a550d0d3f_46a48c85_20261028.png?v=46a48c85",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-14283268ed",
-          "name": "RW Essen vs RB Leipzig | 23:59 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-14283268ed",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-14283268ed",
-                  "name": "RW Essen vs RB Leipzig",
-                  "streams": [
-                    {
-                      "id": "st-14283268ed",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-afadd8540d",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792913700_hd/1792913700_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Quốc Gia Đức",
-            "team_a": "RW Essen",
-            "team_b": "RB Leipzig",
-            "logo_a": "https://images.keovip88.net/images/teams/rot-weiss-essen.jpg",
-            "logo_b": "https://images.keovip88.net/images/teams/rb-leipzig.png",
-            "time": "23:59:00",
-            "date": "27/10",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9dff4a47703c7a550d0d3a_a22da3e9_20261028.png?v=a22da3e9",
             "width": 1600,
             "height": 1200
           }
