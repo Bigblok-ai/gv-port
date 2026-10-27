@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-218187e14d",
-          "name": "Daejeon Citizen vs Vissel Kobe | 17:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-218187e14d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-218187e14d",
-                  "name": "Daejeon Citizen vs Vissel Kobe",
-                  "streams": [
-                    {
-                      "id": "st-218187e14d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0efec756d6",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792952849_hd/1792952849_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League",
-            "team_a": "Daejeon Citizen",
-            "team_b": "Vissel Kobe",
-            "logo_a": "https://images.keovip88.net/images/teams/daejeon-citizen.png",
-            "logo_b": "https://images.keovip88.net/images/teams/vissel-kobe.png",
-            "time": "17:00:00",
-            "date": "27/10",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd73_416865ea_20261027.png?v=416865ea",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ccbed86b50",
           "name": "Johor Darul Takzim vs Port FC | 17:00 27/10",
@@ -1244,83 +1172,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a7d5b2bf11",
-          "name": "Seoul SK Knights vs Jeonju KCC Egis | 17:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a7d5b2bf11",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a7d5b2bf11",
-                  "name": "Seoul SK Knights vs Jeonju KCC Egis",
-                  "streams": [
-                    {
-                      "id": "st-a7d5b2bf11",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e415a11090",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792954308_hd/1792954308_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Seoul SK Knights",
-            "team_b": "Jeonju KCC Egis",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/425cf7236b655f8922a9b53220d3d1b6.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a2ba5e8d224376506856ad5dd34de831.png",
-            "time": "17:00:00",
-            "date": "27/10",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10160377_b3336944_20261027.png?v=b3336944",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-c589d960df",
           "name": "QingDao Eagles vs Tianjin Pioneers | 18:35 27/10",
