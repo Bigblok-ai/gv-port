@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "gv-14283268ed",
-          "name": "RW Essen vs RB Leipzig | 23:59 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-14283268ed",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-14283268ed",
-                  "name": "RW Essen vs RB Leipzig",
-                  "streams": [
-                    {
-                      "id": "st-14283268ed",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-afadd8540d",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792913700_hd/1792913700_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Quốc Gia Đức",
-            "team_a": "RW Essen",
-            "team_b": "RB Leipzig",
-            "logo_a": "https://images.keovip88.net/images/teams/rot-weiss-essen.jpg",
-            "logo_b": "https://images.keovip88.net/images/teams/rb-leipzig.png",
-            "time": "23:59:00",
-            "date": "27/10",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9dff4a47703c7a550d0d3a_a22da3e9_20261028.png?v=a22da3e9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-b471d9bf7a",
           "name": "Hamburger vs Eintracht Frankfurt | 23:59 27/10",
           "type": "single",
@@ -233,6 +161,78 @@
           }
         },
         {
+          "id": "gv-14283268ed",
+          "name": "RW Essen vs RB Leipzig | 23:59 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-14283268ed",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-14283268ed",
+                  "name": "RW Essen vs RB Leipzig",
+                  "streams": [
+                    {
+                      "id": "st-14283268ed",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-afadd8540d",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792913700_hd/1792913700_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Quốc Gia Đức",
+            "team_a": "RW Essen",
+            "team_b": "RB Leipzig",
+            "logo_a": "https://images.keovip88.net/images/teams/rot-weiss-essen.jpg",
+            "logo_b": "https://images.keovip88.net/images/teams/rb-leipzig.png",
+            "time": "23:59:00",
+            "date": "27/10",
+            "blv": "Ngọng",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9dff4a47703c7a550d0d3a_a22da3e9_20261028.png?v=a22da3e9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-d40ed4367f",
           "name": "US Sassuolo Calcio vs Lazio | 00:30 28/10",
           "type": "single",
@@ -240,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +292,7 @@
             "time": "00:30:00",
             "date": "28/10",
             "blv": "Bee",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -2333,83 +2333,11 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (2 LIVE)",
+      "name": "🎾 Tennis (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ad641c3a81",
-          "name": "Karen Khachanov vs Carlos Alcaraz | 21:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ad641c3a81",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ad641c3a81",
-                  "name": "Karen Khachanov vs Carlos Alcaraz",
-                  "streams": [
-                    {
-                      "id": "st-ad641c3a81",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d61659abd3",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793100748_hd/1793100748_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Vienna",
-            "team_a": "Karen Khachanov",
-            "team_b": "Carlos Alcaraz",
-            "logo_a": "https://static.flashscore.com/res/image/data/l8xH1Nhl-hz8C9Mh1.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/OfjQEPjl-hGuiBKos.png",
-            "time": "21:00:00",
-            "date": "27/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lmwppwso7vj2_a6d76300_20261028.png?v=a6d76300",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-98b156f8f9",
           "name": "Alexander Zverev vs Martin Landaluce | 23:30 27/10",
@@ -3311,8 +3239,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-061451ab61",
-          "name": "SUN Yingsha vs Camille LUTZ | 19:00 27/10",
+          "id": "gv-0057617b24",
+          "name": "Sora MATSUSHIMA vs Dang QIU | 00:30 28/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3322,78 +3250,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-061451ab61",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-061451ab61",
-                  "name": "SUN Yingsha vs Camille LUTZ",
-                  "streams": [
-                    {
-                      "id": "st-061451ab61",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30b9ad142e",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793099974_hd/1793099974_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Montpellier 2026",
-            "team_a": "SUN Yingsha",
-            "team_b": "Camille LUTZ",
-            "logo_a": "https://static.flashscore.com/res/image/data/U9Szb8Wg-b7qbNXIQ.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/vBvIQrFa-Es4RWow3.png",
-            "time": "19:00:00",
-            "date": "27/10",
-            "blv": "Dory",
-            "is_live": true,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tig3damkq81y_c2b2eb27_20261028.png?v=c2b2eb27",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-0057617b24",
-          "name": "Sora MATSUSHIMA vs Dang QIU | 00:30 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -3442,7 +3298,7 @@
             "time": "00:30:00",
             "date": "28/10",
             "blv": "Dory",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongban"
           },
           "image": {
