@@ -2116,6 +2116,87 @@
       ]
     },
     {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-ad641c3a81",
+          "name": "Karen Khachanov vs Carlos Alcaraz | 21:00 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ad641c3a81",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ad641c3a81",
+                  "name": "Karen Khachanov vs Carlos Alcaraz",
+                  "streams": [
+                    {
+                      "id": "st-ad641c3a81",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d61659abd3",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793100748_hd/1793100748_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Vienna",
+            "team_a": "Karen Khachanov",
+            "team_b": "Carlos Alcaraz",
+            "logo_a": "https://static.flashscore.com/res/image/data/l8xH1Nhl-hz8C9Mh1.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OfjQEPjl-hGuiBKos.png",
+            "time": "21:00:00",
+            "date": "27/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lmwppwso7vj2_a6d76300_20261027.png?v=a6d76300",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_esport",
       "name": "🎮 Esport",
       "display": "vertical",
