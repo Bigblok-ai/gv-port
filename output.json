@@ -89,60 +89,6 @@
           }
         },
         {
-          "id": "gv-bd5274e7ba",
-          "name": "Al Seeb vs East Bengal II | 23:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bd5274e7ba",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-bd5274e7ba",
-                  "name": "Al Seeb vs East Bengal II",
-                  "streams": [
-                    {
-                      "id": "st-bd5274e7ba",
-                      "name": "GV",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asia - AFC Champions League Two",
-            "team_a": "Al Seeb",
-            "team_b": "East Bengal II",
-            "logo_a": "https://static.flashscore.com/res/image/data/pQB1Onjl-2FI4qe8C.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/2JOlHfFG-UszV04Qg.png",
-            "time": "23:00:00",
-            "date": "27/10",
-            "blv": "",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/55j9q0gom4xu_e6dbbd62_20261027.png?v=e6dbbd62",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-14283268ed",
           "name": "RW Essen vs RB Leipzig | 00:00 28/10",
           "type": "single",
@@ -210,6 +156,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9dff4a47703c7a550d0d3a_a22da3e9_20261027.png?v=a22da3e9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b471d9bf7a",
+          "name": "Hamburger vs Eintracht Frankfurt | 00:00 28/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b471d9bf7a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b471d9bf7a",
+                  "name": "Hamburger vs Eintracht Frankfurt",
+                  "streams": [
+                    {
+                      "id": "st-b471d9bf7a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-999a8289d8",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793114163_hd/1793114163_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Quốc Gia Đức",
+            "team_a": "Hamburger",
+            "team_b": "Eintracht Frankfurt",
+            "logo_a": "https://images.keovip88.net/images/teams/hamburger-sv.png",
+            "logo_b": "https://images.keovip88.net/images/teams/eintracht-frankfurt.png",
+            "time": "00:00:00",
+            "date": "28/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9dff4a47703c7a550d0d3f_46a48c85_20261027.png?v=46a48c85",
             "width": 1600,
             "height": 1200
           }
@@ -498,6 +516,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad6af4624d46db87045c242_842c1837_20261027.png?v=842c1837",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e1644a0f4c",
+          "name": "AS Roma vs Cagliari | 02:45 28/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e1644a0f4c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e1644a0f4c",
+                  "name": "AS Roma vs Cagliari",
+                  "streams": [
+                    {
+                      "id": "st-e1644a0f4c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1bac87cb8f",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793114280_hd/1793114280_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "AS Roma",
+            "team_b": "Cagliari",
+            "logo_a": "https://images.keovip88.net/images/teams/as-roma.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cagliari.png",
+            "time": "02:45:00",
+            "date": "28/10",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad6af4624d46db87045c218_bc225446_20261027.png?v=bc225446",
             "width": 1600,
             "height": 1200
           }
