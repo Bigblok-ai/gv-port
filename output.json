@@ -89,150 +89,6 @@
           }
         },
         {
-          "id": "gv-14283268ed",
-          "name": "RW Essen vs RB Leipzig | 00:00 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-14283268ed",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-14283268ed",
-                  "name": "RW Essen vs RB Leipzig",
-                  "streams": [
-                    {
-                      "id": "st-14283268ed",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-afadd8540d",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792913700_hd/1792913700_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Quốc Gia Đức",
-            "team_a": "RW Essen",
-            "team_b": "RB Leipzig",
-            "logo_a": "https://images.keovip88.net/images/teams/rot-weiss-essen.jpg",
-            "logo_b": "https://images.keovip88.net/images/teams/rb-leipzig.png",
-            "time": "00:00:00",
-            "date": "28/10",
-            "blv": "Ngọng",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9dff4a47703c7a550d0d3a_a22da3e9_20261027.png?v=a22da3e9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b471d9bf7a",
-          "name": "Hamburger vs Eintracht Frankfurt | 00:00 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b471d9bf7a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b471d9bf7a",
-                  "name": "Hamburger vs Eintracht Frankfurt",
-                  "streams": [
-                    {
-                      "id": "st-b471d9bf7a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-94968b9f7e",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793114163_hd/1793114163_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Quốc Gia Đức",
-            "team_a": "Hamburger",
-            "team_b": "Eintracht Frankfurt",
-            "logo_a": "https://images.keovip88.net/images/teams/hamburger-sv.png",
-            "logo_b": "https://images.keovip88.net/images/teams/eintracht-frankfurt.png",
-            "time": "00:00:00",
-            "date": "28/10",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9dff4a47703c7a550d0d3f_46a48c85_20261027.png?v=46a48c85",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-d40ed4367f",
           "name": "US Sassuolo Calcio vs Lazio | 00:30 28/10",
           "type": "single",
@@ -377,78 +233,6 @@
           }
         },
         {
-          "id": "gv-d23c85f0e4",
-          "name": "Borussia Dortmund vs Werder Bremen | 02:45 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d23c85f0e4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d23c85f0e4",
-                  "name": "Borussia Dortmund vs Werder Bremen",
-                  "streams": [
-                    {
-                      "id": "st-d23c85f0e4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-143cc73604",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792913831_hd/1792913831_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Quốc Gia Đức",
-            "team_a": "Borussia Dortmund",
-            "team_b": "Werder Bremen",
-            "logo_a": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
-            "logo_b": "https://images.keovip88.net/images/teams/werder-bremen.png",
-            "time": "02:45:00",
-            "date": "28/10",
-            "blv": "Cầy",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9dff4a47703c7a550d0d3d_66169312_20261027.png?v=66169312",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-51376c6dc8",
           "name": "Torino vs Como | 02:45 28/10",
           "type": "single",
@@ -588,6 +372,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad6af4624d46db87045c218_bc225446_20261027.png?v=bc225446",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d23c85f0e4",
+          "name": "Borussia Dortmund vs Werder Bremen | 02:45 28/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d23c85f0e4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d23c85f0e4",
+                  "name": "Borussia Dortmund vs Werder Bremen",
+                  "streams": [
+                    {
+                      "id": "st-d23c85f0e4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-143cc73604",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792913831_hd/1792913831_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Quốc Gia Đức",
+            "team_a": "Borussia Dortmund",
+            "team_b": "Werder Bremen",
+            "logo_a": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
+            "logo_b": "https://images.keovip88.net/images/teams/werder-bremen.png",
+            "time": "02:45:00",
+            "date": "28/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9dff4a47703c7a550d0d3d_66169312_20261027.png?v=66169312",
             "width": 1600,
             "height": 1200
           }
