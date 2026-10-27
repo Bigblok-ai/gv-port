@@ -1100,83 +1100,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c589d960df",
-          "name": "QingDao Eagles vs Tianjin Pioneers | 18:35 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c589d960df",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c589d960df",
-                  "name": "QingDao Eagles vs Tianjin Pioneers",
-                  "streams": [
-                    {
-                      "id": "st-c589d960df",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ae0a41a32e",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792954078_hd/1792954078_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "QingDao Eagles",
-            "team_b": "Tianjin Pioneers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cbbeaf29a9996f0500e140e33cb780ae.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c95a72565d21fd4797acfbfb63c829e8.PNG",
-            "time": "18:35:00",
-            "date": "27/10",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23663479_84424f85_20261027.png?v=84424f85",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-589c4b40e6",
           "name": "Guangzhou Loong Lions vs Beijing Royal Fighters | 18:35 27/10",
