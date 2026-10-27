@@ -1100,7 +1100,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (4 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1173,78 +1173,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23663479_84424f85_20261027.png?v=84424f85",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-03be4f0dd7",
-          "name": "Shandong Hi-Speed Kirin vs Beijing Shougang Ducks | 18:35 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-03be4f0dd7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-03be4f0dd7",
-                  "name": "Shandong Hi-Speed Kirin vs Beijing Shougang Ducks",
-                  "streams": [
-                    {
-                      "id": "st-03be4f0dd7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-125020a940",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792954347_hd/1792954347_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Shandong Hi-Speed Kirin",
-            "team_b": "Beijing Shougang Ducks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/5e5e6dd519553b0782b6ad7cda315e98.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/58867afcb7d9cb68ffd5338c62c7af6a.png",
-            "time": "18:35:00",
-            "date": "27/10",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38663474_30eda968_20261027.png?v=30eda968",
             "width": 1600,
             "height": 1200
           }
