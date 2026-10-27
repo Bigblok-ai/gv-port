@@ -11,227 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ccbed86b50",
-          "name": "Johor Darul Takzim vs Port FC | 17:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ccbed86b50",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ccbed86b50",
-                  "name": "Johor Darul Takzim vs Port FC",
-                  "streams": [
-                    {
-                      "id": "st-ccbed86b50",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b0fd198deb",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792953232_hd/1792953232_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League",
-            "team_a": "Johor Darul Takzim",
-            "team_b": "Port FC",
-            "logo_a": "https://images.keovip88.net/images/teams/johor-darul-takzim.png",
-            "logo_b": "https://images.keovip88.net/images/teams/port-fc.png",
-            "time": "17:00:00",
-            "date": "27/10",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a88e7865d02aeccba005265_4c0acc0c_20261027.png?v=4c0acc0c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-c35ba99f10",
-          "name": "Shanghai Port vs Công An Hà Nội | 17:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c35ba99f10",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c35ba99f10",
-                  "name": "Shanghai Port vs Công An Hà Nội",
-                  "streams": [
-                    {
-                      "id": "st-c35ba99f10",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-742d416876",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792953267_hd/1792953267_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League",
-            "team_a": "Shanghai Port",
-            "team_b": "Công An Hà Nội",
-            "logo_a": "https://images.keovip88.net/images/teams/shanghai-port.png",
-            "logo_b": "https://images.keovip88.net/images/teams/cong-an-ha-noi.png",
-            "time": "17:00:00",
-            "date": "27/10",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a88e7865d02aeccba005266_832c9510_20261027.png?v=832c9510",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-e6374b8789",
-          "name": "Kyoto Sanga vs Newcastle Jets FC | 17:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e6374b8789",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e6374b8789",
-                  "name": "Kyoto Sanga vs Newcastle Jets FC",
-                  "streams": [
-                    {
-                      "id": "st-e6374b8789",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dc5fbe7c5a",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793081066_hd/1793081066_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League",
-            "team_a": "Kyoto Sanga",
-            "team_b": "Newcastle Jets FC",
-            "logo_a": "https://images.keovip88.net/images/teams/kyoto-sanga.png",
-            "logo_b": "https://images.keovip88.net/images/teams/newcastle-jets.png",
-            "time": "17:00:00",
-            "date": "27/10",
-            "blv": "Tỵ ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd74_cb6e2b14_20261027.png?v=cb6e2b14",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-d3b92ec80c",
           "name": "Beijing Guoan vs Jeonbuk Hyundai Motors | 19:15 27/10",
@@ -312,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +148,7 @@
             "time": "19:15:00",
             "date": "27/10",
             "blv": "Mason",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
