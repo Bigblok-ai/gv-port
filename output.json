@@ -2040,12 +2040,228 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-4a089aa609",
+          "name": "Philadelphia 76ers vs New York Knicks | 06:30 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4a089aa609",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4a089aa609",
+                  "name": "Philadelphia 76ers vs New York Knicks",
+                  "streams": [
+                    {
+                      "id": "st-4a089aa609",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-27b86b5e4b",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793116512_hd/1793116512_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Philadelphia 76ers",
+            "team_b": "New York Knicks",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7f086c864d1e283b7862a756f0b88373.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png",
+            "time": "06:30:00",
+            "date": "31/10",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38618272_1a9dc544_20261027.png?v=1a9dc544",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3305993535",
+          "name": "Boston Celtics vs Chicago Bulls | 06:30 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3305993535",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3305993535",
+                  "name": "Boston Celtics vs Chicago Bulls",
+                  "streams": [
+                    {
+                      "id": "st-3305993535",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e8788bfe50",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793116541_hd/1793116541_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Boston Celtics",
+            "team_b": "Chicago Bulls",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c73eca8b9cc18ff386bf6ff4c1236b9e.png",
+            "time": "06:30:00",
+            "date": "31/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36618270_1731e63a_20261027.png?v=1731e63a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e87e532638",
+          "name": "Toronto Raptors vs Orlando Magic | 06:30 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e87e532638",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e87e532638",
+                  "name": "Toronto Raptors vs Orlando Magic",
+                  "streams": [
+                    {
+                      "id": "st-e87e532638",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-777b341ac4",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793116571_hd/1793116571_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Toronto Raptors",
+            "team_b": "Orlando Magic",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3f61db02c20eb73e5f27948b3122f2fb.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2566b135b0e54971193a132bd8a1473c.png",
+            "time": "06:30:00",
+            "date": "31/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39618273_f78ad5e4_20261027.png?v=f78ad5e4",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2118,6 +2334,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lmwppwso7vj2_a6d76300_20261027.png?v=a6d76300",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-98b156f8f9",
+          "name": "Alexander Zverev vs Martin Landaluce | 23:30 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-98b156f8f9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-98b156f8f9",
+                  "name": "Alexander Zverev vs Martin Landaluce",
+                  "streams": [
+                    {
+                      "id": "st-98b156f8f9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9374df9a24",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793116659_hd/1793116659_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Vienna",
+            "team_a": "Alexander Zverev",
+            "team_b": "Martin Landaluce",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMNFE19_dWWHkHPTtxcqOQ54QcqTyz95M5V_AESQ-CQ&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpu6bd1dmHiM5VV7nl71Sg-1SJpVhzG_gC7Uom3jzHvg&s=10",
+            "time": "23:30:00",
+            "date": "27/10",
+            "blv": "Sún",
+            "is_live": true,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5n76qc24mqph_8f11c686_20261027.png?v=8f11c686",
             "width": 1600,
             "height": 1200
           }
