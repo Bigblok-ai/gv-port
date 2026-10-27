@@ -884,7 +884,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -969,10 +969,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1021,7 +1021,7 @@
             "time": "07:00:00",
             "date": "28/10",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1041,10 +1041,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1093,7 +1093,7 @@
             "time": "07:00:00",
             "date": "28/10",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2639,7 +2639,7 @@
     },
     {
       "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày",
+      "name": "⚾ Bóng Chày (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2652,10 +2652,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2672,11 +2672,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-f1b9b16d34",
-                          "name": "Ngu",
+                          "id": "lnk-85f234205c",
+                          "name": "Cận vs Ngu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793125447_hd/1793125447_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793145171_hd/1793145171_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2703,8 +2703,8 @@
             "logo_b": "https://static.flashscore.com/res/image/data/nitvFMWg-xIOhFH4B.png",
             "time": "07:00:00",
             "date": "28/10",
-            "blv": "Ngu",
-            "is_live": false,
+            "blv": "Cận vs Ngu",
+            "is_live": true,
             "cate_type": "bongchay"
           },
           "image": {
