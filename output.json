@@ -1028,7 +1028,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (6 LIVE)",
+      "name": "🏀 Bóng Rổ (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1466,6 +1466,78 @@
           }
         },
         {
+          "id": "gv-07eb64661a",
+          "name": "Denver Nuggets vs Golden State Warriors | 09:00 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-07eb64661a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-07eb64661a",
+                  "name": "Denver Nuggets vs Golden State Warriors",
+                  "streams": [
+                    {
+                      "id": "st-07eb64661a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6777574879",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792947106_hd/1792947106_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Denver Nuggets",
+            "team_b": "Golden State Warriors",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c7341a14964f12885ea2ae80b76cebe8.png",
+            "time": "09:00:00",
+            "date": "27/10",
+            "blv": "Vịt",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/30788272_8f9dc629_20261027.png?v=8f9dc629",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-bdc0a50de5",
           "name": "Utah Jazz vs Memphis Grizzlies | 08:00 27/10",
           "type": "single",
@@ -1533,78 +1605,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49688270_31b71029_20261027.png?v=31b71029",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-07eb64661a",
-          "name": "Denver Nuggets vs Golden State Warriors | 09:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-07eb64661a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-07eb64661a",
-                  "name": "Denver Nuggets vs Golden State Warriors",
-                  "streams": [
-                    {
-                      "id": "st-07eb64661a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6777574879",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792947106_hd/1792947106_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Denver Nuggets",
-            "team_b": "Golden State Warriors",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c7341a14964f12885ea2ae80b76cebe8.png",
-            "time": "09:00:00",
-            "date": "27/10",
-            "blv": "Vịt",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/30788272_8f9dc629_20261027.png?v=8f9dc629",
             "width": 1600,
             "height": 1200
           }
