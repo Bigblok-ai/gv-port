@@ -305,60 +305,6 @@
           }
         },
         {
-          "id": "gv-9f5a616dda",
-          "name": "Becamex Bình Dương vs Than Quảng Ninh | 18:00 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9f5a616dda",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9f5a616dda",
-                  "name": "Becamex Bình Dương vs Than Quảng Ninh",
-                  "streams": [
-                    {
-                      "id": "st-9f5a616dda",
-                      "name": "GV",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng Nhất Việt Nam",
-            "team_a": "Becamex Bình Dương",
-            "team_b": "Than Quảng Ninh",
-            "logo_a": "https://images.keovip88.net/images/teams/becamex-binh-duong.png",
-            "logo_b": "https://images.keovip88.net/images/teams/than-quang-ninh.gif",
-            "time": "18:00:00",
-            "date": "27/10",
-            "blv": "",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad55dc924d46db87099ca1d_26bb8ea3_20261027.png?v=26bb8ea3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-d3b92ec80c",
           "name": "Beijing Guoan vs Jeonbuk Hyundai Motors | 19:15 27/10",
           "type": "single",
@@ -498,6 +444,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38deeb269e70040bbd75_80ad8e59_20261027.png?v=80ad8e59",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9ab3e3185b",
+          "name": "Abha vs Al-Faisaly Harmah | 19:40 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9ab3e3185b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9ab3e3185b",
+                  "name": "Abha vs Al-Faisaly Harmah",
+                  "streams": [
+                    {
+                      "id": "st-9ab3e3185b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-934d37f48e",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793081217_hd/1793081217_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Ả Rập Xê Út",
+            "team_a": "Abha",
+            "team_b": "Al-Faisaly Harmah",
+            "logo_a": "https://images.keovip88.net/images/teams/abha.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-faisaly-harmah.png",
+            "time": "19:40:00",
+            "date": "27/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa88a9724d46db870488fb5_d8cb49bc_20261027.png?v=d8cb49bc",
             "width": 1600,
             "height": 1200
           }
@@ -1088,6 +1106,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-a7d5b2bf11",
+          "name": "Seoul SK Knights vs Jeonju KCC Egis | 17:00 27/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a7d5b2bf11",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a7d5b2bf11",
+                  "name": "Seoul SK Knights vs Jeonju KCC Egis",
+                  "streams": [
+                    {
+                      "id": "st-a7d5b2bf11",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e415a11090",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792954308_hd/1792954308_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Seoul SK Knights",
+            "team_b": "Jeonju KCC Egis",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/425cf7236b655f8922a9b53220d3d1b6.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a2ba5e8d224376506856ad5dd34de831.png",
+            "time": "17:00:00",
+            "date": "27/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10160377_b3336944_20261027.png?v=b3336944",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c589d960df",
           "name": "QingDao Eagles vs Tianjin Pioneers | 18:35 27/10",
           "type": "single",
@@ -1155,78 +1245,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23663479_84424f85_20261027.png?v=84424f85",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-9ea7c65744",
-          "name": "Zhejiang Lions vs Liaoning Flying Leopards | 18:35 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9ea7c65744",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9ea7c65744",
-                  "name": "Zhejiang Lions vs Liaoning Flying Leopards",
-                  "streams": [
-                    {
-                      "id": "st-9ea7c65744",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e415a11090",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792954308_hd/1792954308_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Zhejiang Lions",
-            "team_b": "Liaoning Flying Leopards",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/17bf3755eecad867cf5fcc08b83104af.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e5b2db0dc53319933071f194e099180f.png",
-            "time": "18:35:00",
-            "date": "27/10",
-            "blv": "Cầy",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35663471_09d9837e_20261027.png?v=09d9837e",
             "width": 1600,
             "height": 1200
           }
