@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d40ed4367f",
-          "name": "US Sassuolo Calcio vs Lazio | 00:30 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d40ed4367f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d40ed4367f",
-                  "name": "US Sassuolo Calcio vs Lazio",
-                  "streams": [
-                    {
-                      "id": "st-d40ed4367f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2bc5f93459",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792913743_hd/1792913743_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "US Sassuolo Calcio",
-            "team_b": "Lazio",
-            "logo_a": "https://images.keovip88.net/images/teams/sassuolo.png",
-            "logo_b": "https://images.keovip88.net/images/teams/lazio.png",
-            "time": "00:30:00",
-            "date": "28/10",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad6af4624d46db87045bd98_dc54845e_20261028.png?v=dc54845e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-c4395a5c1e",
           "name": "Al-Shamal vs Al Hilal | 01:15 28/10",
@@ -948,6 +876,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad800c724d46db870eb09f3_51766e16_20261028.png?v=51766e16",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d973d4c49a",
+          "name": "Manchester City vs Brighton   Hove Albion | 02:30 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d973d4c49a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d973d4c49a",
+                  "name": "Manchester City vs Brighton   Hove Albion",
+                  "streams": [
+                    {
+                      "id": "st-d973d4c49a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9c4b26080f",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792914103_hd/1792914103_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Liên Đoàn Anh",
+            "team_a": "Manchester City",
+            "team_b": "Brighton   Hove Albion",
+            "logo_a": "https://images.keovip88.net/images/teams/manchester-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
+            "time": "02:30:00",
+            "date": "29/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd1b645163e9e3e085d5f_89f0803b_20261028.png?v=89f0803b",
             "width": 1600,
             "height": 1200
           }
