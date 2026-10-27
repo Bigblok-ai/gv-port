@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a164334742",
-          "name": "Fleetwood Town vs Arsenal | 03:00 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a164334742",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a164334742",
-                  "name": "Fleetwood Town vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-a164334742",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b6fa16d217",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792913858_hd/1792913858_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Liên Đoàn Anh",
-            "team_a": "Fleetwood Town",
-            "team_b": "Arsenal",
-            "logo_a": "https://images.keovip88.net/images/teams/fleetwood-town.png",
-            "logo_b": "https://images.keovip88.net/images/teams/arsenal.png",
-            "time": "03:00:00",
-            "date": "28/10",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd1b645163e9e3e085d5a_d58b3d44_20261028.png?v=d58b3d44",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-cc9e3ac5d7",
           "name": "Gamba Osaka vs Buriram United | 17:00 28/10",
