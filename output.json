@@ -1028,83 +1028,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a9db0dba4b",
-          "name": "Houston Rockets vs Atlanta Hawks | 07:30 27/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a9db0dba4b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a9db0dba4b",
-                  "name": "Houston Rockets vs Atlanta Hawks",
-                  "streams": [
-                    {
-                      "id": "st-a9db0dba4b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-10aeffcd37",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793056557_hd/1793056557_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Houston Rockets",
-            "team_b": "Atlanta Hawks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/57bd383cc8c9b3d4f92a5d1c371e38e9.png",
-            "time": "07:30:00",
-            "date": "27/10",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38688279_3e96d1ee_20261027.png?v=3e96d1ee",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-bdc0a50de5",
           "name": "Utah Jazz vs Memphis Grizzlies | 08:00 27/10",
