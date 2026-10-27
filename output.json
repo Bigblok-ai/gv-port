@@ -1023,6 +1023,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-1419ac9c41",
+          "name": "AC Milan vs Bologna | 00:30 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1419ac9c41",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1419ac9c41",
+                  "name": "AC Milan vs Bologna",
+                  "streams": [
+                    {
+                      "id": "st-1419ac9c41",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3900ea3944",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792914037_hd/1792914037_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "AC Milan",
+            "team_b": "Bologna",
+            "logo_a": "https://images.keovip88.net/images/teams/ac-milan.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bologna.png",
+            "time": "00:30:00",
+            "date": "29/10",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad800c724d46db870eb09ef_3940b5d7_20261028.png?v=3940b5d7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ff38b94434",
+          "name": "Parma vs Udinese | 00:30 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ff38b94434",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ff38b94434",
+                  "name": "Parma vs Udinese",
+                  "streams": [
+                    {
+                      "id": "st-ff38b94434",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dfca200468",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792914073_hd/1792914073_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Parma",
+            "team_b": "Udinese",
+            "logo_a": "https://images.keovip88.net/images/teams/parma.png",
+            "logo_b": "https://images.keovip88.net/images/teams/udinese.png",
+            "time": "00:30:00",
+            "date": "29/10",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad800c724d46db870eb09f3_51766e16_20261028.png?v=51766e16",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
