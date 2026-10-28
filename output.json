@@ -884,83 +884,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-7a9a217d3a",
-          "name": "Perth Wildcats vs Sydney Kings | 17:30 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7a9a217d3a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7a9a217d3a",
-                  "name": "Perth Wildcats vs Sydney Kings",
-                  "streams": [
-                    {
-                      "id": "st-7a9a217d3a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-91559f5ed1",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793086695_hd/1793086695_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "Perth Wildcats",
-            "team_b": "Sydney Kings",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d6e217ac051f3258b82d74a932d11ada.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7e24a7272efcfecc7b45fa8c86605bd0.png",
-            "time": "17:30:00",
-            "date": "28/10",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25522273_880a0df2_20261028.png?v=880a0df2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-36c7be06ec",
           "name": "Shenzhen Leopards vs Shanxi Loongs Fenjiu | 18:35 28/10",
