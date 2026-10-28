@@ -1023,6 +1023,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-6d1e53d076",
+          "name": "Sporting Braga vs Famalicão | 01:45 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6d1e53d076",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6d1e53d076",
+                  "name": "Sporting Braga vs Famalicão",
+                  "streams": [
+                    {
+                      "id": "st-6d1e53d076",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-16e952a4cb",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793115565_hd/1793115565_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Portugal - Taça da Liga",
+            "team_a": "Sporting Braga",
+            "team_b": "Famalicão",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/1280px-S.C._Braga_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOBpazG0WheW8t4K-iOPGPD0tOw74EKcoSOjVWN2Jvw&s=10",
+            "time": "01:45:00",
+            "date": "30/10",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/pluwwoqdo56p_8768ddaa_20261029.png?v=8768ddaa",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1829,83 +1901,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f3ac327d77",
-          "name": "Swiss Round 5 vs Swiss Round 5 | 18:00 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f3ac327d77",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f3ac327d77",
-                  "name": "Swiss Round 5 vs Swiss Round 5",
-                  "streams": [
-                    {
-                      "id": "st-f3ac327d77",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4a5c1a73fe",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793088896_hd/1793088896_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-PGL Masters Buncharest 2026",
-            "team_a": "Swiss Round 5",
-            "team_b": "Swiss Round 5",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNJhx-tSj6NMc4KL-SAGLSJfmchheURzGmNv_IY3xplzOsFi9fcMB78g&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpLaCDiROKhEaUP01ciVHfBDL2CRX0xUbZkyoiNnS8cAlSmkjC7im1A1k&s=10",
-            "time": "18:00:00",
-            "date": "28/10",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1q11boxd1ggf_d2b5a7a4_20261029.png?v=d2b5a7a4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-59ef890c7f",
           "name": "MKOI vs T1 | 03:00 29/10",
