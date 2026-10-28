@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -76,7 +76,7 @@
             "time": "23:59:00",
             "date": "28/10",
             "blv": "Hứa",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -732,6 +732,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd1b645163e9e3e085d59_b282a052_20261028.png?v=b282a052",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fc6af8f99f",
+          "name": "CSKA Moscow vs Lokomotiv Moscow | 23:30 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fc6af8f99f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fc6af8f99f",
+                  "name": "CSKA Moscow vs Lokomotiv Moscow",
+                  "streams": [
+                    {
+                      "id": "st-fc6af8f99f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-284d22ab06",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793115416_hd/1793115416_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Nga",
+            "team_a": "CSKA Moscow",
+            "team_b": "Lokomotiv Moscow",
+            "logo_a": "https://images.keovip88.net/images/teams/cska-moscow.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lokomotiv-moscow.png",
+            "time": "23:30:00",
+            "date": "29/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a45ac87361c622f1b0faf87_94c6aa8b_20261028.png?v=94c6aa8b",
             "width": 1600,
             "height": 1200
           }
@@ -2441,83 +2513,11 @@
     },
     {
       "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn (1 LIVE)",
+      "name": "🏓 Bóng Bàn",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-e874b457e7",
-          "name": "ZHOU Qihao vs OH Junsung | 18:00 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e874b457e7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e874b457e7",
-                  "name": "ZHOU Qihao vs OH Junsung",
-                  "streams": [
-                    {
-                      "id": "st-e874b457e7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e9923b41af",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793176507_hd/1793176507_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Montpellier 2026",
-            "team_a": "ZHOU Qihao",
-            "team_b": "OH Junsung",
-            "logo_a": "https://static.flashscore.com/res/image/data/h4RlwZcM-W4DreWqd.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/A3GlBGf5-Iu0xbn13.png",
-            "time": "18:00:00",
-            "date": "28/10",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r2m5zzs9qmyi_33024e61_20261028.png?v=33024e61",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-8e648e255c",
           "name": "Tomokazu HARIMOTO vs Simon GAUZY | 00:30 29/10",
