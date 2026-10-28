@@ -884,83 +884,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-cf8be4a198",
-          "name": "Daegu KoGas Pegasus vs Wonju Dongbu Promy | 17:00 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cf8be4a198",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cf8be4a198",
-                  "name": "Daegu KoGas Pegasus vs Wonju Dongbu Promy",
-                  "streams": [
-                    {
-                      "id": "st-cf8be4a198",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8a3e372f7",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793086408_hd/1793086408_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Daegu KoGas Pegasus",
-            "team_b": "Wonju Dongbu Promy",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a322b3f45e8fc272b36c48003e467f20.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ad13a8e4c726a65f277f7da7a19a4126.png",
-            "time": "17:00:00",
-            "date": "28/10",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11160378_5adf0433_20261028.png?v=5adf0433",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-7a9a217d3a",
           "name": "Perth Wildcats vs Sydney Kings | 17:30 28/10",
