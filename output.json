@@ -89,6 +89,150 @@
           }
         },
         {
+          "id": "gv-617040d8e0",
+          "name": "Monza vs Napoli | 02:45 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-617040d8e0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-617040d8e0",
+                  "name": "Monza vs Napoli",
+                  "streams": [
+                    {
+                      "id": "st-617040d8e0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d6d9602ec",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793153746_hd/1793153746_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Monza",
+            "team_b": "Napoli",
+            "logo_a": "https://images.keovip88.net/images/teams/monza.png",
+            "logo_b": "https://images.keovip88.net/images/teams/napoli.png",
+            "time": "02:45:00",
+            "date": "29/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad800c824d46db870eb0af5_8c1689af_20261029.png?v=8c1689af",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cc8cc1b974",
+          "name": "Genoa vs Juventus | 02:45 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cc8cc1b974",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cc8cc1b974",
+                  "name": "Genoa vs Juventus",
+                  "streams": [
+                    {
+                      "id": "st-cc8cc1b974",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-51e0c93b97",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793153767_hd/1793153767_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Genoa",
+            "team_b": "Juventus",
+            "logo_a": "https://images.keovip88.net/images/teams/genoa.png",
+            "logo_b": "https://images.keovip88.net/images/teams/juventus.png",
+            "time": "02:45:00",
+            "date": "29/10",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad800c824d46db870eb0aed_b975e0f2_20261029.png?v=b975e0f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-01c1240e4c",
           "name": "AFC Bournemouth vs Aston Villa | 02:45 29/10",
           "type": "single",
@@ -300,150 +444,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd1b645163e9e3e085d58_919cbd12_20261029.png?v=919cbd12",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-617040d8e0",
-          "name": "Monza vs Napoli | 02:45 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-617040d8e0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-617040d8e0",
-                  "name": "Monza vs Napoli",
-                  "streams": [
-                    {
-                      "id": "st-617040d8e0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5d6d9602ec",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793153746_hd/1793153746_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Monza",
-            "team_b": "Napoli",
-            "logo_a": "https://images.keovip88.net/images/teams/monza.png",
-            "logo_b": "https://images.keovip88.net/images/teams/napoli.png",
-            "time": "02:45:00",
-            "date": "29/10",
-            "blv": "Sún",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad800c824d46db870eb0af5_8c1689af_20261029.png?v=8c1689af",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-cc8cc1b974",
-          "name": "Genoa vs Juventus | 02:45 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cc8cc1b974",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cc8cc1b974",
-                  "name": "Genoa vs Juventus",
-                  "streams": [
-                    {
-                      "id": "st-cc8cc1b974",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-51e0c93b97",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793153767_hd/1793153767_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Genoa",
-            "team_b": "Juventus",
-            "logo_a": "https://images.keovip88.net/images/teams/genoa.png",
-            "logo_b": "https://images.keovip88.net/images/teams/juventus.png",
-            "time": "02:45:00",
-            "date": "29/10",
-            "blv": "Hứa",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad800c824d46db870eb0aed_b975e0f2_20261029.png?v=b975e0f2",
             "width": 1600,
             "height": 1200
           }
