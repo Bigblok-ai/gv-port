@@ -44,11 +44,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-d7ebc2ca0b",
+                          "id": "lnk-883f166916",
                           "name": "Hứa",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793115288_hd/1793115288_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793115288_hd/1793115288_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1677,87 +1677,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39618273_f78ad5e4_20261029.png?v=f78ad5e4",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-5d6cc403d0",
-          "name": "Novak Djokovic vs Ugo Humbert | 21:30 28/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5d6cc403d0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5d6cc403d0",
-                  "name": "Novak Djokovic vs Ugo Humbert",
-                  "streams": [
-                    {
-                      "id": "st-5d6cc403d0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e909f5d94d",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793176370_hd/1793176370_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Basel",
-            "team_a": "Novak Djokovic",
-            "team_b": "Ugo Humbert",
-            "logo_a": "https://static.flashscore.com/res/image/data/tSfwGCdM-MJZajegG.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/MVi1SsWg-x6lv4PUq.png",
-            "time": "21:30:00",
-            "date": "28/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e3yciu25ruh4_b83b8ac8_20261029.png?v=b83b8ac8",
             "width": 1600,
             "height": 1200
           }
