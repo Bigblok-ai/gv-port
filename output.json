@@ -1394,78 +1394,6 @@
           }
         },
         {
-          "id": "gv-4235b9a16c",
-          "name": "Detroit Pistons vs Charlotte Hornets | 06:00 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4235b9a16c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4235b9a16c",
-                  "name": "Detroit Pistons vs Charlotte Hornets",
-                  "streams": [
-                    {
-                      "id": "st-4235b9a16c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a2ca4af271",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792914335_hd/1792914335_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Detroit Pistons",
-            "team_b": "Charlotte Hornets",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c4677b9a5c8823ad3070069d8741a809.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
-            "time": "06:00:00",
-            "date": "29/10",
-            "blv": "Cận",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35536470_02870e3e_20261028.png?v=02870e3e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-0f2f563ac1",
           "name": "Indiana Pacers vs Philadelphia 76ers | 06:00 29/10",
           "type": "single",
@@ -1533,6 +1461,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36536471_3ee34414_20261028.png?v=3ee34414",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4235b9a16c",
+          "name": "Detroit Pistons vs Charlotte Hornets | 06:00 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4235b9a16c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4235b9a16c",
+                  "name": "Detroit Pistons vs Charlotte Hornets",
+                  "streams": [
+                    {
+                      "id": "st-4235b9a16c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a2ca4af271",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792914335_hd/1792914335_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Detroit Pistons",
+            "team_b": "Charlotte Hornets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c4677b9a5c8823ad3070069d8741a809.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
+            "time": "06:00:00",
+            "date": "29/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35536470_02870e3e_20261028.png?v=02870e3e",
             "width": 1600,
             "height": 1200
           }
