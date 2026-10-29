@@ -665,6 +665,78 @@
           }
         },
         {
+          "id": "gv-14de5a1027",
+          "name": "Gremio (RS) vs Atletico Paranaense | 07:30 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-14de5a1027",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-14de5a1027",
+                  "name": "Gremio (RS) vs Atletico Paranaense",
+                  "streams": [
+                    {
+                      "id": "st-14de5a1027",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-809ec1ff26",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793294759_hd/1793294759_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Brazil",
+            "team_a": "Gremio (RS)",
+            "team_b": "Atletico Paranaense",
+            "logo_a": "https://images.keovip88.net/images/teams/gremio-rs.png",
+            "logo_b": "https://images.keovip88.net/images/teams/atletico-paranaense.png",
+            "time": "07:30:00",
+            "date": "30/10",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525224d46db8709e43a0_541b213b_20261030.png?v=541b213b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-a0ea4820cd",
           "name": "DPMM FC vs Negeri Sembilan | 15:00 30/10",
           "type": "single",
