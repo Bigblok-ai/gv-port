@@ -2355,6 +2355,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-66a06b54c5",
+          "name": "Semi vs Finals | 19:00 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-66a06b54c5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-66a06b54c5",
+                  "name": "Semi vs Finals",
+                  "streams": [
+                    {
+                      "id": "st-66a06b54c5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a9277f1bff",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284543_hd/1793284543_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-PGL Masters Buncharest 2026",
+            "team_a": "Semi",
+            "team_b": "Finals",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-kHHLKKuJglmzhzRGBRg-gkv2iBnualPjPvWBKB9fzeorWkxQAtN0bVPC&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR88zIVrXZTOW4stFBQEjjd33zM5SR3emswUbDknBe-LE4WNjHCQgsFhAA&s=10",
+            "time": "19:00:00",
+            "date": "30/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/92butqwwh404_f59eb8be_20261029.png?v=f59eb8be",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
