@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c86ffc125d",
-          "name": "Phnom Penh FC vs Kitchee | 19:15 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c86ffc125d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c86ffc125d",
-                  "name": "Phnom Penh FC vs Kitchee",
-                  "streams": [
-                    {
-                      "id": "st-c86ffc125d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-082855e69a",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793234765_hd/1793234765_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Cup",
-            "team_a": "Phnom Penh FC",
-            "team_b": "Kitchee",
-            "logo_a": "https://images.keovip88.net/images/teams/phnom-penh-fc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/kitchee.png",
-            "time": "19:15:00",
-            "date": "29/10",
-            "blv": "Tỵ ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d9576_f8109081_20261029.png?v=f8109081",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-6e03cf6f1b",
-          "name": "Shanghai Shenhua vs FC Machida Zelvia | 19:15 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6e03cf6f1b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6e03cf6f1b",
-                  "name": "Shanghai Shenhua vs FC Machida Zelvia",
-                  "streams": [
-                    {
-                      "id": "st-6e03cf6f1b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a089694124",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793234794_hd/1793234794_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Cup",
-            "team_a": "Shanghai Shenhua",
-            "team_b": "FC Machida Zelvia",
-            "logo_a": "https://images.keovip88.net/images/teams/shanghai-shenhua.png",
-            "logo_b": "https://images.keovip88.net/images/teams/machida-zelvia.png",
-            "time": "19:15:00",
-            "date": "29/10",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d9570_4d6041f4_20261029.png?v=4d6041f4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fc6af8f99f",
           "name": "CSKA Moscow vs Lokomotiv Moscow | 23:30 29/10",
@@ -812,83 +668,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-6b4e92aed7",
-          "name": "Xinjiang Flying Tigers vs NanJing Monkey Kings | 19:00 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6b4e92aed7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6b4e92aed7",
-                  "name": "Xinjiang Flying Tigers vs NanJing Monkey Kings",
-                  "streams": [
-                    {
-                      "id": "st-6b4e92aed7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-245c1342f3",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793235157_hd/1793235157_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Xinjiang Flying Tigers",
-            "team_b": "NanJing Monkey Kings",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f68788874e0a17dd655083cb42b1d00b.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e3bbce6525ca22d736f744cd2e31ff59.png",
-            "time": "19:00:00",
-            "date": "29/10",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35763472_f2ff6a95_20261029.png?v=f2ff6a95",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-939735bf70",
           "name": "Atlanta Dream vs Golden State Valkyries | 23:30 29/10",
@@ -1325,83 +1109,11 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-839fa57e94",
-          "name": "Cameron Norrie vs Daniil Medvedev | 19:30 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-839fa57e94",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-839fa57e94",
-                  "name": "Cameron Norrie vs Daniil Medvedev",
-                  "streams": [
-                    {
-                      "id": "st-839fa57e94",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-00816078a4",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793235221_hd/1793235221_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Vienna",
-            "team_a": "Cameron Norrie",
-            "team_b": "Daniil Medvedev",
-            "logo_a": "https://static.flashscore.com/res/image/data/xQ8cn0eM-2BGSRmDE.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/QujxPtf5-6Z1AkBdk.png",
-            "time": "19:30:00",
-            "date": "29/10",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0cpg2evlvnxt_ef68b62a_20261029.png?v=ef68b62a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-82ecdd5b06",
           "name": "Nikoloz Basilashvili vs Carlos Alcaraz | 21:00 29/10",
@@ -1478,83 +1190,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b5fce8f3e1",
-          "name": "Aurora vs MOUZ | 21:00 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b5fce8f3e1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b5fce8f3e1",
-                  "name": "Aurora vs MOUZ",
-                  "streams": [
-                    {
-                      "id": "st-b5fce8f3e1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a5d9971c34",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793266801_hd/1793266801_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-PGL Masters Buncharest 2026",
-            "team_a": "Aurora",
-            "team_b": "MOUZ",
-            "logo_a": "https://static.flashscore.com/res/image/data/8dZOBwvS-hvzueWgo.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/ObrRkAe5-xrMguOa9.png",
-            "time": "21:00:00",
-            "date": "29/10",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tdhlbchj0b22_17b92a06_20261029.png?v=17b92a06",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-93cc116e3c",
           "name": "KC vs CFO | 03:00 30/10",
@@ -2145,87 +1785,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/k9ev6oqjtmiz_c6abb8f9_20261029.png?v=c6abb8f9",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-d9cfc7af03",
-          "name": "Miwa HARIMOTO vs Bruna TAKAHASHI | 18:00 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d9cfc7af03",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d9cfc7af03",
-                  "name": "Miwa HARIMOTO vs Bruna TAKAHASHI",
-                  "streams": [
-                    {
-                      "id": "st-d9cfc7af03",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-83ce13397f",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793235410_hd/1793235410_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Montpellier 2026",
-            "team_a": "Miwa HARIMOTO",
-            "team_b": "Bruna TAKAHASHI",
-            "logo_a": "https://static.flashscore.com/res/image/data/MXnC9WGG-2g5jENBe.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/bJyh0ZYA-r3PTs7WS.png",
-            "time": "18:00:00",
-            "date": "29/10",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5llc817jmyqa_7ed48ba4_20261029.png?v=7ed48ba4",
             "width": 1600,
             "height": 1200
           }
