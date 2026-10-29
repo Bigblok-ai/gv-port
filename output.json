@@ -17,6 +17,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-bf7875cdb3",
+          "name": "Gangwon FC vs Kuching FA | 17:00 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bf7875cdb3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bf7875cdb3",
+                  "name": "Gangwon FC vs Kuching FA",
+                  "streams": [
+                    {
+                      "id": "st-bf7875cdb3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7910e71710",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793234567_hd/1793234567_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Cup",
+            "team_a": "Gangwon FC",
+            "team_b": "Kuching FA",
+            "logo_a": "https://images.keovip88.net/images/teams/gangwon-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/kuching-fa.png",
+            "time": "17:00:00",
+            "date": "29/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d9575_23c02604_20261029.png?v=23c02604",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-fc6af8f99f",
           "name": "CSKA Moscow vs Lokomotiv Moscow | 23:30 29/10",
           "type": "single",
@@ -668,7 +740,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (8 LIVE)",
+      "name": "🏀 Bóng Rổ (9 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1250,6 +1322,78 @@
           }
         },
         {
+          "id": "gv-73ee88a791",
+          "name": "Utah Jazz vs San Antonio Spurs | 08:00 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-73ee88a791",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-73ee88a791",
+                  "name": "Utah Jazz vs San Antonio Spurs",
+                  "streams": [
+                    {
+                      "id": "st-73ee88a791",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1e362800c2",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793222543_hd/1793222543_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Utah Jazz",
+            "team_b": "San Antonio Spurs",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
+            "time": "08:00:00",
+            "date": "29/10",
+            "blv": "Mason",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35788277_2b9d407f_20261029.png?v=2b9d407f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-4235b9a16c",
           "name": "Detroit Pistons vs Charlotte Hornets | 06:00 29/10",
           "type": "single",
@@ -1317,78 +1461,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35536470_02870e3e_20261029.png?v=02870e3e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-73ee88a791",
-          "name": "Utah Jazz vs San Antonio Spurs | 08:00 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-73ee88a791",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-73ee88a791",
-                  "name": "Utah Jazz vs San Antonio Spurs",
-                  "streams": [
-                    {
-                      "id": "st-73ee88a791",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1e362800c2",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793222543_hd/1793222543_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Utah Jazz",
-            "team_b": "San Antonio Spurs",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
-            "time": "08:00:00",
-            "date": "29/10",
-            "blv": "Mason",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35788277_2b9d407f_20261029.png?v=2b9d407f",
             "width": 1600,
             "height": 1200
           }
