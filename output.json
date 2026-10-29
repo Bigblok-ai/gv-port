@@ -2053,6 +2053,87 @@
       ]
     },
     {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-0942b615f9",
+          "name": "NEC Red Rockets Nữ vs Kurobe Aqua Fairies Nữ | 16:35 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0942b615f9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0942b615f9",
+                  "name": "NEC Red Rockets Nữ vs Kurobe Aqua Fairies Nữ",
+                  "streams": [
+                    {
+                      "id": "st-0942b615f9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9e2484eaf3",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284191_hd/1793284191_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Nhật Bản SV. League",
+            "team_a": "NEC Red Rockets Nữ",
+            "team_b": "Kurobe Aqua Fairies Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/0WBCGUh5-6FZ2yXJ6.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/ppo0f9zB-hbW78pch.png",
+            "time": "16:35:00",
+            "date": "30/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qvej616e50mw_2f35732a_20261029.png?v=2f35732a",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_esport",
       "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
