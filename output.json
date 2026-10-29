@@ -89,7 +89,7 @@
           }
         },
         {
-          "id": "gv-7db4582a21",
+          "id": "gv-4eca838029",
           "name": "Frosinone vs Lecce | 00:30 30/10",
           "type": "single",
           "display": "thumbnail-only",
@@ -104,23 +104,23 @@
           ],
           "sources": [
             {
-              "id": "src-7db4582a21",
+              "id": "src-4eca838029",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-7db4582a21",
+                  "id": "ct-4eca838029",
                   "name": "Frosinone vs Lecce",
                   "streams": [
                     {
-                      "id": "st-7db4582a21",
+                      "id": "st-4eca838029",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-8d5af9e105",
+                          "id": "lnk-95a3ceaecc",
                           "name": "Bee",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793115524_hd/1793115524_hd@720p.m3u8",
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/17931155244_hd/17931155244_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -155,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525224d46db8709e42f0_bdb4c148_20261030.png?v=bdb4c148",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525224d46db8709e42f0e_bdb4c148_20261030.png?v=bdb4c148",
             "width": 1600,
             "height": 1200
           }
@@ -732,6 +732,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525224d46db8709e43a0_541b213b_20261030.png?v=541b213b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6701ec228e",
+          "name": "Alebrijes de Oaxaca vs Mineros de Zacatecas | 08:00 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6701ec228e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6701ec228e",
+                  "name": "Alebrijes de Oaxaca vs Mineros de Zacatecas",
+                  "streams": [
+                    {
+                      "id": "st-6701ec228e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d4a34cde05",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793295322_hd/1793295322_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Mexico - Liga de Expansión MX",
+            "team_a": "Alebrijes de Oaxaca",
+            "team_b": "Mineros de Zacatecas",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/lxOFg-0OLpjpsYyq9Q6u5g_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/nKmlT1o1eHIBc3cCKpfzug_96x96.png",
+            "time": "08:00:00",
+            "date": "30/10",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0l5hpou58jg2_ccc473a0_20261030.png?v=ccc473a0",
             "width": 1600,
             "height": 1200
           }
@@ -1322,6 +1394,78 @@
           }
         },
         {
+          "id": "gv-a34664d59a",
+          "name": "New Orleans Pelicans vs Sacramento Kings | 07:00 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a34664d59a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a34664d59a",
+                  "name": "New Orleans Pelicans vs Sacramento Kings",
+                  "streams": [
+                    {
+                      "id": "st-a34664d59a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9444ec605a",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793295417_hd/1793295417_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "New Orleans Pelicans",
+            "team_b": "Sacramento Kings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png",
+            "time": "07:00:00",
+            "date": "30/10",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/48788270_05e90966_20261030.png?v=05e90966",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-1926b26525",
           "name": "Atlanta Hawks vs Cleveland Cavaliers | 07:00 30/10",
           "type": "single",
@@ -1389,6 +1533,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20436474_2b5248aa_20261030.png?v=2b5248aa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b8fd297f3a",
+          "name": "Portland Trail Blazers vs Memphis Grizzlies | 09:00 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b8fd297f3a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b8fd297f3a",
+                  "name": "Portland Trail Blazers vs Memphis Grizzlies",
+                  "streams": [
+                    {
+                      "id": "st-b8fd297f3a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9d4dd2c8d3",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793295503_hd/1793295503_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Portland Trail Blazers",
+            "team_b": "Memphis Grizzlies",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
+            "time": "09:00:00",
+            "date": "30/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49788271_2bbfb3c8_20261030.png?v=2bbfb3c8",
             "width": 1600,
             "height": 1200
           }
