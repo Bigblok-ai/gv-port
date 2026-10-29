@@ -1028,83 +1028,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (8 LIVE)",
+      "name": "🏀 Bóng Rổ (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-0f2f563ac1",
-          "name": "Indiana Pacers vs Philadelphia 76ers | 06:00 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0f2f563ac1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0f2f563ac1",
-                  "name": "Indiana Pacers vs Philadelphia 76ers",
-                  "streams": [
-                    {
-                      "id": "st-0f2f563ac1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-63dd6b8d09",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793116240_hd/1793116240_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Indiana Pacers",
-            "team_b": "Philadelphia 76ers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7f086c864d1e283b7862a756f0b88373.png",
-            "time": "06:00:00",
-            "date": "29/10",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36536471_3ee34414_20261029.png?v=3ee34414",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-55589b4ea4",
           "name": "Toronto Raptors vs Orlando Magic | 06:30 29/10",
