@@ -1610,6 +1610,78 @@
           }
         },
         {
+          "id": "gv-23a4b60b8d",
+          "name": "New Zealand Breakers vs Adelaide 36ers | 13:30 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-23a4b60b8d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-23a4b60b8d",
+                  "name": "New Zealand Breakers vs Adelaide 36ers",
+                  "streams": [
+                    {
+                      "id": "st-23a4b60b8d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f939f502fd",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793295573_hd/1793295573_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "New Zealand Breakers",
+            "team_b": "Adelaide 36ers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7778a93083d2fa50e4cb4e128f07cf5f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6a6d3d4063e675d1ce3e701153e3f367.png",
+            "time": "13:30:00",
+            "date": "30/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27522275_0de1d96d_20261030.png?v=0de1d96d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-b3e2529814",
           "name": "Tasmania JackJumpers vs Sydney Kings | 15:30 30/10",
           "type": "single",
@@ -3387,6 +3459,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jpib3zat6d3n_10d0a26e_20261030.png?v=10d0a26e",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_rugby",
+      "name": "🏅 Thể Thao",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-e1bed5593a",
+          "name": "Carolina Panthers vs Green Bay Packers | 07:15 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e1bed5593a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e1bed5593a",
+                  "name": "Carolina Panthers vs Green Bay Packers",
+                  "streams": [
+                    {
+                      "id": "st-e1bed5593a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-40141b9f47",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793295716_hd/1793295716_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Carolina Panthers",
+            "team_b": "Green Bay Packers",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/CXMe1uLygmmxPU3PNKga7g_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/VeFjPDwgNAreoWjnpVNqrg_96x96.png",
+            "time": "07:15:00",
+            "date": "30/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5ipj9qwj6wpo_9e3da23d_20261030.png?v=9e3da23d",
             "width": 1600,
             "height": 1200
           }
