@@ -2132,6 +2132,78 @@
           }
         },
         {
+          "id": "gv-b5fce8f3e1",
+          "name": "Aurora vs MOUZ | 21:00 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b5fce8f3e1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b5fce8f3e1",
+                  "name": "Aurora vs MOUZ",
+                  "streams": [
+                    {
+                      "id": "st-b5fce8f3e1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a5d9971c34",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793266801_hd/1793266801_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-PGL Masters Buncharest 2026",
+            "team_a": "Aurora",
+            "team_b": "MOUZ",
+            "logo_a": "https://static.flashscore.com/res/image/data/8dZOBwvS-hvzueWgo.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/ObrRkAe5-xrMguOa9.png",
+            "time": "21:00:00",
+            "date": "29/10",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tdhlbchj0b22_17b92a06_20261029.png?v=17b92a06",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-93cc116e3c",
           "name": "KC vs CFO | 03:00 30/10",
           "type": "single",
