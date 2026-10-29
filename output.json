@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "gv-6f2907e3a9",
-          "name": "Fiorentina vs Atalanta | 02:45 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6f2907e3a9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6f2907e3a9",
-                  "name": "Fiorentina vs Atalanta",
-                  "streams": [
-                    {
-                      "id": "st-6f2907e3a9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5e7fbeeb5a",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793115758_hd/1793115758_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Fiorentina",
-            "team_b": "Atalanta",
-            "logo_a": "https://images.keovip88.net/images/teams/fiorentina.png",
-            "logo_b": "https://images.keovip88.net/images/teams/atalanta.png",
-            "time": "02:45:00",
-            "date": "30/10",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525224d46db8709e4353_812b99bc_20261030.png?v=812b99bc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-d493709faa",
           "name": "Everton vs Newcastle United | 02:45 30/10",
           "type": "single",
@@ -228,6 +156,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aadd1b645163e9e3e085d5e_43cfa15f_20261030.png?v=43cfa15f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6f2907e3a9",
+          "name": "Fiorentina vs Atalanta | 02:45 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6f2907e3a9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6f2907e3a9",
+                  "name": "Fiorentina vs Atalanta",
+                  "streams": [
+                    {
+                      "id": "st-6f2907e3a9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5e7fbeeb5a",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793115758_hd/1793115758_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Fiorentina",
+            "team_b": "Atalanta",
+            "logo_a": "https://images.keovip88.net/images/teams/fiorentina.png",
+            "logo_b": "https://images.keovip88.net/images/teams/atalanta.png",
+            "time": "02:45:00",
+            "date": "30/10",
+            "blv": "Hứa",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525224d46db8709e4353_812b99bc_20261030.png?v=812b99bc",
             "width": 1600,
             "height": 1200
           }
