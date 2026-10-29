@@ -17,6 +17,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-8cb499c5e8",
+          "name": "Vòng Loại vs F04 | 22:00 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8cb499c5e8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8cb499c5e8",
+                  "name": "Vòng Loại vs F04",
+                  "streams": [
+                    {
+                      "id": "st-8cb499c5e8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ed336039a6",
+                          "name": "BLV Túi Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793285179_hd/1793285179_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải F04 Giờ Vàng",
+            "team_a": "Vòng Loại",
+            "team_b": "F04",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSJTmc0ub5HUSr2cCln391Qcot9YEJo_569T9VsT83A&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnx5V0liuHepDXj-b2Y56x5GMUxILIjEwlK6uyzlWYw&s=10",
+            "time": "22:00:00",
+            "date": "29/10",
+            "blv": "BLV Túi Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gwov35i3v7kb_97a3bf9a_20261029.png?v=97a3bf9a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-fc6af8f99f",
           "name": "CSKA Moscow vs Lokomotiv Moscow | 23:30 29/10",
           "type": "single",
@@ -1317,6 +1389,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20436474_2b5248aa_20261029.png?v=2b5248aa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b3e2529814",
+          "name": "Tasmania JackJumpers vs Sydney Kings | 15:30 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b3e2529814",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b3e2529814",
+                  "name": "Tasmania JackJumpers vs Sydney Kings",
+                  "streams": [
+                    {
+                      "id": "st-b3e2529814",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-05e95bb46d",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793285205_hd/1793285205_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Tasmania JackJumpers",
+            "team_b": "Sydney Kings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7e24a7272efcfecc7b45fa8c86605bd0.png",
+            "time": "15:30:00",
+            "date": "30/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28522276_46fdca3f_20261029.png?v=46fdca3f",
             "width": 1600,
             "height": 1200
           }
