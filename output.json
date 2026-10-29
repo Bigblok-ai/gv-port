@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -161,6 +161,78 @@
           }
         },
         {
+          "id": "gv-6e03cf6f1b",
+          "name": "Shanghai Shenhua vs FC Machida Zelvia | 19:15 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6e03cf6f1b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6e03cf6f1b",
+                  "name": "Shanghai Shenhua vs FC Machida Zelvia",
+                  "streams": [
+                    {
+                      "id": "st-6e03cf6f1b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-169b2fc881",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793234794_hd/1793234794_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Cup",
+            "team_a": "Shanghai Shenhua",
+            "team_b": "FC Machida Zelvia",
+            "logo_a": "https://images.keovip88.net/images/teams/shanghai-shenhua.png",
+            "logo_b": "https://images.keovip88.net/images/teams/machida-zelvia.png",
+            "time": "19:15:00",
+            "date": "29/10",
+            "blv": "Trĩ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d9570_4d6041f4_20261029.png?v=4d6041f4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c86ffc125d",
           "name": "Phnom Penh FC vs Kitchee | 19:15 29/10",
           "type": "single",
@@ -228,78 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d9576_f8109081_20261029.png?v=f8109081",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-6e03cf6f1b",
-          "name": "Shanghai Shenhua vs FC Machida Zelvia | 19:15 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6e03cf6f1b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6e03cf6f1b",
-                  "name": "Shanghai Shenhua vs FC Machida Zelvia",
-                  "streams": [
-                    {
-                      "id": "st-6e03cf6f1b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-169b2fc881",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793234794_hd/1793234794_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Cup",
-            "team_a": "Shanghai Shenhua",
-            "team_b": "FC Machida Zelvia",
-            "logo_a": "https://images.keovip88.net/images/teams/shanghai-shenhua.png",
-            "logo_b": "https://images.keovip88.net/images/teams/machida-zelvia.png",
-            "time": "19:15:00",
-            "date": "29/10",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d9570_4d6041f4_20261029.png?v=4d6041f4",
             "width": 1600,
             "height": 1200
           }
