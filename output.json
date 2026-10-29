@@ -1383,6 +1383,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-2c7d3ac378",
+          "name": "Lille OSC vs Lens | 03:05 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2c7d3ac378",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2c7d3ac378",
+                  "name": "Lille OSC vs Lens",
+                  "streams": [
+                    {
+                      "id": "st-2c7d3ac378",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-72bc74b4fd",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793116118_hd/1793116118_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Lille OSC",
+            "team_b": "Lens",
+            "logo_a": "https://images.keovip88.net/images/teams/lille.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lens.png",
+            "time": "03:05:00",
+            "date": "31/10",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d324d46db8704c503f_0cdbde1b_20261030.png?v=0cdbde1b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
