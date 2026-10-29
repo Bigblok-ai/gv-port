@@ -42,25 +42,7 @@
                     {
                       "id": "st-8cb499c5e8",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ed336039a6",
-                          "name": "BLV Túi Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793285179_hd/1793285179_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -75,7 +57,7 @@
             "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWnx5V0liuHepDXj-b2Y56x5GMUxILIjEwlK6uyzlWYw&s=10",
             "time": "22:00:00",
             "date": "29/10",
-            "blv": "BLV Túi Mù",
+            "blv": "",
             "is_live": false,
             "cate_type": "football"
           },
@@ -2262,6 +2244,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1y6b5bj4gulv_37b18b74_20261029.png?v=37b18b74",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-011b2bcc48",
+          "name": "Alexander Zverev vs Tallon Griekspoor | 23:30 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-011b2bcc48",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-011b2bcc48",
+                  "name": "Alexander Zverev vs Tallon Griekspoor",
+                  "streams": [
+                    {
+                      "id": "st-011b2bcc48",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cddc907a55",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793285539_hd/1793285539_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Vienna",
+            "team_a": "Alexander Zverev",
+            "team_b": "Tallon Griekspoor",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfMNFE19_dWWHkHPTtxcqOQ54QcqTyz95M5V_AESQ-CQ&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLm60BM31epjZxjMbWZ9HFmqpA4G8RIGJXNrw9Px9ngg&s=10",
+            "time": "23:30:00",
+            "date": "29/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34czomr7qqyh_e08b2b56_20261029.png?v=e08b2b56",
             "width": 1600,
             "height": 1200
           }
