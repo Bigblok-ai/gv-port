@@ -1028,7 +1028,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1101,78 +1101,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33788275_6a7735cc_20261029.png?v=6a7735cc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-6543a275e1",
-          "name": "Chicago Bulls vs New York Knicks | 07:00 29/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6543a275e1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6543a275e1",
-                  "name": "Chicago Bulls vs New York Knicks",
-                  "streams": [
-                    {
-                      "id": "st-6543a275e1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d4411ad900",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793222511_hd/1793222511_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Chicago Bulls",
-            "team_b": "New York Knicks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c73eca8b9cc18ff386bf6ff4c1236b9e.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png",
-            "time": "07:00:00",
-            "date": "29/10",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38536473_7218497a_20261029.png?v=7218497a",
             "width": 1600,
             "height": 1200
           }
