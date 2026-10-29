@@ -1028,7 +1028,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1041,10 +1041,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1093,7 +1093,7 @@
             "time": "16:00:00",
             "date": "29/10",
             "blv": "Cận",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1133,11 +1133,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-12a5a27e86",
+                          "id": "lnk-2780a90191",
                           "name": "Cầy",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793235095_hd/1793235095_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793235095_hd/1793235095_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1205,11 +1205,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-f10ac72d51",
+                          "id": "lnk-2bcf98b2af",
                           "name": "Điếc",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793235127_hd/1793235127_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793235127_hd/1793235127_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1277,11 +1277,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-bfadd480cf",
+                          "id": "lnk-b3a4139700",
                           "name": "Nem",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793235006_hd/1793235006_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793235006_hd/1793235006_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1349,11 +1349,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-d18fe7a440",
+                          "id": "lnk-a45125651f",
                           "name": "Vịt",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793235042_hd/1793235042_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793235042_hd/1793235042_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
