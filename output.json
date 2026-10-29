@@ -2054,11 +2054,83 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-65d3c29601",
+          "name": "FUT Esports vs Nemiga Gamming | 15:00 29/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-65d3c29601",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-65d3c29601",
+                  "name": "FUT Esports vs Nemiga Gamming",
+                  "streams": [
+                    {
+                      "id": "st-65d3c29601",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-470ba86d51",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793260159_hd/1793260159_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-PGL Masters Buncharest 2026",
+            "team_a": "FUT Esports",
+            "team_b": "Nemiga Gamming",
+            "logo_a": "https://img-cdn.hltv.org/teamlogo/Os71GAOy8KDuQFc0M8HE6O.png?ixlib=java-2.1.0&w=200&s=51c9cdaa5ea141a38ceb29380b35ab77",
+            "logo_b": "https://img-cdn.hltv.org/teamlogo/6ZPCm5r3XyGByXkFGiRnLh.png?ixlib=java-2.1.0&w=200&s=1a914d0f4164219aee64839b9002d22c",
+            "time": "15:00:00",
+            "date": "29/10",
+            "blv": "Mickey",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fiog4ijh3mzp_37c28701_20261029.png?v=37c28701",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-93cc116e3c",
           "name": "KC vs CFO | 03:00 30/10",
