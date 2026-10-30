@@ -3012,6 +3012,150 @@
           }
         },
         {
+          "id": "gv-6d199e8628",
+          "name": "Charlotte Hornets vs Philadelphia 76ers | 05:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6d199e8628",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6d199e8628",
+                  "name": "Charlotte Hornets vs Philadelphia 76ers",
+                  "streams": [
+                    {
+                      "id": "st-6d199e8628",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1a4e04ce25",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793376909_hd/1793376909_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Charlotte Hornets",
+            "team_b": "Philadelphia 76ers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7f086c864d1e283b7862a756f0b88373.png",
+            "time": "05:00:00",
+            "date": "01/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34928272_d18a97bb_20261030.png?v=d18a97bb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ad07a2d583",
+          "name": "New Orleans Pelicans vs Atlanta Hawks | 06:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ad07a2d583",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ad07a2d583",
+                  "name": "New Orleans Pelicans vs Atlanta Hawks",
+                  "streams": [
+                    {
+                      "id": "st-ad07a2d583",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3754c351a5",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793376961_hd/1793376961_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "New Orleans Pelicans",
+            "team_b": "Atlanta Hawks",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/57bd383cc8c9b3d4f92a5d1c371e38e9.png",
+            "time": "06:00:00",
+            "date": "01/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31888274_6efa28e3_20261030.png?v=6efa28e3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c36be1c813",
           "name": "Golden State Valkyries vs Atlanta Dream | 07:00 01/11",
           "type": "single",
@@ -3655,6 +3799,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22622271_d9b59df1_20261030.png?v=d9b59df1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3016a1dd9d",
+          "name": "Indiana Pacers vs Brooklyn Nets | 05:00 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3016a1dd9d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3016a1dd9d",
+                  "name": "Indiana Pacers vs Brooklyn Nets",
+                  "streams": [
+                    {
+                      "id": "st-3016a1dd9d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-635fe222a7",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793377014_hd/1793377014_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Indiana Pacers",
+            "team_b": "Brooklyn Nets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c01b5e6f6659dd42195e9db3aaef13b7.png",
+            "time": "05:00:00",
+            "date": "02/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/379282755_49274035_20261030.png?v=49274035",
             "width": 1600,
             "height": 1200
           }
