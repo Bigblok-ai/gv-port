@@ -116,11 +116,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-8ef8e991f6",
+                          "id": "lnk-60c972e585",
                           "name": "Tỵ ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283229_hd/1793283229_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283229_hd/1793283229_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -188,11 +188,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-b85875e45b",
+                          "id": "lnk-16c6802465",
                           "name": "Mason",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283663_hd/1793283663_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283663_hd/1793283663_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -332,11 +332,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-cc226188f2",
+                          "id": "lnk-ed73609b34",
                           "name": "Trĩ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283839_hd/1793283839_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283839_hd/1793283839_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -404,11 +404,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-894dd95b79",
+                          "id": "lnk-f04b5abfb7",
                           "name": "Tỵ ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284046_hd/1793284046_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793284046_hd/1793284046_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -807,6 +807,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-9987d5ab9c",
+          "name": "Hải Phòng vs Bình Phước | 18:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9987d5ab9c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9987d5ab9c",
+                  "name": "Hải Phòng vs Bình Phước",
+                  "streams": [
+                    {
+                      "id": "st-9987d5ab9c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e49dcbde19",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283728_hd/1793283728_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Hải Phòng",
+            "team_b": "Bình Phước",
+            "logo_a": "https://images.keovip88.net/images/teams/hai-phong.png",
+            "logo_b": "https://images.keovip88.net/images/teams/truong-tuoi-dong-nai.png",
+            "time": "18:00:00",
+            "date": "31/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d724d46db8704c549d_0a246299_20261030.png?v=0a246299",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d08dfff828",
+          "name": "Thép Xanh Nam Định vs Thể Công Viettel | 18:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d08dfff828",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d08dfff828",
+                  "name": "Thép Xanh Nam Định vs Thể Công Viettel",
+                  "streams": [
+                    {
+                      "id": "st-d08dfff828",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ae24f6b767",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283768_hd/1793283768_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Thép Xanh Nam Định",
+            "team_b": "Thể Công Viettel",
+            "logo_a": "https://images.keovip88.net/images/teams/nam-dinh-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/viettel-fc.png",
+            "time": "18:00:00",
+            "date": "31/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d724d46db8704c54a1_5c738a3f_20261030.png?v=5c738a3f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-057c81cb77",
+          "name": "Sông Lam Nghệ An vs Công An Hà Nội | 18:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-057c81cb77",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-057c81cb77",
+                  "name": "Sông Lam Nghệ An vs Công An Hà Nội",
+                  "streams": [
+                    {
+                      "id": "st-057c81cb77",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d01c8c20f3",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283806_hd/1793283806_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Sông Lam Nghệ An",
+            "team_b": "Công An Hà Nội",
+            "logo_a": "https://images.keovip88.net/images/teams/song-lam-nghe-an.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cong-an-ha-noi.png",
+            "time": "18:00:00",
+            "date": "31/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d724d46db8704c54a9_2ca4bd27_20261030.png?v=2ca4bd27",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -917,11 +1133,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-a0c51915fe",
+                          "id": "lnk-97c0e7b45e",
                           "name": "Ben",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283309_hd/1793283309_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283309_hd/1793283309_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -989,11 +1205,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-3064192bdd",
+                          "id": "lnk-cc200542bc",
                           "name": "Ngu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283361_hd/1793283361_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283361_hd/1793283361_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1061,11 +1277,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-6f081af1aa",
+                          "id": "lnk-0c6cb0872c",
                           "name": "Cầy",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283422_hd/1793283422_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283422_hd/1793283422_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1133,11 +1349,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-1fd03d5477",
+                          "id": "lnk-a48bb0e41c",
                           "name": "Nem",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283518_hd/1793283518_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283518_hd/1793283518_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1655,11 +1871,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-a9277f1bff",
+                          "id": "lnk-b3dec4c2f2",
                           "name": "Mickey",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284543_hd/1793284543_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793284543_hd/1793284543_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1736,11 +1952,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-3c2e94fd82",
+                          "id": "lnk-646e4133aa",
                           "name": "Điếc",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284337_hd/1793284337_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793284337_hd/1793284337_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1776,78 +1992,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xe7crgd8oc17_a19423b4_20261030.png?v=a19423b4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-dfa1bc2e09",
-          "name": "ONE Friday Fights 176 vs The Inner Circle 36 | 18:30 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dfa1bc2e09",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-dfa1bc2e09",
-                  "name": "ONE Friday Fights 176 vs The Inner Circle 36",
-                  "streams": [
-                    {
-                      "id": "st-dfa1bc2e09",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-55dec3eba2",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1792312305_hd/1792312305_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ONE Friday Fights 176 & The Inner Circle 36",
-            "team_a": "ONE Friday Fights 176",
-            "team_b": "The Inner Circle 36",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQumak9ckXmoAe9pifrS9T_cq7Nrz7PLUnNL4xaU0WQkg&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9PzZcJnesnf_gbL5Dme4RYQ9uau2s2URPxKh-2wFT_A&s=10",
-            "time": "18:30:00",
-            "date": "30/10",
-            "blv": "Điếc",
-            "is_live": false,
-            "cate_type": "vothuat"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bg2q68hn5yia_72c38974_20261030.png?v=72c38974",
             "width": 1600,
             "height": 1200
           }
