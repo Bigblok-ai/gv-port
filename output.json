@@ -968,6 +968,383 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-cb5240f7eb",
+          "name": "Manchester City vs Brighton   Hove Albion | 22:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cb5240f7eb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cb5240f7eb",
+                  "name": "Manchester City vs Brighton   Hove Albion",
+                  "streams": [
+                    {
+                      "id": "st-cb5240f7eb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6083ddc14c",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284132_hd/1793284132_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-f4a4857759",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284172_hd/1793284172_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Manchester City",
+            "team_b": "Brighton   Hove Albion",
+            "logo_a": "https://images.keovip88.net/images/teams/manchester-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
+            "time": "22:00:00",
+            "date": "31/10",
+            "blv": "Ben, Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3de24d46db8704c5e6f_89f0803b_20261030.png?v=89f0803b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-03573f6bdb",
+          "name": "Hull City vs Ipswich | 22:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-03573f6bdb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-03573f6bdb",
+                  "name": "Hull City vs Ipswich",
+                  "streams": [
+                    {
+                      "id": "st-03573f6bdb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-39a589de98",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284186_hd/1793284186_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Hull City",
+            "team_b": "Ipswich",
+            "logo_a": "https://images.keovip88.net/images/teams/hull-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ipswich-town.png",
+            "time": "22:00:00",
+            "date": "31/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06fe_81cb7f01_20261030.png?v=81cb7f01",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1923ac9265",
+          "name": "Coventry vs Sunderland | 22:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1923ac9265",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1923ac9265",
+                  "name": "Coventry vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "st-1923ac9265",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1f27cc117e",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284209_hd/1793284209_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Coventry",
+            "team_b": "Sunderland",
+            "logo_a": "https://images.keovip88.net/images/teams/coventry-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sunderland-afc.png",
+            "time": "22:00:00",
+            "date": "31/10",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3de24d46db8704c5e64_c0fed071_20261030.png?v=c0fed071",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8ba244b098",
+          "name": "Brentford vs Nottingham Forest | 22:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8ba244b098",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8ba244b098",
+                  "name": "Brentford vs Nottingham Forest",
+                  "streams": [
+                    {
+                      "id": "st-8ba244b098",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c61fcb217e",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284242_hd/1793284242_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Brentford",
+            "team_b": "Nottingham Forest",
+            "logo_a": "https://images.keovip88.net/images/teams/brentford.png",
+            "logo_b": "https://images.keovip88.net/images/teams/nottingham-forest.png",
+            "time": "22:00:00",
+            "date": "31/10",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3de24d46db8704c5e5c_edc8cdab_20261030.png?v=edc8cdab",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-157bdf6d32",
+          "name": "AFC Bournemouth vs Leeds United | 22:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-157bdf6d32",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-157bdf6d32",
+                  "name": "AFC Bournemouth vs Leeds United",
+                  "streams": [
+                    {
+                      "id": "st-157bdf6d32",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d81544d634",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284270_hd/1793284270_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "AFC Bournemouth",
+            "team_b": "Leeds United",
+            "logo_a": "https://images.keovip88.net/images/teams/afc-bournemouth.png",
+            "logo_b": "https://images.keovip88.net/images/teams/leeds-united.png",
+            "time": "22:00:00",
+            "date": "31/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3de24d46db8704c5e56_3a6d6054_20261030.png?v=3a6d6054",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
