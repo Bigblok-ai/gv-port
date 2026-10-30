@@ -968,6 +968,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-e3b4a09b80",
+          "name": "Bayer Leverkusen vs VfB Stuttgart | 21:30 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e3b4a09b80",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e3b4a09b80",
+                  "name": "Bayer Leverkusen vs VfB Stuttgart",
+                  "streams": [
+                    {
+                      "id": "st-e3b4a09b80",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0fb2fa0531",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283982_hd/1793283982_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Bayer Leverkusen",
+            "team_b": "VfB Stuttgart",
+            "logo_a": "https://images.keovip88.net/images/teams/bayer-leverkusen.png",
+            "logo_b": "https://images.keovip88.net/images/teams/vfb-stuttgart.png",
+            "time": "21:30:00",
+            "date": "31/10",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0784_ee8d0fe0_20261030.png?v=ee8d0fe0",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
