@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b7463bb05e",
-          "name": "Abha vs Al Ittihad Jeddah | 19:30 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b7463bb05e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b7463bb05e",
-                  "name": "Abha vs Al Ittihad Jeddah",
-                  "streams": [
-                    {
-                      "id": "st-b7463bb05e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ed73609b34",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283839_hd/1793283839_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Ả Rập Xê Út",
-            "team_a": "Abha",
-            "team_b": "Al Ittihad Jeddah",
-            "logo_a": "https://images.keovip88.net/images/teams/abha.png",
-            "logo_b": "https://images.keovip88.net/images/teams/al-ittihad.png",
-            "time": "19:30:00",
-            "date": "30/10",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525324d46db8709e44e5_3c28e97a_20261030.png?v=3c28e97a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-7146875344",
           "name": "Al-Draih vs Al-Suqoor | 21:50 30/10",
@@ -188,11 +116,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-bfb166ac37",
+                          "id": "lnk-4296d998dd",
                           "name": "Ngọng",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793115983_hd/1793115983_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793115983_hd/1793115983_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -260,11 +188,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-dcc8f17a6c",
+                          "id": "lnk-9e39aba849",
                           "name": "Trĩ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793116025_hd/1793116025_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793116025_hd/1793116025_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -332,11 +260,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-0582b01163",
+                          "id": "lnk-c4473065a9",
                           "name": "Mason",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793116070_hd/1793116070_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793116070_hd/1793116070_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1078,11 +1006,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-b858470fc6",
+                          "id": "lnk-99b20a2674",
                           "name": "Ben",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793352599_hd/1793352599_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793352599_hd/1793352599_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1150,11 +1078,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-be542642bd",
+                          "id": "lnk-bd9016dc25",
                           "name": "Cận",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793352740_hd/1793352740_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793352740_hd/1793352740_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1222,11 +1150,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-27b86b5e4b",
+                          "id": "lnk-f5c6a81488",
                           "name": "Vịt",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793116512_hd/1793116512_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793116512_hd/1793116512_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1294,11 +1222,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-818fcf8ae3",
+                          "id": "lnk-f77d5c99d5",
                           "name": "Riko",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793116541_hd/1793116541_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793116541_hd/1793116541_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1366,11 +1294,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-57c8cff290",
+                          "id": "lnk-3c6d23bfe5",
                           "name": "Cầy",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793116571_hd/1793116571_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793116571_hd/1793116571_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1681,11 +1609,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-4790785b54",
+                          "id": "lnk-13d95409c1",
                           "name": "Ngu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793117308_hd/1793117308_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793117308_hd/1793117308_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1753,11 +1681,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-64677cdd73",
+                          "id": "lnk-d4a52bce0e",
                           "name": "Ngu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793117405_hd/1793117405_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793117405_hd/1793117405_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2122,11 +2050,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-17499be45b",
+                          "id": "lnk-eea567f670",
                           "name": "Dory",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793353463_hd/1793353463_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793353463_hd/1793353463_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
