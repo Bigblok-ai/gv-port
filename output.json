@@ -2940,6 +2940,78 @@
           }
         },
         {
+          "id": "gv-738a682844",
+          "name": "Utah Jazz vs Portland Trail Blazers | 02:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-738a682844",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-738a682844",
+                  "name": "Utah Jazz vs Portland Trail Blazers",
+                  "streams": [
+                    {
+                      "id": "st-738a682844",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b77235f7b8",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793376852_hd/1793376852_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Utah Jazz",
+            "team_b": "Portland Trail Blazers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png",
+            "time": "02:00:00",
+            "date": "01/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/30888273_6de54e0c_20261030.png?v=6de54e0c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c36be1c813",
           "name": "Golden State Valkyries vs Atlanta Dream | 07:00 01/11",
           "type": "single",
