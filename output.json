@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-7146875344",
-          "name": "Al-Draih vs Al-Suqoor | 21:50 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7146875344",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7146875344",
-                  "name": "Al-Draih vs Al-Suqoor",
-                  "streams": [
-                    {
-                      "id": "st-7146875344",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f04b5abfb7",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793284046_hd/1793284046_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Ả Rập Xê Út",
-            "team_a": "Al-Draih",
-            "team_b": "Al-Suqoor",
-            "logo_a": "https://images.keovip88.net/images/teams/al-draih.png",
-            "logo_b": "https://images.keovip88.net/images/teams/neom.png",
-            "time": "21:50:00",
-            "date": "30/10",
-            "blv": "Tỵ ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525424d46db8709e4510_6527e8b7_20261030.png?v=6527e8b7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-5f8acbfe56",
           "name": "Nice vs Stade Rennais FC | 01:00 31/10",
