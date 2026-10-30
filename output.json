@@ -1040,6 +1040,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-50892ae8e1",
+          "name": "Levante vs Atletico Madrid | 20:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-50892ae8e1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-50892ae8e1",
+                  "name": "Levante vs Atletico Madrid",
+                  "streams": [
+                    {
+                      "id": "st-50892ae8e1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-61a4b7be16",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283936_hd/1793283936_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Levante",
+            "team_b": "Atletico Madrid",
+            "logo_a": "https://images.keovip88.net/images/teams/levante.png",
+            "logo_b": "https://images.keovip88.net/images/teams/atletico-madrid.png",
+            "time": "20:00:00",
+            "date": "31/10",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d924d46db8704c5774_dda0afa8_20261030.png?v=dda0afa8",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
