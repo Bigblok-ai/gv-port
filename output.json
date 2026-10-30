@@ -1045,7 +1045,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (4 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1118,78 +1118,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20863478_ec5b6ecc_20261030.png?v=ec5b6ecc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-19184fc03e",
-          "name": "Jilin Northeast Tigers vs Shenzhen Leopards | 18:35 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-19184fc03e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-19184fc03e",
-                  "name": "Jilin Northeast Tigers vs Shenzhen Leopards",
-                  "streams": [
-                    {
-                      "id": "st-19184fc03e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cc200542bc",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283361_hd/1793283361_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Jilin Northeast Tigers",
-            "team_b": "Shenzhen Leopards",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/9b1edb3adebae8211e057008d8352b03.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/4d9ec843176ad902c32b3b317118e543.png",
-            "time": "18:35:00",
-            "date": "30/10",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38763475_999d3364_20261030.png?v=999d3364",
             "width": 1600,
             "height": 1200
           }
