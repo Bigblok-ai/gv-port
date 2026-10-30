@@ -3442,6 +3442,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-6052bcbae4",
+          "name": "LG Sakers vs Wonju DB | 12:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6052bcbae4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6052bcbae4",
+                  "name": "LG Sakers vs Wonju DB",
+                  "streams": [
+                    {
+                      "id": "st-6052bcbae4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c09a0a4eb5",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375402_hd/1793375402_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "LG Sakers",
+            "team_b": "Wonju DB",
+            "logo_a": "https://static.flashscore.com/res/image/data/M5dauNCa-2el3ggr9.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/ELYOWIAr-xtco8W2d.png",
+            "time": "12:00:00",
+            "date": "01/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1ti63htfw6jg_6f834a73_20261030.png?v=6f834a73",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0bc91ac252",
+          "name": "Adelaide 36ers vs Brisbane Bullets | 13:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0bc91ac252",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0bc91ac252",
+                  "name": "Adelaide 36ers vs Brisbane Bullets",
+                  "streams": [
+                    {
+                      "id": "st-0bc91ac252",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5867baef45",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375471_hd/1793375471_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Adelaide 36ers",
+            "team_b": "Brisbane Bullets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/6a6d3d4063e675d1ce3e701153e3f367.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/fd1ef26f7174d02a5a30dbe9e69b45f9.png",
+            "time": "13:00:00",
+            "date": "01/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22622271_d9b59df1_20261030.png?v=d9b59df1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -3520,6 +3664,159 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/f5kq9guzfyy9_44440270_20261030.png?v=44440270",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-284391fc24",
+          "name": "Okayama Seagulls Nữ vs Gunma Greenwings Nữ | 12:05 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-284391fc24",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-284391fc24",
+                  "name": "Okayama Seagulls Nữ vs Gunma Greenwings Nữ",
+                  "streams": [
+                    {
+                      "id": "st-284391fc24",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2fcbb4366d",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375525_hd/1793375525_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Nhật Bản SV. League",
+            "team_a": "Okayama Seagulls Nữ",
+            "team_b": "Gunma Greenwings Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png",
+            "time": "12:05:00",
+            "date": "31/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/o0qoykz4o7qr_ff5f58ea_20261030.png?v=ff5f58ea",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b30a373293",
+          "name": "Okayama Seagulls Nữ vs Gunma Greenwings Nữ | 12:05 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b30a373293",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b30a373293",
+                  "name": "Okayama Seagulls Nữ vs Gunma Greenwings Nữ",
+                  "streams": [
+                    {
+                      "id": "st-b30a373293",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-35fc4ec8cd",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375626_hd/1793375626_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Nhật Bản SV. League",
+            "team_a": "Okayama Seagulls Nữ",
+            "team_b": "Gunma Greenwings Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png",
+            "time": "12:05:00",
+            "date": "01/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/b9c9wtigwpzx_ff5f58ea_20261030.png?v=ff5f58ea",
             "width": 1600,
             "height": 1200
           }
@@ -3897,83 +4194,11 @@
     },
     {
       "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn (1 LIVE)",
+      "name": "🏓 Bóng Bàn",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-1b0cbbe508",
-          "name": "SHIN Yubin vs SUN Yingsha | 18:00 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1b0cbbe508",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1b0cbbe508",
-                  "name": "SHIN Yubin vs SUN Yingsha",
-                  "streams": [
-                    {
-                      "id": "st-1b0cbbe508",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c0e9d586c8",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793355463_hd/1793355463_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Montpellier 2026",
-            "team_a": "SHIN Yubin",
-            "team_b": "SUN Yingsha",
-            "logo_a": "https://static.flashscore.com/res/image/data/hz0Kt9Ca-vy2f42h6.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/U9Szb8Wg-b7qbNXIQ.png",
-            "time": "18:00:00",
-            "date": "30/10",
-            "blv": "Dory",
-            "is_live": true,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/56zxba4zxm5u_dff48c50_20261030.png?v=dff48c50",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e1292b9b2c",
           "name": "ZHOU Qihao vs Felix LEBRUN | 00:30 31/10",
