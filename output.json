@@ -1023,6 +1023,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-4c0b5a2276",
+          "name": "Bangkok United FC vs Uthai Thani FC | 19:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4c0b5a2276",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4c0b5a2276",
+                  "name": "Bangkok United FC vs Uthai Thani FC",
+                  "streams": [
+                    {
+                      "id": "st-4c0b5a2276",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fd2f8b3c9b",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793283849_hd/1793283849_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Thái Lan",
+            "team_a": "Bangkok United FC",
+            "team_b": "Uthai Thani FC",
+            "logo_a": "https://images.keovip88.net/images/teams/bangkok-united-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/uthai-thani-fc.png",
+            "time": "19:00:00",
+            "date": "31/10",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ade982d24d46db870e5309e_006e2785_20261030.png?v=006e2785",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
