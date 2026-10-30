@@ -1045,83 +1045,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-05dd7c1682",
-          "name": "Guangzhou Loong Lions vs Shanxi Loongs Fenjiu | 18:35 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-05dd7c1682",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-05dd7c1682",
-                  "name": "Guangzhou Loong Lions vs Shanxi Loongs Fenjiu",
-                  "streams": [
-                    {
-                      "id": "st-05dd7c1682",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-97c0e7b45e",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283309_hd/1793283309_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Guangzhou Loong Lions",
-            "team_b": "Shanxi Loongs Fenjiu",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/9d93f6e7f4e54c71cd975b2be434bcf9.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2b1276c6b68b581bd3023f5f11bb6f44.png",
-            "time": "18:35:00",
-            "date": "30/10",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20863478_ec5b6ecc_20261030.png?v=ec5b6ecc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-cc1c60847c",
           "name": "Washington Wizards vs Charlotte Hornets | 06:00 31/10",
@@ -1486,7 +1414,7 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1571,10 +1499,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1623,7 +1551,7 @@
             "time": "21:00:00",
             "date": "30/10",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "tennis"
           },
           "image": {
