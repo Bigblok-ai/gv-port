@@ -449,6 +449,78 @@
           }
         },
         {
+          "id": "gv-3d9e3d577d",
+          "name": "Newcastle Jets FC vs Wellington Phoenix | 11:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3d9e3d577d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3d9e3d577d",
+                  "name": "Newcastle Jets FC vs Wellington Phoenix",
+                  "streams": [
+                    {
+                      "id": "st-3d9e3d577d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-966326ce2a",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793373849_hd/1793373849_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Newcastle Jets FC",
+            "team_b": "Wellington Phoenix",
+            "logo_a": "https://images.keovip88.net/images/teams/newcastle-jets.png",
+            "logo_b": "https://images.keovip88.net/images/teams/wellington-phoenix.png",
+            "time": "11:00:00",
+            "date": "31/10",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d424d46db8704c50ef_482944ad_20261030.png?v=482944ad",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-5232f1f16f",
           "name": "FC Macarthur vs Western Sydney Wanderers | 15:40 31/10",
           "type": "single",
