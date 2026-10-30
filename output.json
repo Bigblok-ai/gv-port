@@ -881,6 +881,150 @@
           }
         },
         {
+          "id": "gv-59609fb2ac",
+          "name": "Vissel Kobe vs Nagoya Grampus Eight | 13:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-59609fb2ac",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-59609fb2ac",
+                  "name": "Vissel Kobe vs Nagoya Grampus Eight",
+                  "streams": [
+                    {
+                      "id": "st-59609fb2ac",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d9d503469",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793374107_hd/1793374107_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Vissel Kobe",
+            "team_b": "Nagoya Grampus Eight",
+            "logo_a": "https://images.keovip88.net/images/teams/vissel-kobe.png",
+            "logo_b": "https://images.keovip88.net/images/teams/nagoya-grampus.png",
+            "time": "13:00:00",
+            "date": "31/10",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d424d46db8704c51d9_930d1d4e_20261030.png?v=930d1d4e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-105c39066e",
+          "name": "Kashiwa Reysol vs Urawa Red Diamonds | 14:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-105c39066e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-105c39066e",
+                  "name": "Kashiwa Reysol vs Urawa Red Diamonds",
+                  "streams": [
+                    {
+                      "id": "st-105c39066e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7276855e53",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374265_hd/1793374265_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kashiwa Reysol",
+            "team_b": "Urawa Red Diamonds",
+            "logo_a": "https://images.keovip88.net/images/teams/kashiwa-reysol.png",
+            "logo_b": "https://images.keovip88.net/images/teams/urawa-red-diamonds.png",
+            "time": "14:00:00",
+            "date": "31/10",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d524d46db8704c5254_2326a10e_20261030.png?v=2326a10e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-5232f1f16f",
           "name": "FC Macarthur vs Western Sydney Wanderers | 15:40 31/10",
           "type": "single",
@@ -2215,6 +2359,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39618273_f78ad5e4_20261030.png?v=f78ad5e4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-dec75e1a2d",
+          "name": "Minnesota Timberwolves vs Los Angeles Clippers | 07:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dec75e1a2d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-dec75e1a2d",
+                  "name": "Minnesota Timberwolves vs Los Angeles Clippers",
+                  "streams": [
+                    {
+                      "id": "st-dec75e1a2d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a222a143bc",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374382_hd/1793374382_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Minnesota Timberwolves",
+            "team_b": "Los Angeles Clippers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
+            "time": "07:00:00",
+            "date": "31/10",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22718277_3bf22410_20261030.png?v=3bf22410",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5c091484d2",
+          "name": "Dallas Mavericks vs Houston Rockets | 07:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5c091484d2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5c091484d2",
+                  "name": "Dallas Mavericks vs Houston Rockets",
+                  "streams": [
+                    {
+                      "id": "st-5c091484d2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-efb35e1a2c",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374416_hd/1793374416_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Dallas Mavericks",
+            "team_b": "Houston Rockets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
+            "time": "07:00:00",
+            "date": "31/10",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20718275_ba6ec2ed_20261030.png?v=ba6ec2ed",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-626a92fc3d",
+          "name": "Miami Heat vs Indiana Pacers | 07:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-626a92fc3d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-626a92fc3d",
+                  "name": "Miami Heat vs Indiana Pacers",
+                  "streams": [
+                    {
+                      "id": "st-626a92fc3d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7f68aa3b91",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374438_hd/1793374438_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Miami Heat",
+            "team_b": "Indiana Pacers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/43ebb4d6ad3ea5b68e9b1c969dff055b.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
+            "time": "07:00:00",
+            "date": "31/10",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21718276_6007c450_20261030.png?v=6007c450",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-82605c9eb5",
+          "name": "Phoenix Suns vs Denver Nuggets | 09:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-82605c9eb5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-82605c9eb5",
+                  "name": "Phoenix Suns vs Denver Nuggets",
+                  "streams": [
+                    {
+                      "id": "st-82605c9eb5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-572a641368",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374463_hd/1793374463_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Phoenix Suns",
+            "team_b": "Denver Nuggets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/6a6855785a58edb23c76c99ed6601a33.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
+            "time": "09:00:00",
+            "date": "31/10",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24718279_71f3f260_20261030.png?v=71f3f260",
             "width": 1600,
             "height": 1200
           }
