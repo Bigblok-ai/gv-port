@@ -377,6 +377,78 @@
           }
         },
         {
+          "id": "gv-fd9dd62b09",
+          "name": "Hà Nội vs Ninh Bình FC | 19:15 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fd9dd62b09",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fd9dd62b09",
+                  "name": "Hà Nội vs Ninh Bình FC",
+                  "streams": [
+                    {
+                      "id": "st-fd9dd62b09",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-048c174252",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793352338_hd/1793352338_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Hà Nội",
+            "team_b": "Ninh Bình FC",
+            "logo_a": "https://images.keovip88.net/images/teams/hanoi-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ninh-binh-fc.png",
+            "time": "19:15:00",
+            "date": "30/10",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46c624d46db870f89c3d_8383702f_20261030.png?v=8383702f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-b7463bb05e",
           "name": "Abha vs Al Ittihad Jeddah | 19:30 30/10",
           "type": "single",
@@ -1349,11 +1421,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-61195f23f5",
-                          "name": "Nem",
+                          "id": "lnk-b858470fc6",
+                          "name": "Ben",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793116476_hd/1793116476_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793352599_hd/1793352599_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1380,7 +1452,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
             "time": "06:00:00",
             "date": "31/10",
-            "blv": "Nem",
+            "blv": "Ben",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -1493,11 +1565,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-e8788bfe50",
+                          "id": "lnk-818fcf8ae3",
                           "name": "Riko",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793116541_hd/1793116541_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793116541_hd/1793116541_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1565,11 +1637,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-777b341ac4",
+                          "id": "lnk-57c8cff290",
                           "name": "Cầy",
                           "type": "hls",
                           "default": true,
-                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793116571_hd/1793116571_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793116571_hd/1793116571_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
