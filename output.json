@@ -956,83 +956,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ae4711bba0",
-          "name": "Goyang Orions vs Seoul Samsung Thunders | 17:00 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ae4711bba0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ae4711bba0",
-                  "name": "Goyang Orions vs Seoul Samsung Thunders",
-                  "streams": [
-                    {
-                      "id": "st-ae4711bba0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b9adc38a66",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793282920_hd/1793282920_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Goyang Orions",
-            "team_b": "Seoul Samsung Thunders",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/5b0e513f868dee6a403d7d5dfc3628b3.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/77da210054627a8fde62b8e6d76f3d74.png",
-            "time": "17:00:00",
-            "date": "30/10",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23160370_8bb94a78_20261030.png?v=8bb94a78",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-05dd7c1682",
           "name": "Guangzhou Loong Lions vs Shanxi Loongs Fenjiu | 18:35 30/10",
