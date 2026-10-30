@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -84,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ad9525324d46db8709e43e0_34d7f03d_20261030.png?v=34d7f03d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-bdbd75defe",
-          "name": "Sisaket FC vs Ratchaburi FC | 19:00 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bdbd75defe",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-bdbd75defe",
-                  "name": "Sisaket FC vs Ratchaburi FC",
-                  "streams": [
-                    {
-                      "id": "st-bdbd75defe",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-16c6802465",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283663_hd/1793283663_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Thái Lan",
-            "team_a": "Sisaket FC",
-            "team_b": "Ratchaburi FC",
-            "logo_a": "https://images.keovip88.net/images/teams/sisaket-united.png",
-            "logo_b": "https://images.keovip88.net/images/teams/ratchaburi-fc.png",
-            "time": "19:00:00",
-            "date": "30/10",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adbf53424d46db8700d8bfe_bc918b63_20261030.png?v=bc918b63",
             "width": 1600,
             "height": 1200
           }
@@ -1756,6 +1684,159 @@
       ]
     },
     {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-bb51f0f7cc",
+          "name": "Adrian Mannarino vs Daniil Medvedev | 19:30 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bb51f0f7cc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bb51f0f7cc",
+                  "name": "Adrian Mannarino vs Daniil Medvedev",
+                  "streams": [
+                    {
+                      "id": "st-bb51f0f7cc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5c89321730",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793362164_hd/1793362164_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Vienna",
+            "team_a": "Adrian Mannarino",
+            "team_b": "Daniil Medvedev",
+            "logo_a": "https://static.flashscore.com/res/image/data/6X67JIYA-4AguOuCD.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/QujxPtf5-6Z1AkBdk.png",
+            "time": "19:30:00",
+            "date": "30/10",
+            "blv": "Sún",
+            "is_live": true,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6e6l77g5nhs1_4d9a577a_20261030.png?v=4d9a577a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4fd5352ddc",
+          "name": "Tommy Paul vs Carlos Alcaraz | 21:00 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4fd5352ddc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4fd5352ddc",
+                  "name": "Tommy Paul vs Carlos Alcaraz",
+                  "streams": [
+                    {
+                      "id": "st-4fd5352ddc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-98985b2090",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793362248_hd/1793362248_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Vienna",
+            "team_a": "Tommy Paul",
+            "team_b": "Carlos Alcaraz",
+            "logo_a": "https://static.flashscore.com/res/image/data/v7Wf42il-pQ0ElVBe.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OfjQEPjl-hGuiBKos.png",
+            "time": "21:00:00",
+            "date": "30/10",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/f5kq9guzfyy9_44440270_20261030.png?v=44440270",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_esport",
       "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
@@ -1830,6 +1911,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/92butqwwh404_f59eb8be_20261030.png?v=f59eb8be",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_vothuat",
+      "name": "🥊 Võ Thuật (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-dc5fdbe990",
+          "name": "ONE Friday Fights 176 vs The Inner Circle 36 | 18:30 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dc5fdbe990",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-dc5fdbe990",
+                  "name": "ONE Friday Fights 176 vs The Inner Circle 36",
+                  "streams": [
+                    {
+                      "id": "st-dc5fdbe990",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-646e4133aa",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793284337_hd/1793284337_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ONE Friday Fights 176 & The Inner Circle 36",
+            "team_a": "ONE Friday Fights 176",
+            "team_b": "The Inner Circle 36",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTGEDCK198Wq-K_VDgPuNkhu_N9-JmgE1bB19asKwiJQ&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YFd8VYBM-LG6yeNBvbIWAYEgoSAfwz3461LCXx19aHghQaTTJwF3TJIy&s=10",
+            "time": "18:30:00",
+            "date": "30/10",
+            "blv": "Điếc",
+            "is_live": true,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xe7crgd8oc17_a19423b4_20261030.png?v=a19423b4",
             "width": 1600,
             "height": 1200
           }
