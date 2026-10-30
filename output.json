@@ -1045,7 +1045,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1118,78 +1118,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20863478_ec5b6ecc_20261030.png?v=ec5b6ecc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-744ad80c4e",
-          "name": "Ningbo Rockets vs Liaoning Flying Leopards | 18:35 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-744ad80c4e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-744ad80c4e",
-                  "name": "Ningbo Rockets vs Liaoning Flying Leopards",
-                  "streams": [
-                    {
-                      "id": "st-744ad80c4e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0c6cb0872c",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283422_hd/1793283422_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Ningbo Rockets",
-            "team_b": "Liaoning Flying Leopards",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/78539aa7b6e4518265799642461ab855.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e5b2db0dc53319933071f194e099180f.png",
-            "time": "18:35:00",
-            "date": "30/10",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39763476_734fc78d_20261030.png?v=734fc78d",
             "width": 1600,
             "height": 1200
           }
