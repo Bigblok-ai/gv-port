@@ -884,83 +884,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b3e2529814",
-          "name": "Tasmania JackJumpers vs Sydney Kings | 15:30 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b3e2529814",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b3e2529814",
-                  "name": "Tasmania JackJumpers vs Sydney Kings",
-                  "streams": [
-                    {
-                      "id": "st-b3e2529814",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-05e95bb46d",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793285205_hd/1793285205_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "Tasmania JackJumpers",
-            "team_b": "Sydney Kings",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7e24a7272efcfecc7b45fa8c86605bd0.png",
-            "time": "15:30:00",
-            "date": "30/10",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28522276_46fdca3f_20261030.png?v=46fdca3f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ae4711bba0",
           "name": "Goyang Orions vs Seoul Samsung Thunders | 17:00 30/10",
@@ -2369,11 +2297,83 @@
     },
     {
       "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn",
+      "name": "🏓 Bóng Bàn (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-1b0cbbe508",
+          "name": "SHIN Yubin vs SUN Yingsha | 18:00 30/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1b0cbbe508",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1b0cbbe508",
+                  "name": "SHIN Yubin vs SUN Yingsha",
+                  "streams": [
+                    {
+                      "id": "st-1b0cbbe508",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0e9d586c8",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793355463_hd/1793355463_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Montpellier 2026",
+            "team_a": "SHIN Yubin",
+            "team_b": "SUN Yingsha",
+            "logo_a": "https://static.flashscore.com/res/image/data/hz0Kt9Ca-vy2f42h6.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/U9Szb8Wg-b7qbNXIQ.png",
+            "time": "18:00:00",
+            "date": "30/10",
+            "blv": "Dory",
+            "is_live": true,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/56zxba4zxm5u_dff48c50_20261030.png?v=dff48c50",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-e1292b9b2c",
           "name": "ZHOU Qihao vs Felix LEBRUN | 00:30 31/10",
