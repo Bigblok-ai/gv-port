@@ -2794,6 +2794,438 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-4d9237e381",
+          "name": "KCC Egis vs Wonju DB Promy | 12:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4d9237e381",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4d9237e381",
+                  "name": "KCC Egis vs Wonju DB Promy",
+                  "streams": [
+                    {
+                      "id": "st-4d9237e381",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aa7dace69d",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374698_hd/1793374698_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "KCC Egis",
+            "team_b": "Wonju DB Promy",
+            "logo_a": "https://static.flashscore.com/res/image/data/6akehaEa-QVr2kiM7.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/ELYOWIAr-xtco8W2d.png",
+            "time": "12:00:00",
+            "date": "31/10",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lf2bd3fp0d2q_c2092d45_20261030.png?v=c2092d45",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9f40e09fd2",
+          "name": "KOGAS vs Mobis Phoebus | 14:30 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f40e09fd2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9f40e09fd2",
+                  "name": "KOGAS vs Mobis Phoebus",
+                  "streams": [
+                    {
+                      "id": "st-9f40e09fd2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fed71c50ab",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374859_hd/1793374859_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "KOGAS",
+            "team_b": "Mobis Phoebus",
+            "logo_a": "https://static.flashscore.com/res/image/data/E9xGHfcM-vehtS5P1.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/UTvcCjBr-Egd2koIh.png",
+            "time": "14:30:00",
+            "date": "31/10",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9my8chqofdnh_95219040_20261030.png?v=95219040",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c36be1c813",
+          "name": "Golden State Valkyries vs Atlanta Dream | 07:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c36be1c813",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c36be1c813",
+                  "name": "Golden State Valkyries vs Atlanta Dream",
+                  "streams": [
+                    {
+                      "id": "st-c36be1c813",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3ab3e799e3",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374986_hd/1793374986_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Women’s National Basketball Association",
+            "team_a": "Golden State Valkyries",
+            "team_b": "Atlanta Dream",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/911d51e9d324e887960542ac17a87e1b.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/f527c983cab3560c60e7b9d147904d7d.png",
+            "time": "07:00:00",
+            "date": "01/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21091573_ec8579d0_20261030.png?v=ec8579d0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2839f4aa29",
+          "name": "Milwaukee Bucks vs Cleveland Cavaliers | 07:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2839f4aa29",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2839f4aa29",
+                  "name": "Milwaukee Bucks vs Cleveland Cavaliers",
+                  "streams": [
+                    {
+                      "id": "st-2839f4aa29",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-49fbbc56a9",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375015_hd/1793375015_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Milwaukee Bucks",
+            "team_b": "Cleveland Cavaliers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e82de69ea44942a3e90a5be6cf0004da.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
+            "time": "07:00:00",
+            "date": "01/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35928273_9395b804_20261030.png?v=9395b804",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-62e2fc12a4",
+          "name": "San Antonio Spurs vs Minnesota Timberwolves | 07:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-62e2fc12a4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-62e2fc12a4",
+                  "name": "San Antonio Spurs vs Minnesota Timberwolves",
+                  "streams": [
+                    {
+                      "id": "st-62e2fc12a4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-08a6ad40be",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375050_hd/1793375050_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "San Antonio Spurs",
+            "team_b": "Minnesota Timberwolves",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
+            "time": "07:00:00",
+            "date": "01/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32888275_2f660a74_20261030.png?v=2f660a74",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fd9cc9821b",
+          "name": "Memphis Grizzlies vs Sacramento Kings | 07:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fd9cc9821b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fd9cc9821b",
+                  "name": "Memphis Grizzlies vs Sacramento Kings",
+                  "streams": [
+                    {
+                      "id": "st-fd9cc9821b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-93664923a7",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375085_hd/1793375085_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Memphis Grizzlies",
+            "team_b": "Sacramento Kings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png",
+            "time": "07:00:00",
+            "date": "01/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33888276_a010083d_20261030.png?v=a010083d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
