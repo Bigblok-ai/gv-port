@@ -812,83 +812,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b8fd297f3a",
-          "name": "Portland Trail Blazers vs Memphis Grizzlies | 09:00 30/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b8fd297f3a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b8fd297f3a",
-                  "name": "Portland Trail Blazers vs Memphis Grizzlies",
-                  "streams": [
-                    {
-                      "id": "st-b8fd297f3a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9d4dd2c8d3",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793295503_hd/1793295503_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Portland Trail Blazers",
-            "team_b": "Memphis Grizzlies",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
-            "time": "09:00:00",
-            "date": "30/10",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49788271_2bbfb3c8_20261030.png?v=2bbfb3c8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-23a4b60b8d",
           "name": "New Zealand Breakers vs Adelaide 36ers | 13:30 30/10",
