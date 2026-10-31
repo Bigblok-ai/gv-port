@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -233,6 +233,78 @@
           }
         },
         {
+          "id": "gv-a8b5a76ddc",
+          "name": "Kashima Antlers vs Cerezo Osaka | 13:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a8b5a76ddc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a8b5a76ddc",
+                  "name": "Kashima Antlers vs Cerezo Osaka",
+                  "streams": [
+                    {
+                      "id": "st-a8b5a76ddc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ba8f69932f",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374056_hd/1793374056_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kashima Antlers",
+            "team_b": "Cerezo Osaka",
+            "logo_a": "https://images.keovip88.net/images/teams/kashima-antlers.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cerezo-osaka.png",
+            "time": "13:00:00",
+            "date": "31/10",
+            "blv": "Tỵ ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d424d46db8704c51d5_0b3fe073_20261031.png?v=0b3fe073",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-3d9e3d577d",
           "name": "Newcastle Jets FC vs Wellington Phoenix | 11:00 31/10",
           "type": "single",
@@ -372,78 +444,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d424d46db8704c51cd_746f6dbd_20261031.png?v=746f6dbd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-a8b5a76ddc",
-          "name": "Kashima Antlers vs Cerezo Osaka | 13:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a8b5a76ddc",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a8b5a76ddc",
-                  "name": "Kashima Antlers vs Cerezo Osaka",
-                  "streams": [
-                    {
-                      "id": "st-a8b5a76ddc",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ba8f69932f",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374056_hd/1793374056_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Kashima Antlers",
-            "team_b": "Cerezo Osaka",
-            "logo_a": "https://images.keovip88.net/images/teams/kashima-antlers.png",
-            "logo_b": "https://images.keovip88.net/images/teams/cerezo-osaka.png",
-            "time": "13:00:00",
-            "date": "31/10",
-            "blv": "Tỵ ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d424d46db8704c51d5_0b3fe073_20261031.png?v=0b3fe073",
             "width": 1600,
             "height": 1200
           }
