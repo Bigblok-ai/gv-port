@@ -1489,6 +1489,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-ef9c8fa8df",
+          "name": "Athletic Bilbao vs Real Sociedad | 03:00 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ef9c8fa8df",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ef9c8fa8df",
+                  "name": "Athletic Bilbao vs Real Sociedad",
+                  "streams": [
+                    {
+                      "id": "st-ef9c8fa8df",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b3116dfaed",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793376699_hd/1793376699_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Athletic Bilbao",
+            "team_b": "Real Sociedad",
+            "logo_a": "https://images.keovip88.net/images/teams/athletic-bilbao.png",
+            "logo_b": "https://images.keovip88.net/images/teams/real-sociedad.png",
+            "time": "03:00:00",
+            "date": "02/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46cf24d46db870f8ae29_407d97e7_20261101.png?v=407d97e7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
