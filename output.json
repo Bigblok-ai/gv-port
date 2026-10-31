@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-63684f274a",
-          "name": "Melbourne City vs Sydney FC | 13:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-63684f274a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-63684f274a",
-                  "name": "Melbourne City vs Sydney FC",
-                  "streams": [
-                    {
-                      "id": "st-63684f274a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f349d0de80",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374015_hd/1793374015_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Úc",
-            "team_a": "Melbourne City",
-            "team_b": "Sydney FC",
-            "logo_a": "https://images.keovip88.net/images/teams/melbourne-city.png",
-            "logo_b": "https://images.keovip88.net/images/teams/sydney-fc.png",
-            "time": "13:00:00",
-            "date": "31/10",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d424d46db8704c51cd_746f6dbd_20261031.png?v=746f6dbd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a8b5a76ddc",
           "name": "Kashima Antlers vs Cerezo Osaka | 13:00 31/10",
