@@ -2142,83 +2142,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-dec75e1a2d",
-          "name": "Minnesota Timberwolves vs Los Angeles Clippers | 07:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dec75e1a2d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-dec75e1a2d",
-                  "name": "Minnesota Timberwolves vs Los Angeles Clippers",
-                  "streams": [
-                    {
-                      "id": "st-dec75e1a2d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a222a143bc",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374382_hd/1793374382_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Minnesota Timberwolves",
-            "team_b": "Los Angeles Clippers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
-            "time": "07:00:00",
-            "date": "31/10",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22718277_3bf22410_20261031.png?v=3bf22410",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-5c091484d2",
           "name": "Dallas Mavericks vs Houston Rockets | 07:00 31/10",
