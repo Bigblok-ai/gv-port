@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "gv-348030a2f4",
+          "name": "FC Machida Zelvia vs Gamba Osaka | 14:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-348030a2f4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-348030a2f4",
+                  "name": "FC Machida Zelvia vs Gamba Osaka",
+                  "streams": [
+                    {
+                      "id": "st-348030a2f4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e25bf5166d",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793487159_hd/1793487159_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "FC Machida Zelvia",
+            "team_b": "Gamba Osaka",
+            "logo_a": "https://images.keovip88.net/images/teams/machida-zelvia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/gamba-osaka.png",
+            "time": "14:00:00",
+            "date": "01/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46c424d46db870f89108_506d9f2b_20261101.png?v=506d9f2b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-7f9d94a69a",
           "name": "Perth Glory FC vs Adelaide United FC | 15:00 01/11",
           "type": "single",
