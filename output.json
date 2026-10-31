@@ -3465,83 +3465,11 @@
     },
     {
       "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn (2 LIVE)",
+      "name": "🏓 Bóng Bàn (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9a29a80df2",
-          "name": "Hina HAYATA vs SUN Yingsha | 18:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9a29a80df2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9a29a80df2",
-                  "name": "Hina HAYATA vs SUN Yingsha",
-                  "streams": [
-                    {
-                      "id": "st-9a29a80df2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4ede42aeae",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793432044_hd/1793432044_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Montpellier 2026",
-            "team_a": "Hina HAYATA",
-            "team_b": "SUN Yingsha",
-            "logo_a": "https://static.flashscore.com/res/image/data/UDz8uBAr-6eV80rrH.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/U9Szb8Wg-b7qbNXIQ.png",
-            "time": "18:00:00",
-            "date": "31/10",
-            "blv": "Dory",
-            "is_live": true,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5p7svkhxw1p1_57341855_20261101.png?v=57341855",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-3ebe4d0fd6",
           "name": "Lin Sidong vs Truls Moregard | 23:59 31/10",
