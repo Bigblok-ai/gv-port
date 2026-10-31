@@ -1278,7 +1278,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1428,6 +1428,150 @@
           }
         },
         {
+          "id": "gv-62e2fc12a4",
+          "name": "San Antonio Spurs vs Minnesota Timberwolves | 07:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-62e2fc12a4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-62e2fc12a4",
+                  "name": "San Antonio Spurs vs Minnesota Timberwolves",
+                  "streams": [
+                    {
+                      "id": "st-62e2fc12a4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-08a6ad40be",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375050_hd/1793375050_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "San Antonio Spurs",
+            "team_b": "Minnesota Timberwolves",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
+            "time": "07:00:00",
+            "date": "01/11",
+            "blv": "Ben",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32888275_2f660a74_20261101.png?v=2f660a74",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fd9cc9821b",
+          "name": "Memphis Grizzlies vs Sacramento Kings | 07:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fd9cc9821b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fd9cc9821b",
+                  "name": "Memphis Grizzlies vs Sacramento Kings",
+                  "streams": [
+                    {
+                      "id": "st-fd9cc9821b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a00a490b56",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793487633_hd/1793487633_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Memphis Grizzlies",
+            "team_b": "Sacramento Kings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png",
+            "time": "07:00:00",
+            "date": "01/11",
+            "blv": "Sún",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33888276_a010083d_20261101.png?v=a010083d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c36be1c813",
           "name": "Golden State Valkyries vs Atlanta Dream | 07:00 01/11",
           "type": "single",
@@ -1567,150 +1711,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35928273_9395b804_20261101.png?v=9395b804",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-62e2fc12a4",
-          "name": "San Antonio Spurs vs Minnesota Timberwolves | 07:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-62e2fc12a4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-62e2fc12a4",
-                  "name": "San Antonio Spurs vs Minnesota Timberwolves",
-                  "streams": [
-                    {
-                      "id": "st-62e2fc12a4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-08a6ad40be",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375050_hd/1793375050_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "San Antonio Spurs",
-            "team_b": "Minnesota Timberwolves",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
-            "time": "07:00:00",
-            "date": "01/11",
-            "blv": "Ben",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32888275_2f660a74_20261101.png?v=2f660a74",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-fd9cc9821b",
-          "name": "Memphis Grizzlies vs Sacramento Kings | 07:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fd9cc9821b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fd9cc9821b",
-                  "name": "Memphis Grizzlies vs Sacramento Kings",
-                  "streams": [
-                    {
-                      "id": "st-fd9cc9821b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a00a490b56",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793487633_hd/1793487633_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Memphis Grizzlies",
-            "team_b": "Sacramento Kings",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png",
-            "time": "07:00:00",
-            "date": "01/11",
-            "blv": "Sún",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33888276_a010083d_20261101.png?v=a010083d",
             "width": 1600,
             "height": 1200
           }
