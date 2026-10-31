@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "gv-5232f1f16f",
+          "name": "FC Macarthur vs Western Sydney Wanderers | 15:40 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5232f1f16f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5232f1f16f",
+                  "name": "FC Macarthur vs Western Sydney Wanderers",
+                  "streams": [
+                    {
+                      "id": "st-5232f1f16f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0ba22777c9",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283693_hd/1793283693_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "FC Macarthur",
+            "team_b": "Western Sydney Wanderers",
+            "logo_a": "https://images.keovip88.net/images/teams/fc-macarthur.png",
+            "logo_b": "https://images.keovip88.net/images/teams/western-sydney.png",
+            "time": "15:40:00",
+            "date": "31/10",
+            "blv": "Trĩ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d524d46db8704c52d2_ba314111_20261031.png?v=ba314111",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-3d9e3d577d",
           "name": "Newcastle Jets FC vs Wellington Phoenix | 11:00 31/10",
           "type": "single",
@@ -156,78 +228,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d424d46db8704c50ef_482944ad_20261031.png?v=482944ad",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-5232f1f16f",
-          "name": "FC Macarthur vs Western Sydney Wanderers | 15:40 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5232f1f16f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5232f1f16f",
-                  "name": "FC Macarthur vs Western Sydney Wanderers",
-                  "streams": [
-                    {
-                      "id": "st-5232f1f16f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0ba22777c9",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283693_hd/1793283693_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Úc",
-            "team_a": "FC Macarthur",
-            "team_b": "Western Sydney Wanderers",
-            "logo_a": "https://images.keovip88.net/images/teams/fc-macarthur.png",
-            "logo_b": "https://images.keovip88.net/images/teams/western-sydney.png",
-            "time": "15:40:00",
-            "date": "31/10",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d524d46db8704c52d2_ba314111_20261031.png?v=ba314111",
             "width": 1600,
             "height": 1200
           }
@@ -1782,7 +1782,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1860,6 +1860,78 @@
           }
         },
         {
+          "id": "gv-4f66045275",
+          "name": "Cairns Taipans vs Melbourne United | 15:30 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4f66045275",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4f66045275",
+                  "name": "Cairns Taipans vs Melbourne United",
+                  "streams": [
+                    {
+                      "id": "st-4f66045275",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3d423f04c1",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793431831_hd/1793431831_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Cairns Taipans",
+            "team_b": "Melbourne United",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/690d69ad99fc8d3bd6fe4a7131521421.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/21d2a46a9599ab792dc3a7884839072f.png",
+            "time": "15:30:00",
+            "date": "31/10",
+            "blv": "Vịt",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29522277_bbdb9858_20261031.png?v=bbdb9858",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-4d9237e381",
           "name": "KCC Egis vs Wonju DB Promy | 12:00 31/10",
           "type": "single",
@@ -1927,78 +1999,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lf2bd3fp0d2q_c2092d45_20261031.png?v=c2092d45",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-4f66045275",
-          "name": "Cairns Taipans vs Melbourne United | 15:30 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4f66045275",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4f66045275",
-                  "name": "Cairns Taipans vs Melbourne United",
-                  "streams": [
-                    {
-                      "id": "st-4f66045275",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3d423f04c1",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793431831_hd/1793431831_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "Cairns Taipans",
-            "team_b": "Melbourne United",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/690d69ad99fc8d3bd6fe4a7131521421.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/21d2a46a9599ab792dc3a7884839072f.png",
-            "time": "15:30:00",
-            "date": "31/10",
-            "blv": "Vịt",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29522277_bbdb9858_20261031.png?v=bbdb9858",
             "width": 1600,
             "height": 1200
           }
