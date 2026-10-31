@@ -2004,8 +2004,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-048ba1c39e",
-          "name": "Anyang Jung Kwan Jang vs Suwon KT | 12:00 31/10",
+          "id": "gv-9f40e09fd2",
+          "name": "KOGAS vs Mobis Phoebus | 14:30 31/10",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2019,23 +2019,23 @@
           ],
           "sources": [
             {
-              "id": "src-048ba1c39e",
+              "id": "src-9f40e09fd2",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-048ba1c39e",
-                  "name": "Anyang Jung Kwan Jang vs Suwon KT",
+                  "id": "ct-9f40e09fd2",
+                  "name": "KOGAS vs Mobis Phoebus",
                   "streams": [
                     {
-                      "id": "st-048ba1c39e",
+                      "id": "st-9f40e09fd2",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-ec2e192522",
+                          "id": "lnk-fed71c50ab",
                           "name": "Nem",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374520_hd/1793374520_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374859_hd/1793374859_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2056,11 +2056,11 @@
           ],
           "org_metadata": {
             "league": "South Korean KBL Cup",
-            "team_a": "Anyang Jung Kwan Jang",
-            "team_b": "Suwon KT",
-            "logo_a": "https://static.flashscore.com/res/image/data/viUBkizB-KtOrDRPL.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/t4IslGYg-vDolgDz8.png",
-            "time": "12:00:00",
+            "team_a": "KOGAS",
+            "team_b": "Mobis Phoebus",
+            "logo_a": "https://static.flashscore.com/res/image/data/E9xGHfcM-vehtS5P1.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/UTvcCjBr-Egd2koIh.png",
+            "time": "14:30:00",
             "date": "31/10",
             "blv": "Nem",
             "is_live": true,
@@ -2070,7 +2070,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/we70f9611v4k_f9f012dd_20261031.png?v=f9f012dd",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9my8chqofdnh_95219040_20261031.png?v=95219040",
             "width": 1600,
             "height": 1200
           }
@@ -2143,78 +2143,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lf2bd3fp0d2q_c2092d45_20261031.png?v=c2092d45",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-9f40e09fd2",
-          "name": "KOGAS vs Mobis Phoebus | 14:30 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9f40e09fd2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9f40e09fd2",
-                  "name": "KOGAS vs Mobis Phoebus",
-                  "streams": [
-                    {
-                      "id": "st-9f40e09fd2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fed71c50ab",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374859_hd/1793374859_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "KOGAS",
-            "team_b": "Mobis Phoebus",
-            "logo_a": "https://static.flashscore.com/res/image/data/E9xGHfcM-vehtS5P1.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/UTvcCjBr-Egd2koIh.png",
-            "time": "14:30:00",
-            "date": "31/10",
-            "blv": "Nem",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9my8chqofdnh_95219040_20261031.png?v=95219040",
             "width": 1600,
             "height": 1200
           }
