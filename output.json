@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-24b4d3de69",
-          "name": "Bayern Munich vs Borussia Dortmund | 00:30 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-24b4d3de69",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-24b4d3de69",
-                  "name": "Bayern Munich vs Borussia Dortmund",
-                  "streams": [
-                    {
-                      "id": "st-24b4d3de69",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c5d0e925b2",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793372850_hd/1793372850_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Bayern Munich",
-            "team_b": "Borussia Dortmund",
-            "logo_a": "https://images.keovip88.net/images/teams/bayern-munchen.png",
-            "logo_b": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
-            "time": "00:30:00",
-            "date": "01/11",
-            "blv": "Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0785_e9f6de38_20261101.png?v=e9f6de38",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-5e181ec605",
-          "name": "Real Betis vs Malaga | 00:30 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5e181ec605",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5e181ec605",
-                  "name": "Real Betis vs Malaga",
-                  "streams": [
-                    {
-                      "id": "st-5e181ec605",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-285faf23b2",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793372935_hd/1793372935_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Real Betis",
-            "team_b": "Malaga",
-            "logo_a": "https://images.keovip88.net/images/teams/real-betis.png",
-            "logo_b": "https://images.keovip88.net/images/teams/malaga.png",
-            "time": "00:30:00",
-            "date": "01/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adbf54f24d46db8700db606_f2a15a8c_20261101.png?v=f2a15a8c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e7b4cb637f",
           "name": "Al Hilal vs Al-Fateh SC | 01:00 01/11",
@@ -305,78 +161,6 @@
           }
         },
         {
-          "id": "gv-8ced628f83",
-          "name": "Barcelona vs Alaves | 03:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8ced628f83",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8ced628f83",
-                  "name": "Barcelona vs Alaves",
-                  "streams": [
-                    {
-                      "id": "st-8ced628f83",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-58b4f4c700",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793470130_hd/1793470130_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Barcelona",
-            "team_b": "Alaves",
-            "logo_a": "https://images.keovip88.net/images/teams/fc-barcelona.png",
-            "logo_b": "https://images.keovip88.net/images/teams/alaves.png",
-            "time": "03:00:00",
-            "date": "01/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adbf55024d46db8700db7cf_c03a205f_20261101.png?v=c03a205f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-a91e069a61",
           "name": "Aston Villa vs Fulham | 03:00 01/11",
           "type": "single",
@@ -444,6 +228,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0700_65945f57_20261101.png?v=65945f57",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8ced628f83",
+          "name": "Barcelona vs Alaves | 03:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8ced628f83",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8ced628f83",
+                  "name": "Barcelona vs Alaves",
+                  "streams": [
+                    {
+                      "id": "st-8ced628f83",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-58b4f4c700",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793470130_hd/1793470130_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Barcelona",
+            "team_b": "Alaves",
+            "logo_a": "https://images.keovip88.net/images/teams/fc-barcelona.png",
+            "logo_b": "https://images.keovip88.net/images/teams/alaves.png",
+            "time": "03:00:00",
+            "date": "01/11",
+            "blv": "Nem",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adbf55024d46db8700db7cf_c03a205f_20261101.png?v=c03a205f",
             "width": 1600,
             "height": 1200
           }
