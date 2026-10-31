@@ -2137,6 +2137,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c518ba7967",
+          "name": "Melbourne Victory FC vs Central Coast Mariners FC | 11:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c518ba7967",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c518ba7967",
+                  "name": "Melbourne Victory FC vs Central Coast Mariners FC",
+                  "streams": [
+                    {
+                      "id": "st-c518ba7967",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4e32728b9f",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374314_hd/1793374314_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Melbourne Victory FC",
+            "team_b": "Central Coast Mariners FC",
+            "logo_a": "https://images.keovip88.net/images/teams/melbourne-victory.png",
+            "logo_b": "https://images.keovip88.net/images/teams/central-coast-mariners.png",
+            "time": "11:00:00",
+            "date": "01/11",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adbf55224d46db8700db9cc_72e239d8_20261031.png?v=72e239d8",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
