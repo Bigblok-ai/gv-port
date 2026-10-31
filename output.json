@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -305,6 +305,222 @@
           }
         },
         {
+          "id": "gv-31d50f9257",
+          "name": "AC Milan vs Inter Milan | 02:45 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-31d50f9257",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-31d50f9257",
+                  "name": "AC Milan vs Inter Milan",
+                  "streams": [
+                    {
+                      "id": "st-31d50f9257",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0f2f4aa25d",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793373035_hd/1793373035_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "AC Milan",
+            "team_b": "Inter Milan",
+            "logo_a": "https://images.keovip88.net/images/teams/ac-milan.png",
+            "logo_b": "https://images.keovip88.net/images/teams/inter-milan.png",
+            "time": "02:45:00",
+            "date": "01/11",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adbf55024d46db8700db7a2_152a5a9d_20261101.png?v=152a5a9d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a91e069a61",
+          "name": "Aston Villa vs Fulham | 03:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a91e069a61",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a91e069a61",
+                  "name": "Aston Villa vs Fulham",
+                  "streams": [
+                    {
+                      "id": "st-a91e069a61",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ef588f0197",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793373135_hd/1793373135_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Aston Villa",
+            "team_b": "Fulham",
+            "logo_a": "https://images.keovip88.net/images/teams/aston-villa.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fulham.png",
+            "time": "03:00:00",
+            "date": "01/11",
+            "blv": "Hứa",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0700_65945f57_20261101.png?v=65945f57",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8ced628f83",
+          "name": "Barcelona vs Alaves | 03:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8ced628f83",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8ced628f83",
+                  "name": "Barcelona vs Alaves",
+                  "streams": [
+                    {
+                      "id": "st-8ced628f83",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-58b4f4c700",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793470130_hd/1793470130_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Barcelona",
+            "team_b": "Alaves",
+            "logo_a": "https://images.keovip88.net/images/teams/fc-barcelona.png",
+            "logo_b": "https://images.keovip88.net/images/teams/alaves.png",
+            "time": "03:00:00",
+            "date": "01/11",
+            "blv": "Nem",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adbf55024d46db8700db7cf_c03a205f_20261101.png?v=c03a205f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-a3c0ee5a5d",
           "name": "Al-Arabi SC vs Al Rayyan | 23:30 31/10",
           "type": "single",
@@ -372,222 +588,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae13b2e24d46db870595634_739d5b34_20261101.png?v=739d5b34",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-31d50f9257",
-          "name": "AC Milan vs Inter Milan | 02:45 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-31d50f9257",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-31d50f9257",
-                  "name": "AC Milan vs Inter Milan",
-                  "streams": [
-                    {
-                      "id": "st-31d50f9257",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0f2f4aa25d",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793373035_hd/1793373035_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "AC Milan",
-            "team_b": "Inter Milan",
-            "logo_a": "https://images.keovip88.net/images/teams/ac-milan.png",
-            "logo_b": "https://images.keovip88.net/images/teams/inter-milan.png",
-            "time": "02:45:00",
-            "date": "01/11",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adbf55024d46db8700db7a2_152a5a9d_20261101.png?v=152a5a9d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-a91e069a61",
-          "name": "Aston Villa vs Fulham | 03:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a91e069a61",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a91e069a61",
-                  "name": "Aston Villa vs Fulham",
-                  "streams": [
-                    {
-                      "id": "st-a91e069a61",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ef588f0197",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793373135_hd/1793373135_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Aston Villa",
-            "team_b": "Fulham",
-            "logo_a": "https://images.keovip88.net/images/teams/aston-villa.png",
-            "logo_b": "https://images.keovip88.net/images/teams/fulham.png",
-            "time": "03:00:00",
-            "date": "01/11",
-            "blv": "Hứa",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0700_65945f57_20261101.png?v=65945f57",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-8ced628f83",
-          "name": "Barcelona vs Alaves | 03:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8ced628f83",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8ced628f83",
-                  "name": "Barcelona vs Alaves",
-                  "streams": [
-                    {
-                      "id": "st-8ced628f83",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-58b4f4c700",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793470130_hd/1793470130_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Barcelona",
-            "team_b": "Alaves",
-            "logo_a": "https://images.keovip88.net/images/teams/fc-barcelona.png",
-            "logo_b": "https://images.keovip88.net/images/teams/alaves.png",
-            "time": "03:00:00",
-            "date": "01/11",
-            "blv": "Nem",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adbf55024d46db8700db7cf_c03a205f_20261101.png?v=c03a205f",
             "width": 1600,
             "height": 1200
           }
