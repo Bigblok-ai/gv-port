@@ -1904,6 +1904,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-064e93026e",
+          "name": "Paris FC vs AS Monaco | 23:15 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-064e93026e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-064e93026e",
+                  "name": "Paris FC vs AS Monaco",
+                  "streams": [
+                    {
+                      "id": "st-064e93026e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d5f1fe8e4c",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://ftlh5sc02iliv.vcdn.cloud/1793376359_hd/1793376359_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Paris FC",
+            "team_b": "AS Monaco",
+            "logo_a": "https://images.keovip88.net/images/teams/paris-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/monaco.png",
+            "time": "23:15:00",
+            "date": "01/11",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46cc24d46db870f8aaa7_893d4c12_20261031.png?v=893d4c12",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
