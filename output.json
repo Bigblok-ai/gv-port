@@ -2796,6 +2796,150 @@
           }
         },
         {
+          "id": "gv-6a7a81159e",
+          "name": "Tianjin Pioneers vs Ningbo Rockets | 18:35 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a7a81159e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6a7a81159e",
+                  "name": "Tianjin Pioneers vs Ningbo Rockets",
+                  "streams": [
+                    {
+                      "id": "st-6a7a81159e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3ce5de9f9e",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793446891_hd/1793446891_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Tianjin Pioneers",
+            "team_b": "Ningbo Rockets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c95a72565d21fd4797acfbfb63c829e8.PNG",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/78539aa7b6e4518265799642461ab855.png",
+            "time": "18:35:00",
+            "date": "01/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38863476_3ae9d8be_20261031.png?v=3ae9d8be",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c5d1b7f547",
+          "name": "Zhejiang Golden Bulls vs Suzhou Dragons Kentier | 18:35 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c5d1b7f547",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c5d1b7f547",
+                  "name": "Zhejiang Golden Bulls vs Suzhou Dragons Kentier",
+                  "streams": [
+                    {
+                      "id": "st-c5d1b7f547",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b440af8de2",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793446900_hd/1793446900_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Zhejiang Golden Bulls",
+            "team_b": "Suzhou Dragons Kentier",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/eaff06bd8c853345d0a2061a1ef15585.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d1c8a0f21d4d300f8ddce93f11b79c70.png",
+            "time": "18:35:00",
+            "date": "01/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20963479_c16a74a6_20261031.png?v=c16a74a6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-727fea17d2",
           "name": "Orlando Magic vs Boston Celtics | 03:30 02/11",
           "type": "single",
@@ -3160,6 +3304,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/b9c9wtigwpzx_ff5f58ea_20261031.png?v=ff5f58ea",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-eb6745c30b",
+          "name": "Afyon Bld. Yuntas Nữ vs Vakifbank Nữ | 19:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-eb6745c30b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-eb6745c30b",
+                  "name": "Afyon Bld. Yuntas Nữ vs Vakifbank Nữ",
+                  "streams": [
+                    {
+                      "id": "st-eb6745c30b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96bae62624",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793446972_hd/1793446972_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi Nữ ",
+            "team_a": "Afyon Bld. Yuntas Nữ",
+            "team_b": "Vakifbank Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/pKqFrfFa-niMlQ9Sm.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",
+            "time": "19:00:00",
+            "date": "01/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tdho1klyly9o_4cc29365_20261031.png?v=4cc29365",
             "width": 1600,
             "height": 1200
           }
