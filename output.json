@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (9 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -322,6 +322,167 @@
           }
         },
         {
+          "id": "gv-cb5240f7eb",
+          "name": "Manchester City vs Brighton   Hove Albion | 22:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cb5240f7eb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cb5240f7eb",
+                  "name": "Manchester City vs Brighton   Hove Albion",
+                  "streams": [
+                    {
+                      "id": "st-cb5240f7eb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1567af22ed",
+                          "name": "Fan MC: Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793435579_hd/1793435579_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-7c6a88fcef",
+                          "name": "Trung lập: Chồn",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793435582_hd/1793435582_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Manchester City",
+            "team_b": "Brighton   Hove Albion",
+            "logo_a": "https://images.keovip88.net/images/teams/manchester-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
+            "time": "22:00:00",
+            "date": "31/10",
+            "blv": "Fan MC: Ben, Trung lập: Chồn",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3de24d46db8704c5e6f_89f0803b_20261031.png?v=89f0803b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-03573f6bdb",
+          "name": "Hull City vs Ipswich | 22:00 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-03573f6bdb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-03573f6bdb",
+                  "name": "Hull City vs Ipswich",
+                  "streams": [
+                    {
+                      "id": "st-03573f6bdb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa6ddee6a7",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793284186_hd/1793284186_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Hull City",
+            "team_b": "Ipswich",
+            "logo_a": "https://images.keovip88.net/images/teams/hull-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ipswich-town.png",
+            "time": "22:00:00",
+            "date": "31/10",
+            "blv": "Điếc",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06fe_81cb7f01_20261031.png?v=81cb7f01",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-1923ac9265",
           "name": "Coventry vs Sunderland | 22:00 31/10",
           "type": "single",
@@ -394,167 +555,6 @@
           }
         },
         {
-          "id": "gv-cb5240f7eb",
-          "name": "Manchester City vs Brighton   Hove Albion | 22:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cb5240f7eb",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cb5240f7eb",
-                  "name": "Manchester City vs Brighton   Hove Albion",
-                  "streams": [
-                    {
-                      "id": "st-cb5240f7eb",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1567af22ed",
-                          "name": "Fan MC: Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793435579_hd/1793435579_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-7c6a88fcef",
-                          "name": "Trung lập: Chồn",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793435582_hd/1793435582_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Manchester City",
-            "team_b": "Brighton   Hove Albion",
-            "logo_a": "https://images.keovip88.net/images/teams/manchester-city.png",
-            "logo_b": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
-            "time": "22:00:00",
-            "date": "31/10",
-            "blv": "Fan MC: Ben, Trung lập: Chồn",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3de24d46db8704c5e6f_89f0803b_20261031.png?v=89f0803b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-03573f6bdb",
-          "name": "Hull City vs Ipswich | 22:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-03573f6bdb",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-03573f6bdb",
-                  "name": "Hull City vs Ipswich",
-                  "streams": [
-                    {
-                      "id": "st-03573f6bdb",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa6ddee6a7",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793284186_hd/1793284186_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Hull City",
-            "team_b": "Ipswich",
-            "logo_a": "https://images.keovip88.net/images/teams/hull-city.png",
-            "logo_b": "https://images.keovip88.net/images/teams/ipswich-town.png",
-            "time": "22:00:00",
-            "date": "31/10",
-            "blv": "Điếc",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f06fe_81cb7f01_20261031.png?v=81cb7f01",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-8ba244b098",
           "name": "Brentford vs Nottingham Forest | 22:00 31/10",
           "type": "single",
@@ -562,10 +562,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -614,7 +614,7 @@
             "time": "22:00:00",
             "date": "31/10",
             "blv": "Ngọng",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -634,10 +634,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -654,11 +654,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-d81544d634",
+                          "id": "lnk-7ec5276b6d",
                           "name": "Trĩ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1793284270_hd/1793284270_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793284270_hd/1793284270_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -686,7 +686,7 @@
             "time": "22:00:00",
             "date": "31/10",
             "blv": "Trĩ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
