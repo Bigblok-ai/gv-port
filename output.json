@@ -2652,6 +2652,150 @@
           }
         },
         {
+          "id": "gv-ba0ab2d7de",
+          "name": "Beijing Shougang Ducks vs Zhejiang Lions | 18:35 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ba0ab2d7de",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ba0ab2d7de",
+                  "name": "Beijing Shougang Ducks vs Zhejiang Lions",
+                  "streams": [
+                    {
+                      "id": "st-ba0ab2d7de",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-118b80605e",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793446613_hd/1793446613_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Beijing Shougang Ducks",
+            "team_b": "Zhejiang Lions",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/58867afcb7d9cb68ffd5338c62c7af6a.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/17bf3755eecad867cf5fcc08b83104af.png",
+            "time": "18:35:00",
+            "date": "01/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39863477_af12d34d_20261031.png?v=af12d34d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cec8f9356d",
+          "name": "Shanghai Jiushi Sharks vs NanJing Monkey Kings | 18:35 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cec8f9356d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cec8f9356d",
+                  "name": "Shanghai Jiushi Sharks vs NanJing Monkey Kings",
+                  "streams": [
+                    {
+                      "id": "st-cec8f9356d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-74b2ab9906",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793446800_hd/1793446800_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Shanghai Jiushi Sharks",
+            "team_b": "NanJing Monkey Kings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d67cd54e91fe7a46a2f9bdd646544989.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e3bbce6525ca22d736f744cd2e31ff59.png",
+            "time": "18:35:00",
+            "date": "01/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35863473_1bcd1c78_20261031.png?v=1bcd1c78",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-727fea17d2",
           "name": "Orlando Magic vs Boston Celtics | 03:30 02/11",
           "type": "single",
