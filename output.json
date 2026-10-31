@@ -1638,7 +1638,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1711,78 +1711,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32863470_29c936cf_20261031.png?v=29c936cf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-1f2979ddbb",
-          "name": "Shandong Hi-Speed Kirin vs Guangdong Southern Tigers | 18:35 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1f2979ddbb",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1f2979ddbb",
-                  "name": "Shandong Hi-Speed Kirin vs Guangdong Southern Tigers",
-                  "streams": [
-                    {
-                      "id": "st-1f2979ddbb",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-45be9fa67c",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793431924_hd/1793431924_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Shandong Hi-Speed Kirin",
-            "team_b": "Guangdong Southern Tigers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/5e5e6dd519553b0782b6ad7cda315e98.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/37b8668860b7f12aeb8a40fafaaa2e83.png",
-            "time": "18:35:00",
-            "date": "31/10",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33863471_016d66cc_20261031.png?v=016d66cc",
             "width": 1600,
             "height": 1200
           }
