@@ -1710,83 +1710,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9f40e09fd2",
-          "name": "KOGAS vs Mobis Phoebus | 14:30 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9f40e09fd2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9f40e09fd2",
-                  "name": "KOGAS vs Mobis Phoebus",
-                  "streams": [
-                    {
-                      "id": "st-9f40e09fd2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fed71c50ab",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793374859_hd/1793374859_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "KOGAS",
-            "team_b": "Mobis Phoebus",
-            "logo_a": "https://static.flashscore.com/res/image/data/E9xGHfcM-vehtS5P1.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/UTvcCjBr-Egd2koIh.png",
-            "time": "14:30:00",
-            "date": "31/10",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9my8chqofdnh_95219040_20261031.png?v=95219040",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-4f66045275",
           "name": "Cairns Taipans vs Melbourne United | 15:30 31/10",
