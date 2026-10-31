@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4c0b5a2276",
-          "name": "Bangkok United FC vs Uthai Thani FC | 19:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4c0b5a2276",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4c0b5a2276",
-                  "name": "Bangkok United FC vs Uthai Thani FC",
-                  "streams": [
-                    {
-                      "id": "st-4c0b5a2276",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e8c170bcb9",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793283849_hd/1793283849_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Thái Lan",
-            "team_a": "Bangkok United FC",
-            "team_b": "Uthai Thani FC",
-            "logo_a": "https://images.keovip88.net/images/teams/bangkok-united-fc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/uthai-thani-fc.png",
-            "time": "19:00:00",
-            "date": "31/10",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ade982d24d46db870e5309e_006e2785_20261031.png?v=006e2785",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-d534543dc9",
           "name": "Chelsea FC vs Manchester United | 19:30 31/10",
@@ -257,10 +185,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -309,7 +237,7 @@
             "time": "21:30:00",
             "date": "31/10",
             "blv": "Hứa",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -317,6 +245,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0784_ee8d0fe0_20261031.png?v=ee8d0fe0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5daf465dc9",
+          "name": "Schalke 04 vs RB Leipzig | 21:30 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5daf465dc9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5daf465dc9",
+                  "name": "Schalke 04 vs RB Leipzig",
+                  "streams": [
+                    {
+                      "id": "st-5daf465dc9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1262acad44",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793455086_hd/1793455086_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Schalke 04",
+            "team_b": "RB Leipzig",
+            "logo_a": "https://images.keovip88.net/images/teams/schalke-04.png",
+            "logo_b": "https://images.keovip88.net/images/teams/rb-leipzig.png",
+            "time": "21:30:00",
+            "date": "31/10",
+            "blv": "Bee",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3de24d46db8704c5dd3_6ba975f3_20261031.png?v=6ba975f3",
             "width": 1600,
             "height": 1200
           }
@@ -1630,6 +1630,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46c624d46db870f89cfd_99f3bf70_20261031.png?v=99f3bf70",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a395f22275",
+          "name": "Frosinone vs Torino | 21:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a395f22275",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a395f22275",
+                  "name": "Frosinone vs Torino",
+                  "streams": [
+                    {
+                      "id": "st-a395f22275",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-97fa29ba63",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793447195_hd/1793447195_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Frosinone",
+            "team_b": "Torino",
+            "logo_a": "https://images.keovip88.net/images/teams/frosinone.png",
+            "logo_b": "https://images.keovip88.net/images/teams/torino.png",
+            "time": "21:00:00",
+            "date": "01/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46c724d46db870f8a3a0_60fadf01_20261031.png?v=60fadf01",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-11a46088ae",
+          "name": "Lazio vs Cagliari | 21:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-11a46088ae",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-11a46088ae",
+                  "name": "Lazio vs Cagliari",
+                  "streams": [
+                    {
+                      "id": "st-11a46088ae",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1934bce201",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793447220_hd/1793447220_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Lazio",
+            "team_b": "Cagliari",
+            "logo_a": "https://images.keovip88.net/images/teams/lazio.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cagliari.png",
+            "time": "21:00:00",
+            "date": "01/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46c724d46db870f8a3a4_af289f75_20261031.png?v=af289f75",
             "width": 1600,
             "height": 1200
           }
