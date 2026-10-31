@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "gv-3d9e3d577d",
-          "name": "Newcastle Jets FC vs Wellington Phoenix | 11:00 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3d9e3d577d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3d9e3d577d",
-                  "name": "Newcastle Jets FC vs Wellington Phoenix",
-                  "streams": [
-                    {
-                      "id": "st-3d9e3d577d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8f9ee6ea03",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793373849_hd/1793373849_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Úc",
-            "team_a": "Newcastle Jets FC",
-            "team_b": "Wellington Phoenix",
-            "logo_a": "https://images.keovip88.net/images/teams/newcastle-jets.png",
-            "logo_b": "https://images.keovip88.net/images/teams/wellington-phoenix.png",
-            "time": "11:00:00",
-            "date": "31/10",
-            "blv": "Ngu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adaa3d424d46db8704c50ef_482944ad_20261031.png?v=482944ad",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-9987d5ab9c",
           "name": "Hải Phòng vs Bình Phước | 18:00 31/10",
           "type": "single",
@@ -1710,7 +1638,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1788,6 +1716,78 @@
           }
         },
         {
+          "id": "gv-70fa039fa3",
+          "name": "Perth Wildcats vs Illawarra Hawks | 17:30 31/10",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-70fa039fa3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-70fa039fa3",
+                  "name": "Perth Wildcats vs Illawarra Hawks",
+                  "streams": [
+                    {
+                      "id": "st-70fa039fa3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-339ac8c468",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793431857_hd/1793431857_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Perth Wildcats",
+            "team_b": "Illawarra Hawks",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d6e217ac051f3258b82d74a932d11ada.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97aa6ff62044e05b1dc126043568a18.png",
+            "time": "17:30:00",
+            "date": "31/10",
+            "blv": "Ben",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10622279_36df483e_20261031.png?v=36df483e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-4d9237e381",
           "name": "KCC Egis vs Wonju DB Promy | 12:00 31/10",
           "type": "single",
@@ -1855,78 +1855,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lf2bd3fp0d2q_c2092d45_20261031.png?v=c2092d45",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-70fa039fa3",
-          "name": "Perth Wildcats vs Illawarra Hawks | 17:30 31/10",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-70fa039fa3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-70fa039fa3",
-                  "name": "Perth Wildcats vs Illawarra Hawks",
-                  "streams": [
-                    {
-                      "id": "st-70fa039fa3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-339ac8c468",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793431857_hd/1793431857_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "Perth Wildcats",
-            "team_b": "Illawarra Hawks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d6e217ac051f3258b82d74a932d11ada.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97aa6ff62044e05b1dc126043568a18.png",
-            "time": "17:30:00",
-            "date": "31/10",
-            "blv": "Ben",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10622279_36df483e_20261031.png?v=36df483e",
             "width": 1600,
             "height": 1200
           }
