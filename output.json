@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-31d50f9257",
-          "name": "AC Milan vs Inter Milan | 02:45 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-31d50f9257",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-31d50f9257",
-                  "name": "AC Milan vs Inter Milan",
-                  "streams": [
-                    {
-                      "id": "st-31d50f9257",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0f2f4aa25d",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793373035_hd/1793373035_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "AC Milan",
-            "team_b": "Inter Milan",
-            "logo_a": "https://images.keovip88.net/images/teams/ac-milan.png",
-            "logo_b": "https://images.keovip88.net/images/teams/inter-milan.png",
-            "time": "02:45:00",
-            "date": "01/11",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6adbf55024d46db8700db7a2_152a5a9d_20261101.png?v=152a5a9d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a91e069a61",
           "name": "Aston Villa vs Fulham | 03:00 01/11",
