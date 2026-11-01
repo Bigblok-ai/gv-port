@@ -3307,6 +3307,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c0e427783d",
+          "name": "Ziraat Bankasi vs Sungurlu | 23:00 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c0e427783d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c0e427783d",
+                  "name": "Ziraat Bankasi vs Sungurlu",
+                  "streams": [
+                    {
+                      "id": "st-c0e427783d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4736815b70",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516360_hd/1793516360_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi",
+            "team_a": "Ziraat Bankasi",
+            "team_b": "Sungurlu",
+            "logo_a": "https://static.flashscore.com/res/image/data/nN1hHJYA-vaQC7xt4.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/tjDcEUAr-Y5J053R1.png",
+            "time": "23:00:00",
+            "date": "03/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1zn5qyanvn6m_d8c242b5_20261101.png?v=d8c242b5",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
