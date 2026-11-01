@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-df3c93861e",
-          "name": "Elche vs Valencia | 00:30 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-df3c93861e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-df3c93861e",
-                  "name": "Elche vs Valencia",
-                  "streams": [
-                    {
-                      "id": "st-df3c93861e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d99c8e40e7",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376522_hd/1793376522_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Elche",
-            "team_b": "Valencia",
-            "logo_a": "https://images.keovip88.net/images/teams/elche.png",
-            "logo_b": "https://images.keovip88.net/images/teams/valencia.png",
-            "time": "00:30:00",
-            "date": "02/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46cf24d46db870f8ad92_fa6732bc_20261102.png?v=fa6732bc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-30ec6f5dc4",
           "name": "Palmeiras vs Vasco Gama | 02:00 02/11",
@@ -156,6 +84,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa1f4090eec5464580631ee_ca4a2fa0_20261102.png?v=ca4a2fa0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e10e50c992",
+          "name": "Juventus vs Napoli | 02:45 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e10e50c992",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e10e50c992",
+                  "name": "Juventus vs Napoli",
+                  "streams": [
+                    {
+                      "id": "st-e10e50c992",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7e40911c49",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376589_hd/1793376589_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Juventus",
+            "team_b": "Napoli",
+            "logo_a": "https://images.keovip88.net/images/teams/juventus.png",
+            "logo_b": "https://images.keovip88.net/images/teams/napoli.png",
+            "time": "02:45:00",
+            "date": "02/11",
+            "blv": "Chồn",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46cf24d46db870f8ae1c_6b1a901a_20261102.png?v=6b1a901a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a9b8a170b5",
+          "name": "Marseille vs Toulouse | 02:45 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a9b8a170b5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a9b8a170b5",
+                  "name": "Marseille vs Toulouse",
+                  "streams": [
+                    {
+                      "id": "st-a9b8a170b5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-41a9fec94b",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376664_hd/1793376664_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Marseille",
+            "team_b": "Toulouse",
+            "logo_a": "https://images.keovip88.net/images/teams/marseille.png",
+            "logo_b": "https://images.keovip88.net/images/teams/toulouse.png",
+            "time": "02:45:00",
+            "date": "02/11",
+            "blv": "Bee",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46cf24d46db870f8ae24_a24c4faf_20261102.png?v=a24c4faf",
             "width": 1600,
             "height": 1200
           }
@@ -300,150 +372,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46c724d46db870f8a3a4_af289f75_20261102.png?v=af289f75",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-e10e50c992",
-          "name": "Juventus vs Napoli | 02:45 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e10e50c992",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e10e50c992",
-                  "name": "Juventus vs Napoli",
-                  "streams": [
-                    {
-                      "id": "st-e10e50c992",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7e40911c49",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376589_hd/1793376589_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Juventus",
-            "team_b": "Napoli",
-            "logo_a": "https://images.keovip88.net/images/teams/juventus.png",
-            "logo_b": "https://images.keovip88.net/images/teams/napoli.png",
-            "time": "02:45:00",
-            "date": "02/11",
-            "blv": "Chồn",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46cf24d46db870f8ae1c_6b1a901a_20261102.png?v=6b1a901a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-a9b8a170b5",
-          "name": "Marseille vs Toulouse | 02:45 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a9b8a170b5",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a9b8a170b5",
-                  "name": "Marseille vs Toulouse",
-                  "streams": [
-                    {
-                      "id": "st-a9b8a170b5",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-41a9fec94b",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376664_hd/1793376664_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ligue 1",
-            "team_a": "Marseille",
-            "team_b": "Toulouse",
-            "logo_a": "https://images.keovip88.net/images/teams/marseille.png",
-            "logo_b": "https://images.keovip88.net/images/teams/toulouse.png",
-            "time": "02:45:00",
-            "date": "02/11",
-            "blv": "Bee",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46cf24d46db870f8ae24_a24c4faf_20261102.png?v=a24c4faf",
             "width": 1600,
             "height": 1200
           }
@@ -2423,7 +2351,7 @@
     },
     {
       "id": "cate_duaxe",
-      "name": "🏎️ Đua Xe",
+      "name": "🏎️ Đua Xe (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2436,10 +2364,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2488,7 +2416,7 @@
             "time": "03:00:00",
             "date": "02/11",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "duaxe"
           },
           "image": {
