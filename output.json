@@ -2763,83 +2763,11 @@
     },
     {
       "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn (1 LIVE)",
+      "name": "🏓 Bóng Bàn",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-dd2398d714",
-          "name": "Bán kết vs Bán kết | 17:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dd2398d714",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-dd2398d714",
-                  "name": "Bán kết vs Bán kết",
-                  "streams": [
-                    {
-                      "id": "st-dd2398d714",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5825f9ce9c",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793518479_hd/1793518479_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Montpellier 2026",
-            "team_a": "Bán kết",
-            "team_b": "Bán kết",
-            "logo_a": "https://wttwebcmsprod.blob.core.windows.net/articledetailimages/AN-Jaehyun_WTT-Champions-Montpellier-2026_Day-1_0E6A1700_34e44a8b-75f3-4243-8183-3efbee581050.png",
-            "logo_b": "https://wttwebcmsprod.blob.core.windows.net/articledetailimages/Sora-MATSUSHIMA_WTT-Champions-Montpellier-2026_Day-1_0E6A4654_e45bd613-acab-41e2-8e12-110994257ef9.png",
-            "time": "17:00:00",
-            "date": "01/11",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/es9ovdhqneno_9420072d_20261101.png?v=9420072d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f0df05b262",
           "name": "chung kết vs chung kết | 23:30 01/11",
