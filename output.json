@@ -2535,6 +2535,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-f9b137d153",
+          "name": "CS2-IEM Bejing 2026 vs Group A - Opening Round | 09:00 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f9b137d153",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f9b137d153",
+                  "name": "CS2-IEM Bejing 2026 vs Group A - Opening Round",
+                  "streams": [
+                    {
+                      "id": "st-f9b137d153",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f12102f8a2",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793545642_hd/1793545642_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-IEM Bejing 2026 ",
+            "team_a": "CS2-IEM Bejing 2026",
+            "team_b": "Group A - Opening Round",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGfEsjWjtBT7UzKSw0k4yvz_CWMxofoVp9Q7g_CSp-PQ_glP2gwBe5QM9S&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDUFjxAxbscctdmECMitLkhPloR0EynMAaBTIlUAn7dvinHCo9QlOy7k&s=10",
+            "time": "09:00:00",
+            "date": "02/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8ioylkk5n4nq_ac192aff_20261101.png?v=ac192aff",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-86c120b9b2",
           "name": "TES vs IG | 05:00 04/11",
           "type": "single",
