@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-30ec6f5dc4",
-          "name": "Palmeiras vs Vasco Gama | 02:00 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-30ec6f5dc4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-30ec6f5dc4",
-                  "name": "Palmeiras vs Vasco Gama",
-                  "streams": [
-                    {
-                      "id": "st-30ec6f5dc4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f75ddcf46b",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793509307_hd/1793509307_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Brazil",
-            "team_a": "Palmeiras",
-            "team_b": "Vasco Gama",
-            "logo_a": "https://images.keovip88.net/images/teams/palmeiras.png",
-            "logo_b": "https://images.keovip88.net/images/teams/vasco-da-gama.png",
-            "time": "02:00:00",
-            "date": "02/11",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa1f4090eec5464580631ee_ca4a2fa0_20261102.png?v=ca4a2fa0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e10e50c992",
           "name": "Juventus vs Napoli | 02:45 02/11",
