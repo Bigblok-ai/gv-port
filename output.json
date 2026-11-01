@@ -2758,6 +2758,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-a7a65a5376",
+          "name": "Kansas City Chiefs vs Denver Broncos | 04:25 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a7a65a5376",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a7a65a5376",
+                  "name": "Kansas City Chiefs vs Denver Broncos",
+                  "streams": [
+                    {
+                      "id": "st-a7a65a5376",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa678ac806",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793509773_hd/1793509773_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Kansas City Chiefs",
+            "team_b": "Denver Broncos",
+            "logo_a": "https://static.flashscore.com/res/image/data/0ly3wzFG-8KiTm088.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/bs8k9qcM-dWj1wpBo.png",
+            "time": "04:25:00",
+            "date": "02/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d5x07ysvaacg_233b2fea_20261101.png?v=233b2fea",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
