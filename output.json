@@ -2443,6 +2443,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-b44926e935",
+          "name": "Fenerbahce Nữ vs Galatasaray Nữ | 23:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b44926e935",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b44926e935",
+                  "name": "Fenerbahce Nữ vs Galatasaray Nữ",
+                  "streams": [
+                    {
+                      "id": "st-b44926e935",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4e2e16fad8",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793509469_hd/1793509469_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi Nữ",
+            "team_a": "Fenerbahce Nữ",
+            "team_b": "Galatasaray Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/8WgKWiCa-CCQtmQAB.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/YkqtQ9dM-Ayf8HTfc.png",
+            "time": "23:00:00",
+            "date": "01/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j04ixz6zis0p_56ecd985_20261101.png?v=56ecd985",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2521,6 +2593,168 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/k9ev6oqjtmiz_c6abb8f9_20261101.png?v=c6abb8f9",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongban",
+      "name": "🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-f0df05b262",
+          "name": "chung kết vs chung kết | 23:30 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f0df05b262",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f0df05b262",
+                  "name": "chung kết vs chung kết",
+                  "streams": [
+                    {
+                      "id": "st-f0df05b262",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1980487e2a",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793509559_hd/1793509559_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Montpellier 2026",
+            "team_a": "chung kết",
+            "team_b": "chung kết",
+            "logo_a": "",
+            "logo_b": "",
+            "time": "23:30:00",
+            "date": "01/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4x6odj76u8ju_6654c734_20261101.png?v=6654c734",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_rugby",
+      "name": "🏅 Thể Thao",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-881ee259b5",
+          "name": "Baltimore Ravens vs Buffalo Bills | 01:00 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-881ee259b5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-881ee259b5",
+                  "name": "Baltimore Ravens vs Buffalo Bills",
+                  "streams": [
+                    {
+                      "id": "st-881ee259b5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-df40ac4c1c",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793509710_hd/1793509710_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Baltimore Ravens",
+            "team_b": "Buffalo Bills",
+            "logo_a": "https://static.flashscore.com/res/image/data/dUe4S2il-40MWbKRi.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/WxLvPwFa-KIDlwIzm.png",
+            "time": "01:00:00",
+            "date": "02/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vg6cvdht6l5u_49453b9d_20261101.png?v=49453b9d",
             "width": 1600,
             "height": 1200
           }
