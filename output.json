@@ -305,150 +305,6 @@
           }
         },
         {
-          "id": "gv-a395f22275",
-          "name": "Frosinone vs Torino | 21:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a395f22275",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a395f22275",
-                  "name": "Frosinone vs Torino",
-                  "streams": [
-                    {
-                      "id": "st-a395f22275",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-97fa29ba63",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793447195_hd/1793447195_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Frosinone",
-            "team_b": "Torino",
-            "logo_a": "https://images.keovip88.net/images/teams/frosinone.png",
-            "logo_b": "https://images.keovip88.net/images/teams/torino.png",
-            "time": "21:00:00",
-            "date": "01/11",
-            "blv": "Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46c724d46db870f8a3a0_60fadf01_20261102.png?v=60fadf01",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-11a46088ae",
-          "name": "Lazio vs Cagliari | 21:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-11a46088ae",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-11a46088ae",
-                  "name": "Lazio vs Cagliari",
-                  "streams": [
-                    {
-                      "id": "st-11a46088ae",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1934bce201",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793447220_hd/1793447220_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Lazio",
-            "team_b": "Cagliari",
-            "logo_a": "https://images.keovip88.net/images/teams/lazio.png",
-            "logo_b": "https://images.keovip88.net/images/teams/cagliari.png",
-            "time": "21:00:00",
-            "date": "01/11",
-            "blv": "Ben",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46c724d46db870f8a3a4_af289f75_20261102.png?v=af289f75",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-eb82849f91",
           "name": "Pakhtakor Tashkent vs Al-Nassr FC | 20:45 02/11",
           "type": "single",
@@ -948,6 +804,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ade985424d46db870e562ad_36debe11_20261102.png?v=36debe11",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a33799c8fa",
+          "name": "Newcastle United vs Everton | 03:00 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a33799c8fa",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a33799c8fa",
+                  "name": "Newcastle United vs Everton",
+                  "streams": [
+                    {
+                      "id": "st-a33799c8fa",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5102a4c106",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793515587_hd/1793515587_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Newcastle United",
+            "team_b": "Everton",
+            "logo_a": "https://images.keovip88.net/images/teams/newcastle-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/everton.png",
+            "time": "03:00:00",
+            "date": "03/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0702_62493b80_20261102.png?v=62493b80",
             "width": 1600,
             "height": 1200
           }
