@@ -1350,83 +1350,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-032a8c48f9",
-          "name": "South East Melbourne Phoenix vs Tasmania JackJumpers | 11:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-032a8c48f9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-032a8c48f9",
-                  "name": "South East Melbourne Phoenix vs Tasmania JackJumpers",
-                  "streams": [
-                    {
-                      "id": "st-032a8c48f9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3abbcd6db3",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375147_hd/1793375147_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "South East Melbourne Phoenix",
-            "team_b": "Tasmania JackJumpers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e5c63f30ad74c5c5159f1e7695173ae5.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png",
-            "time": "11:00:00",
-            "date": "01/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21622270_d734c02d_20261101.png?v=d734c02d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-1f43872311",
           "name": "Goyang Sono vs Suwon KT | 12:00 01/11",
