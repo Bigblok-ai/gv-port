@@ -17,112 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-fe4a610c28",
-          "name": "Liverpool vs Arsenal | 23:30 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fe4a610c28",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fe4a610c28",
-                  "name": "Liverpool vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-fe4a610c28",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4944cde2b",
-                          "name": "Đầu cầu cò: Tỵ + Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376432_hd/1793376432_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-876a626d8f",
-                          "name": "Fan Arsenal: Ngọng + Cận",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376434_hd/1793376434_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-b5e0851593",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376437_hd/1793376437_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Liverpool",
-            "team_b": "Arsenal",
-            "logo_a": "https://images.keovip88.net/images/teams/liverpool.png",
-            "logo_b": "https://images.keovip88.net/images/teams/arsenal.png",
-            "time": "23:30:00",
-            "date": "01/11",
-            "blv": "Đầu cầu cò: Tỵ + Trĩ, Fan Arsenal: Ngọng + Cận, Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0701_aa5dff36_20261102.png?v=aa5dff36",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-2702b7a819",
           "name": "Lecce vs Genoa | 23:59 01/11",
           "type": "single",
@@ -267,6 +161,78 @@
           }
         },
         {
+          "id": "gv-30ec6f5dc4",
+          "name": "Palmeiras vs Vasco Gama | 02:00 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-30ec6f5dc4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-30ec6f5dc4",
+                  "name": "Palmeiras vs Vasco Gama",
+                  "streams": [
+                    {
+                      "id": "st-30ec6f5dc4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f75ddcf46b",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793509307_hd/1793509307_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Brazil",
+            "team_a": "Palmeiras",
+            "team_b": "Vasco Gama",
+            "logo_a": "https://images.keovip88.net/images/teams/palmeiras.png",
+            "logo_b": "https://images.keovip88.net/images/teams/vasco-da-gama.png",
+            "time": "02:00:00",
+            "date": "02/11",
+            "blv": "Ngọng",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa1f4090eec5464580631ee_ca4a2fa0_20261102.png?v=ca4a2fa0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-a395f22275",
           "name": "Frosinone vs Torino | 21:00 01/11",
           "type": "single",
@@ -406,78 +372,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46c724d46db870f8a3a4_af289f75_20261102.png?v=af289f75",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-30ec6f5dc4",
-          "name": "Palmeiras vs Vasco Gama | 02:00 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-30ec6f5dc4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-30ec6f5dc4",
-                  "name": "Palmeiras vs Vasco Gama",
-                  "streams": [
-                    {
-                      "id": "st-30ec6f5dc4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f75ddcf46b",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793509307_hd/1793509307_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Brazil",
-            "team_a": "Palmeiras",
-            "team_b": "Vasco Gama",
-            "logo_a": "https://images.keovip88.net/images/teams/palmeiras.png",
-            "logo_b": "https://images.keovip88.net/images/teams/vasco-da-gama.png",
-            "time": "02:00:00",
-            "date": "02/11",
-            "blv": "Ngọng",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa1f4090eec5464580631ee_ca4a2fa0_20261102.png?v=ca4a2fa0",
             "width": 1600,
             "height": 1200
           }
@@ -2223,83 +2117,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b44926e935",
-          "name": "Fenerbahce Nữ vs Galatasaray Nữ | 23:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b44926e935",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b44926e935",
-                  "name": "Fenerbahce Nữ vs Galatasaray Nữ",
-                  "streams": [
-                    {
-                      "id": "st-b44926e935",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4e2e16fad8",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793509469_hd/1793509469_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkey Sultanlar Ligi Nữ",
-            "team_a": "Fenerbahce Nữ",
-            "team_b": "Galatasaray Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/8WgKWiCa-CCQtmQAB.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/YkqtQ9dM-Ayf8HTfc.png",
-            "time": "23:00:00",
-            "date": "01/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j04ixz6zis0p_56ecd985_20261102.png?v=56ecd985",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2f06dcd39b",
           "name": "IBK nữ vs Hyundai E&C Hillstate Nữ | 17:00 03/11",
