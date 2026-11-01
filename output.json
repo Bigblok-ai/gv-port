@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-977555f80d",
-          "name": "Getafe vs Sevilla | 20:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-977555f80d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-977555f80d",
-                  "name": "Getafe vs Sevilla",
-                  "streams": [
-                    {
-                      "id": "st-977555f80d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d43673c827",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793447174_hd/1793447174_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Getafe",
-            "team_b": "Sevilla",
-            "logo_a": "https://images.keovip88.net/images/teams/getafe.png",
-            "logo_b": "https://images.keovip88.net/images/teams/sevilla.png",
-            "time": "20:00:00",
-            "date": "01/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46c624d46db870f89cfd_99f3bf70_20261101.png?v=99f3bf70",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-3d6fb8d269",
           "name": "Union Berlin vs Koln | 21:30 01/11",
           "type": "single",
@@ -228,6 +156,112 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46ca24d46db870f8a757_f0b682d7_20261101.png?v=f0b682d7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fe4a610c28",
+          "name": "Liverpool vs Arsenal | 23:30 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fe4a610c28",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fe4a610c28",
+                  "name": "Liverpool vs Arsenal",
+                  "streams": [
+                    {
+                      "id": "st-fe4a610c28",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e4944cde2b",
+                          "name": "Đầu cầu cò: Tỵ + Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376432_hd/1793376432_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-876a626d8f",
+                          "name": "Fan Arsenal: Ngọng + Cận",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376434_hd/1793376434_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b5e0851593",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376437_hd/1793376437_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Liverpool",
+            "team_b": "Arsenal",
+            "logo_a": "https://images.keovip88.net/images/teams/liverpool.png",
+            "logo_b": "https://images.keovip88.net/images/teams/arsenal.png",
+            "time": "23:30:00",
+            "date": "01/11",
+            "blv": "Đầu cầu cò: Tỵ + Trĩ, Fan Arsenal: Ngọng + Cận, Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0701_aa5dff36_20261101.png?v=aa5dff36",
             "width": 1600,
             "height": 1200
           }
@@ -444,112 +478,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46cc24d46db870f8aaa7_893d4c12_20261101.png?v=893d4c12",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-fe4a610c28",
-          "name": "Liverpool vs Arsenal | 23:30 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fe4a610c28",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fe4a610c28",
-                  "name": "Liverpool vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-fe4a610c28",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4944cde2b",
-                          "name": "Đầu cầu cò: Tỵ + Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376432_hd/1793376432_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-876a626d8f",
-                          "name": "Fan Arsenal: Ngọng + Cận",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376434_hd/1793376434_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-b5e0851593",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793376437_hd/1793376437_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Liverpool",
-            "team_b": "Arsenal",
-            "logo_a": "https://images.keovip88.net/images/teams/liverpool.png",
-            "logo_b": "https://images.keovip88.net/images/teams/arsenal.png",
-            "time": "23:30:00",
-            "date": "01/11",
-            "blv": "Đầu cầu cò: Tỵ + Trĩ, Fan Arsenal: Ngọng + Cận, Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0701_aa5dff36_20261101.png?v=aa5dff36",
             "width": 1600,
             "height": 1200
           }
@@ -2304,83 +2232,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-eb6745c30b",
-          "name": "Afyon Bld. Yuntas Nữ vs Vakifbank Nữ | 19:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-eb6745c30b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-eb6745c30b",
-                  "name": "Afyon Bld. Yuntas Nữ vs Vakifbank Nữ",
-                  "streams": [
-                    {
-                      "id": "st-eb6745c30b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96bae62624",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793446972_hd/1793446972_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkey Sultanlar Ligi Nữ ",
-            "team_a": "Afyon Bld. Yuntas Nữ",
-            "team_b": "Vakifbank Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/pKqFrfFa-niMlQ9Sm.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",
-            "time": "19:00:00",
-            "date": "01/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tdho1klyly9o_4cc29365_20261101.png?v=4cc29365",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b44926e935",
           "name": "Fenerbahce Nữ vs Galatasaray Nữ | 23:00 01/11",
