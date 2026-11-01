@@ -1278,7 +1278,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1500,6 +1500,78 @@
           }
         },
         {
+          "id": "gv-2839f4aa29",
+          "name": "Milwaukee Bucks vs Cleveland Cavaliers | 07:00 01/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2839f4aa29",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2839f4aa29",
+                  "name": "Milwaukee Bucks vs Cleveland Cavaliers",
+                  "streams": [
+                    {
+                      "id": "st-2839f4aa29",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-49fbbc56a9",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375015_hd/1793375015_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Milwaukee Bucks",
+            "team_b": "Cleveland Cavaliers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e82de69ea44942a3e90a5be6cf0004da.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
+            "time": "07:00:00",
+            "date": "01/11",
+            "blv": "Nem",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35928273_9395b804_20261101.png?v=9395b804",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-62e2fc12a4",
           "name": "San Antonio Spurs vs Minnesota Timberwolves | 07:00 01/11",
           "type": "single",
@@ -1639,78 +1711,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33888276_a010083d_20261101.png?v=a010083d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-2839f4aa29",
-          "name": "Milwaukee Bucks vs Cleveland Cavaliers | 07:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2839f4aa29",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2839f4aa29",
-                  "name": "Milwaukee Bucks vs Cleveland Cavaliers",
-                  "streams": [
-                    {
-                      "id": "st-2839f4aa29",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-49fbbc56a9",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793375015_hd/1793375015_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Milwaukee Bucks",
-            "team_b": "Cleveland Cavaliers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e82de69ea44942a3e90a5be6cf0004da.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
-            "time": "07:00:00",
-            "date": "01/11",
-            "blv": "Nem",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35928273_9395b804_20261101.png?v=9395b804",
             "width": 1600,
             "height": 1200
           }
