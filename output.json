@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-7f9d94a69a",
-          "name": "Perth Glory FC vs Adelaide United FC | 15:00 01/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7f9d94a69a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7f9d94a69a",
-                  "name": "Perth Glory FC vs Adelaide United FC",
-                  "streams": [
-                    {
-                      "id": "st-7f9d94a69a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5cffabd7bf",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793447121_hd/1793447121_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Úc",
-            "team_a": "Perth Glory FC",
-            "team_b": "Adelaide United FC",
-            "logo_a": "https://images.keovip88.net/images/teams/perth-glory.png",
-            "logo_b": "https://images.keovip88.net/images/teams/adelaide-united.png",
-            "time": "15:00:00",
-            "date": "01/11",
-            "blv": "Tỵ ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add46c424d46db870f8921f_c9a32969_20261101.png?v=c9a32969",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ce020f8939",
           "name": "TP Hồ Chí Minh vs SHB Đà Nẵng | 18:00 01/11",
