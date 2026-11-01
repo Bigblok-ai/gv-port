@@ -2360,83 +2360,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (2 LIVE)",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-881ee259b5",
-          "name": "Baltimore Ravens vs Buffalo Bills | 01:00 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-881ee259b5",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-881ee259b5",
-                  "name": "Baltimore Ravens vs Buffalo Bills",
-                  "streams": [
-                    {
-                      "id": "st-881ee259b5",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-df40ac4c1c",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793509710_hd/1793509710_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "Baltimore Ravens",
-            "team_b": "Buffalo Bills",
-            "logo_a": "https://static.flashscore.com/res/image/data/dUe4S2il-40MWbKRi.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/WxLvPwFa-KIDlwIzm.png",
-            "time": "01:00:00",
-            "date": "02/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vg6cvdht6l5u_49453b9d_20261102.png?v=49453b9d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a7a65a5376",
           "name": "Kansas City Chiefs vs Denver Broncos | 04:25 02/11",
