@@ -674,6 +674,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-bb2cafbcd2",
+          "name": "Melbourne United vs New Zealand Breakers | 15:30 02/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bb2cafbcd2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bb2cafbcd2",
+                  "name": "Melbourne United vs New Zealand Breakers",
+                  "streams": [
+                    {
+                      "id": "st-bb2cafbcd2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8deec76a49",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510174_hd/1793510174_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Melbourne United",
+            "team_b": "New Zealand Breakers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/21d2a46a9599ab792dc3a7884839072f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7778a93083d2fa50e4cb4e128f07cf5f.png",
+            "time": "15:30:00",
+            "date": "02/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23622272_43edc99c_20261102.png?v=43edc99c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-abc50a4034",
           "name": "Daegu KoGas Pegasus vs Anyang Jung Kwan Jang Red Boosters | 17:00 02/11",
           "type": "single",
