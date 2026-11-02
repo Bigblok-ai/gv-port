@@ -956,83 +956,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-abc50a4034",
-          "name": "Daegu KoGas Pegasus vs Anyang Jung Kwan Jang Red Boosters | 17:00 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-abc50a4034",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-abc50a4034",
-                  "name": "Daegu KoGas Pegasus vs Anyang Jung Kwan Jang Red Boosters",
-                  "streams": [
-                    {
-                      "id": "st-abc50a4034",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a96a09a33f",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510195_hd/1793510195_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Daegu KoGas Pegasus",
-            "team_b": "Anyang Jung Kwan Jang Red Boosters",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a322b3f45e8fc272b36c48003e467f20.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a41dc05de91a396420f82f30bab19765.png",
-            "time": "17:00:00",
-            "date": "02/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10260378_861cbdda_20261102.png?v=861cbdda",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f77b2c3428",
           "name": "Guangdong Southern Tigers vs QingDao Eagles | 18:35 02/11",
