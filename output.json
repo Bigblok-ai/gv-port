@@ -956,83 +956,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f77b2c3428",
-          "name": "Guangdong Southern Tigers vs QingDao Eagles | 18:35 02/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f77b2c3428",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f77b2c3428",
-                  "name": "Guangdong Southern Tigers vs QingDao Eagles",
-                  "streams": [
-                    {
-                      "id": "st-f77b2c3428",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-40047c8b4e",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510255_hd/1793510255_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Guangdong Southern Tigers",
-            "team_b": "QingDao Eagles",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/37b8668860b7f12aeb8a40fafaaa2e83.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cbbeaf29a9996f0500e140e33cb780ae.png",
-            "time": "18:35:00",
-            "date": "02/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31963470_c958ce50_20261102.png?v=c958ce50",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-1bb22ab341",
           "name": "Shandong Hi-Speed Kirin vs Beijing Royal Fighters | 18:35 02/11",
