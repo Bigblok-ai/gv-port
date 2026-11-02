@@ -1095,6 +1095,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-733d749bd0",
+          "name": "Galatasaray vs VfB Stuttgart | 00:45 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-733d749bd0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-733d749bd0",
+                  "name": "Galatasaray vs VfB Stuttgart",
+                  "streams": [
+                    {
+                      "id": "st-733d749bd0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b8d2254a30",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516083_hd/1793516083_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "Galatasaray",
+            "team_b": "VfB Stuttgart",
+            "logo_a": "https://images.keovip88.net/images/teams/galatasaray.png",
+            "logo_b": "https://images.keovip88.net/images/teams/vfb-stuttgart.png",
+            "time": "00:45:00",
+            "date": "04/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e1e_d4474e12_20261103.png?v=d4474e12",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a0d4bdd688",
+          "name": "FC Shakhtar Donetsk vs Sporting CP | 00:45 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a0d4bdd688",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a0d4bdd688",
+                  "name": "FC Shakhtar Donetsk vs Sporting CP",
+                  "streams": [
+                    {
+                      "id": "st-a0d4bdd688",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b55578d53f",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516099_hd/1793516099_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "FC Shakhtar Donetsk",
+            "team_b": "Sporting CP",
+            "logo_a": "https://images.keovip88.net/images/teams/fc-shakhtar-donetsk.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sporting-cp.png",
+            "time": "00:45:00",
+            "date": "04/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a92220607a55a68f709da9b_237aadca_20261103.png?v=237aadca",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
