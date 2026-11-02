@@ -1977,6 +1977,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-3e1349543c",
+          "name": "Manisa BB Nữ vs Galatasaray Nữ | 20:30 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3e1349543c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3e1349543c",
+                  "name": "Manisa BB Nữ vs Galatasaray Nữ",
+                  "streams": [
+                    {
+                      "id": "st-3e1349543c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fdc509f15e",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793590162_hd/1793590162_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi Nữ ",
+            "team_a": "Manisa BB Nữ",
+            "team_b": "Galatasaray Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/tU3wbCh5-fDi1I6CJ.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/x417hkDa-GdosgdYA.png",
+            "time": "20:30:00",
+            "date": "04/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4foikck18a6m_74251126_20261102.png?v=74251126",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
