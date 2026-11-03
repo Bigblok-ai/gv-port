@@ -1069,11 +1069,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-840a030d89",
-                          "name": "Hấu",
+                          "id": "lnk-3acf124219",
+                          "name": "Vui Vẻ: Cầy vs Dory",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516248_hd/1793516248_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793685659_hd/1793685659_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1086,11 +1086,28 @@
                           ]
                         },
                         {
-                          "id": "lnk-93adf5be79",
-                          "name": "Chồn",
+                          "id": "lnk-398ed38280",
+                          "name": "Fan MU: Hấu",
                           "type": "hls",
                           "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516252_hd/1793516252_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793685650_hd/1793685650_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-edd9c84120",
+                          "name": "Anti Mân: Chồn",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793685675_hd/1793685675_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1117,7 +1134,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/as-roma.png",
             "time": "03:00:00",
             "date": "04/11",
-            "blv": "Hấu, Chồn",
+            "blv": "Vui Vẻ: Cầy vs Dory, Fan MU: Hấu, Anti Mân: Chồn",
             "is_live": false,
             "cate_type": "football"
           },
