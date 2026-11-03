@@ -1218,49 +1218,40 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (6 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "gv-b37e9f14a2",
-          "name": "Jeonju KCC Egis vs Goyang Orions | 17:00 03/11",
+          "id": "gv-66120407a8",
+          "name": "Buriram United vs Kashima Antlers | 19:15 04/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-b37e9f14a2",
+              "id": "src-66120407a8",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-b37e9f14a2",
-                  "name": "Jeonju KCC Egis vs Goyang Orions",
+                  "id": "ct-66120407a8",
+                  "name": "Buriram United vs Kashima Antlers",
                   "streams": [
                     {
-                      "id": "st-b37e9f14a2",
+                      "id": "st-66120407a8",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-dffaaaf5a6",
-                          "name": "Vịt",
+                          "id": "lnk-60b1d3571a",
+                          "name": "Dory",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510503_hd/1793510503_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793590016_hd/1793590016_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1280,26 +1271,35 @@
             }
           ],
           "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Jeonju KCC Egis",
-            "team_b": "Goyang Orions",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a2ba5e8d224376506856ad5dd34de831.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/5b0e513f868dee6a403d7d5dfc3628b3.png",
-            "time": "17:00:00",
-            "date": "03/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
+            "league": "AFC Champions League",
+            "team_a": "Buriram United",
+            "team_b": "Kashima Antlers",
+            "logo_a": "https://images.keovip88.net/images/teams/buriram-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/kashima-antlers.png",
+            "time": "19:15:00",
+            "date": "04/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11260379_59106213_20261103.png?v=59106213",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8795fce207814bf00bf3a6_59fd6077_20261103.png?v=59fd6077",
             "width": 1600,
             "height": 1200
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_basketball",
+      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "gv-8957c9fe8e",
           "name": "Beijing Shougang Ducks vs Ningbo Rockets | 18:35 03/11",
