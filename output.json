@@ -1218,12 +1218,156 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-f44bdc678a",
+          "name": "Pohang Steelers vs Gamba Osaka | 17:00 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f44bdc678a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f44bdc678a",
+                  "name": "Pohang Steelers vs Gamba Osaka",
+                  "streams": [
+                    {
+                      "id": "st-f44bdc678a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-755b12978b",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793589230_hd/1793589230_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League",
+            "team_a": "Pohang Steelers",
+            "team_b": "Gamba Osaka",
+            "logo_a": "https://images.keovip88.net/images/teams/pohang-steelers.png",
+            "logo_b": "https://images.keovip88.net/images/teams/gamba-osaka.png",
+            "time": "17:00:00",
+            "date": "04/11",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8795fce207814bf00bf3a5_fd6a5832_20261103.png?v=fd6a5832",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c81c000376",
+          "name": "Seoul vs Viettel | 17:00 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c81c000376",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c81c000376",
+                  "name": "Seoul vs Viettel",
+                  "streams": [
+                    {
+                      "id": "st-c81c000376",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-15de28dfde",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793589260_hd/1793589260_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia - AFC Champions League Two",
+            "team_a": "Seoul",
+            "team_b": "Viettel",
+            "logo_a": "https://static.flashscore.com/res/image/data/lYmWcCfM-8rKfsneA.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/0Qfb99EG-vcLqLXYS.png",
+            "time": "17:00:00",
+            "date": "04/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8ov1pkt9cnun_af8560b9_20261103.png?v=af8560b9",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1236,10 +1380,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1288,7 +1432,7 @@
             "time": "17:00:00",
             "date": "03/11",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
