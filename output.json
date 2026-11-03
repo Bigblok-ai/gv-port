@@ -1367,7 +1367,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1589,6 +1589,78 @@
           }
         },
         {
+          "id": "gv-1fb1a4347a",
+          "name": "NanJing Monkey Kings vs Suzhou Dragons Kentier | 18:35 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1fb1a4347a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1fb1a4347a",
+                  "name": "NanJing Monkey Kings vs Suzhou Dragons Kentier",
+                  "streams": [
+                    {
+                      "id": "st-1fb1a4347a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4db5ecf25c",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510634_hd/1793510634_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "NanJing Monkey Kings",
+            "team_b": "Suzhou Dragons Kentier",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e3bbce6525ca22d736f744cd2e31ff59.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d1c8a0f21d4d300f8ddce93f11b79c70.png",
+            "time": "18:35:00",
+            "date": "03/11",
+            "blv": "Mason",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20073471_bb8e9e24_20261103.png?v=bb8e9e24",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-ace48f055b",
           "name": "Shanghai Jiushi Sharks vs Jilin Northeast Tigers | 18:35 03/11",
           "type": "single",
@@ -1728,78 +1800,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33963472_0620cc9f_20261103.png?v=0620cc9f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-1fb1a4347a",
-          "name": "NanJing Monkey Kings vs Suzhou Dragons Kentier | 18:35 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1fb1a4347a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1fb1a4347a",
-                  "name": "NanJing Monkey Kings vs Suzhou Dragons Kentier",
-                  "streams": [
-                    {
-                      "id": "st-1fb1a4347a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4db5ecf25c",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510634_hd/1793510634_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "NanJing Monkey Kings",
-            "team_b": "Suzhou Dragons Kentier",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e3bbce6525ca22d736f744cd2e31ff59.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d1c8a0f21d4d300f8ddce93f11b79c70.png",
-            "time": "18:35:00",
-            "date": "03/11",
-            "blv": "Mason",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20073471_bb8e9e24_20261103.png?v=bb8e9e24",
             "width": 1600,
             "height": 1200
           }
