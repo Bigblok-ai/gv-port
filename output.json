@@ -1367,7 +1367,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1452,10 +1452,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1504,7 +1504,7 @@
             "time": "18:35:00",
             "date": "03/11",
             "blv": "Nem",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1524,10 +1524,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1576,7 +1576,7 @@
             "time": "18:35:00",
             "date": "03/11",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1584,6 +1584,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34963473_4eaaebf1_20261103.png?v=4eaaebf1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ace48f055b",
+          "name": "Shanghai Jiushi Sharks vs Jilin Northeast Tigers | 18:35 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ace48f055b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ace48f055b",
+                  "name": "Shanghai Jiushi Sharks vs Jilin Northeast Tigers",
+                  "streams": [
+                    {
+                      "id": "st-ace48f055b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-03de86b34c",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510690_hd/1793510690_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Shanghai Jiushi Sharks",
+            "team_b": "Jilin Northeast Tigers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d67cd54e91fe7a46a2f9bdd646544989.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9b1edb3adebae8211e057008d8352b03.png",
+            "time": "18:35:00",
+            "date": "03/11",
+            "blv": "Ngu",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38963477_d65b5355_20261103.png?v=d65b5355",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a6f186c30a",
+          "name": "SiChuan Jingqiang Blue Whales vs Fujian Xunxing Sturgeons | 18:35 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a6f186c30a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a6f186c30a",
+                  "name": "SiChuan Jingqiang Blue Whales vs Fujian Xunxing Sturgeons",
+                  "streams": [
+                    {
+                      "id": "st-a6f186c30a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-20363f3a06",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510755_hd/1793510755_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "SiChuan Jingqiang Blue Whales",
+            "team_b": "Fujian Xunxing Sturgeons",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1cb8d991c7b1dbf8f56adbb08619f919.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/513a673e2abf3080d21b0dc4d0b0dad8.png",
+            "time": "18:35:00",
+            "date": "03/11",
+            "blv": "Chồn",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33963472_0620cc9f_20261103.png?v=0620cc9f",
             "width": 1600,
             "height": 1200
           }
@@ -1656,150 +1800,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20073471_bb8e9e24_20261103.png?v=bb8e9e24",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-ace48f055b",
-          "name": "Shanghai Jiushi Sharks vs Jilin Northeast Tigers | 18:35 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ace48f055b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ace48f055b",
-                  "name": "Shanghai Jiushi Sharks vs Jilin Northeast Tigers",
-                  "streams": [
-                    {
-                      "id": "st-ace48f055b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-03de86b34c",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510690_hd/1793510690_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Shanghai Jiushi Sharks",
-            "team_b": "Jilin Northeast Tigers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d67cd54e91fe7a46a2f9bdd646544989.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9b1edb3adebae8211e057008d8352b03.png",
-            "time": "18:35:00",
-            "date": "03/11",
-            "blv": "Ngu",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38963477_d65b5355_20261103.png?v=d65b5355",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-a6f186c30a",
-          "name": "SiChuan Jingqiang Blue Whales vs Fujian Xunxing Sturgeons | 18:35 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a6f186c30a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a6f186c30a",
-                  "name": "SiChuan Jingqiang Blue Whales vs Fujian Xunxing Sturgeons",
-                  "streams": [
-                    {
-                      "id": "st-a6f186c30a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-20363f3a06",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510755_hd/1793510755_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "SiChuan Jingqiang Blue Whales",
-            "team_b": "Fujian Xunxing Sturgeons",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1cb8d991c7b1dbf8f56adbb08619f919.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/513a673e2abf3080d21b0dc4d0b0dad8.png",
-            "time": "18:35:00",
-            "date": "03/11",
-            "blv": "Chồn",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33963472_0620cc9f_20261103.png?v=0620cc9f",
             "width": 1600,
             "height": 1200
           }
