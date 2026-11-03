@@ -1733,6 +1733,78 @@
           }
         },
         {
+          "id": "gv-d9c821a165",
+          "name": "Brisbane Bullets vs Perth Wildcats | 16:00 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d9c821a165",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d9c821a165",
+                  "name": "Brisbane Bullets vs Perth Wildcats",
+                  "streams": [
+                    {
+                      "id": "st-d9c821a165",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-154e28d07c",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793698975_hd/1793698975_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Brisbane Bullets",
+            "team_b": "Perth Wildcats",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/fd1ef26f7174d02a5a30dbe9e69b45f9.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d6e217ac051f3258b82d74a932d11ada.png",
+            "time": "16:00:00",
+            "date": "04/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24622273_d573994a_20261103.png?v=d573994a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-7f0fae669f",
           "name": "Seoul SK Knights vs Daegu KoGas Pegasus | 17:00 04/11",
           "type": "single",
