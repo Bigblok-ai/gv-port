@@ -1295,7 +1295,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1368,78 +1368,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20073471_bb8e9e24_20261103.png?v=bb8e9e24",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-ace48f055b",
-          "name": "Shanghai Jiushi Sharks vs Jilin Northeast Tigers | 18:35 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ace48f055b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ace48f055b",
-                  "name": "Shanghai Jiushi Sharks vs Jilin Northeast Tigers",
-                  "streams": [
-                    {
-                      "id": "st-ace48f055b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-03de86b34c",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510690_hd/1793510690_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Shanghai Jiushi Sharks",
-            "team_b": "Jilin Northeast Tigers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d67cd54e91fe7a46a2f9bdd646544989.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9b1edb3adebae8211e057008d8352b03.png",
-            "time": "18:35:00",
-            "date": "03/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38963477_d65b5355_20261103.png?v=d65b5355",
             "width": 1600,
             "height": 1200
           }
