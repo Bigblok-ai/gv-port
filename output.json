@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -76,7 +76,7 @@
             "time": "23:00:00",
             "date": "03/11",
             "blv": "Tỵ ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -332,11 +332,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-3a02dbbd48",
-                          "name": "Bee",
+                          "id": "lnk-83297e9c81",
+                          "name": "Hứa",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516144_hd/1793516144_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793720744_hd/1793720744_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -363,7 +363,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen.png",
             "time": "03:00:00",
             "date": "04/11",
-            "blv": "Bee",
+            "blv": "Hứa",
             "is_live": false,
             "cate_type": "football"
           },
@@ -2537,7 +2537,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2622,10 +2622,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2674,7 +2674,7 @@
             "time": "23:00:00",
             "date": "03/11",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
