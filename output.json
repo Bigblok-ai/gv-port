@@ -1278,83 +1278,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (4 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c2081efb65",
-          "name": "Houston Rockets vs Boston Celtics | 08:30 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c2081efb65",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c2081efb65",
-                  "name": "Houston Rockets vs Boston Celtics",
-                  "streams": [
-                    {
-                      "id": "st-c2081efb65",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b1d9244f57",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793636846_hd/1793636846_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Houston Rockets",
-            "team_b": "Boston Celtics",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
-            "time": "08:30:00",
-            "date": "03/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31988275_c9dc3d98_20261103.png?v=c9dc3d98",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2eb24c278a",
           "name": "Los Angeles Lakers vs Miami Heat | 10:00 03/11",
