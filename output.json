@@ -4328,6 +4328,168 @@
       ]
     },
     {
+      "id": "cate_bongchay",
+      "name": "⚾ Bóng Chày",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-bb9c767165",
+          "name": "KT Wiz vs Samsung Lions | 16:30 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bb9c767165",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bb9c767165",
+                  "name": "KT Wiz vs Samsung Lions",
+                  "streams": [
+                    {
+                      "id": "st-bb9c767165",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3111d3b32c",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793668605_hd/1793668605_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "KBO Final",
+            "team_a": "KT Wiz",
+            "team_b": "Samsung Lions",
+            "logo_a": "https://static.flashscore.com/res/image/data/ClJ8XkcM-l6Xd1LpL.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/AgKvnmEa-ttCe13o4.png",
+            "time": "16:30:00",
+            "date": "03/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1w76tbw7zmst_fc0207fa_20261103.png?v=fc0207fa",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongban",
+      "name": "🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-0d634f7dc0",
+          "name": "Anders LIND vs WANG Chuqin | 18:00 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0d634f7dc0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0d634f7dc0",
+                  "name": "Anders LIND vs WANG Chuqin",
+                  "streams": [
+                    {
+                      "id": "st-0d634f7dc0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5500d8962d",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793668534_hd/1793668534_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Frankfurt 2026",
+            "team_a": "Anders LIND",
+            "team_b": "WANG Chuqin",
+            "logo_a": "https://static.flashscore.com/res/image/data/nPcof1xS-WzCm936S.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/Y5HT2ajl-ARzJjqO6.png",
+            "time": "18:00:00",
+            "date": "03/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/184ep8bi72v0_16e961da_20261103.png?v=16e961da",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_rugby",
       "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
