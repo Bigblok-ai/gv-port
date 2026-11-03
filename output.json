@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (9 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -260,11 +260,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-de024467bb",
-                          "name": "Súp",
+                          "id": "lnk-0b40698bb9",
+                          "name": "Nem",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516176_hd/1793516176_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516182_hd/1793516182_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -277,11 +277,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-0b40698bb9",
-                          "name": "Nem",
+                          "id": "lnk-de024467bb",
+                          "name": "Súp",
                           "type": "hls",
                           "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516182_hd/1793516182_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516176_hd/1793516176_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -308,7 +308,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/aston-villa.png",
             "time": "03:00:00",
             "date": "04/11",
-            "blv": "Súp, Nem",
+            "blv": "Nem, Súp",
             "is_live": true,
             "cate_type": "football"
           },
@@ -435,10 +435,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -487,7 +487,7 @@
             "time": "03:00:00",
             "date": "04/11",
             "blv": "Hứa",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -507,10 +507,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -559,7 +559,7 @@
             "time": "03:00:00",
             "date": "04/11",
             "blv": "Ngọng",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -579,10 +579,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -631,7 +631,7 @@
             "time": "03:00:00",
             "date": "04/11",
             "blv": "Trĩ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -651,10 +651,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -703,7 +703,7 @@
             "time": "03:00:00",
             "date": "04/11",
             "blv": "Mason",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
