@@ -1157,78 +1157,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-ff6a6294cc",
-          "name": "Shenzhen Leopards vs Zhejiang Golden Bulls | 18:35 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ff6a6294cc",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ff6a6294cc",
-                  "name": "Shenzhen Leopards vs Zhejiang Golden Bulls",
-                  "streams": [
-                    {
-                      "id": "st-ff6a6294cc",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5e99dba8a1",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510723_hd/1793510723_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Shenzhen Leopards",
-            "team_b": "Zhejiang Golden Bulls",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/4d9ec843176ad902c32b3b317118e543.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/eaff06bd8c853345d0a2061a1ef15585.png",
-            "time": "18:35:00",
-            "date": "03/11",
-            "blv": "Cận",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37963476_6f670b1f_20261104.png?v=6f670b1f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-d9c821a165",
           "name": "Brisbane Bullets vs Perth Wildcats | 16:00 04/11",
           "type": "single",
@@ -2456,83 +2384,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c0e427783d",
-          "name": "Ziraat Bankasi vs Sungurlu | 23:00 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c0e427783d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c0e427783d",
-                  "name": "Ziraat Bankasi vs Sungurlu",
-                  "streams": [
-                    {
-                      "id": "st-c0e427783d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4736815b70",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516360_hd/1793516360_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkey Sultanlar Ligi",
-            "team_a": "Ziraat Bankasi",
-            "team_b": "Sungurlu",
-            "logo_a": "https://static.flashscore.com/res/image/data/nN1hHJYA-vaQC7xt4.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/tjDcEUAr-Y5J053R1.png",
-            "time": "23:00:00",
-            "date": "03/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1zn5qyanvn6m_d8c242b5_20261104.png?v=d8c242b5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ccb378adb2",
           "name": "Hungkuk Nữ vs Daejeon JKJ Nữ | 17:00 04/11",
@@ -2754,6 +2610,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gyoq6mklrbxq_55bac877_20261104.png?v=55bac877",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fdeca7a81f",
+          "name": "Stream A vs Upper/Lower Bracket Finals | 09:00 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fdeca7a81f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fdeca7a81f",
+                  "name": "Stream A vs Upper/Lower Bracket Finals",
+                  "streams": [
+                    {
+                      "id": "st-fdeca7a81f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a0814d2793",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793726964_hd/1793726964_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-IEM Bejing 2026 ",
+            "team_a": "Stream A",
+            "team_b": "Upper/Lower Bracket Finals",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLkYmzAiMuQzNJaOgDIf9ZA67NEv2mvGCxCDlSejCNemYWk7kln2Uf_k&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTooXyS8WA1EwpW5j6IYeDy7HBlMhIpV3WIkDBLbKeqMzdRIWloe_zrXZKc&s=10",
+            "time": "09:00:00",
+            "date": "04/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vv240ycf4ico_1d165885_20261104.png?v=1d165885",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-252f028023",
+          "name": "Stream B - Upper/Lower Bracket Finals vs CS2-IEM Bejing 2026 | 09:00 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-252f028023",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-252f028023",
+                  "name": "Stream B - Upper/Lower Bracket Finals vs CS2-IEM Bejing 2026",
+                  "streams": [
+                    {
+                      "id": "st-252f028023",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-878cfbe4d3",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793727050_hd/1793727050_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-IEM Bejing 2026 ",
+            "team_a": "Stream B - Upper/Lower Bracket Finals",
+            "team_b": "CS2-IEM Bejing 2026",
+            "logo_a": "https://media.esports.gg/uploads/2026/11/cs2-esl-pro-league-season-24-mouz-04.webp",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBk8BI76hvq56Kyj76fEz6MTwqTILr3u8WNCmBrbb7DJ2tNB0bgngFSM8&s=10",
+            "time": "09:00:00",
+            "date": "04/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/smxxz7v1l1u9_910ed74e_20261104.png?v=910ed74e",
             "width": 1600,
             "height": 1200
           }
