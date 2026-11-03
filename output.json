@@ -2652,78 +2652,6 @@
           }
         },
         {
-          "id": "gv-ff6a6294cc",
-          "name": "Shenzhen Leopards vs Zhejiang Golden Bulls | 18:35 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ff6a6294cc",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ff6a6294cc",
-                  "name": "Shenzhen Leopards vs Zhejiang Golden Bulls",
-                  "streams": [
-                    {
-                      "id": "st-ff6a6294cc",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5e99dba8a1",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510723_hd/1793510723_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Shenzhen Leopards",
-            "team_b": "Zhejiang Golden Bulls",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/4d9ec843176ad902c32b3b317118e543.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/eaff06bd8c853345d0a2061a1ef15585.png",
-            "time": "18:35:00",
-            "date": "03/11",
-            "blv": "Cận",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37963476_6f670b1f_20261103.png?v=6f670b1f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-a6f186c30a",
           "name": "SiChuan Jingqiang Blue Whales vs Fujian Xunxing Sturgeons | 18:35 03/11",
           "type": "single",
@@ -2791,6 +2719,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33963472_0620cc9f_20261103.png?v=0620cc9f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ff6a6294cc",
+          "name": "Shenzhen Leopards vs Zhejiang Golden Bulls | 18:35 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ff6a6294cc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ff6a6294cc",
+                  "name": "Shenzhen Leopards vs Zhejiang Golden Bulls",
+                  "streams": [
+                    {
+                      "id": "st-ff6a6294cc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5e99dba8a1",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510723_hd/1793510723_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Chinese Basketball Association",
+            "team_a": "Shenzhen Leopards",
+            "team_b": "Zhejiang Golden Bulls",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/4d9ec843176ad902c32b3b317118e543.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/eaff06bd8c853345d0a2061a1ef15585.png",
+            "time": "18:35:00",
+            "date": "03/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37963476_6f670b1f_20261103.png?v=6f670b1f",
             "width": 1600,
             "height": 1200
           }
