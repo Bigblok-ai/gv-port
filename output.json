@@ -2959,6 +2959,87 @@
       ]
     },
     {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-2caa4d97cb",
+          "name": "Novak Djokovic vs Valentine Vacherot | 19:30 03/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2caa4d97cb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2caa4d97cb",
+                  "name": "Novak Djokovic vs Valentine Vacherot",
+                  "streams": [
+                    {
+                      "id": "st-2caa4d97cb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-942d62ec3f",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793708794_hd/1793708794_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Paris Open",
+            "team_a": "Novak Djokovic",
+            "team_b": "Valentine Vacherot",
+            "logo_a": "https://static.flashscore.com/res/image/data/tSfwGCdM-MJZajegG.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/fkT5LycM-6VJ5WJfp.png",
+            "time": "19:30:00",
+            "date": "03/11",
+            "blv": "Ben",
+            "is_live": true,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/denxi4a56t6l_58e1b89f_20261103.png?v=58e1b89f",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_bongchuyen",
       "name": "🏐 Bóng Chuyền",
       "display": "vertical",
