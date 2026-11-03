@@ -1295,83 +1295,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-8957c9fe8e",
-          "name": "Beijing Shougang Ducks vs Ningbo Rockets | 18:35 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8957c9fe8e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8957c9fe8e",
-                  "name": "Beijing Shougang Ducks vs Ningbo Rockets",
-                  "streams": [
-                    {
-                      "id": "st-8957c9fe8e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-19fd74e457",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793510527_hd/1793510527_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Chinese Basketball Association",
-            "team_a": "Beijing Shougang Ducks",
-            "team_b": "Ningbo Rockets",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/58867afcb7d9cb68ffd5338c62c7af6a.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/78539aa7b6e4518265799642461ab855.png",
-            "time": "18:35:00",
-            "date": "03/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35963474_7d1264bc_20261103.png?v=7d1264bc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-1fb1a4347a",
           "name": "NanJing Monkey Kings vs Suzhou Dragons Kentier | 18:35 03/11",
