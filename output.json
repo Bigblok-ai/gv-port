@@ -205,11 +205,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-3acf124219",
-                          "name": "Vui Vẻ: Cầy vs Dory",
+                          "id": "lnk-398ed38280",
+                          "name": "Fan MU: Hấu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793685659_hd/1793685659_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793685650_hd/1793685650_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -222,11 +222,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-398ed38280",
-                          "name": "Fan MU: Hấu",
+                          "id": "lnk-3acf124219",
+                          "name": "Vui Vẻ: Cầy vs Dory",
                           "type": "hls",
                           "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793685650_hd/1793685650_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793685659_hd/1793685659_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -270,7 +270,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/as-roma.png",
             "time": "03:00:00",
             "date": "04/11",
-            "blv": "Vui Vẻ: Cầy vs Dory, Fan MU: Hấu, Anti Mân: Chồn",
+            "blv": "Fan MU: Hấu, Vui Vẻ: Cầy vs Dory, Anti Mân: Chồn",
             "is_live": true,
             "cate_type": "football"
           },
@@ -2682,87 +2682,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/smxxz7v1l1u9_910ed74e_20261104.png?v=910ed74e",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-f120ab4ad9",
-          "name": "Sora MATSUSHIMA vs Joao GERALDO | 00:30 04/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f120ab4ad9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f120ab4ad9",
-                  "name": "Sora MATSUSHIMA vs Joao GERALDO",
-                  "streams": [
-                    {
-                      "id": "st-f120ab4ad9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ff4864fec0",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793725330_hd/1793725330_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Frankfurt 2026",
-            "team_a": "Sora MATSUSHIMA",
-            "team_b": "Joao GERALDO",
-            "logo_a": "https://static.flashscore.com/res/image/data/69MsHPAr-8pDGMe4G.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/6L8kdUdM-QuM8D6VJ.png",
-            "time": "00:30:00",
-            "date": "04/11",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gnzxb0y1v61d_1355b8e1_20261104.png?v=1355b8e1",
             "width": 1600,
             "height": 1200
           }
