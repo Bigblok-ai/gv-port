@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -212,78 +212,6 @@
           }
         },
         {
-          "id": "gv-0ece172aea",
-          "name": "Atletico Madrid vs Bayern Munich | 03:00 04/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0ece172aea",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0ece172aea",
-                  "name": "Atletico Madrid vs Bayern Munich",
-                  "streams": [
-                    {
-                      "id": "st-0ece172aea",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-83297e9c81",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793720744_hd/1793720744_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Atletico Madrid",
-            "team_b": "Bayern Munich",
-            "logo_a": "https://images.keovip88.net/images/teams/atletico-madrid.png",
-            "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen.png",
-            "time": "03:00:00",
-            "date": "04/11",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e5a_59cdbb5a_20261104.png?v=59cdbb5a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-27a2d182c2",
           "name": "Feyenoord Rotterdam vs Inter Milan | 03:00 04/11",
           "type": "single",
@@ -351,78 +279,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e55_7c0c7416_20261104.png?v=7c0c7416",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-14ec06f6e4",
-          "name": "Villarreal vs Paris Saint Germain | 03:00 04/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-14ec06f6e4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-14ec06f6e4",
-                  "name": "Villarreal vs Paris Saint Germain",
-                  "streams": [
-                    {
-                      "id": "st-14ec06f6e4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8fd58a3009",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516291_hd/1793516291_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Villarreal",
-            "team_b": "Paris Saint Germain",
-            "logo_a": "https://images.keovip88.net/images/teams/villarreal.png",
-            "logo_b": "https://images.keovip88.net/images/teams/paris-saint-germain-psg.png",
-            "time": "03:00:00",
-            "date": "04/11",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e22_a3b9f2e1_20261104.png?v=a3b9f2e1",
             "width": 1600,
             "height": 1200
           }
