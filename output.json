@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-dd9e5ba96d",
-          "name": "Yokohama FC vs Blaublitz Akita | 12:00 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dd9e5ba96d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-dd9e5ba96d",
-                  "name": "Yokohama FC vs Blaublitz Akita",
-                  "streams": [
-                    {
-                      "id": "st-dd9e5ba96d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ef121ea56a",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793636484_hd/1793636484_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng 2 Nhật Bản",
-            "team_a": "Yokohama FC",
-            "team_b": "Blaublitz Akita",
-            "logo_a": "https://images.keovip88.net/images/teams/yokohama-fc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/blaublitz-akita.png",
-            "time": "12:00:00",
-            "date": "03/11",
-            "blv": "Tỵ ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ade985524d46db870e5635f_bc2b71ae_20261103.png?v=bc2b71ae",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-708ac96f2a",
           "name": "Newcastle Jets FC vs Shanghai Port | 14:45 03/11",
