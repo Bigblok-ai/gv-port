@@ -1146,6 +1146,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-175e577213",
+          "name": "Fenerbahce vs Liverpool | 00:45 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-175e577213",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-175e577213",
+                  "name": "Fenerbahce vs Liverpool",
+                  "streams": [
+                    {
+                      "id": "st-175e577213",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c1638dd850",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516593_hd/1793516593_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "Fenerbahce",
+            "team_b": "Liverpool",
+            "logo_a": "https://images.keovip88.net/images/teams/fenerbahce.png",
+            "logo_b": "https://images.keovip88.net/images/teams/liverpool.png",
+            "time": "00:45:00",
+            "date": "05/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4cd164566b7f70b4341_4fcb2690_20261104.png?v=4fcb2690",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b318d82a42",
+          "name": "AEK Athens vs Real Madrid | 00:45 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b318d82a42",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b318d82a42",
+                  "name": "AEK Athens vs Real Madrid",
+                  "streams": [
+                    {
+                      "id": "st-b318d82a42",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-55b97d42de",
+                          "name": "Đầu cầu Real: Mason + Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516626_hd/1793516626_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "AEK Athens",
+            "team_b": "Real Madrid",
+            "logo_a": "https://images.keovip88.net/images/teams/aek-athens.png",
+            "logo_b": "https://images.keovip88.net/images/teams/real-madrid.png",
+            "time": "00:45:00",
+            "date": "05/11",
+            "blv": "Đầu cầu Real: Mason + Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e4c_ba59e1c5_20261104.png?v=ba59e1c5",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
