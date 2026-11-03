@@ -1278,83 +1278,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2eb24c278a",
-          "name": "Los Angeles Lakers vs Miami Heat | 10:00 03/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2eb24c278a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2eb24c278a",
-                  "name": "Los Angeles Lakers vs Miami Heat",
-                  "streams": [
-                    {
-                      "id": "st-2eb24c278a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f90d71138f",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793636920_hd/1793636920_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Los Angeles Lakers",
-            "team_b": "Miami Heat",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/43ebb4d6ad3ea5b68e9b1c969dff055b.png",
-            "time": "10:00:00",
-            "date": "03/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33988277_26a21c89_20261103.png?v=26a21c89",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-1c53d6a685",
           "name": "Los Angeles Clippers vs Toronto Raptors | 10:00 03/11",
