@@ -1106,60 +1106,6 @@
           }
         },
         {
-          "id": "gv-4b350a0b51",
-          "name": "Seoul SK Knights vs Daegu KoGas Pegasus | 17:00 04/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4b350a0b51",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4b350a0b51",
-                  "name": "Seoul SK Knights vs Daegu KoGas Pegasus",
-                  "streams": [
-                    {
-                      "id": "st-4b350a0b51",
-                      "name": "GV",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Seoul SK Knights",
-            "team_b": "Daegu KoGas Pegasus",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/425cf7236b655f8922a9b53220d3d1b6.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a322b3f45e8fc272b36c48003e467f20.png",
-            "time": "17:00:00",
-            "date": "04/11",
-            "blv": "",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22260371_71112b51_20261104.png?v=71112b51",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-deca12f9dc",
           "name": "Detroit Pistons vs Philadelphia 76ers | 07:00 05/11",
           "type": "single",
@@ -2469,6 +2415,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/smxxz7v1l1u9_910ed74e_20261104.png?v=910ed74e",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongban",
+      "name": "🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-f8f70bf704",
+          "name": "WEN Ruibo vs AN Jaehyun | 18:00 04/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f8f70bf704",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f8f70bf704",
+                  "name": "WEN Ruibo vs AN Jaehyun",
+                  "streams": [
+                    {
+                      "id": "st-f8f70bf704",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ae7960cf24",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793775343_hd/1793775343_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Frankfurt 2026",
+            "team_a": "WEN Ruibo",
+            "team_b": "AN Jaehyun",
+            "logo_a": "https://gbaike-image.cdn.bcebos.com/91529822720e0cf3d7ca6441021fe51fbe096b637c4a/91529822720e0cf3d7ca6441021fe51fbe096b637c4a_url?x-bce-process=image/format,f_auto/resize,m_lfit,w_400,limit_1",
+            "logo_b": "https://static.flashscore.com/res/image/data/xI29aUg5-4WKCCQpQ.png",
+            "time": "18:00:00",
+            "date": "04/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/95ohr9nj1ugp_dc488e76_20261104.png?v=dc488e76",
             "width": 1600,
             "height": 1200
           }
