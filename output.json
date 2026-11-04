@@ -349,11 +349,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-de65bcb0ca",
-                          "name": "Ngu",
+                          "id": "lnk-4640af34df",
+                          "name": "Riko",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516736_hd/1793516736_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793807202_hd/1793807202_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -380,7 +380,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/club-brugge.png",
             "time": "03:00:00",
             "date": "05/11",
-            "blv": "Ngu",
+            "blv": "Riko",
             "is_live": false,
             "cate_type": "football"
           },
@@ -605,6 +605,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e2f_f40349ef_20261104.png?v=f40349ef",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9f2738bad3",
+          "name": "Viking vs Sabah FK | 03:00 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f2738bad3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9f2738bad3",
+                  "name": "Viking vs Sabah FK",
+                  "streams": [
+                    {
+                      "id": "st-9f2738bad3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1e47ad1624",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793807253_hd/1793807253_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "Viking",
+            "team_b": "Sabah FK",
+            "logo_a": "https://images.keovip88.net/images/teams/viking.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sabah-fk-baku.png",
+            "time": "03:00:00",
+            "date": "05/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4cd164566b7f70b4344_8b957573_20261104.png?v=8b957573",
             "width": 1600,
             "height": 1200
           }
@@ -1783,7 +1855,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1868,10 +1940,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1920,7 +1992,7 @@
             "time": "23:00:00",
             "date": "04/11",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
@@ -1940,10 +2012,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1992,7 +2064,7 @@
             "time": "23:00:00",
             "date": "04/11",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
