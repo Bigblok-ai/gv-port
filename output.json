@@ -11,443 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-5a97ed056f",
-          "name": "RB Leipzig vs Manchester City | 03:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5a97ed056f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5a97ed056f",
-                  "name": "RB Leipzig vs Manchester City",
-                  "streams": [
-                    {
-                      "id": "st-5a97ed056f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9a8f63e3da",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516691_hd/1793516691_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "RB Leipzig",
-            "team_b": "Manchester City",
-            "logo_a": "https://images.keovip88.net/images/teams/rb-leipzig.png",
-            "logo_b": "https://images.keovip88.net/images/teams/manchester-city.png",
-            "time": "03:00:00",
-            "date": "05/11",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e51_d04e77fe_20261105.png?v=d04e77fe",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-0a83e1dd9b",
-          "name": "Slavia Praha vs Arsenal | 03:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0a83e1dd9b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0a83e1dd9b",
-                  "name": "Slavia Praha vs Arsenal",
-                  "streams": [
-                    {
-                      "id": "st-0a83e1dd9b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7151ddc3f6",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516715_hd/1793516715_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Slavia Praha",
-            "team_b": "Arsenal",
-            "logo_a": "https://images.keovip88.net/images/teams/slavia-praha.png",
-            "logo_b": "https://images.keovip88.net/images/teams/arsenal.png",
-            "time": "03:00:00",
-            "date": "05/11",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4cd164566b7f70b4342_a5e54639_20261105.png?v=a5e54639",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-1f4b2d419c",
-          "name": "PSV Eindhoven vs Club Brugge | 03:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1f4b2d419c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1f4b2d419c",
-                  "name": "PSV Eindhoven vs Club Brugge",
-                  "streams": [
-                    {
-                      "id": "st-1f4b2d419c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4640af34df",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793807202_hd/1793807202_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "PSV Eindhoven",
-            "team_b": "Club Brugge",
-            "logo_a": "https://images.keovip88.net/images/teams/psv-eindhoven.png",
-            "logo_b": "https://images.keovip88.net/images/teams/club-brugge.png",
-            "time": "03:00:00",
-            "date": "05/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e2e_c9275c68_20261105.png?v=c9275c68",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-9db8008504",
-          "name": "Lens vs Como | 03:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9db8008504",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9db8008504",
-                  "name": "Lens vs Como",
-                  "streams": [
-                    {
-                      "id": "st-9db8008504",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7cb4ddd757",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793807036_hd/1793807036_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Lens",
-            "team_b": "Como",
-            "logo_a": "https://images.keovip88.net/images/teams/lens.png",
-            "logo_b": "https://images.keovip88.net/images/teams/como.png",
-            "time": "03:00:00",
-            "date": "05/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4cd164566b7f70b4343_20588d30_20261105.png?v=20588d30",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-14f5d70d57",
-          "name": "Borussia Dortmund vs Real Betis | 03:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-14f5d70d57",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-14f5d70d57",
-                  "name": "Borussia Dortmund vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "st-14f5d70d57",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b59e8be255",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516909_hd/1793516909_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Borussia Dortmund",
-            "team_b": "Real Betis",
-            "logo_a": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
-            "logo_b": "https://images.keovip88.net/images/teams/real-betis.png",
-            "time": "03:00:00",
-            "date": "05/11",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e2f_f40349ef_20261105.png?v=f40349ef",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-9f2738bad3",
-          "name": "Viking vs Sabah FK | 03:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9f2738bad3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9f2738bad3",
-                  "name": "Viking vs Sabah FK",
-                  "streams": [
-                    {
-                      "id": "st-9f2738bad3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1e47ad1624",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793807253_hd/1793807253_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Viking",
-            "team_b": "Sabah FK",
-            "logo_a": "https://images.keovip88.net/images/teams/viking.png",
-            "logo_b": "https://images.keovip88.net/images/teams/sabah-fk-baku.png",
-            "time": "03:00:00",
-            "date": "05/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4cd164566b7f70b4344_8b957573_20261105.png?v=8b957573",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-35e26c5140",
           "name": "Flamengo vs Gremio (RS) | 05:30 05/11",
@@ -456,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -508,7 +76,7 @@
             "time": "05:30:00",
             "date": "05/11",
             "blv": "Ngọng",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1757,7 +1325,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1770,10 +1338,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1822,7 +1390,7 @@
             "time": "05:00:00",
             "date": "05/11",
             "blv": "Cận",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
