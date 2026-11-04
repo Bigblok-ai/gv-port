@@ -2276,8 +2276,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-252f028023",
-          "name": "Stream B - Upper/Lower Bracket Finals vs CS2-IEM Bejing 2026 | 09:00 04/11",
+          "id": "gv-fdeca7a81f",
+          "name": "Stream A vs Upper/Lower Bracket Finals | 09:00 04/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2287,78 +2287,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-252f028023",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-252f028023",
-                  "name": "Stream B - Upper/Lower Bracket Finals vs CS2-IEM Bejing 2026",
-                  "streams": [
-                    {
-                      "id": "st-252f028023",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-878cfbe4d3",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793727050_hd/1793727050_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-IEM Bejing 2026 ",
-            "team_a": "Stream B - Upper/Lower Bracket Finals",
-            "team_b": "CS2-IEM Bejing 2026",
-            "logo_a": "https://media.esports.gg/uploads/2026/11/cs2-esl-pro-league-season-24-mouz-04.webp",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBk8BI76hvq56Kyj76fEz6MTwqTILr3u8WNCmBrbb7DJ2tNB0bgngFSM8&s=10",
-            "time": "09:00:00",
-            "date": "04/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/smxxz7v1l1u9_910ed74e_20261104.png?v=910ed74e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-fdeca7a81f",
-          "name": "Stream A vs Upper/Lower Bracket Finals | 09:00 04/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -2407,7 +2335,7 @@
             "time": "09:00:00",
             "date": "04/11",
             "blv": "Mickey",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
