@@ -59,6 +59,23 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-6d96258b6a",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793807049_hd/1793807049_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -75,7 +92,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/liverpool.png",
             "time": "00:45:00",
             "date": "05/11",
-            "blv": "Trĩ",
+            "blv": "Trĩ, Mù",
             "is_live": false,
             "cate_type": "football"
           },
@@ -404,11 +421,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-8285ceeb5d",
-                          "name": "Mickey",
+                          "id": "lnk-7cb4ddd757",
+                          "name": "Mù",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793516759_hd/1793516759_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793807036_hd/1793807036_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -435,7 +452,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/como.png",
             "time": "03:00:00",
             "date": "05/11",
-            "blv": "Mickey",
+            "blv": "Mù",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1983,6 +2000,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gdp983vaw8lh_07f81554_20261104.png?v=07f81554",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-6701b5cb6f",
+          "name": "GEN vs LYON | 05:00 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6701b5cb6f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6701b5cb6f",
+                  "name": "GEN vs LYON",
+                  "streams": [
+                    {
+                      "id": "st-6701b5cb6f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-69efd5b591",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793806751_hd/1793806751_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Worlds 2026",
+            "team_a": "GEN",
+            "team_b": "LYON",
+            "logo_a": "https://static.flashscore.com/res/image/data/rglkqMzB-UJqSxlpo.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/vBMCdyFG-bmH06hoa.png",
+            "time": "05:00:00",
+            "date": "05/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/a6dfnk1djdbz_a2460b33_20261104.png?v=a2460b33",
             "width": 1600,
             "height": 1200
           }
