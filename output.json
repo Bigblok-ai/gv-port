@@ -1892,83 +1892,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c4df911886",
-          "name": "Cairns Taipans vs Illawarra Hawks | 15:30 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c4df911886",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c4df911886",
-                  "name": "Cairns Taipans vs Illawarra Hawks",
-                  "streams": [
-                    {
-                      "id": "st-c4df911886",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1cd308c95a",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793637593_hd/1793637593_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "Cairns Taipans",
-            "team_b": "Illawarra Hawks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/690d69ad99fc8d3bd6fe4a7131521421.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97aa6ff62044e05b1dc126043568a18.png",
-            "time": "15:30:00",
-            "date": "05/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25622274_c875ef3e_20261105.png?v=c875ef3e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ba55f38c9e",
           "name": "Mobis Phoebus vs Seoul Thunders | 17:00 05/11",
@@ -2333,7 +2261,7 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2418,10 +2346,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2470,7 +2398,7 @@
             "time": "18:10:00",
             "date": "05/11",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "tennis"
           },
           "image": {
@@ -2478,78 +2406,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xbi1nt5ichzy_02aea16a_20261105.png?v=02aea16a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-fc6810e252",
-          "name": "Lorenzo Musetti vs Lucca van Assche | 19:20 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fc6810e252",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fc6810e252",
-                  "name": "Lorenzo Musetti vs Lucca van Assche",
-                  "streams": [
-                    {
-                      "id": "st-fc6810e252",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-680eedfa29",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793854484_hd/1793854484_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Paris Open",
-            "team_a": "Lorenzo Musetti",
-            "team_b": "Lucca van Assche",
-            "logo_a": "https://static.flashscore.com/res/image/data/beye6ugl-dO8eBuOC.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/dCxPsrZg-46Trc3Pm.png",
-            "time": "19:20:00",
-            "date": "05/11",
-            "blv": "Mù",
-            "is_live": false,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3w8p867a4jn9_54456f80_20261105.png?v=54456f80",
             "width": 1600,
             "height": 1200
           }
@@ -2622,6 +2478,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/prhoqmohk74l_bf3a061e_20261105.png?v=bf3a061e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fc6810e252",
+          "name": "Lorenzo Musetti vs Lucca van Assche | 21:00 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fc6810e252",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fc6810e252",
+                  "name": "Lorenzo Musetti vs Lucca van Assche",
+                  "streams": [
+                    {
+                      "id": "st-fc6810e252",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-680eedfa29",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793854484_hd/1793854484_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Paris Open",
+            "team_a": "Lorenzo Musetti",
+            "team_b": "Lucca van Assche",
+            "logo_a": "https://static.flashscore.com/res/image/data/beye6ugl-dO8eBuOC.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/dCxPsrZg-46Trc3Pm.png",
+            "time": "21:00:00",
+            "date": "05/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3w8p867a4jn9_54456f80_20261105.png?v=54456f80",
             "width": 1600,
             "height": 1200
           }
