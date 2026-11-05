@@ -1239,12 +1239,444 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-a12b3237e7",
+          "name": "Bayer Leverkusen vs Marseille | 03:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a12b3237e7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a12b3237e7",
+                  "name": "Bayer Leverkusen vs Marseille",
+                  "streams": [
+                    {
+                      "id": "st-a12b3237e7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0dd16bc79f",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793866842_hd/1793866842_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "Bayer Leverkusen",
+            "team_b": "Marseille",
+            "logo_a": "https://images.keovip88.net/images/teams/bayer-leverkusen.png",
+            "logo_b": "https://images.keovip88.net/images/teams/marseille.png",
+            "time": "03:00:00",
+            "date": "06/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a92221807a55a68f709daac_ea274024_20261105.png?v=ea274024",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8c6b196ed4",
+          "name": "AZ Alkmaar vs Juventus | 03:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8c6b196ed4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8c6b196ed4",
+                  "name": "AZ Alkmaar vs Juventus",
+                  "streams": [
+                    {
+                      "id": "st-8c6b196ed4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fe7fa2d05f",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793866867_hd/1793866867_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "AZ Alkmaar",
+            "team_b": "Juventus",
+            "logo_a": "https://images.keovip88.net/images/teams/az-alkmaar.png",
+            "logo_b": "https://images.keovip88.net/images/teams/juventus.png",
+            "time": "03:00:00",
+            "date": "06/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e71_605980d3_20261105.png?v=605980d3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ba22bd155c",
+          "name": "AS Monaco vs FC Nordsjaelland | 03:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ba22bd155c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ba22bd155c",
+                  "name": "AS Monaco vs FC Nordsjaelland",
+                  "streams": [
+                    {
+                      "id": "st-ba22bd155c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-445efd1a6e",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793866898_hd/1793866898_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Europa Conference League",
+            "team_a": "AS Monaco",
+            "team_b": "FC Nordsjaelland",
+            "logo_a": "https://images.keovip88.net/images/teams/monaco.png",
+            "logo_b": "https://images.keovip88.net/images/teams/nordsjaelland.png",
+            "time": "03:00:00",
+            "date": "06/11",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93739cfccd5ecc44060e98_987d7b90_20261105.png?v=987d7b90",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7837c30902",
+          "name": "Getafe vs Brighton   Hove Albion | 03:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7837c30902",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7837c30902",
+                  "name": "Getafe vs Brighton   Hove Albion",
+                  "streams": [
+                    {
+                      "id": "st-7837c30902",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-10493d8671",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793866916_hd/1793866916_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Europa Conference League",
+            "team_a": "Getafe",
+            "team_b": "Brighton   Hove Albion",
+            "logo_a": "https://images.keovip88.net/images/teams/getafe.png",
+            "logo_b": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
+            "time": "03:00:00",
+            "date": "06/11",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93739cfccd5ecc44060ea3_87a1becf_20261105.png?v=87a1becf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1442d6cc9c",
+          "name": "Panathinaikos vs CSKA Sofia | 03:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1442d6cc9c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1442d6cc9c",
+                  "name": "Panathinaikos vs CSKA Sofia",
+                  "streams": [
+                    {
+                      "id": "st-1442d6cc9c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-da60b5b103",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793866941_hd/1793866941_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Europa Conference League",
+            "team_a": "Panathinaikos",
+            "team_b": "CSKA Sofia",
+            "logo_a": "https://images.keovip88.net/images/teams/panathinaikos.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cska-sofia.png",
+            "time": "03:00:00",
+            "date": "06/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93739cfccd5ecc44060e9c_30c87fbc_20261105.png?v=30c87fbc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6adb947be1",
+          "name": "Palmeiras vs Remo Belem (PA) | 05:30 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6adb947be1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6adb947be1",
+                  "name": "Palmeiras vs Remo Belem (PA)",
+                  "streams": [
+                    {
+                      "id": "st-6adb947be1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8f94a47648",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793866960_hd/1793866960_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Brazil",
+            "team_a": "Palmeiras",
+            "team_b": "Remo Belem (PA)",
+            "logo_a": "https://images.keovip88.net/images/teams/palmeiras.png",
+            "logo_b": "https://images.keovip88.net/images/teams/remo-belem-pa.png",
+            "time": "05:30:00",
+            "date": "06/11",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e635e5e6975d550f081f_92a7ab23_20261105.png?v=92a7ab23",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1257,10 +1689,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1309,7 +1741,7 @@
             "time": "15:30:00",
             "date": "05/11",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
