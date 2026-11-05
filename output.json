@@ -231,6 +231,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-a36f9725ec",
+          "name": "Anderlecht vs Red Bull Salzburg | 00:45 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a36f9725ec",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a36f9725ec",
+                  "name": "Anderlecht vs Red Bull Salzburg",
+                  "streams": [
+                    {
+                      "id": "st-a36f9725ec",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d4f4509165",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793865564_hd/1793865564_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "Anderlecht",
+            "team_b": "Red Bull Salzburg",
+            "logo_a": "https://images.keovip88.net/images/teams/anderlecht.png",
+            "logo_b": "https://images.keovip88.net/images/teams/red-bull-salzburg.png",
+            "time": "00:45:00",
+            "date": "06/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e7d_851e13e1_20261105.png?v=851e13e1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -453,6 +525,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20714473_82cd4447_20261105.png?v=82cd4447",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1f4ee6c4a3",
+          "name": "Hapoel Tel-Aviv vs FC Barcelona | 01:45 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1f4ee6c4a3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1f4ee6c4a3",
+                  "name": "Hapoel Tel-Aviv vs FC Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-1f4ee6c4a3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d4508a628a",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793865479_hd/1793865479_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Hapoel Tel-Aviv",
+            "team_b": "FC Barcelona",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3cf0f296f43dd0a1184d339fd24c97af.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c98a3d8df4a10628be76ab5e38a4d65c.png",
+            "time": "01:45:00",
+            "date": "06/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11003273_519b5311_20261105.png?v=519b5311",
             "width": 1600,
             "height": 1200
           }
@@ -969,6 +1113,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c3ef86a072",
+          "name": "ATP Paris Open vs ATP Paris Open | 01:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c3ef86a072",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c3ef86a072",
+                  "name": "ATP Paris Open vs ATP Paris Open",
+                  "streams": [
+                    {
+                      "id": "st-c3ef86a072",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-81849e2940",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793865233_hd/1793865233_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Paris Open",
+            "team_a": "ATP Paris Open",
+            "team_b": "ATP Paris Open",
+            "logo_a": "https://polymarket.com/_next/image?url=https%3A%2F%2Fpolymarket-upload.s3.us-east-2.amazonaws.com%2F2025-lexus-eastbourne-open-winner-m-Z1ffSBcuOdTk.png&w=1024&q=75",
+            "logo_b": "https://polymarket.com/_next/image?url=https%3A%2F%2Fpolymarket-upload.s3.us-east-2.amazonaws.com%2Fatp-tour-b4390c4fb8.jpg&w=1024&q=75",
+            "time": "01:00:00",
+            "date": "06/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jx2f7oca28sk_ab4cd97c_20261105.png?v=ab4cd97c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1052,6 +1268,78 @@
           }
         },
         {
+          "id": "gv-773b5cd2c5",
+          "name": "Ilbank Nữ vs Nilufer Bld. Nữ | 23:00 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-773b5cd2c5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-773b5cd2c5",
+                  "name": "Ilbank Nữ vs Nilufer Bld. Nữ",
+                  "streams": [
+                    {
+                      "id": "st-773b5cd2c5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5621072690",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793865395_hd/1793865395_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi Nữ ",
+            "team_a": "Ilbank Nữ",
+            "team_b": "Nilufer Bld. Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/OpjISOXg-AabQOsPn.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rPFpfgDa-vRpcHup9.png",
+            "time": "23:00:00",
+            "date": "05/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3c0u6lnc0scd_fb0ab293_20261105.png?v=fb0ab293",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-a89b5a05c3",
           "name": "IBK Nữ vs GS Caltex Nữ | 17:00 06/11",
           "type": "single",
@@ -1119,6 +1407,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/akogxu13mbu5_8cc0e85a_20261105.png?v=8cc0e85a",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-7eefa34a51",
+          "name": "DK vs BLG | 05:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7eefa34a51",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7eefa34a51",
+                  "name": "DK vs BLG",
+                  "streams": [
+                    {
+                      "id": "st-7eefa34a51",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e67c547083",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793865031_hd/1793865031_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Worlds 2026",
+            "team_a": "DK",
+            "team_b": "BLG",
+            "logo_a": "https://static.flashscore.com/res/image/data/IcRWRrAr-lAg5zKZ6.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/8GDKDOdM-MLEBzXUg.png",
+            "time": "05:00:00",
+            "date": "06/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hnlz8jvwdmqc_e6903674_20261105.png?v=e6903674",
             "width": 1600,
             "height": 1200
           }
@@ -1362,6 +1731,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r2x9p01drpfb_c2bf89a5_20261105.png?v=c2bf89a5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-267b3484c0",
+          "name": "WEN Ruibo vs WANG Chuqin | 00:30 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-267b3484c0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-267b3484c0",
+                  "name": "WEN Ruibo vs WANG Chuqin",
+                  "streams": [
+                    {
+                      "id": "st-267b3484c0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a438763ce7",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793865112_hd/1793865112_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Frankfurt 2026",
+            "team_a": "WEN Ruibo",
+            "team_b": "WANG Chuqin",
+            "logo_a": "https://vn.tabletennis-reference.com/images/player/14168_1_450.png",
+            "logo_b": "https://vn.tabletennis-reference.com/images/player/1980_1_450.png",
+            "time": "00:30:00",
+            "date": "06/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ewef6q11kixr_3682e5eb_20261105.png?v=3682e5eb",
             "width": 1600,
             "height": 1200
           }
