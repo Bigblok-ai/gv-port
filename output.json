@@ -672,6 +672,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c2d7411bc0",
+          "name": "Jeonju KCC Egis vs Macau Hou Chon | 17:10 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c2d7411bc0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c2d7411bc0",
+                  "name": "Jeonju KCC Egis vs Macau Hou Chon",
+                  "streams": [
+                    {
+                      "id": "st-c2d7411bc0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4bcab2cc41",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793853836_hd/1793853836_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "East Asia Super League",
+            "team_a": "Jeonju KCC Egis",
+            "team_b": "Macau Hou Chon",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a2ba5e8d224376506856ad5dd34de831.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/QaQVdAeM-0QppNaPc.png",
+            "time": "17:10:00",
+            "date": "05/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20714473_82cd4447_20261105.png?v=82cd4447",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-44ea6d9c02",
+          "name": "Tasmania JackJumpers vs New Zealand Breakers | 15:30 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-44ea6d9c02",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-44ea6d9c02",
+                  "name": "Tasmania JackJumpers vs New Zealand Breakers",
+                  "streams": [
+                    {
+                      "id": "st-44ea6d9c02",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-26d22e7359",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793854153_hd/1793854153_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Tasmania JackJumpers",
+            "team_b": "New Zealand Breakers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7778a93083d2fa50e4cb4e128f07cf5f.png",
+            "time": "15:30:00",
+            "date": "06/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26622275_d9b90e01_20261105.png?v=d9b90e01",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
