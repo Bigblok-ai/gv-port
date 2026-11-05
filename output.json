@@ -1887,160 +1887,88 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-8556f9b588",
+          "name": "Lamphun Warrior vs Sukhothai | 19:00 06/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8556f9b588",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8556f9b588",
+                  "name": "Lamphun Warrior vs Sukhothai",
+                  "streams": [
+                    {
+                      "id": "st-8556f9b588",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d2a27d2585",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793809295_hd/1793809295_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Thái Lan",
+            "team_a": "Lamphun Warrior",
+            "team_b": "Sukhothai",
+            "logo_a": "https://images.keovip88.net/images/teams/lamphun-warrior.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sukhothai.png",
+            "time": "19:00:00",
+            "date": "06/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae28cd624d46db87027b565_aeb33a4b_20261105.png?v=aeb33a4b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ba55f38c9e",
-          "name": "Mobis Phoebus vs Seoul Thunders | 17:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ba55f38c9e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ba55f38c9e",
-                  "name": "Mobis Phoebus vs Seoul Thunders",
-                  "streams": [
-                    {
-                      "id": "st-ba55f38c9e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6f7a3adeb8",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793853753_hd/1793853753_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "Mobis Phoebus",
-            "team_b": "Seoul Thunders",
-            "logo_a": "https://static.flashscore.com/res/image/data/UTvcCjBr-Egd2koIh.png",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk96OsPcVdWJ_VfK8sNDt-Nh4Y2pCXQiBACA&s",
-            "time": "17:00:00",
-            "date": "05/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zasdk3enx85h_4d4361e9_20261105.png?v=4d4361e9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-c2d7411bc0",
-          "name": "Jeonju KCC Egis vs Macau Hou Chon | 17:10 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c2d7411bc0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c2d7411bc0",
-                  "name": "Jeonju KCC Egis vs Macau Hou Chon",
-                  "streams": [
-                    {
-                      "id": "st-c2d7411bc0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4bcab2cc41",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793853836_hd/1793853836_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "East Asia Super League",
-            "team_a": "Jeonju KCC Egis",
-            "team_b": "Macau Hou Chon",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a2ba5e8d224376506856ad5dd34de831.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/QaQVdAeM-0QppNaPc.png",
-            "time": "17:10:00",
-            "date": "05/11",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20714473_82cd4447_20261105.png?v=82cd4447",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-1f4ee6c4a3",
           "name": "Hapoel Tel-Aviv vs FC Barcelona | 01:45 06/11",
