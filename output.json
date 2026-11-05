@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "gv-cd745940ce",
+          "name": "Lion City Sailors vs Adelaide United | 18:30 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cd745940ce",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cd745940ce",
+                  "name": "Lion City Sailors vs Adelaide United",
+                  "streams": [
+                    {
+                      "id": "st-cd745940ce",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-74495a0782",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793877766_hd/1793877766_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia - AFC Champions League Two",
+            "team_a": "Lion City Sailors",
+            "team_b": "Adelaide United",
+            "logo_a": "https://static.flashscore.com/res/image/data/67RQUJjl-xtTU8gYe.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/dAqB8gEa-CfLKjykO.png",
+            "time": "18:30:00",
+            "date": "05/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/atzmmkqzqhkb_44c2eb5f_20261105.png?v=44c2eb5f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-efe0c4377e",
           "name": "Kuching FA vs Gangwon FC | 19:15 05/11",
           "type": "single",
