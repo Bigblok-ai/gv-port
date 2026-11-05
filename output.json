@@ -236,7 +236,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (9 LIVE)",
+      "name": "🏀 Bóng Rổ (10 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -890,6 +890,78 @@
           }
         },
         {
+          "id": "gv-b9d8bfbabe",
+          "name": "San Antonio Spurs vs Dallas Mavericks | 09:30 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b9d8bfbabe",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b9d8bfbabe",
+                  "name": "San Antonio Spurs vs Dallas Mavericks",
+                  "streams": [
+                    {
+                      "id": "st-b9d8bfbabe",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a8bdc3d0ba",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793637515_hd/1793637515_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "San Antonio Spurs",
+            "team_b": "Dallas Mavericks",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
+            "time": "09:30:00",
+            "date": "05/11",
+            "blv": "Cận",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22098278_a1ea7c1a_20261105.png?v=a1ea7c1a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-1516dd073a",
           "name": "Washington Wizards vs Atlanta Hawks | 07:00 05/11",
           "type": "single",
@@ -957,78 +1029,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25038275_c5417e13_20261105.png?v=c5417e13",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b9d8bfbabe",
-          "name": "San Antonio Spurs vs Dallas Mavericks | 09:30 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b9d8bfbabe",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b9d8bfbabe",
-                  "name": "San Antonio Spurs vs Dallas Mavericks",
-                  "streams": [
-                    {
-                      "id": "st-b9d8bfbabe",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a8bdc3d0ba",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793637515_hd/1793637515_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "San Antonio Spurs",
-            "team_b": "Dallas Mavericks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
-            "time": "09:30:00",
-            "date": "05/11",
-            "blv": "Cận",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22098278_a1ea7c1a_20261105.png?v=a1ea7c1a",
             "width": 1600,
             "height": 1200
           }
