@@ -236,83 +236,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (6 LIVE)",
+      "name": "🏀 Bóng Rổ (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-423c0b1aa0",
-          "name": "Oklahoma City Thunder vs Cleveland Cavaliers | 08:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-423c0b1aa0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-423c0b1aa0",
-                  "name": "Oklahoma City Thunder vs Cleveland Cavaliers",
-                  "streams": [
-                    {
-                      "id": "st-423c0b1aa0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6edfe5651d",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793637329_hd/1793637329_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Oklahoma City Thunder",
-            "team_b": "Cleveland Cavaliers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
-            "time": "08:00:00",
-            "date": "05/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/47988271_85e4fc9f_20261105.png?v=85e4fc9f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b7d9be6022",
           "name": "Houston Rockets vs Minnesota Timberwolves | 08:30 05/11",
