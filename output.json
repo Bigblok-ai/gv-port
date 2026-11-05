@@ -236,7 +236,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (6 LIVE)",
+      "name": "🏀 Bóng Rổ (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -674,6 +674,78 @@
           }
         },
         {
+          "id": "gv-b7d9be6022",
+          "name": "Houston Rockets vs Minnesota Timberwolves | 08:30 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b7d9be6022",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b7d9be6022",
+                  "name": "Houston Rockets vs Minnesota Timberwolves",
+                  "streams": [
+                    {
+                      "id": "st-b7d9be6022",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1bbc100f57",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793637403_hd/1793637403_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Houston Rockets",
+            "team_b": "Minnesota Timberwolves",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
+            "time": "08:30:00",
+            "date": "05/11",
+            "blv": "Ben",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49988273_c45d2453_20261105.png?v=c45d2453",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-1516dd073a",
           "name": "Washington Wizards vs Atlanta Hawks | 07:00 05/11",
           "type": "single",
@@ -741,78 +813,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25038275_c5417e13_20261105.png?v=c5417e13",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b7d9be6022",
-          "name": "Houston Rockets vs Minnesota Timberwolves | 08:30 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b7d9be6022",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b7d9be6022",
-                  "name": "Houston Rockets vs Minnesota Timberwolves",
-                  "streams": [
-                    {
-                      "id": "st-b7d9be6022",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1bbc100f57",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793637403_hd/1793637403_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Houston Rockets",
-            "team_b": "Minnesota Timberwolves",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
-            "time": "08:30:00",
-            "date": "05/11",
-            "blv": "Ben",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49988273_c45d2453_20261105.png?v=c45d2453",
             "width": 1600,
             "height": 1200
           }
