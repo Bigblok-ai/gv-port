@@ -236,7 +236,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -602,6 +602,78 @@
           }
         },
         {
+          "id": "gv-0c99bc73b6",
+          "name": "Los Angeles Clippers vs Miami Heat | 10:30 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0c99bc73b6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0c99bc73b6",
+                  "name": "Los Angeles Clippers vs Miami Heat",
+                  "streams": [
+                    {
+                      "id": "st-0c99bc73b6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-640f87ef4e",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793637568_hd/1793637568_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Los Angeles Clippers",
+            "team_b": "Miami Heat",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/43ebb4d6ad3ea5b68e9b1c969dff055b.png",
+            "time": "10:30:00",
+            "date": "05/11",
+            "blv": "Vịt",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34098270_018a5422_20261105.png?v=018a5422",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-1516dd073a",
           "name": "Washington Wizards vs Atlanta Hawks | 07:00 05/11",
           "type": "single",
@@ -674,78 +746,6 @@
           }
         },
         {
-          "id": "gv-0c99bc73b6",
-          "name": "Los Angeles Clippers vs Miami Heat | 10:30 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0c99bc73b6",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0c99bc73b6",
-                  "name": "Los Angeles Clippers vs Miami Heat",
-                  "streams": [
-                    {
-                      "id": "st-0c99bc73b6",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-640f87ef4e",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793637568_hd/1793637568_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Los Angeles Clippers",
-            "team_b": "Miami Heat",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/43ebb4d6ad3ea5b68e9b1c969dff055b.png",
-            "time": "10:30:00",
-            "date": "05/11",
-            "blv": "Vịt",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34098270_018a5422_20261105.png?v=018a5422",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-c4df911886",
           "name": "Cairns Taipans vs Illawarra Hawks | 15:30 05/11",
           "type": "single",
@@ -813,87 +813,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25622274_c875ef3e_20261105.png?v=c875ef3e",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-6701b5cb6f",
-          "name": "GEN vs LYON | 05:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6701b5cb6f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6701b5cb6f",
-                  "name": "GEN vs LYON",
-                  "streams": [
-                    {
-                      "id": "st-6701b5cb6f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-69efd5b591",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793806751_hd/1793806751_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Worlds 2026",
-            "team_a": "GEN",
-            "team_b": "LYON",
-            "logo_a": "https://static.flashscore.com/res/image/data/rglkqMzB-UJqSxlpo.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/vBMCdyFG-bmH06hoa.png",
-            "time": "05:00:00",
-            "date": "05/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/a6dfnk1djdbz_a2460b33_20261105.png?v=a2460b33",
             "width": 1600,
             "height": 1200
           }
