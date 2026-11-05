@@ -236,83 +236,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (8 LIVE)",
+      "name": "🏀 Bóng Rổ (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-49420d2310",
-          "name": "Brooklyn Nets vs Charlotte Hornets | 07:30 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-49420d2310",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-49420d2310",
-                  "name": "Brooklyn Nets vs Charlotte Hornets",
-                  "streams": [
-                    {
-                      "id": "st-49420d2310",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4bd0ac2fe4",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793637247_hd/1793637247_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Brooklyn Nets",
-            "team_b": "Charlotte Hornets",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c01b5e6f6659dd42195e9db3aaef13b7.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
-            "time": "07:30:00",
-            "date": "05/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28038278_e592f5c2_20261105.png?v=e592f5c2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-423c0b1aa0",
           "name": "Oklahoma City Thunder vs Cleveland Cavaliers | 08:00 05/11",
