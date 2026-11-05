@@ -899,6 +899,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-483436c2b1",
+          "name": "Tommy Paul vs Quentin Halys | 17:00 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-483436c2b1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-483436c2b1",
+                  "name": "Tommy Paul vs Quentin Halys",
+                  "streams": [
+                    {
+                      "id": "st-483436c2b1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f60b00a550",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793854350_hd/1793854350_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Paris Open",
+            "team_a": "Tommy Paul",
+            "team_b": "Quentin Halys",
+            "logo_a": "https://static.flashscore.com/res/image/data/v7Wf42il-pQ0ElVBe.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/0GxnPUDa-d4CRNZWd.png",
+            "time": "17:00:00",
+            "date": "05/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9z2bhykl95rt_2d5afad6_20261105.png?v=2d5afad6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-2fc15e0bdf",
           "name": "Ben Shelton vs Arthur Rinderknech | 18:10 05/11",
           "type": "single",
@@ -966,6 +1038,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xbi1nt5ichzy_02aea16a_20261105.png?v=02aea16a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fc6810e252",
+          "name": "Lorenzo Musetti vs Lucca van Assche | 19:20 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fc6810e252",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fc6810e252",
+                  "name": "Lorenzo Musetti vs Lucca van Assche",
+                  "streams": [
+                    {
+                      "id": "st-fc6810e252",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-680eedfa29",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793854484_hd/1793854484_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Paris Open",
+            "team_a": "Lorenzo Musetti",
+            "team_b": "Lucca van Assche",
+            "logo_a": "https://static.flashscore.com/res/image/data/beye6ugl-dO8eBuOC.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/dCxPsrZg-46Trc3Pm.png",
+            "time": "19:20:00",
+            "date": "05/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3w8p867a4jn9_54456f80_20261105.png?v=54456f80",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-19ee3ddcf0",
+          "name": "Rinky Hijikata vs Tomas Martin Etchevery | 20:00 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-19ee3ddcf0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-19ee3ddcf0",
+                  "name": "Rinky Hijikata vs Tomas Martin Etchevery",
+                  "streams": [
+                    {
+                      "id": "st-19ee3ddcf0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5ec64d9697",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793854546_hd/1793854546_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Paris Open",
+            "team_a": "Rinky Hijikata",
+            "team_b": "Tomas Martin Etchevery",
+            "logo_a": "https://static.flashscore.com/res/image/data/tzqKkUjl-vatznZpf.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/UVD79kXg-KYie9gca.png",
+            "time": "20:00:00",
+            "date": "05/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/prhoqmohk74l_bf3a061e_20261105.png?v=bf3a061e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1c86b0f0f0",
+          "name": "Nuno Borges vs Ignacio Buse | 21:20 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1c86b0f0f0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1c86b0f0f0",
+                  "name": "Nuno Borges vs Ignacio Buse",
+                  "streams": [
+                    {
+                      "id": "st-1c86b0f0f0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1944a44f5d",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793854633_hd/1793854633_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Paris Open",
+            "team_a": "Nuno Borges",
+            "team_b": "Ignacio Buse",
+            "logo_a": "https://static.flashscore.com/res/image/data/4WdeaLYg-Mc0Ip3ar.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/zLCvPaFa-W8J3KwbL.png",
+            "time": "21:20:00",
+            "date": "05/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ofl0bml1l91a_82aeb654_20261105.png?v=82aeb654",
             "width": 1600,
             "height": 1200
           }
@@ -1119,6 +1407,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/akogxu13mbu5_8cc0e85a_20261105.png?v=8cc0e85a",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongban",
+      "name": "🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-a0a819466f",
+          "name": "LIANG Jingkun vs Hugo CALDERANO | 19:00 05/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a0a819466f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a0a819466f",
+                  "name": "LIANG Jingkun vs Hugo CALDERANO",
+                  "streams": [
+                    {
+                      "id": "st-a0a819466f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3a2f41cbcc",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793854715_hd/1793854715_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Frankfurt 2026",
+            "team_a": "LIANG Jingkun",
+            "team_b": "Hugo CALDERANO",
+            "logo_a": "https://static.flashscore.com/res/image/data/ncNQBIAr-0GVPIiRs.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/YFfA7gYg-b7qbNXIQ.png",
+            "time": "19:00:00",
+            "date": "05/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/r2x9p01drpfb_c2bf89a5_20261105.png?v=c2bf89a5",
             "width": 1600,
             "height": 1200
           }
