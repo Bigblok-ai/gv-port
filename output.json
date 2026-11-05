@@ -236,83 +236,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (9 LIVE)",
+      "name": "🏀 Bóng Rổ (8 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-deca12f9dc",
-          "name": "Detroit Pistons vs Philadelphia 76ers | 07:00 05/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-deca12f9dc",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-deca12f9dc",
-                  "name": "Detroit Pistons vs Philadelphia 76ers",
-                  "streams": [
-                    {
-                      "id": "st-deca12f9dc",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ff83544d78",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793637199_hd/1793637199_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Detroit Pistons",
-            "team_b": "Philadelphia 76ers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c4677b9a5c8823ad3070069d8741a809.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7f086c864d1e283b7862a756f0b88373.png",
-            "time": "07:00:00",
-            "date": "05/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24038274_133ff2e5_20261105.png?v=133ff2e5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-49420d2310",
           "name": "Brooklyn Nets vs Charlotte Hornets | 07:30 05/11",
