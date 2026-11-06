@@ -1721,83 +1721,11 @@
     },
     {
       "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn (1 LIVE)",
+      "name": "🏓 Bóng Bàn",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-30d0624e98",
-          "name": "LIM Jonghoon vs Tomokazu HARIMOTO | 19:00 06/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-30d0624e98",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-30d0624e98",
-                  "name": "LIM Jonghoon vs Tomokazu HARIMOTO",
-                  "streams": [
-                    {
-                      "id": "st-30d0624e98",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-62353aef23",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793929841_hd/1793929841_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Frankfurt 2026",
-            "team_a": "LIM Jonghoon",
-            "team_b": "Tomokazu HARIMOTO",
-            "logo_a": "https://static.flashscore.com/res/image/data/GAtpKvZg-hEEvdCUk.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/p2pUgGEG-0GVPIiRs.png",
-            "time": "19:00:00",
-            "date": "06/11",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4d6yq9p0hoyj_6a1573f7_20261106.png?v=6a1573f7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f3faa4c15c",
           "name": "OH Junsung vs Shunsuke TOGAMI | 00:30 07/11",
