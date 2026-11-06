@@ -1527,6 +1527,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-662caee2c3",
+          "name": "Paris Saint Germain vs ES Troyes AC | 03:05 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-662caee2c3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-662caee2c3",
+                  "name": "Paris Saint Germain vs ES Troyes AC",
+                  "streams": [
+                    {
+                      "id": "st-662caee2c3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7b76855253",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793952656_hd/1793952656_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Paris Saint Germain",
+            "team_b": "ES Troyes AC",
+            "logo_a": "https://images.keovip88.net/images/teams/paris-saint-germain-psg.png",
+            "logo_b": "https://images.keovip88.net/images/teams/troyes.png",
+            "time": "03:05:00",
+            "date": "08/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fca24d46db870bc066b_8ebc282a_20261107.png?v=8ebc282a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
