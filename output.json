@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-8556f9b588",
-          "name": "Lamphun Warrior vs Sukhothai | 19:00 06/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8556f9b588",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8556f9b588",
-                  "name": "Lamphun Warrior vs Sukhothai",
-                  "streams": [
-                    {
-                      "id": "st-8556f9b588",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d2a27d2585",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793809295_hd/1793809295_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Thái Lan",
-            "team_a": "Lamphun Warrior",
-            "team_b": "Sukhothai",
-            "logo_a": "https://images.keovip88.net/images/teams/lamphun-warrior.png",
-            "logo_b": "https://images.keovip88.net/images/teams/sukhothai.png",
-            "time": "19:00:00",
-            "date": "06/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae28cd624d46db87027b565_aeb33a4b_20261106.png?v=aeb33a4b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-aaaa9e9f2a",
           "name": "Al-Hazm vs Al-Nassr FC | 21:55 06/11",
@@ -660,6 +588,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae3de5424d46db870e96939_a56a1c6a_20261106.png?v=a56a1c6a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ef61434480",
+          "name": "Hwacheon vs Hồ Chí Minh City | 15:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ef61434480",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ef61434480",
+                  "name": "Hwacheon vs Hồ Chí Minh City",
+                  "streams": [
+                    {
+                      "id": "st-ef61434480",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d17584ba72",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793977427_hd/1793977427_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League",
+            "team_a": "Hwacheon",
+            "team_b": "Hồ Chí Minh City",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/en/8/8d/KSPO_WFC.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/vMfiEfPl-mljckWkDVYT6Q_96x96.png",
+            "time": "15:30:00",
+            "date": "07/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2kgukupcpbew_072df172_20261106.png?v=072df172",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4510173be9",
+          "name": "Melbourne City vs Western Sydney Wanderers | 15:40 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4510173be9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4510173be9",
+                  "name": "Melbourne City vs Western Sydney Wanderers",
+                  "streams": [
+                    {
+                      "id": "st-4510173be9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1abd04a2f1",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793977450_hd/1793977450_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Melbourne City",
+            "team_b": "Western Sydney Wanderers",
+            "logo_a": "https://images.keovip88.net/images/teams/melbourne-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/western-sydney.png",
+            "time": "15:40:00",
+            "date": "07/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fb824d46db870bbe02d_63234b89_20261106.png?v=63234b89",
             "width": 1600,
             "height": 1200
           }
