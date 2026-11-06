@@ -809,6 +809,78 @@
           }
         },
         {
+          "id": "gv-4f0a17a42e",
+          "name": "Hoàng Anh Gia Lai vs Hà Nội | 17:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4f0a17a42e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4f0a17a42e",
+                  "name": "Hoàng Anh Gia Lai vs Hà Nội",
+                  "streams": [
+                    {
+                      "id": "st-4f0a17a42e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c733a17a9f",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995948_hd/1793995948_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Hoàng Anh Gia Lai",
+            "team_b": "Hà Nội",
+            "logo_a": "https://images.keovip88.net/images/teams/hoang-anh-gia-lai.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hanoi-fc.png",
+            "time": "17:00:00",
+            "date": "07/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6813d24d46db870b35279_a84d57b1_20261107.png?v=a84d57b1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-16a986cf15",
           "name": "Hải Phòng vs Sông Lam Nghệ An | 18:00 07/11",
           "type": "single",
@@ -1308,6 +1380,366 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc024d46db870bbeb5b_448a7a9b_20261107.png?v=448a7a9b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-13aeb89783",
+          "name": "Borussia Dortmund vs SV Elversberg | 21:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-13aeb89783",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-13aeb89783",
+                  "name": "Borussia Dortmund vs SV Elversberg",
+                  "streams": [
+                    {
+                      "id": "st-13aeb89783",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f56934fa93",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995801_hd/1793995801_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Borussia Dortmund",
+            "team_b": "SV Elversberg",
+            "logo_a": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sv-elversberg.png",
+            "time": "21:30:00",
+            "date": "07/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc024d46db870bbeb4a_94e644d6_20261107.png?v=94e644d6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-40e5356891",
+          "name": "Mainz vs Bayern Munich | 21:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40e5356891",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-40e5356891",
+                  "name": "Mainz vs Bayern Munich",
+                  "streams": [
+                    {
+                      "id": "st-40e5356891",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b143c8eeda",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995827_hd/1793995827_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Mainz",
+            "team_b": "Bayern Munich",
+            "logo_a": "https://images.keovip88.net/images/teams/fsv-mainz-05.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen.png",
+            "time": "21:30:00",
+            "date": "07/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc024d46db870bbeb4e_9b2eb0b5_20261107.png?v=9b2eb0b5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-932bbc6e00",
+          "name": "Fulham vs Newcastle United | 22:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-932bbc6e00",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-932bbc6e00",
+                  "name": "Fulham vs Newcastle United",
+                  "streams": [
+                    {
+                      "id": "st-932bbc6e00",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8adda37d17",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995862_hd/1793995862_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Fulham",
+            "team_b": "Newcastle United",
+            "logo_a": "https://images.keovip88.net/images/teams/fulham.png",
+            "logo_b": "https://images.keovip88.net/images/teams/newcastle-united.png",
+            "time": "22:00:00",
+            "date": "07/11",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc124d46db870bbec18_fbb58b52_20261107.png?v=fbb58b52",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2c35dd5d40",
+          "name": "Arsenal vs Hull City | 22:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2c35dd5d40",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2c35dd5d40",
+                  "name": "Arsenal vs Hull City",
+                  "streams": [
+                    {
+                      "id": "st-2c35dd5d40",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-225a3b9c0e",
+                          "name": "Fan Arsenal: Ngọng + Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995890_hd/1793995890_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Arsenal",
+            "team_b": "Hull City",
+            "logo_a": "https://images.keovip88.net/images/teams/arsenal.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hull-city.png",
+            "time": "22:00:00",
+            "date": "07/11",
+            "blv": "Fan Arsenal: Ngọng + Cận",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc124d46db870bbec13_36c9521f_20261107.png?v=36c9521f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9f454b9732",
+          "name": "Espanyol vs Deportivo La Coruna | 22:15 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f454b9732",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9f454b9732",
+                  "name": "Espanyol vs Deportivo La Coruna",
+                  "streams": [
+                    {
+                      "id": "st-9f454b9732",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8ecc89582a",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995918_hd/1793995918_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Espanyol",
+            "team_b": "Deportivo La Coruna",
+            "logo_a": "https://images.keovip88.net/images/teams/rcd-espanyol.png",
+            "logo_b": "https://images.keovip88.net/images/teams/deportivo-la-coruna.png",
+            "time": "22:15:00",
+            "date": "07/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc424d46db870bbf03b_a3513d7a_20261107.png?v=a3513d7a",
             "width": 1600,
             "height": 1200
           }
