@@ -1388,83 +1388,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-65c5ba5843",
-          "name": "Besiktas Cola Turka vs Zalgiris | 00:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-65c5ba5843",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-65c5ba5843",
-                  "name": "Besiktas Cola Turka vs Zalgiris",
-                  "streams": [
-                    {
-                      "id": "st-65c5ba5843",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-817a24947c",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793951150_hd/1793951150_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Besiktas Cola Turka",
-            "team_b": "Zalgiris",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/4c56f517bc64726563ed7f0d226a828e.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cf2957a0cbc4d855d7204f2154e2971f.png",
-            "time": "00:00:00",
-            "date": "07/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/14003276_8b551ba2_20261107.png?v=8b551ba2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e0e27a3480",
           "name": "Atlanta Hawks vs Washington Wizards | 07:00 07/11",
