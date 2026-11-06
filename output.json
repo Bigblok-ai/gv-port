@@ -1820,7 +1820,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1833,10 +1833,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1885,7 +1885,7 @@
             "time": "07:00:00",
             "date": "07/11",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1905,10 +1905,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1957,7 +1957,7 @@
             "time": "07:00:00",
             "date": "07/11",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1977,10 +1977,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2029,7 +2029,7 @@
             "time": "07:30:00",
             "date": "07/11",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2829,87 +2829,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27138278_f1c8963c_20261107.png?v=f1c8963c",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-1bedc509cd",
-          "name": "Taylor Fritz vs Carlos Alcaraz | 01:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1bedc509cd",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1bedc509cd",
-                  "name": "Taylor Fritz vs Carlos Alcaraz",
-                  "streams": [
-                    {
-                      "id": "st-1bedc509cd",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c7ec77d860",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793951817_hd/1793951817_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Paris Open",
-            "team_a": "Taylor Fritz",
-            "team_b": "Carlos Alcaraz",
-            "logo_a": "https://static.flashscore.com/res/image/data/vDLwcnCa-8AMTtzu5.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/OfjQEPjl-KjZlrI8i.png",
-            "time": "01:00:00",
-            "date": "07/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8nbevyk9s5a1_eca1eb94_20261107.png?v=eca1eb94",
             "width": 1600,
             "height": 1200
           }
