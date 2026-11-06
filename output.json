@@ -1682,6 +1682,222 @@
           }
         },
         {
+          "id": "gv-43b8410f91",
+          "name": "Memphis Grizzlies vs Oklahoma City Thunder | 08:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-43b8410f91",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-43b8410f91",
+                  "name": "Memphis Grizzlies vs Oklahoma City Thunder",
+                  "streams": [
+                    {
+                      "id": "st-43b8410f91",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3964416551",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793987399_hd/1793987399_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Memphis Grizzlies",
+            "team_b": "Oklahoma City Thunder",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
+            "time": "08:00:00",
+            "date": "07/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37098273_8736314b_20261107.png?v=8736314b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-30e9bf6d56",
+          "name": "Dallas Mavericks vs Utah Jazz | 08:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-30e9bf6d56",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-30e9bf6d56",
+                  "name": "Dallas Mavericks vs Utah Jazz",
+                  "streams": [
+                    {
+                      "id": "st-30e9bf6d56",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a110ff2018",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793987462_hd/1793987462_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Dallas Mavericks",
+            "team_b": "Utah Jazz",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
+            "time": "08:00:00",
+            "date": "07/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39098275_de50d07f_20261107.png?v=de50d07f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-58e50f7f0b",
+          "name": "Milwaukee Bucks vs Toronto Raptors | 08:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-58e50f7f0b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-58e50f7f0b",
+                  "name": "Milwaukee Bucks vs Toronto Raptors",
+                  "streams": [
+                    {
+                      "id": "st-58e50f7f0b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-36e31c3017",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793987509_hd/1793987509_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Milwaukee Bucks",
+            "team_b": "Toronto Raptors",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e82de69ea44942a3e90a5be6cf0004da.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/3f61db02c20eb73e5f27948b3122f2fb.png",
+            "time": "08:00:00",
+            "date": "07/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22138273_74201343_20261107.png?v=74201343",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-27ef008b62",
           "name": "Indiana Pacers vs Denver Nuggets | 05:00 08/11",
           "type": "single",
