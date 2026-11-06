@@ -1487,83 +1487,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (2 LIVE)",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-38a15ba853",
-          "name": "PARIVISION vs NAVI | 13:30 06/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-38a15ba853",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-38a15ba853",
-                  "name": "PARIVISION vs NAVI",
-                  "streams": [
-                    {
-                      "id": "st-38a15ba853",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f1729b1285",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793944029_hd/1793944029_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-IEM Bejing 2026",
-            "team_a": "PARIVISION",
-            "team_b": "NAVI",
-            "logo_a": "https://static.flashscore.com/res/image/data/hCocHMYg-nsgDhzrP.png",
-            "logo_b": "https://liquipedia.net/commons/images/3/3f/Natus_Vincere_2021_lightmode.png",
-            "time": "13:30:00",
-            "date": "06/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fzkdrsottrp5_5414a102_20261106.png?v=5414a102",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-93e5f35c0c",
           "name": "FURIA vs BetBoom Team | 16:45 06/11",
