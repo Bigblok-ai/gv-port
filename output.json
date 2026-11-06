@@ -593,6 +593,78 @@
           }
         },
         {
+          "id": "gv-9f4d48c99d",
+          "name": "Central Coast Mariners vs Newcastle Jets | 11:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f4d48c99d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9f4d48c99d",
+                  "name": "Central Coast Mariners vs Newcastle Jets",
+                  "streams": [
+                    {
+                      "id": "st-9f4d48c99d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cac8bee461",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793986973_hd/1793986973_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Central Coast Mariners",
+            "team_b": "Newcastle Jets",
+            "logo_a": "https://images.keovip88.net/images/teams/central-coast-mariners.png",
+            "logo_b": "https://images.keovip88.net/images/teams/newcastle-jets.png",
+            "time": "11:00:00",
+            "date": "07/11",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lmzxhwwxv1h2_a8547fc2_20261107.png?v=a8547fc2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-ef61434480",
           "name": "Hwacheon vs Hồ Chí Minh City | 15:30 07/11",
           "type": "single",
@@ -1685,7 +1757,7 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis",
+      "name": "🎾 Tennis (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1698,10 +1770,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1750,7 +1822,7 @@
             "time": "01:00:00",
             "date": "07/11",
             "blv": "Mù",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "tennis"
           },
           "image": {
