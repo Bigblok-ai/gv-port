@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-39dffa7365",
-          "name": "Adelaide United W vs Wellington Phoenix W | 15:00 06/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-39dffa7365",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-39dffa7365",
-                  "name": "Adelaide United W vs Wellington Phoenix W",
-                  "streams": [
-                    {
-                      "id": "st-39dffa7365",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dec920d324",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793950998_hd/1793950998_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Australia - A-League Women",
-            "team_a": "Adelaide United W",
-            "team_b": "Wellington Phoenix W",
-            "logo_a": "https://static.flashscore.com/res/image/data/YoYmLhFa-p8qB7nji.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/CQFB9YzB-6k4JHuld.png",
-            "time": "15:00:00",
-            "date": "06/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/thd9cn3n6eok_6268f037_20261106.png?v=6268f037",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e08a7b5009",
           "name": "Sydney FC vs Central Coast Mariners FC | 15:40 06/11",
