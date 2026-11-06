@@ -821,83 +821,11 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-5b34ec4808",
-          "name": "Ben Shelton vs Tommy Paul | 20:00 06/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5b34ec4808",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5b34ec4808",
-                  "name": "Ben Shelton vs Tommy Paul",
-                  "streams": [
-                    {
-                      "id": "st-5b34ec4808",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cb175ab4b2",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793930650_hd/1793930650_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Paris Open",
-            "team_a": "Ben Shelton",
-            "team_b": "Tommy Paul",
-            "logo_a": "https://static.flashscore.com/res/image/data/UBXM3cXg-fgTOwTv9.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/v7Wf42il-pQ0ElVBe.png",
-            "time": "20:00:00",
-            "date": "06/11",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4jbdlfp6nduo_ab4a2c98_20261106.png?v=ab4a2c98",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-1bedc509cd",
           "name": "Taylor Fritz vs Carlos Alcaraz | 01:00 07/11",
@@ -1361,7 +1289,7 @@
     },
     {
       "id": "cate_duaxe",
-      "name": "🏎️ Đua Xe",
+      "name": "🏎️ Đua Xe (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1374,10 +1302,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1426,7 +1354,7 @@
             "time": "22:30:00",
             "date": "06/11",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "duaxe"
           },
           "image": {
@@ -1659,6 +1587,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4d6yq9p0hoyj_6a1573f7_20261106.png?v=6a1573f7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f3faa4c15c",
+          "name": "OH Junsung vs Shunsuke TOGAMI | 00:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f3faa4c15c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f3faa4c15c",
+                  "name": "OH Junsung vs Shunsuke TOGAMI",
+                  "streams": [
+                    {
+                      "id": "st-f3faa4c15c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6245c4836c",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793976865_hd/1793976865_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Frankfurt 2026",
+            "team_a": "OH Junsung",
+            "team_b": "Shunsuke TOGAMI",
+            "logo_a": "https://static.flashscore.com/res/image/data/A3GlBGf5-Iu0xbn13.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/6aiCyMZA-h8ejfetP.png",
+            "time": "00:30:00",
+            "date": "07/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/s99whngpr389_22a07667_20261106.png?v=22a07667",
             "width": 1600,
             "height": 1200
           }
