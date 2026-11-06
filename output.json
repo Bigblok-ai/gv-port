@@ -1248,6 +1248,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-eea688dc88",
+          "name": "Basquet Coruna vs MoraBanc Andorra | 00:00 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-eea688dc88",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-eea688dc88",
+                  "name": "Basquet Coruna vs MoraBanc Andorra",
+                  "streams": [
+                    {
+                      "id": "st-eea688dc88",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1288d9d6ff",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793984528_hd/1793984528_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asociación de Clubes de Baloncesto",
+            "team_a": "Basquet Coruna",
+            "team_b": "MoraBanc Andorra",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3db71e411344ff9410da86c3f09fd6f2.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/677f48b950997d1addb1dd5f06d588c2.png",
+            "time": "00:00:00",
+            "date": "09/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25069279_793b8c97_20261107.png?v=793b8c97",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1496,83 +1568,11 @@
     },
     {
       "id": "cate_duaxe",
-      "name": "🏎️ Đua Xe (1 LIVE)",
+      "name": "🏎️ Đua Xe",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-40ec449c02",
-          "name": "F1 vs F1 | 22:30 06/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-40ec449c02",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-40ec449c02",
-                  "name": "F1 vs F1",
-                  "streams": [
-                    {
-                      "id": "st-40ec449c02",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-356a6c1976",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793854903_hd/1793854903_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "São Paulo Grand Prix",
-            "team_a": "F1",
-            "team_b": "F1",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVtO4ZUAUC-I-ifKovT2DG3AuvtB5LptfcsjRuc7ML5X0vA_k1HAtWq0&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAVtO4ZUAUC-I-ifKovT2DG3AuvtB5LptfcsjRuc7ML5X0vA_k1HAtWq0&s=10",
-            "time": "22:30:00",
-            "date": "06/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "duaxe"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ry4dhuohwiym_7315307a_20261107.png?v=7315307a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-91a244ae8e",
           "name": "F1 vs F1 | 02:00 07/11",
