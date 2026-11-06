@@ -3050,6 +3050,78 @@
           }
         },
         {
+          "id": "gv-6af00e4826",
+          "name": "Barca vs Beogran | 18:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6af00e4826",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6af00e4826",
+                  "name": "Barca vs Beogran",
+                  "streams": [
+                    {
+                      "id": "st-6af00e4826",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fc6544b690",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996418_hd/1793996418_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ACB",
+            "team_a": "Barca",
+            "team_b": "Beogran",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/250px-FC_Barcelona_%28crest%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "logo_b": "https://img.sofascore.com/api/v1/team/3547/image",
+            "time": "18:00:00",
+            "date": "08/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5fa92s8qhysi_d411157f_20261107.png?v=d411157f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-dae90c4d36",
           "name": "CAI Zaragoza vs Unicaja | 23:00 08/11",
           "type": "single",
@@ -3428,6 +3500,150 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-d5921cf9da",
+          "name": "Ziraat Bankasi vs Istanbul BB | 20:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d5921cf9da",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d5921cf9da",
+                  "name": "Ziraat Bankasi vs Istanbul BB",
+                  "streams": [
+                    {
+                      "id": "st-d5921cf9da",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2dcb3c410e",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996751_hd/1793996751_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi",
+            "team_a": "Ziraat Bankasi",
+            "team_b": "Istanbul BB",
+            "logo_a": "https://static.flashscore.com/res/image/data/nN1hHJYA-vaQC7xt4.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/INPigCjl-Sxh8HvnB.png",
+            "time": "20:00:00",
+            "date": "07/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j52lej63afpg_915c883c_20261107.png?v=915c883c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-25788ac7f6",
+          "name": "Nilufer Bld. Nữ vs Vakifbank Nữ | 20:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-25788ac7f6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-25788ac7f6",
+                  "name": "Nilufer Bld. Nữ vs Vakifbank Nữ",
+                  "streams": [
+                    {
+                      "id": "st-25788ac7f6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aa61d09712",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996818_hd/1793996818_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi Nữ ",
+            "team_a": "Nilufer Bld. Nữ",
+            "team_b": "Vakifbank Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/rPFpfgDa-vRpcHup9.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",
+            "time": "20:00:00",
+            "date": "08/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/czryzrnx2kk1_4c980b01_20261107.png?v=4c980b01",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-fff2eae096",
           "name": "THY Nữ vs Fenerbahce Nữ | 23:00 08/11",
           "type": "single",
@@ -3576,6 +3792,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vnprvzkfi5p5_61e2f9ff_20261107.png?v=61e2f9ff",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-87576abeb2",
+          "name": "Semi-Finals vs Semi-Finals | 16:45 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-87576abeb2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-87576abeb2",
+                  "name": "Semi-Finals vs Semi-Finals",
+                  "streams": [
+                    {
+                      "id": "st-87576abeb2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1fa3e13987",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996909_hd/1793996909_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-IEM Bejing 2026 ",
+            "team_a": "Semi-Finals",
+            "team_b": "Semi-Finals",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-kHHLKKuJglmzhzRGBRg-gkv2iBnualPjPvWBKB9fzeorWkxQAtN0bVPC&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-kHHLKKuJglmzhzRGBRg-gkv2iBnualPjPvWBKB9fzeorWkxQAtN0bVPC&s=10",
+            "time": "16:45:00",
+            "date": "07/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6b1vqkwwaedh_0eec7a46_20261107.png?v=0eec7a46",
             "width": 1600,
             "height": 1200
           }
