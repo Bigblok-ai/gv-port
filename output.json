@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-fddd46704c",
+          "name": "Galatasaray vs Amedspor | 23:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fddd46704c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fddd46704c",
+                  "name": "Galatasaray vs Amedspor",
+                  "streams": [
+                    {
+                      "id": "st-fddd46704c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8cf086974c",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793952104_hd/1793952104_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Thổ Nhĩ Kỳ",
+            "team_a": "Galatasaray",
+            "team_b": "Amedspor",
+            "logo_a": "https://images.keovip88.net/images/teams/galatasaray.png",
+            "logo_b": "https://images.keovip88.net/images/teams/amedspor.png",
+            "time": "23:00:00",
+            "date": "07/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc424d46db870bbf0e7_665f4877_20261106.png?v=665f4877",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1110,87 +1182,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8nbevyk9s5a1_eca1eb94_20261106.png?v=eca1eb94",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-a89b5a05c3",
-          "name": "IBK Nữ vs GS Caltex Nữ | 17:00 06/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a89b5a05c3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a89b5a05c3",
-                  "name": "IBK Nữ vs GS Caltex Nữ",
-                  "streams": [
-                    {
-                      "id": "st-a89b5a05c3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1be6ceb9b0",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793854289_hd/1793854289_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Volleyball League Nữ",
-            "team_a": "IBK Nữ",
-            "team_b": "GS Caltex Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/GCVCfeyS-8pDUfQGg.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/EXtx7sXg-EL2iNWK6.png",
-            "time": "17:00:00",
-            "date": "06/11",
-            "blv": "Sún",
-            "is_live": false,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/akogxu13mbu5_8cc0e85a_20261106.png?v=8cc0e85a",
             "width": 1600,
             "height": 1200
           }
