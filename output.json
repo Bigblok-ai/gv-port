@@ -1392,6 +1392,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-7978d4f8a9",
+          "name": "Detroit Pistons vs Los Angeles Lakers | 06:00 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7978d4f8a9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7978d4f8a9",
+                  "name": "Detroit Pistons vs Los Angeles Lakers",
+                  "streams": [
+                    {
+                      "id": "st-7978d4f8a9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8afbebd910",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793985671_hd/1793985671_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Detroit Pistons",
+            "team_b": "Los Angeles Lakers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c4677b9a5c8823ad3070069d8741a809.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
+            "time": "06:00:00",
+            "date": "09/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27138278_f1c8963c_20261107.png?v=f1c8963c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1470,6 +1542,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8nbevyk9s5a1_eca1eb94_20261107.png?v=eca1eb94",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-fff2eae096",
+          "name": "THY Nữ vs Fenerbahce Nữ | 23:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fff2eae096",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fff2eae096",
+                  "name": "THY Nữ vs Fenerbahce Nữ",
+                  "streams": [
+                    {
+                      "id": "st-fff2eae096",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e01908e3ec",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793985755_hd/1793985755_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi Nữ",
+            "team_a": "THY Nữ",
+            "team_b": "Fenerbahce Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/Y3rwfVil-hbCWshlB.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/IROBodZA-z9Ihsud3.png",
+            "time": "23:00:00",
+            "date": "08/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yrldqy1qblxy_8597ff21_20261107.png?v=8597ff21",
             "width": 1600,
             "height": 1200
           }
@@ -1785,6 +1938,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4adrvktib6hr_64de9442_20261107.png?v=64de9442",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-db95165e87",
+          "name": "F1 vs F1 | 00:00 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-db95165e87",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-db95165e87",
+                  "name": "F1 vs F1",
+                  "streams": [
+                    {
+                      "id": "st-db95165e87",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3d5dc2eaec",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793985824_hd/1793985824_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "São Paulo Grand Prix",
+            "team_a": "F1",
+            "team_b": "F1",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS2MWPmU47fWOWgVDIxHZISezRBzN6J3ZfG-xfbtWOYAD3iqmgHsp4ybAo&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZV2pf5wilgSDo_wrsoRGDzvrqS2iMeHqQxcFrPZmjKoy-LTAPAegvmhlO&s=10",
+            "time": "00:00:00",
+            "date": "09/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "duaxe"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8zrqkswzydl7_64de9442_20261107.png?v=64de9442",
             "width": 1600,
             "height": 1200
           }
