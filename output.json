@@ -962,78 +962,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-65c5ba5843",
-          "name": "Besiktas Cola Turka vs Zalgiris | 00:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-65c5ba5843",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-65c5ba5843",
-                  "name": "Besiktas Cola Turka vs Zalgiris",
-                  "streams": [
-                    {
-                      "id": "st-65c5ba5843",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-817a24947c",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793951150_hd/1793951150_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Besiktas Cola Turka",
-            "team_b": "Zalgiris",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/4c56f517bc64726563ed7f0d226a828e.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cf2957a0cbc4d855d7204f2154e2971f.png",
-            "time": "00:00:00",
-            "date": "07/11",
-            "blv": "Chồn",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/14003276_8b551ba2_20261106.png?v=8b551ba2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-27ef008b62",
           "name": "Indiana Pacers vs Denver Nuggets | 05:00 08/11",
           "type": "single",
@@ -1190,83 +1118,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-93e5f35c0c",
-          "name": "FURIA vs BetBoom Team | 16:45 06/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-93e5f35c0c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-93e5f35c0c",
-                  "name": "FURIA vs BetBoom Team",
-                  "streams": [
-                    {
-                      "id": "st-93e5f35c0c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1917d2e0da",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793930748_hd/1793930748_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-IEM Bejing 2026 ",
-            "team_a": "FURIA",
-            "team_b": "BetBoom Team",
-            "logo_a": "https://static.flashscore.com/res/image/data/G2z2rzf5-EgrECzdn.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/hbAbnMHG-SOKrkMiB.png",
-            "time": "16:45:00",
-            "date": "06/11",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/78g0lxrbtk0m_4940e14d_20261106.png?v=4940e14d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-0964e9f5de",
           "name": "T1 vs KC | 05:00 07/11",
@@ -1343,83 +1199,11 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật (1 LIVE)",
+      "name": "🥊 Võ Thuật",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d532d57be0",
-          "name": "ONE Friday Fights 177 & The Inner Circle 37 vs ONE Friday Fights 177 & The Inner Circle 37 | 18:30 06/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d532d57be0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d532d57be0",
-                  "name": "ONE Friday Fights 177 & The Inner Circle 37 vs ONE Friday Fights 177 & The Inner Circle 37",
-                  "streams": [
-                    {
-                      "id": "st-d532d57be0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-07109341b7",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793854823_hd/1793854823_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ONE Friday Fights 177 & The Inner Circle 37",
-            "team_a": "ONE Friday Fights 177 & The Inner Circle 37",
-            "team_b": "ONE Friday Fights 177 & The Inner Circle 37",
-            "logo_a": "https://cdn.onefc.com/wp-content/uploads/2026/03/260626-BKK-OFF160_TIC20-1800x1200px.jpg",
-            "logo_b": "https://cdn.onefc.com/wp-content/uploads/2026/03/260626-BKK-OFF160_TIC20-1800x1200px.jpg",
-            "time": "18:30:00",
-            "date": "06/11",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "vothuat"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9p0pvjxb9cnr_5d4cb082_20261106.png?v=5d4cb082",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6532357279",
           "name": "Bonfim vs Brady | 05:00 08/11",
@@ -1713,87 +1497,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4adrvktib6hr_64de9442_20261106.png?v=64de9442",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-f3faa4c15c",
-          "name": "OH Junsung vs Shunsuke TOGAMI | 00:30 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f3faa4c15c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f3faa4c15c",
-                  "name": "OH Junsung vs Shunsuke TOGAMI",
-                  "streams": [
-                    {
-                      "id": "st-f3faa4c15c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6245c4836c",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793976865_hd/1793976865_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Frankfurt 2026",
-            "team_a": "OH Junsung",
-            "team_b": "Shunsuke TOGAMI",
-            "logo_a": "https://static.flashscore.com/res/image/data/A3GlBGf5-Iu0xbn13.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/6aiCyMZA-h8ejfetP.png",
-            "time": "00:30:00",
-            "date": "07/11",
-            "blv": "Dory",
-            "is_live": false,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/s99whngpr389_22a07667_20261106.png?v=22a07667",
             "width": 1600,
             "height": 1200
           }
