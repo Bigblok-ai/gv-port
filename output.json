@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-0a8377bc3b",
-          "name": "Hamburger vs Monchengladbach | 02:30 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0a8377bc3b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0a8377bc3b",
-                  "name": "Hamburger vs Monchengladbach",
-                  "streams": [
-                    {
-                      "id": "st-0a8377bc3b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e691d8063f",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793951207_hd/1793951207_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Hamburger",
-            "team_b": "Monchengladbach",
-            "logo_a": "https://images.keovip88.net/images/teams/hamburger-sv.png",
-            "logo_b": "https://images.keovip88.net/images/teams/borussia-monchengladbach.png",
-            "time": "02:30:00",
-            "date": "07/11",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0788_cd89c0b4_20261107.png?v=cd89c0b4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-4f357b31d4",
           "name": "Oxford City vs Leicester City | 02:45 07/11",
