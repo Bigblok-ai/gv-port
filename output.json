@@ -735,6 +735,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-16a986cf15",
+          "name": "Hải Phòng vs Sông Lam Nghệ An | 18:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-16a986cf15",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-16a986cf15",
+                  "name": "Hải Phòng vs Sông Lam Nghệ An",
+                  "streams": [
+                    {
+                      "id": "st-16a986cf15",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b8ed020d0a",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793977489_hd/1793977489_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Hải Phòng",
+            "team_b": "Sông Lam Nghệ An",
+            "logo_a": "https://images.keovip88.net/images/teams/hai-phong.png",
+            "logo_b": "https://images.keovip88.net/images/teams/song-lam-nghe-an.png",
+            "time": "18:00:00",
+            "date": "07/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fb924d46db870bbe1d3_adc953cb_20261106.png?v=adc953cb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-deaad18cc8",
+          "name": "Ninh Bình FC vs TDTT Bac Ninh | 18:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-deaad18cc8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-deaad18cc8",
+                  "name": "Ninh Bình FC vs TDTT Bac Ninh",
+                  "streams": [
+                    {
+                      "id": "st-deaad18cc8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-712b8f7bac",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793977579_hd/1793977579_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Ninh Bình FC",
+            "team_b": "TDTT Bac Ninh",
+            "logo_a": "https://images.keovip88.net/images/teams/ninh-binh-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/tdtt-bac-ninh.PNG",
+            "time": "18:00:00",
+            "date": "07/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fb924d46db870bbe1d9_9b610897_20261106.png?v=9b610897",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
