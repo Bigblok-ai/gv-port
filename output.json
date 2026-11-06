@@ -2906,6 +2906,78 @@
           }
         },
         {
+          "id": "gv-756c03be67",
+          "name": "Melbourne United vs Brisbane Bullets | 15:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-756c03be67",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-756c03be67",
+                  "name": "Melbourne United vs Brisbane Bullets",
+                  "streams": [
+                    {
+                      "id": "st-756c03be67",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fd842a7b8d",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996384_hd/1793996384_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Melbourne United",
+            "team_b": "Brisbane Bullets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/21d2a46a9599ab792dc3a7884839072f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/fd1ef26f7174d02a5a30dbe9e69b45f9.png",
+            "time": "15:30:00",
+            "date": "07/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28622277_2c304ec8_20261107.png?v=2c304ec8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-27ef008b62",
           "name": "Indiana Pacers vs Denver Nuggets | 05:00 08/11",
           "type": "single",
