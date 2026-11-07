@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ef61434480",
-          "name": "Hwacheon vs Hồ Chí Minh City | 15:30 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ef61434480",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ef61434480",
-                  "name": "Hwacheon vs Hồ Chí Minh City",
-                  "streams": [
-                    {
-                      "id": "st-ef61434480",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d17584ba72",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793977427_hd/1793977427_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Champions League",
-            "team_a": "Hwacheon",
-            "team_b": "Hồ Chí Minh City",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/8/8d/KSPO_WFC.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/vMfiEfPl-mljckWkDVYT6Q_96x96.png",
-            "time": "15:30:00",
-            "date": "07/11",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2kgukupcpbew_072df172_20261107.png?v=072df172",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-4510173be9",
           "name": "Melbourne City vs Western Sydney Wanderers | 15:40 07/11",
@@ -4160,83 +4088,11 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật (1 LIVE)",
+      "name": "🥊 Võ Thuật",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9aec10a797",
-          "name": "Gabriel vs Rasulov | 09:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9aec10a797",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9aec10a797",
-                  "name": "Gabriel vs Rasulov",
-                  "streams": [
-                    {
-                      "id": "st-9aec10a797",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4e54dd993c",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794013323_hd/1794013323_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ONE Fight Night 49: Gabriel vs. Rasulov",
-            "team_a": "Gabriel",
-            "team_b": "Rasulov",
-            "logo_a": "https://static.flashscore.com/res/image/data/zVVsPSDa-vBtrEPlK.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/joGBa0GG-dbR5LwPE.png",
-            "time": "09:00:00",
-            "date": "07/11",
-            "blv": "Dory",
-            "is_live": true,
-            "cate_type": "vothuat"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kmtbpiq9zbl7_29997a71_20261107.png?v=29997a71",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6532357279",
           "name": "Bonfim vs Brady | 05:00 08/11",
@@ -4530,6 +4386,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8zrqkswzydl7_64de9442_20261107.png?v=64de9442",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongban",
+      "name": "🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-5038ba6527",
+          "name": "LIN Yun-Ju vs WEN Ruibo | 19:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5038ba6527",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5038ba6527",
+                  "name": "LIN Yun-Ju vs WEN Ruibo",
+                  "streams": [
+                    {
+                      "id": "st-5038ba6527",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-512535d9c8",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794047164_hd/1794047164_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Frankfurt 2026",
+            "team_a": "LIN Yun-Ju",
+            "team_b": "WEN Ruibo",
+            "logo_a": "https://static.flashscore.com/res/image/data/0Y20XKDa-0GVPIiRs.png",
+            "logo_b": "https://vn.tabletennis-reference.com/images/player/14168_1_450.png",
+            "time": "19:00:00",
+            "date": "07/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tdrcrfp9nd46_384a2fee_20261107.png?v=384a2fee",
             "width": 1600,
             "height": 1200
           }
