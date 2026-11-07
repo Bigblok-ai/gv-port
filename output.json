@@ -305,78 +305,6 @@
           }
         },
         {
-          "id": "gv-84432ead10",
-          "name": "Parma vs Bologna | 00:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-84432ead10",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-84432ead10",
-                  "name": "Parma vs Bologna",
-                  "streams": [
-                    {
-                      "id": "st-84432ead10",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cd6e1b63b8",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793952214_hd/1793952214_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Parma",
-            "team_b": "Bologna",
-            "logo_a": "https://images.keovip88.net/images/teams/parma.png",
-            "logo_b": "https://images.keovip88.net/images/teams/bologna.png",
-            "time": "00:00:00",
-            "date": "08/11",
-            "blv": "Bee",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc824d46db870bc0335_4f976dc0_20261107.png?v=4f976dc0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-132004d8d8",
           "name": "Nottingham Forest vs Manchester City | 00:30 08/11",
           "type": "single",
@@ -1817,78 +1745,6 @@
           }
         },
         {
-          "id": "gv-5d386fa17b",
-          "name": "Genoa vs AC Milan | 21:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5d386fa17b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5d386fa17b",
-                  "name": "Genoa vs AC Milan",
-                  "streams": [
-                    {
-                      "id": "st-5d386fa17b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-733fe00a3d",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996253_hd/1793996253_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Genoa",
-            "team_b": "AC Milan",
-            "logo_a": "https://images.keovip88.net/images/teams/genoa.png",
-            "logo_b": "https://images.keovip88.net/images/teams/ac-milan.png",
-            "time": "21:00:00",
-            "date": "08/11",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814124d46db870b35867_5d7aab98_20261107.png?v=5d7aab98",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-b0004beabb",
           "name": "Sunderland vs Chelsea FC | 21:00 08/11",
           "type": "single",
@@ -2028,6 +1884,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0704_af6699c3_20261107.png?v=af6699c3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5d386fa17b",
+          "name": "Genoa vs AC Milan | 21:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5d386fa17b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5d386fa17b",
+                  "name": "Genoa vs AC Milan",
+                  "streams": [
+                    {
+                      "id": "st-5d386fa17b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-733fe00a3d",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996253_hd/1793996253_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Genoa",
+            "team_b": "AC Milan",
+            "logo_a": "https://images.keovip88.net/images/teams/genoa.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ac-milan.png",
+            "time": "21:00:00",
+            "date": "08/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814124d46db870b35867_5d7aab98_20261107.png?v=5d7aab98",
             "width": 1600,
             "height": 1200
           }
@@ -4641,78 +4569,6 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a9a07d1aeb",
-          "name": "Texas Longhorns vs Missouri Tigers | 00:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a9a07d1aeb",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a9a07d1aeb",
-                  "name": "Texas Longhorns vs Missouri Tigers",
-                  "streams": [
-                    {
-                      "id": "st-a9a07d1aeb",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4786e390a",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793952934_hd/1793952934_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NCAA",
-            "team_a": "Texas Longhorns",
-            "team_b": "Missouri Tigers",
-            "logo_a": "https://static.flashscore.com/res/image/data/veYMMiZg-xOybRwL3.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/UqZui0Cr-QcZdZVLs.png",
-            "time": "00:00:00",
-            "date": "08/11",
-            "blv": "Riko",
-            "is_live": false,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cqy1aon9fcql_29bde661_20261107.png?v=29bde661",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-185dc8766d",
           "name": "Alabama Crimson Tide vs LSU Tigers | 03:30 08/11",
