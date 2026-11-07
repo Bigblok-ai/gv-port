@@ -2108,83 +2108,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-aa4d5165b4",
-          "name": "Changwon LG Sakers vs Goyang Orions | 12:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-aa4d5165b4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-aa4d5165b4",
-                  "name": "Changwon LG Sakers vs Goyang Orions",
-                  "streams": [
-                    {
-                      "id": "st-aa4d5165b4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3844efae0a",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794015038_hd/1794015038_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Changwon LG Sakers",
-            "team_b": "Goyang Orions",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ccac4cdb678cc18454c6aecd42e321d6.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/5b0e513f868dee6a403d7d5dfc3628b3.png",
-            "time": "12:00:00",
-            "date": "07/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25260373_bb913f9f_20261107.png?v=bb913f9f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-c371ca464a",
           "name": "Adelaide 36ers vs Illawarra Hawks | 13:30 07/11",
