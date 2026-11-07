@@ -4682,83 +4682,11 @@
     },
     {
       "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn (1 LIVE)",
+      "name": "🏓 Bóng Bàn",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-5038ba6527",
-          "name": "LIN Yun-Ju vs WEN Ruibo | 19:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5038ba6527",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5038ba6527",
-                  "name": "LIN Yun-Ju vs WEN Ruibo",
-                  "streams": [
-                    {
-                      "id": "st-5038ba6527",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-512535d9c8",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794047164_hd/1794047164_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Frankfurt 2026",
-            "team_a": "LIN Yun-Ju",
-            "team_b": "WEN Ruibo",
-            "logo_a": "https://static.flashscore.com/res/image/data/0Y20XKDa-0GVPIiRs.png",
-            "logo_b": "https://vn.tabletennis-reference.com/images/player/14168_1_450.png",
-            "time": "19:00:00",
-            "date": "07/11",
-            "blv": "Dory",
-            "is_live": true,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tdrcrfp9nd46_384a2fee_20261107.png?v=384a2fee",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-303e5de174",
           "name": "Sora MATSUSHIMA vs Patrick FRANZISKA | 00:30 08/11",
