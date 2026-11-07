@@ -3638,83 +3638,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a5eeacc85b",
-          "name": "Toray Arrows Nữ vs Gunma Greenwings Nữ | 11:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a5eeacc85b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a5eeacc85b",
-                  "name": "Toray Arrows Nữ vs Gunma Greenwings Nữ",
-                  "streams": [
-                    {
-                      "id": "st-a5eeacc85b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f591c57501",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794015213_hd/1794015213_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Nhật Bản SV. League",
-            "team_a": "Toray Arrows Nữ",
-            "team_b": "Gunma Greenwings Nữ",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/e/ee/W_toray.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png",
-            "time": "11:00:00",
-            "date": "07/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1cwwgh0oxbb0_70e38eac_20261107.png?v=70e38eac",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-88abadb5a1",
           "name": "Daejeon JKJ Nữ vs Hyundai E&C Hillstate Nữ | 14:00 07/11",
@@ -4223,83 +4151,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-1be6b659eb",
-          "name": "CS2-IEM Bejing 2026 vs Semi-Finals | 13:30 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1be6b659eb",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1be6b659eb",
-                  "name": "CS2-IEM Bejing 2026 vs Semi-Finals",
-                  "streams": [
-                    {
-                      "id": "st-1be6b659eb",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-107565690f",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794015493_hd/1794015493_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-IEM Bejing 2026 ",
-            "team_a": "CS2-IEM Bejing 2026",
-            "team_b": "Semi-Finals",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBk8BI76hvq56Kyj76fEz6MTwqTILr3u8WNCmBrbb7DJ2tNB0bgngFSM8&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYSYLvvpjC5PhtJpcjuKIi1UKQj4szQAvvJIUCafOIQm0XNDGXQpXF-cM&s=10",
-            "time": "13:30:00",
-            "date": "07/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/02wds07qkdi2_12374d07_20261107.png?v=12374d07",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-87576abeb2",
           "name": "Semi-Finals vs Semi-Finals | 16:45 07/11",
