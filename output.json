@@ -2180,7 +2180,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2253,78 +2253,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38098274_f3504910_20261107.png?v=f3504910",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-43b8410f91",
-          "name": "Memphis Grizzlies vs Oklahoma City Thunder | 08:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-43b8410f91",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-43b8410f91",
-                  "name": "Memphis Grizzlies vs Oklahoma City Thunder",
-                  "streams": [
-                    {
-                      "id": "st-43b8410f91",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3964416551",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793987399_hd/1793987399_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Memphis Grizzlies",
-            "team_b": "Oklahoma City Thunder",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
-            "time": "08:00:00",
-            "date": "07/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37098273_8736314b_20261107.png?v=8736314b",
             "width": 1600,
             "height": 1200
           }
