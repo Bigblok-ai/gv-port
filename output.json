@@ -3221,6 +3221,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-9aec10a797",
+          "name": "Gabriel vs Rasulov | 09:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9aec10a797",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9aec10a797",
+                  "name": "Gabriel vs Rasulov",
+                  "streams": [
+                    {
+                      "id": "st-9aec10a797",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4e54dd993c",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794013323_hd/1794013323_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ONE Fight Night 49: Gabriel vs. Rasulov",
+            "team_a": "Gabriel",
+            "team_b": "Rasulov",
+            "logo_a": "https://static.flashscore.com/res/image/data/zVVsPSDa-vBtrEPlK.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/joGBa0GG-dbR5LwPE.png",
+            "time": "09:00:00",
+            "date": "07/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kmtbpiq9zbl7_29997a71_20261107.png?v=29997a71",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-6532357279",
           "name": "Bonfim vs Brady | 05:00 08/11",
           "type": "single",
