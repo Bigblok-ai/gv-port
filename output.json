@@ -2180,83 +2180,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9870a77fab",
-          "name": "Charlotte Hornets vs Boston Celtics | 07:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9870a77fab",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9870a77fab",
-                  "name": "Charlotte Hornets vs Boston Celtics",
-                  "streams": [
-                    {
-                      "id": "st-9870a77fab",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-05cb90b519",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793987302_hd/1793987302_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Charlotte Hornets",
-            "team_b": "Boston Celtics",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
-            "time": "07:00:00",
-            "date": "07/11",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29038279_9f6027c0_20261107.png?v=9f6027c0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-947df71c7c",
           "name": "Cleveland Cavaliers vs Philadelphia 76ers | 07:30 07/11",
