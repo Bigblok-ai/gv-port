@@ -2180,83 +2180,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-76da9438ec",
-          "name": "Busan KTF Magicwings vs Daegu KoGas Pegasus | 14:30 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-76da9438ec",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-76da9438ec",
-                  "name": "Busan KTF Magicwings vs Daegu KoGas Pegasus",
-                  "streams": [
-                    {
-                      "id": "st-76da9438ec",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-85b63a2f73",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794015108_hd/1794015108_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Busan KTF Magicwings",
-            "team_b": "Daegu KoGas Pegasus",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2cf065fbe1f93fb229c981c1d88d9618.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a322b3f45e8fc272b36c48003e467f20.png",
-            "time": "14:30:00",
-            "date": "07/11",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27260375_ee95a682_20261107.png?v=ee95a682",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-756c03be67",
           "name": "Melbourne United vs Brisbane Bullets | 15:30 07/11",
