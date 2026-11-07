@@ -2252,83 +2252,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c371ca464a",
-          "name": "Adelaide 36ers vs Illawarra Hawks | 13:30 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c371ca464a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c371ca464a",
-                  "name": "Adelaide 36ers vs Illawarra Hawks",
-                  "streams": [
-                    {
-                      "id": "st-c371ca464a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3f2d464bdd",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794015148_hd/1794015148_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "Adelaide 36ers",
-            "team_b": "Illawarra Hawks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/6a6d3d4063e675d1ce3e701153e3f367.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97aa6ff62044e05b1dc126043568a18.png",
-            "time": "13:30:00",
-            "date": "07/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27622276_a42ff194_20261107.png?v=a42ff194",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-76da9438ec",
           "name": "Busan KTF Magicwings vs Daegu KoGas Pegasus | 14:30 07/11",
