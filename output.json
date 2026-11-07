@@ -2264,6 +2264,167 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-842450451d",
+          "name": "Atletico Madrid vs Barcelona | 03:00 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-842450451d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-842450451d",
+                  "name": "Atletico Madrid vs Barcelona",
+                  "streams": [
+                    {
+                      "id": "st-842450451d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6ce638b48f",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793985212_hd/1793985212_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-60ea09e0b7",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793985293_hd/1793985293_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Atletico Madrid",
+            "team_b": "Barcelona",
+            "logo_a": "https://images.keovip88.net/images/teams/atletico-madrid.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fc-barcelona.png",
+            "time": "03:00:00",
+            "date": "09/11",
+            "blv": "Mason, Nem",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814a24d46db870b370da_5f0cd74c_20261108.png?v=5f0cd74c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b02e541314",
+          "name": "Vasco Gama vs Palmeiras | 03:00 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b02e541314",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b02e541314",
+                  "name": "Vasco Gama vs Palmeiras",
+                  "streams": [
+                    {
+                      "id": "st-b02e541314",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-35d41a485e",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793985351_hd/1793985351_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Brazil",
+            "team_a": "Vasco Gama",
+            "team_b": "Palmeiras",
+            "logo_a": "https://images.keovip88.net/images/teams/vasco-da-gama.png",
+            "logo_b": "https://images.keovip88.net/images/teams/palmeiras.png",
+            "time": "03:00:00",
+            "date": "09/11",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa1f4090eec5464580631ed_5b6e31e5_20261108.png?v=5b6e31e5",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
