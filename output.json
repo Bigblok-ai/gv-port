@@ -2463,6 +2463,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c1f99680de",
+          "name": "Real Sociedad vs Rayo Vallecano | 22:15 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c1f99680de",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c1f99680de",
+                  "name": "Real Sociedad vs Rayo Vallecano",
+                  "streams": [
+                    {
+                      "id": "st-c1f99680de",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-08d884abbc",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996333_hd/1793996333_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Real Sociedad",
+            "team_b": "Rayo Vallecano",
+            "logo_a": "https://images.keovip88.net/images/teams/real-sociedad.png",
+            "logo_b": "https://images.keovip88.net/images/teams/rayo-vallecano.png",
+            "time": "22:15:00",
+            "date": "08/11",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814424d46db870b35c00_0c8dad93_20261107.png?v=0c8dad93",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
