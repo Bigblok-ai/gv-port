@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-64e35823ef",
-          "name": "Kashiwa Reysol vs Kawasaki Frontale | 14:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-64e35823ef",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-64e35823ef",
-                  "name": "Kashiwa Reysol vs Kawasaki Frontale",
-                  "streams": [
-                    {
-                      "id": "st-64e35823ef",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c8068a95d3",
-                          "name": "Tỵ ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794015768_hd/1794015768_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Kashiwa Reysol",
-            "team_b": "Kawasaki Frontale",
-            "logo_a": "https://images.keovip88.net/images/teams/kashiwa-reysol.png",
-            "logo_b": "https://images.keovip88.net/images/teams/kawasaki-frontale.png",
-            "time": "14:00:00",
-            "date": "07/11",
-            "blv": "Tỵ ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fb724d46db870bbdfc7_6445e898_20261107.png?v=6445e898",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ef61434480",
           "name": "Hwacheon vs Hồ Chí Minh City | 15:30 07/11",
