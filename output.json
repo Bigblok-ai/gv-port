@@ -3347,6 +3347,78 @@
           }
         },
         {
+          "id": "gv-88abadb5a1",
+          "name": "Daejeon JKJ Nữ vs Hyundai E&C Hillstate Nữ | 14:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-88abadb5a1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-88abadb5a1",
+                  "name": "Daejeon JKJ Nữ vs Hyundai E&C Hillstate Nữ",
+                  "streams": [
+                    {
+                      "id": "st-88abadb5a1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-33a4d30b9a",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794015345_hd/1794015345_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hàn Quốc Volleyball League Nữ",
+            "team_a": "Daejeon JKJ Nữ",
+            "team_b": "Hyundai E&C Hillstate Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/C6oehGYg-YPeUstG1.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/MkA1GJXg-YJMxkMx4.png",
+            "time": "14:00:00",
+            "date": "07/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d710s749htfy_683fc53e_20261107.png?v=683fc53e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-d5921cf9da",
           "name": "Ziraat Bankasi vs Istanbul BB | 20:00 07/11",
           "type": "single",
@@ -3639,6 +3711,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vnprvzkfi5p5_61e2f9ff_20261107.png?v=61e2f9ff",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1be6b659eb",
+          "name": "CS2-IEM Bejing 2026 vs Semi-Finals | 13:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1be6b659eb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1be6b659eb",
+                  "name": "CS2-IEM Bejing 2026 vs Semi-Finals",
+                  "streams": [
+                    {
+                      "id": "st-1be6b659eb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-107565690f",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794015493_hd/1794015493_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-IEM Bejing 2026 ",
+            "team_a": "CS2-IEM Bejing 2026",
+            "team_b": "Semi-Finals",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBk8BI76hvq56Kyj76fEz6MTwqTILr3u8WNCmBrbb7DJ2tNB0bgngFSM8&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYSYLvvpjC5PhtJpcjuKIi1UKQj4szQAvvJIUCafOIQm0XNDGXQpXF-cM&s=10",
+            "time": "13:30:00",
+            "date": "07/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/02wds07qkdi2_12374d07_20261107.png?v=12374d07",
             "width": 1600,
             "height": 1200
           }
