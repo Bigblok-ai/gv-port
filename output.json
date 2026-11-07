@@ -2252,7 +2252,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2409,10 +2409,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2461,7 +2461,7 @@
             "time": "15:30:00",
             "date": "07/11",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -3662,11 +3662,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-4d541522c1",
-                          "name": "Ben",
+                          "id": "lnk-54f5d65dcb",
+                          "name": "Mù",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794033739_hd/1794033739_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794039876_hd/1794039876_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -3693,7 +3693,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/v7Wf42il-pQ0ElVBe.png",
             "time": "20:00:00",
             "date": "07/11",
-            "blv": "Ben",
+            "blv": "Mù",
             "is_live": false,
             "cate_type": "tennis"
           },
