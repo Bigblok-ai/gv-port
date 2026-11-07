@@ -2031,6 +2031,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-9deea5a0ab",
+          "name": "Rasi Salai United vs Bangkok United FC | 18:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9deea5a0ab",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9deea5a0ab",
+                  "name": "Rasi Salai United vs Bangkok United FC",
+                  "streams": [
+                    {
+                      "id": "st-9deea5a0ab",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dbd6f79bee",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996002_hd/1793996002_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Thái Lan",
+            "team_a": "Rasi Salai United",
+            "team_b": "Bangkok United FC",
+            "logo_a": "https://images.keovip88.net/images/teams/rasi-salai-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bangkok-united-fc.png",
+            "time": "18:00:00",
+            "date": "08/11",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6813e24d46db870b3535b_2acf0bac_20261107.png?v=2acf0bac",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
