@@ -4500,83 +4500,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (2 LIVE)",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a9a07d1aeb",
-          "name": "Texas Longhorns vs Missouri Tigers | 00:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a9a07d1aeb",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a9a07d1aeb",
-                  "name": "Texas Longhorns vs Missouri Tigers",
-                  "streams": [
-                    {
-                      "id": "st-a9a07d1aeb",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4786e390a",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793952934_hd/1793952934_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NCAA",
-            "team_a": "Texas Longhorns",
-            "team_b": "Missouri Tigers",
-            "logo_a": "https://static.flashscore.com/res/image/data/veYMMiZg-xOybRwL3.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/UqZui0Cr-QcZdZVLs.png",
-            "time": "00:00:00",
-            "date": "08/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cqy1aon9fcql_29bde661_20261108.png?v=29bde661",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-185dc8766d",
           "name": "Alabama Crimson Tide vs LSU Tigers | 03:30 08/11",
