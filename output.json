@@ -2031,12 +2031,300 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-44c7cb0bbb",
+          "name": "Beijing Guoan vs Chongqing Tonglianglong | 14:30 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-44c7cb0bbb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-44c7cb0bbb",
+                  "name": "Beijing Guoan vs Chongqing Tonglianglong",
+                  "streams": [
+                    {
+                      "id": "st-44c7cb0bbb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d5211dbcf",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794016695_hd/1794016695_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Trung Quốc",
+            "team_a": "Beijing Guoan",
+            "team_b": "Chongqing Tonglianglong",
+            "logo_a": "https://images.keovip88.net/images/teams/beijing-guoan.png",
+            "logo_b": "https://images.keovip88.net/images/teams/chongqing-tonglianglong.png",
+            "time": "14:30:00",
+            "date": "08/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6813c24d46db870b351e1_4bb43f8a_20261107.png?v=4bb43f8a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4e13512aa0",
+          "name": "Shandong Taishan vs Chengdu Rongcheng | 14:30 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4e13512aa0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4e13512aa0",
+                  "name": "Shandong Taishan vs Chengdu Rongcheng",
+                  "streams": [
+                    {
+                      "id": "st-4e13512aa0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e9030ea894",
+                          "name": "Tỵ ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794016739_hd/1794016739_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Trung Quốc",
+            "team_a": "Shandong Taishan",
+            "team_b": "Chengdu Rongcheng",
+            "logo_a": "https://images.keovip88.net/images/teams/shandong-taishan.png",
+            "logo_b": "https://images.keovip88.net/images/teams/chengdu-rongcheng-fc.PNG",
+            "time": "14:30:00",
+            "date": "08/11",
+            "blv": "Tỵ ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6813c24d46db870b351f4_9c2cb11c_20261107.png?v=9c2cb11c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b02310e465",
+          "name": "Shanghai Port vs Liaoning Tieren | 14:30 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b02310e465",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b02310e465",
+                  "name": "Shanghai Port vs Liaoning Tieren",
+                  "streams": [
+                    {
+                      "id": "st-b02310e465",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4f3d08692f",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794016766_hd/1794016766_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Trung Quốc",
+            "team_a": "Shanghai Port",
+            "team_b": "Liaoning Tieren",
+            "logo_a": "https://images.keovip88.net/images/teams/shanghai-port.png",
+            "logo_b": "https://images.keovip88.net/images/teams/liaoning-tieren.png",
+            "time": "14:30:00",
+            "date": "08/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6813c24d46db870b351d1_f5158640_20261107.png?v=f5158640",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-27e3681c60",
+          "name": "Shanghai Shenhua vs Qingdao West Coast | 14:30 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-27e3681c60",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-27e3681c60",
+                  "name": "Shanghai Shenhua vs Qingdao West Coast",
+                  "streams": [
+                    {
+                      "id": "st-27e3681c60",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-497ef8f422",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794016793_hd/1794016793_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Trung Quốc",
+            "team_a": "Shanghai Shenhua",
+            "team_b": "Qingdao West Coast",
+            "logo_a": "https://images.keovip88.net/images/teams/shanghai-shenhua.png",
+            "logo_b": "https://images.keovip88.net/images/teams/qingdao-youth-island.png",
+            "time": "14:30:00",
+            "date": "08/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6813c24d46db870b351d5_b7f4e3c3_20261107.png?v=b7f4e3c3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2121,10 +2409,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2173,7 +2461,7 @@
             "time": "14:30:00",
             "date": "07/11",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
