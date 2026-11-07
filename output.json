@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -161,6 +161,150 @@
           }
         },
         {
+          "id": "gv-e241efc28f",
+          "name": "Công An Hà Nội vs TP Hồ Chí Minh | 19:15 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e241efc28f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e241efc28f",
+                  "name": "Công An Hà Nội vs TP Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-e241efc28f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-dce37cbc74",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995666_hd/1793995666_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Công An Hà Nội",
+            "team_b": "TP Hồ Chí Minh",
+            "logo_a": "https://images.keovip88.net/images/teams/cong-an-ha-noi.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ho-chi-minh-city.png",
+            "time": "19:15:00",
+            "date": "07/11",
+            "blv": "Hứa",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fbb24d46db870bbe411_cc0c2356_20261107.png?v=cc0c2356",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-38ca1012a0",
+          "name": "Leeds United vs Tottenham Hotspur | 19:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-38ca1012a0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-38ca1012a0",
+                  "name": "Leeds United vs Tottenham Hotspur",
+                  "streams": [
+                    {
+                      "id": "st-38ca1012a0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d44ccafdc3",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995698_hd/1793995698_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Leeds United",
+            "team_b": "Tottenham Hotspur",
+            "logo_a": "https://images.keovip88.net/images/teams/leeds-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/tottenham-hotspur.png",
+            "time": "19:30:00",
+            "date": "07/11",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0706_b1b08142_20261107.png?v=b1b08142",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-095a4c2dab",
           "name": "Malaga vs Racing Santander | 20:00 07/11",
           "type": "single",
@@ -228,150 +372,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f075b_88957dda_20261107.png?v=88957dda",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-e241efc28f",
-          "name": "Công An Hà Nội vs TP Hồ Chí Minh | 19:15 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e241efc28f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e241efc28f",
-                  "name": "Công An Hà Nội vs TP Hồ Chí Minh",
-                  "streams": [
-                    {
-                      "id": "st-e241efc28f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dce37cbc74",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995666_hd/1793995666_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V-League",
-            "team_a": "Công An Hà Nội",
-            "team_b": "TP Hồ Chí Minh",
-            "logo_a": "https://images.keovip88.net/images/teams/cong-an-ha-noi.png",
-            "logo_b": "https://images.keovip88.net/images/teams/ho-chi-minh-city.png",
-            "time": "19:15:00",
-            "date": "07/11",
-            "blv": "Hứa",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fbb24d46db870bbe411_cc0c2356_20261107.png?v=cc0c2356",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-38ca1012a0",
-          "name": "Leeds United vs Tottenham Hotspur | 19:30 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-38ca1012a0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-38ca1012a0",
-                  "name": "Leeds United vs Tottenham Hotspur",
-                  "streams": [
-                    {
-                      "id": "st-38ca1012a0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d44ccafdc3",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995698_hd/1793995698_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Leeds United",
-            "team_b": "Tottenham Hotspur",
-            "logo_a": "https://images.keovip88.net/images/teams/leeds-united.png",
-            "logo_b": "https://images.keovip88.net/images/teams/tottenham-hotspur.png",
-            "time": "19:30:00",
-            "date": "07/11",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0706_b1b08142_20261107.png?v=b1b08142",
             "width": 1600,
             "height": 1200
           }
