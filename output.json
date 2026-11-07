@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "15:30:00",
             "date": "07/11",
             "blv": "Trĩ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -168,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +220,7 @@
             "time": "15:40:00",
             "date": "07/11",
             "blv": "Bee",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -3636,7 +3636,7 @@
       "channels": [
         {
           "id": "gv-f7eb9e759e",
-          "name": "Ben Shelton vs Tommy Paul | 20:00 07/11",
+          "name": "Ben Shelton vs Luca van Assche | 20:30 07/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -3655,7 +3655,7 @@
               "contents": [
                 {
                   "id": "ct-f7eb9e759e",
-                  "name": "Ben Shelton vs Tommy Paul",
+                  "name": "Ben Shelton vs Luca van Assche",
                   "streams": [
                     {
                       "id": "st-f7eb9e759e",
@@ -3688,10 +3688,10 @@
           "org_metadata": {
             "league": "ATP Paris Open",
             "team_a": "Ben Shelton",
-            "team_b": "Tommy Paul",
+            "team_b": "Luca van Assche",
             "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShyQpfNjyoyexlsL7fWN50fUZ21GyodIC4yC5sbhmqxQ&s",
-            "logo_b": "https://static.flashscore.com/res/image/data/v7Wf42il-pQ0ElVBe.png",
-            "time": "20:00:00",
+            "logo_b": "https://static.flashscore.com/res/image/data/dCxPsrZg-46Trc3Pm.png",
+            "time": "20:30:00",
             "date": "07/11",
             "blv": "Mù",
             "is_live": false,
@@ -3701,7 +3701,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6q55nb22ijfu_2f763657_20261107.png?v=2f763657",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6q55nb22ijfu_149c57e3_20261107.png?v=149c57e3",
             "width": 1600,
             "height": 1200
           }
