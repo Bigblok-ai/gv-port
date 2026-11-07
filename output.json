@@ -2180,83 +2180,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (6 LIVE)",
+      "name": "🏀 Bóng Rổ (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-947df71c7c",
-          "name": "Cleveland Cavaliers vs Philadelphia 76ers | 07:30 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-947df71c7c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-947df71c7c",
-                  "name": "Cleveland Cavaliers vs Philadelphia 76ers",
-                  "streams": [
-                    {
-                      "id": "st-947df71c7c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ed5d86880b",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793987172_hd/1793987172_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Cleveland Cavaliers",
-            "team_b": "Philadelphia 76ers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7f086c864d1e283b7862a756f0b88373.png",
-            "time": "07:30:00",
-            "date": "07/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21138272_71fa9046_20261107.png?v=71fa9046",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-1211f9407e",
           "name": "New Orleans Pelicans vs Minnesota Timberwolves | 08:00 07/11",
