@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (8 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -528,10 +528,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -580,7 +580,7 @@
             "time": "23:00:00",
             "date": "07/11",
             "blv": "Dory",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -876,78 +876,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f0789_faf6907a_20261107.png?v=faf6907a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-d42e54c0a0",
-          "name": "Auxerre vs Paris FC | 01:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d42e54c0a0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d42e54c0a0",
-                  "name": "Auxerre vs Paris FC",
-                  "streams": [
-                    {
-                      "id": "st-d42e54c0a0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8cea77be6f",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793952146_hd/1793952146_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ligue 1",
-            "team_a": "Auxerre",
-            "team_b": "Paris FC",
-            "logo_a": "https://images.keovip88.net/images/teams/aj-auxerre.png",
-            "logo_b": "https://images.keovip88.net/images/teams/paris-fc.png",
-            "time": "01:00:00",
-            "date": "08/11",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc724d46db870bc0182_2da2a951_20261107.png?v=2da2a951",
             "width": 1600,
             "height": 1200
           }
@@ -3773,7 +3701,7 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -3858,10 +3786,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -3910,7 +3838,7 @@
             "time": "23:00:00",
             "date": "07/11",
             "blv": "Mù",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "tennis"
           },
           "image": {
