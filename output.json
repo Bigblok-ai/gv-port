@@ -3772,6 +3772,87 @@
       ]
     },
     {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-f7eb9e759e",
+          "name": "Ben Shelton vs Tommy Paul | 20:00 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f7eb9e759e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f7eb9e759e",
+                  "name": "Ben Shelton vs Tommy Paul",
+                  "streams": [
+                    {
+                      "id": "st-f7eb9e759e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4d541522c1",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794033739_hd/1794033739_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Paris Open",
+            "team_a": "Ben Shelton",
+            "team_b": "Tommy Paul",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShyQpfNjyoyexlsL7fWN50fUZ21GyodIC4yC5sbhmqxQ&s",
+            "logo_b": "https://static.flashscore.com/res/image/data/v7Wf42il-pQ0ElVBe.png",
+            "time": "20:00:00",
+            "date": "07/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6q55nb22ijfu_2f763657_20261107.png?v=2f763657",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_bongchuyen",
       "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
