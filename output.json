@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-fddd46704c",
-          "name": "Galatasaray vs Amedspor | 23:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fddd46704c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fddd46704c",
-                  "name": "Galatasaray vs Amedspor",
-                  "streams": [
-                    {
-                      "id": "st-fddd46704c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8cf086974c",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793952104_hd/1793952104_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Thổ Nhĩ Kỳ",
-            "team_a": "Galatasaray",
-            "team_b": "Amedspor",
-            "logo_a": "https://images.keovip88.net/images/teams/galatasaray.png",
-            "logo_b": "https://images.keovip88.net/images/teams/amedspor.png",
-            "time": "23:00:00",
-            "date": "07/11",
-            "blv": "Dory",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc424d46db870bbf0e7_665f4877_20261108.png?v=665f4877",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-84432ead10",
           "name": "Parma vs Bologna | 00:00 08/11",
@@ -2336,6 +2264,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c8360c7797",
+          "name": "Vitoria Guimaraes vs FC Porto | 01:00 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c8360c7797",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c8360c7797",
+                  "name": "Vitoria Guimaraes vs FC Porto",
+                  "streams": [
+                    {
+                      "id": "st-c8360c7797",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c8ce84690a",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793984944_hd/1793984944_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Bồ Đào Nha",
+            "team_a": "Vitoria Guimaraes",
+            "team_b": "FC Porto",
+            "logo_a": "https://images.keovip88.net/images/teams/vitoria-guimaraes.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fc-porto.png",
+            "time": "01:00:00",
+            "date": "09/11",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814a24d46db870b37036_984a775d_20261108.png?v=984a775d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e838736017",
+          "name": "Besiktas JK vs Genclerbirligi | 01:00 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e838736017",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e838736017",
+                  "name": "Besiktas JK vs Genclerbirligi",
+                  "streams": [
+                    {
+                      "id": "st-e838736017",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4fe76eb61d",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793985010_hd/1793985010_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Thổ Nhĩ Kỳ",
+            "team_a": "Besiktas JK",
+            "team_b": "Genclerbirligi",
+            "logo_a": "https://images.keovip88.net/images/teams/besiktas-jk.png",
+            "logo_b": "https://images.keovip88.net/images/teams/genclerbirligi.png",
+            "time": "01:00:00",
+            "date": "09/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814a24d46db870b3703a_5cd326b1_20261108.png?v=5cd326b1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -3566,87 +3638,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27138278_f1c8963c_20261108.png?v=f1c8963c",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-d9458a2051",
-          "name": "Casper Ruud vs Carlos Alcaraz | 23:00 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d9458a2051",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d9458a2051",
-                  "name": "Casper Ruud vs Carlos Alcaraz",
-                  "streams": [
-                    {
-                      "id": "st-d9458a2051",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8c6acfbfaa",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794064658_hd/1794064658_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Paris Open",
-            "team_a": "Casper Ruud",
-            "team_b": "Carlos Alcaraz",
-            "logo_a": "https://static.flashscore.com/res/image/data/EwLW3og5-6NHltuug.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/OfjQEPjl-KjZlrI8i.png",
-            "time": "23:00:00",
-            "date": "07/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/opbym0bed4jd_65419052_20261108.png?v=65419052",
             "width": 1600,
             "height": 1200
           }
