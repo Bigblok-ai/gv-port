@@ -4338,83 +4338,11 @@
     },
     {
       "id": "cate_duaxe",
-      "name": "🏎️ Đua Xe (1 LIVE)",
+      "name": "🏎️ Đua Xe",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-753c14dfe8",
-          "name": "F1 vs F1 | 01:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-753c14dfe8",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-753c14dfe8",
-                  "name": "F1 vs F1",
-                  "streams": [
-                    {
-                      "id": "st-753c14dfe8",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-43004fd18f",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793953068_hd/1793953068_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "São Paulo Grand Prix",
-            "team_a": "F1",
-            "team_b": "F1",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS2MWPmU47fWOWgVDIxHZISezRBzN6J3ZfG-xfbtWOYAD3iqmgHsp4ybAo&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZV2pf5wilgSDo_wrsoRGDzvrqS2iMeHqQxcFrPZmjKoy-LTAPAegvmhlO&s=10",
-            "time": "01:00:00",
-            "date": "08/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "duaxe"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4adrvktib6hr_64de9442_20261108.png?v=64de9442",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-db95165e87",
           "name": "F1 vs F1 | 00:00 09/11",
