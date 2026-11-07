@@ -4301,6 +4301,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-d5c81a2c85",
+          "name": "IG vs GEN | 05:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d5c81a2c85",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d5c81a2c85",
+                  "name": "IG vs GEN",
+                  "streams": [
+                    {
+                      "id": "st-d5c81a2c85",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f5ea0431f4",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794065561_hd/1794065561_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Worlds 2026",
+            "team_a": "IG",
+            "team_b": "GEN",
+            "logo_a": "https://static.flashscore.com/res/image/data/I3B2NChl-Cxferg9G.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rglkqMzB-UJqSxlpo.png",
+            "time": "05:00:00",
+            "date": "08/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/mbs3eswyh6yz_9e45cc33_20261107.png?v=9e45cc33",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-0e0c0eb2d0",
           "name": "CS2-IEM Bejing 2026 vs 3rd Place Decider Matchs | 11:00 08/11",
           "type": "single",
@@ -4980,6 +5052,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cqy1aon9fcql_29bde661_20261107.png?v=29bde661",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-44a11bb8f9",
+          "name": "Cleverland Guardians vs Chicago White Sox | 03:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-44a11bb8f9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-44a11bb8f9",
+                  "name": "Cleverland Guardians vs Chicago White Sox",
+                  "streams": [
+                    {
+                      "id": "st-44a11bb8f9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-38df23dfce",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794065698_hd/1794065698_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "MLB - Division Series",
+            "team_a": "Cleverland Guardians",
+            "team_b": "Chicago White Sox",
+            "logo_a": "https://static.flashscore.com/res/image/data/CMe9zXzS-QNrz0V5B.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rHrt6LAr-MFkjl69i.png",
+            "time": "03:00:00",
+            "date": "08/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/pls42iywosp4_96e57238_20261107.png?v=96e57238",
             "width": 1600,
             "height": 1200
           }
