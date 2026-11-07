@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-e241efc28f",
-          "name": "Công An Hà Nội vs TP Hồ Chí Minh | 19:15 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e241efc28f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e241efc28f",
-                  "name": "Công An Hà Nội vs TP Hồ Chí Minh",
-                  "streams": [
-                    {
-                      "id": "st-e241efc28f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dce37cbc74",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995666_hd/1793995666_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V-League",
-            "team_a": "Công An Hà Nội",
-            "team_b": "TP Hồ Chí Minh",
-            "logo_a": "https://images.keovip88.net/images/teams/cong-an-ha-noi.png",
-            "logo_b": "https://images.keovip88.net/images/teams/ho-chi-minh-city.png",
-            "time": "19:15:00",
-            "date": "07/11",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fbb24d46db870bbe411_cc0c2356_20261107.png?v=cc0c2356",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-38ca1012a0",
           "name": "Leeds United vs Tottenham Hotspur | 19:30 07/11",
           "type": "single",
@@ -377,6 +305,78 @@
           }
         },
         {
+          "id": "gv-40e5356891",
+          "name": "Mainz vs Bayern Munich | 21:30 07/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40e5356891",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-40e5356891",
+                  "name": "Mainz vs Bayern Munich",
+                  "streams": [
+                    {
+                      "id": "st-40e5356891",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b143c8eeda",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995827_hd/1793995827_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Mainz",
+            "team_b": "Bayern Munich",
+            "logo_a": "https://images.keovip88.net/images/teams/fsv-mainz-05.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen.png",
+            "time": "21:30:00",
+            "date": "07/11",
+            "blv": "Hấu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc024d46db870bbeb4e_9b2eb0b5_20261107.png?v=9b2eb0b5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-47e0dfd8a9",
           "name": "RB Leipzig vs Augsburg | 21:30 07/11",
           "type": "single",
@@ -444,78 +444,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc024d46db870bbeb5b_448a7a9b_20261107.png?v=448a7a9b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-40e5356891",
-          "name": "Mainz vs Bayern Munich | 21:30 07/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-40e5356891",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-40e5356891",
-                  "name": "Mainz vs Bayern Munich",
-                  "streams": [
-                    {
-                      "id": "st-40e5356891",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b143c8eeda",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793995827_hd/1793995827_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Mainz",
-            "team_b": "Bayern Munich",
-            "logo_a": "https://images.keovip88.net/images/teams/fsv-mainz-05.png",
-            "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen.png",
-            "time": "21:30:00",
-            "date": "07/11",
-            "blv": "Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae52fc024d46db870bbeb4e_9b2eb0b5_20261107.png?v=9b2eb0b5",
             "width": 1600,
             "height": 1200
           }
