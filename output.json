@@ -3917,7 +3917,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -4002,10 +4002,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -4054,7 +4054,7 @@
             "time": "12:05:00",
             "date": "07/11",
             "blv": "Điếc",
-            "is_live": true,
+            "is_live": false,
             "cate_type": "bongchuyen"
           },
           "image": {
