@@ -1186,6 +1186,78 @@
           }
         },
         {
+          "id": "gv-e043129378",
+          "name": "Hoffenheim vs Schalke 04 | 01:30 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e043129378",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e043129378",
+                  "name": "Hoffenheim vs Schalke 04",
+                  "streams": [
+                    {
+                      "id": "st-e043129378",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0df632767f",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794149990_hd/1794149990_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Hoffenheim",
+            "team_b": "Schalke 04",
+            "logo_a": "https://images.keovip88.net/images/teams/tsg-hoffenheim.png",
+            "logo_b": "https://images.keovip88.net/images/teams/schalke-04.png",
+            "time": "01:30:00",
+            "date": "09/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5cae5e6975d550f078c_8b5c3bff_20261108.png?v=8b5c3bff",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-7419e24b37",
           "name": "Fiorentina vs Juventus | 02:45 09/11",
           "type": "single",
