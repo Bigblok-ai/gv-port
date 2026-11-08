@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (8 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -305,6 +305,78 @@
           }
         },
         {
+          "id": "gv-b0004beabb",
+          "name": "Sunderland vs Chelsea FC | 21:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b0004beabb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b0004beabb",
+                  "name": "Sunderland vs Chelsea FC",
+                  "streams": [
+                    {
+                      "id": "st-b0004beabb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-27ca18e352",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996195_hd/1793996195_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Sunderland",
+            "team_b": "Chelsea FC",
+            "logo_a": "https://images.keovip88.net/images/teams/sunderland-afc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/chelsea.png",
+            "time": "21:00:00",
+            "date": "08/11",
+            "blv": "Chồn",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0707_fdec6490_20261108.png?v=fdec6490",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-ef421c110e",
           "name": "Crystal Palace vs Liverpool | 21:00 08/11",
           "type": "single",
@@ -377,78 +449,6 @@
           }
         },
         {
-          "id": "gv-0a8c15d736",
-          "name": "Stade Rennais FC vs Lille OSC | 21:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0a8c15d736",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0a8c15d736",
-                  "name": "Stade Rennais FC vs Lille OSC",
-                  "streams": [
-                    {
-                      "id": "st-0a8c15d736",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3773d60e40",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794106515_hd/1794106515_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ligue 1",
-            "team_a": "Stade Rennais FC",
-            "team_b": "Lille OSC",
-            "logo_a": "https://images.keovip88.net/images/teams/rennes.png",
-            "logo_b": "https://images.keovip88.net/images/teams/lille.png",
-            "time": "21:00:00",
-            "date": "08/11",
-            "blv": "Mickey",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814124d46db870b35875_a01de8b3_20261108.png?v=a01de8b3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-5d386fa17b",
           "name": "Genoa vs AC Milan | 21:00 08/11",
           "type": "single",
@@ -456,10 +456,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -508,7 +508,7 @@
             "time": "21:00:00",
             "date": "08/11",
             "blv": "Súp",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -521,38 +521,38 @@
           }
         },
         {
-          "id": "gv-b0004beabb",
-          "name": "Sunderland vs Chelsea FC | 21:00 08/11",
+          "id": "gv-0a8c15d736",
+          "name": "Stade Rennais FC vs Lille OSC | 21:00 08/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-b0004beabb",
+              "id": "src-0a8c15d736",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-b0004beabb",
-                  "name": "Sunderland vs Chelsea FC",
+                  "id": "ct-0a8c15d736",
+                  "name": "Stade Rennais FC vs Lille OSC",
                   "streams": [
                     {
-                      "id": "st-b0004beabb",
+                      "id": "st-0a8c15d736",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-27ca18e352",
-                          "name": "Chồn",
+                          "id": "lnk-3773d60e40",
+                          "name": "Mickey",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996195_hd/1793996195_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794106515_hd/1794106515_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -572,22 +572,22 @@
             }
           ],
           "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Sunderland",
-            "team_b": "Chelsea FC",
-            "logo_a": "https://images.keovip88.net/images/teams/sunderland-afc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/chelsea.png",
+            "league": "Ligue 1",
+            "team_a": "Stade Rennais FC",
+            "team_b": "Lille OSC",
+            "logo_a": "https://images.keovip88.net/images/teams/rennes.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lille.png",
             "time": "21:00:00",
             "date": "08/11",
-            "blv": "Chồn",
-            "is_live": false,
+            "blv": "Mickey",
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0707_fdec6490_20261108.png?v=fdec6490",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814124d46db870b35875_a01de8b3_20261108.png?v=a01de8b3",
             "width": 1600,
             "height": 1200
           }
