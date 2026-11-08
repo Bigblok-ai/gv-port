@@ -2681,6 +2681,87 @@
       ]
     },
     {
+      "id": "cate_bongban",
+      "name": "🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-97a25199c1",
+          "name": "chung kết vs chung kết | 23:30 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-97a25199c1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-97a25199c1",
+                  "name": "chung kết vs chung kết",
+                  "streams": [
+                    {
+                      "id": "st-97a25199c1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3102043079",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794150534_hd/1794150534_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Frankfurt 2026",
+            "team_a": "chung kết",
+            "team_b": "chung kết",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtBaBV2J-epd0AOdpUGhDf_zR0gGIHOlErXmzSHPpEQ&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtBaBV2J-epd0AOdpUGhDf_zR0gGIHOlErXmzSHPpEQ&s",
+            "time": "23:30:00",
+            "date": "08/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2obb6kl1sv5e_728557d2_20261108.png?v=728557d2",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_rugby",
       "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
