@@ -829,83 +829,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-eea688dc88",
-          "name": "Basquet Coruna vs MoraBanc Andorra | 00:00 09/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-eea688dc88",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-eea688dc88",
-                  "name": "Basquet Coruna vs MoraBanc Andorra",
-                  "streams": [
-                    {
-                      "id": "st-eea688dc88",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1288d9d6ff",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793984528_hd/1793984528_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asociación de Clubes de Baloncesto",
-            "team_a": "Basquet Coruna",
-            "team_b": "MoraBanc Andorra",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3db71e411344ff9410da86c3f09fd6f2.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/677f48b950997d1addb1dd5f06d588c2.png",
-            "time": "00:00:00",
-            "date": "09/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25069279_793b8c97_20261109.png?v=793b8c97",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-cd4650d1a6",
           "name": "Chicago Bulls vs Philadelphia 76ers | 03:30 09/11",
