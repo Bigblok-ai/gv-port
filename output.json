@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (9 LIVE)",
+      "name": "⚽ Bóng Đá (8 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-23df699eaa",
-          "name": "Johor Darul Ta'zim vs DPMM FC | 19:15 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-23df699eaa",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-23df699eaa",
-                  "name": "Johor Darul Ta'zim vs DPMM FC",
-                  "streams": [
-                    {
-                      "id": "st-23df699eaa",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fead73777e",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996111_hd/1793996111_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Malaysia - Malaysia FA Cup",
-            "team_a": "Johor Darul Ta'zim",
-            "team_b": "DPMM FC",
-            "logo_a": "https://images.keovip88.net/images/teams/johor-darul-takzim.png",
-            "logo_b": "https://images.keovip88.net/images/teams/dpmm-fc.png",
-            "time": "19:15:00",
-            "date": "08/11",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fxelf1zcekms_51e1191a_20261108.png?v=51e1191a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-617cea820d",
           "name": "Elche vs Real Betis | 20:00 08/11",
@@ -2674,87 +2602,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8zrqkswzydl7_64de9442_20261108.png?v=64de9442",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongban",
-      "name": "🏓 Bóng Bàn (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-926d730c33",
-          "name": "Bán Kết vs Bán Kết | 17:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-926d730c33",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-926d730c33",
-                  "name": "Bán Kết vs Bán Kết",
-                  "streams": [
-                    {
-                      "id": "st-926d730c33",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-037ecf7507",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794122297_hd/1794122297_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTT Champions Frankfurt 2026",
-            "team_a": "Bán Kết",
-            "team_b": "Bán Kết",
-            "logo_a": "https://wttwebcmsprod.blob.core.windows.net/articledetailimages/Sora-MATSUSHIMA_WTT-Champions-Montpellier-2026_Day-1_0E6A4654_e45bd613-acab-41e2-8e12-110994257ef9.png",
-            "logo_b": "https://wttwebcmsprod.blob.core.windows.net/articledetailimages/Sora-MATSUSHIMA_WTT-Champions-Montpellier-2026_Day-1_0E6A4654_e45bd613-acab-41e2-8e12-110994257ef9.png",
-            "time": "17:00:00",
-            "date": "08/11",
-            "blv": "Dory",
-            "is_live": true,
-            "cate_type": "bongban"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4ne9t7k83dg8_78dbc844_20261108.png?v=78dbc844",
             "width": 1600,
             "height": 1200
           }
