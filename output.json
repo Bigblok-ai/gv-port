@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -377,6 +377,78 @@
           }
         },
         {
+          "id": "gv-ef421c110e",
+          "name": "Crystal Palace vs Liverpool | 21:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ef421c110e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ef421c110e",
+                  "name": "Crystal Palace vs Liverpool",
+                  "streams": [
+                    {
+                      "id": "st-ef421c110e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c740064811",
+                          "name": "Tỵ + Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996225_hd/1793996225_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Crystal Palace",
+            "team_b": "Liverpool",
+            "logo_a": "https://images.keovip88.net/images/teams/crystal-palace.png",
+            "logo_b": "https://images.keovip88.net/images/teams/liverpool.png",
+            "time": "21:00:00",
+            "date": "08/11",
+            "blv": "Tỵ + Trĩ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0704_af6699c3_20261108.png?v=af6699c3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-0a8c15d736",
           "name": "Stade Rennais FC vs Lille OSC | 21:00 08/11",
           "type": "single",
@@ -588,78 +660,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0707_fdec6490_20261108.png?v=fdec6490",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-ef421c110e",
-          "name": "Crystal Palace vs Liverpool | 21:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ef421c110e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ef421c110e",
-                  "name": "Crystal Palace vs Liverpool",
-                  "streams": [
-                    {
-                      "id": "st-ef421c110e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c740064811",
-                          "name": "Tỵ + Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996225_hd/1793996225_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Crystal Palace",
-            "team_b": "Liverpool",
-            "logo_a": "https://images.keovip88.net/images/teams/crystal-palace.png",
-            "logo_b": "https://images.keovip88.net/images/teams/liverpool.png",
-            "time": "21:00:00",
-            "date": "08/11",
-            "blv": "Tỵ + Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0704_af6699c3_20261108.png?v=af6699c3",
             "width": 1600,
             "height": 1200
           }
