@@ -2877,6 +2877,78 @@
           }
         },
         {
+          "id": "gv-87de2d4a1f",
+          "name": "Eczacibasi Nữ vs Goztepe Nữ | 19:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-87de2d4a1f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-87de2d4a1f",
+                  "name": "Eczacibasi Nữ vs Goztepe Nữ",
+                  "streams": [
+                    {
+                      "id": "st-87de2d4a1f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-41727d33d9",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794122552_hd/1794122552_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi Nữ ",
+            "team_a": "Eczacibasi Nữ",
+            "team_b": "Goztepe Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/6wWfI3zB-jm1g2SD5.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/WB1orOJBxA3j12X_54XREg_96x96.png",
+            "time": "19:00:00",
+            "date": "08/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/5qjifpmg5fwo_49232d50_20261108.png?v=49232d50",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-25788ac7f6",
           "name": "Nilufer Bld. Nữ vs Vakifbank Nữ | 20:00 08/11",
           "type": "single",
@@ -2904,11 +2976,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-aa61d09712",
-                          "name": "Sún",
+                          "id": "lnk-89ee38ecfd",
+                          "name": "Điếc",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996818_hd/1793996818_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794122470_hd/1794122470_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2935,7 +3007,7 @@
             "logo_b": "https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",
             "time": "20:00:00",
             "date": "08/11",
-            "blv": "Sún",
+            "blv": "Điếc",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
@@ -2944,6 +3016,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/czryzrnx2kk1_4c980b01_20261108.png?v=4c980b01",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a644b704af",
+          "name": "Milano vs Lube Civitanova | 22:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a644b704af",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a644b704af",
+                  "name": "Milano vs Lube Civitanova",
+                  "streams": [
+                    {
+                      "id": "st-a644b704af",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-40b69fc673",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794122627_hd/1794122627_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italy SuperLega",
+            "team_a": "Milano",
+            "team_b": "Lube Civitanova",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/2/23/Vero_Volley_logo.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/AXZfNZWg-Ch8h6XpK.png",
+            "time": "22:00:00",
+            "date": "08/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0m73gacw9yae_0d4f1caf_20261108.png?v=0d4f1caf",
             "width": 1600,
             "height": 1200
           }
@@ -3178,6 +3322,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8zrqkswzydl7_64de9442_20261108.png?v=64de9442",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongban",
+      "name": "🏓 Bóng Bàn",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-926d730c33",
+          "name": "Bán Kết vs Bán Kết | 15:00 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-926d730c33",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-926d730c33",
+                  "name": "Bán Kết vs Bán Kết",
+                  "streams": [
+                    {
+                      "id": "st-926d730c33",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-037ecf7507",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794122297_hd/1794122297_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "WTT Champions Frankfurt 2026",
+            "team_a": "Bán Kết",
+            "team_b": "Bán Kết",
+            "logo_a": "https://wttwebcmsprod.blob.core.windows.net/articledetailimages/Sora-MATSUSHIMA_WTT-Champions-Montpellier-2026_Day-1_0E6A4654_e45bd613-acab-41e2-8e12-110994257ef9.png",
+            "logo_b": "https://wttwebcmsprod.blob.core.windows.net/articledetailimages/Sora-MATSUSHIMA_WTT-Champions-Montpellier-2026_Day-1_0E6A4654_e45bd613-acab-41e2-8e12-110994257ef9.png",
+            "time": "15:00:00",
+            "date": "08/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "bongban"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4ne9t7k83dg8_78dbc844_20261108.png?v=78dbc844",
             "width": 1600,
             "height": 1200
           }
