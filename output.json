@@ -92,7 +92,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -177,10 +177,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -229,7 +229,7 @@
             "time": "07:00:00",
             "date": "09/11",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -613,165 +613,12 @@
       ]
     },
     {
-      "id": "cate_esport",
-      "name": "🎮 Esport",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-dd105c625d",
-          "name": "T1 vs BLG | 05:00 09/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dd105c625d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-dd105c625d",
-                  "name": "T1 vs BLG",
-                  "streams": [
-                    {
-                      "id": "st-dd105c625d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-af549f02f8",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794150678_hd/1794150678_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Worlds 2026",
-            "team_a": "T1",
-            "team_b": "BLG",
-            "logo_a": "https://static.flashscore.com/res/image/data/hxbcCXEa-rgb1I9qH.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/8GDKDOdM-MLEBzXUg.png",
-            "time": "05:00:00",
-            "date": "09/11",
-            "blv": "Cận",
-            "is_live": false,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/91srux719j32_cb86b106_20261109.png?v=cb86b106",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
       "id": "cate_rugby",
       "name": "🏅 Thể Thao",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-607a7bbe24",
-          "name": "Green Bay Packers vs New England Patriots | 04:25 09/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-607a7bbe24",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-607a7bbe24",
-                  "name": "Green Bay Packers vs New England Patriots",
-                  "streams": [
-                    {
-                      "id": "st-607a7bbe24",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0442dda05b",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794151050_hd/1794151050_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "Green Bay Packers",
-            "team_b": "New England Patriots",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/VeFjPDwgNAreoWjnpVNqrg_96x96.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/TBundxbzC_MgPXOaQ-U73g_96x96.png",
-            "time": "04:25:00",
-            "date": "09/11",
-            "blv": "Riko",
-            "is_live": false,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/x7i4nhdkib22_8802d56e_20261109.png?v=8802d56e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e3aa154cb5",
           "name": "Tampa Bay Buccaneers vs Chicago Bears | 08:20 09/11",
