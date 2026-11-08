@@ -2148,78 +2148,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-86b92d42a8",
-          "name": "Perth Wildcats vs Cairns Taipans | 13:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-86b92d42a8",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-86b92d42a8",
-                  "name": "Perth Wildcats vs Cairns Taipans",
-                  "streams": [
-                    {
-                      "id": "st-86b92d42a8",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b0e8b7fdfb",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794111411_hd/1794111411_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "Perth Wildcats",
-            "team_b": "Cairns Taipans",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d6e217ac051f3258b82d74a932d11ada.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/690d69ad99fc8d3bd6fe4a7131521421.png",
-            "time": "13:00:00",
-            "date": "08/11",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20722270_127ee498_20261108.png?v=127ee498",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-0d08d3f6e9",
           "name": "Changwon LG Sakers vs Jeonju KCC Egis | 14:30 08/11",
           "type": "single",
@@ -2299,10 +2227,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2351,7 +2279,7 @@
             "time": "15:05:00",
             "date": "08/11",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
