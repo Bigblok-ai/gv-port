@@ -11,100 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-8236c4a30e",
-          "name": "Manchester United vs Aston Villa | 23:30 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8236c4a30e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8236c4a30e",
-                  "name": "Manchester United vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-8236c4a30e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f2579306d0",
-                          "name": "Off Fan MU: Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793984345_hd/1793984345_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-b74f69fd67",
-                          "name": "Anti Mân Đàn: Chồn",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793984376_hd/1793984376_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Manchester United",
-            "team_b": "Aston Villa",
-            "logo_a": "https://images.keovip88.net/images/teams/manchester-united.png",
-            "logo_b": "https://images.keovip88.net/images/teams/aston-villa.png",
-            "time": "23:30:00",
-            "date": "08/11",
-            "blv": "Off Fan MU: Hấu, Anti Mân Đàn: Chồn",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814724d46db870b36a13_f5c465a0_20261109.png?v=f5c465a0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-7de2b3ef33",
           "name": "Inter Milan vs Como | 00:00 09/11",
