@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-024f79b866",
-          "name": "Montreal Canadiens vs Toronto Maple Leafs | 07:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-024f79b866",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-024f79b866",
-                  "name": "Montreal Canadiens vs Toronto Maple Leafs",
-                  "streams": [
-                    {
-                      "id": "st-024f79b866",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6f81af704a",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794017561_hd/1794017561_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NHL Hockey",
-            "team_a": "Montreal Canadiens",
-            "team_b": "Toronto Maple Leafs",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/250px-Montreal_Canadiens.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPHVMHO4tbKQuprQwoRE_2rDvhu5vKv3un2b2FT8Rivg&s=10",
-            "time": "07:00:00",
-            "date": "08/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6nczgqvbos09_825827ae_20261108.png?v=825827ae",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-499a10436e",
           "name": "Adelaide United FC vs Melbourne Victory FC | 13:00 08/11",
