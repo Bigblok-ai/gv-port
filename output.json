@@ -2247,11 +2247,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-fc6544b690",
-                          "name": "Cầy",
+                          "id": "lnk-b6f7841e74",
+                          "name": "Điếc",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793996418_hd/1793996418_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794127669_hd/1794127669_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2278,7 +2278,7 @@
             "logo_b": "https://img.sofascore.com/api/v1/team/3547/image",
             "time": "18:00:00",
             "date": "08/11",
-            "blv": "Cầy",
+            "blv": "Điếc",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -2943,83 +2943,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9efeba296c",
-          "name": "Toray Arrows Nữ vs Gunma Greenwings Nữ | 11:05 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9efeba296c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9efeba296c",
-                  "name": "Toray Arrows Nữ vs Gunma Greenwings Nữ",
-                  "streams": [
-                    {
-                      "id": "st-9efeba296c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8d169de22c",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794017207_hd/1794017207_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Nhật Bản SV. League",
-            "team_a": "Toray Arrows Nữ",
-            "team_b": "Gunma Greenwings Nữ",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/en/e/ee/W_toray.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/OQvoiZCr-KMZ7hG6b.png",
-            "time": "11:05:00",
-            "date": "08/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cd8woyz65c8g_70e38eac_20261108.png?v=70e38eac",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e025b58a2b",
           "name": "Expressway Co Nữ vs Hungkuk Nữ | 14:05 08/11",
