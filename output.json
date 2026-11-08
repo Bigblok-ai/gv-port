@@ -1854,83 +1854,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-992e1cedb8",
-          "name": "Alvark vs NeoPhoenix | 15:05 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-992e1cedb8",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-992e1cedb8",
-                  "name": "Alvark vs NeoPhoenix",
-                  "streams": [
-                    {
-                      "id": "st-992e1cedb8",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6d7e7927e9",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794047532_hd/1794047532_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japan Basketball League",
-            "team_a": "Alvark",
-            "team_b": "NeoPhoenix",
-            "logo_a": "https://static.flashscore.com/res/image/data/hpLupxgl-4nqF2Ozd.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/MLJShyhl-AuGXjTp9.png",
-            "time": "15:05:00",
-            "date": "08/11",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/azzq4gcsx5ci_3a7a2ff1_20261108.png?v=3a7a2ff1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6af00e4826",
           "name": "Barca vs Beogran | 18:00 08/11",
