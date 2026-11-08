@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (8 LIVE)",
+      "name": "⚽ Bóng Đá (9 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -593,6 +593,95 @@
           }
         },
         {
+          "id": "gv-8236c4a30e",
+          "name": "Manchester United vs Aston Villa | 23:30 08/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8236c4a30e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8236c4a30e",
+                  "name": "Manchester United vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-8236c4a30e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f2579306d0",
+                          "name": "Off Fan MU: Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793984345_hd/1793984345_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-b74f69fd67",
+                          "name": "Anti Mân Đàn: Chồn",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793984376_hd/1793984376_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Manchester United",
+            "team_b": "Aston Villa",
+            "logo_a": "https://images.keovip88.net/images/teams/manchester-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/aston-villa.png",
+            "time": "23:30:00",
+            "date": "08/11",
+            "blv": "Off Fan MU: Hấu, Anti Mân Đàn: Chồn",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814724d46db870b36a13_f5c465a0_20261108.png?v=f5c465a0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c79dc2e410",
           "name": "FC Shakhtar Donetsk vs Dynamo Kyiv | 23:00 08/11",
           "type": "single",
@@ -660,95 +749,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814624d46db870b363a0_004a14c8_20261108.png?v=004a14c8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-8236c4a30e",
-          "name": "Manchester United vs Aston Villa | 23:30 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8236c4a30e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8236c4a30e",
-                  "name": "Manchester United vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-8236c4a30e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f2579306d0",
-                          "name": "Off Fan MU: Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793984345_hd/1793984345_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-b74f69fd67",
-                          "name": "Anti Mân Đàn: Chồn",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793984376_hd/1793984376_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Manchester United",
-            "team_b": "Aston Villa",
-            "logo_a": "https://images.keovip88.net/images/teams/manchester-united.png",
-            "logo_b": "https://images.keovip88.net/images/teams/aston-villa.png",
-            "time": "23:30:00",
-            "date": "08/11",
-            "blv": "Off Fan MU: Hấu, Anti Mân Đàn: Chồn",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814724d46db870b36a13_f5c465a0_20261108.png?v=f5c465a0",
             "width": 1600,
             "height": 1200
           }
@@ -1638,7 +1638,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1651,10 +1651,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1703,7 +1703,7 @@
             "time": "23:00:00",
             "date": "08/11",
             "blv": "Nem",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2521,60 +2521,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0m73gacw9yae_0d4f1caf_20261108.png?v=0d4f1caf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-fff2eae096",
-          "name": "THY Nữ vs Fenerbahce Nữ | 23:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fff2eae096",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fff2eae096",
-                  "name": "THY Nữ vs Fenerbahce Nữ",
-                  "streams": [
-                    {
-                      "id": "st-fff2eae096",
-                      "name": "GV",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkey Sultanlar Ligi Nữ",
-            "team_a": "THY Nữ",
-            "team_b": "Fenerbahce Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/Y3rwfVil-hbCWshlB.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/IROBodZA-z9Ihsud3.png",
-            "time": "23:00:00",
-            "date": "08/11",
-            "blv": "",
-            "is_live": false,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yrldqy1qblxy_8597ff21_20261108.png?v=8597ff21",
             "width": 1600,
             "height": 1200
           }
