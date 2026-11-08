@@ -2600,6 +2600,87 @@
       ]
     },
     {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-dd105c625d",
+          "name": "T1 vs BLG | 05:00 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dd105c625d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-dd105c625d",
+                  "name": "T1 vs BLG",
+                  "streams": [
+                    {
+                      "id": "st-dd105c625d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-af549f02f8",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794150678_hd/1794150678_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Worlds 2026",
+            "team_a": "T1",
+            "team_b": "BLG",
+            "logo_a": "https://static.flashscore.com/res/image/data/hxbcCXEa-rgb1I9qH.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/8GDKDOdM-MLEBzXUg.png",
+            "time": "05:00:00",
+            "date": "09/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/91srux719j32_cb86b106_20261108.png?v=cb86b106",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_duaxe",
       "name": "🏎️ Đua Xe",
       "display": "vertical",
@@ -2689,7 +2770,7 @@
       "channels": [
         {
           "id": "gv-97a25199c1",
-          "name": "chung kết vs chung kết | 23:30 08/11",
+          "name": "Patrick FRANZISKA vs Tomokazu HARIMOTO | 23:30 08/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2708,7 +2789,7 @@
               "contents": [
                 {
                   "id": "ct-97a25199c1",
-                  "name": "chung kết vs chung kết",
+                  "name": "Patrick FRANZISKA vs Tomokazu HARIMOTO",
                   "streams": [
                     {
                       "id": "st-97a25199c1",
@@ -2740,10 +2821,10 @@
           ],
           "org_metadata": {
             "league": "WTT Champions Frankfurt 2026",
-            "team_a": "chung kết",
-            "team_b": "chung kết",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtBaBV2J-epd0AOdpUGhDf_zR0gGIHOlErXmzSHPpEQ&s",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRtBaBV2J-epd0AOdpUGhDf_zR0gGIHOlErXmzSHPpEQ&s",
+            "team_a": "Patrick FRANZISKA",
+            "team_b": "Tomokazu HARIMOTO",
+            "logo_a": "https://static.flashscore.com/res/image/data/CUoZP5eM-Kfa0NolB.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/p2pUgGEG-0GVPIiRs.png",
             "time": "23:30:00",
             "date": "08/11",
             "blv": "Súp",
@@ -2754,7 +2835,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2obb6kl1sv5e_728557d2_20261108.png?v=728557d2",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2obb6kl1sv5e_88f88eb1_20261108.png?v=88f88eb1",
             "width": 1600,
             "height": 1200
           }
