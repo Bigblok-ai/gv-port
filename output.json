@@ -2922,6 +2922,150 @@
           }
         },
         {
+          "id": "gv-28479c0303",
+          "name": "Dallas Cowboys vs Indianapolis Colts | 01:00 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-28479c0303",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-28479c0303",
+                  "name": "Dallas Cowboys vs Indianapolis Colts",
+                  "streams": [
+                    {
+                      "id": "st-28479c0303",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-55619a510c",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794150841_hd/1794150841_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Dallas Cowboys",
+            "team_b": "Indianapolis Colts",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/AGEeRWtwE37msOgDD99Kcw_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/FkbA-uDEoPb3KPl-JD7yBg_96x96.png",
+            "time": "01:00:00",
+            "date": "09/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bfvw5nblr7vd_8fe97781_20261108.png?v=8fe97781",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-607a7bbe24",
+          "name": "Green Bay Packers vs New England Patriots | 04:25 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-607a7bbe24",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-607a7bbe24",
+                  "name": "Green Bay Packers vs New England Patriots",
+                  "streams": [
+                    {
+                      "id": "st-607a7bbe24",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0442dda05b",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794151050_hd/1794151050_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Green Bay Packers",
+            "team_b": "New England Patriots",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/VeFjPDwgNAreoWjnpVNqrg_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/TBundxbzC_MgPXOaQ-U73g_96x96.png",
+            "time": "04:25:00",
+            "date": "09/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/x7i4nhdkib22_8802d56e_20261108.png?v=8802d56e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-e3aa154cb5",
           "name": "Tampa Bay Buccaneers vs Chicago Bears | 08:20 09/11",
           "type": "single",
