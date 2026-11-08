@@ -2871,7 +2871,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2956,10 +2956,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -3008,7 +3008,7 @@
             "time": "14:05:00",
             "date": "08/11",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
@@ -3168,83 +3168,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-0e0c0eb2d0",
-          "name": "CS2-IEM Bejing 2026 vs 3rd Place Decider Matchs | 11:00 08/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0e0c0eb2d0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0e0c0eb2d0",
-                  "name": "CS2-IEM Bejing 2026 vs 3rd Place Decider Matchs",
-                  "streams": [
-                    {
-                      "id": "st-0e0c0eb2d0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-51b0a2befa",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794017384_hd/1794017384_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CS2-IEM Bejing 2026",
-            "team_a": "CS2-IEM Bejing 2026",
-            "team_b": "3rd Place Decider Matchs",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBk8BI76hvq56Kyj76fEz6MTwqTILr3u8WNCmBrbb7DJ2tNB0bgngFSM8&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHCjqLecmv_i7XR9mBmn-kNhXh5pNN0nB9tMf6eK52rg&s=10",
-            "time": "11:00:00",
-            "date": "08/11",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/h5ukblad25ct_aff65873_20261108.png?v=aff65873",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a943d59d1c",
           "name": "CS2-IEM Bejing 2026 vs Grand Finals | 14:30 08/11",
