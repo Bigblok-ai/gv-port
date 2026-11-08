@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-7de2b3ef33",
-          "name": "Inter Milan vs Como | 00:00 09/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7de2b3ef33",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7de2b3ef33",
-                  "name": "Inter Milan vs Como",
-                  "streams": [
-                    {
-                      "id": "st-7de2b3ef33",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-de7eb2f65a",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1793984572_hd/1793984572_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Inter Milan",
-            "team_b": "Como",
-            "logo_a": "https://images.keovip88.net/images/teams/inter-milan.png",
-            "logo_b": "https://images.keovip88.net/images/teams/como.png",
-            "time": "00:00:00",
-            "date": "09/11",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814724d46db870b36d4b_14afda56_20261109.png?v=14afda56",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-19289928a5",
           "name": "Celta Vigo vs Levante | 00:30 09/11",
@@ -821,6 +749,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae6814a24d46db870b370ee_8dab5ce9_20261109.png?v=8dab5ce9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-574d249e45",
+          "name": "Plymouth Parkway vs Berkhamsted | 02:03 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-574d249e45",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-574d249e45",
+                  "name": "Plymouth Parkway vs Berkhamsted",
+                  "streams": [
+                    {
+                      "id": "st-574d249e45",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9beb6bc55d",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794165334_hd/1794165334_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FA Cup ",
+            "team_a": "Plymouth Parkway",
+            "team_b": "Berkhamsted",
+            "logo_a": "https://images.keovip88.net/images/teams/plymouth-argyle.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/d/df/BeroeLogo.png",
+            "time": "02:03:00",
+            "date": "10/11",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/dfcjaohqxrz8_e692cae7_20261109.png?v=e692cae7",
             "width": 1600,
             "height": 1200
           }
@@ -1568,6 +1568,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0m73gacw9yae_0d4f1caf_20261109.png?v=0d4f1caf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-38d3fcc5d6",
+          "name": "Olsztyn vs Lublin | 23:30 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-38d3fcc5d6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-38d3fcc5d6",
+                  "name": "Olsztyn vs Lublin",
+                  "streams": [
+                    {
+                      "id": "st-38d3fcc5d6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-db55264582",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794165495_hd/1794165495_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ba Lan Tauron Liga",
+            "team_a": "Olsztyn",
+            "team_b": "Lublin",
+            "logo_a": "https://static.flashscore.com/res/image/data/jJ1euGzS-j16NkjZ6.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/9/92/Start_Lublin_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "time": "23:30:00",
+            "date": "09/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hb7w7oy5b7zr_4fe8e37e_20261109.png?v=4fe8e37e",
             "width": 1600,
             "height": 1200
           }
