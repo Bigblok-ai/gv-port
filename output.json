@@ -92,83 +92,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4516eebac4",
-          "name": "Shimane vs Toyama | 17:01 09/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4516eebac4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4516eebac4",
-                  "name": "Shimane vs Toyama",
-                  "streams": [
-                    {
-                      "id": "st-4516eebac4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-da0027bac2",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794208760_hd/1794208760_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japan Basketball League",
-            "team_a": "Shimane",
-            "team_b": "Toyama",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Shimane_Susanoo_Magic_logo_%282026%29.png/250px-Shimane_Susanoo_Magic_logo_%282026%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-            "logo_b": "https://upload.wikimedia.org/wikipedia/en/a/a9/Toyama_Grouses_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
-            "time": "17:01:00",
-            "date": "09/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/aigmi8lob23q_f4ff66eb_20261109.png?v=f4ff66eb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f2d5d022fa",
           "name": "Hawks vs Lakers | 07:00 10/11",
