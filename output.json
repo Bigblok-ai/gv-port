@@ -98,8 +98,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-f2d5d022fa",
-          "name": "Hawks vs Lakers | 07:00 10/11",
+          "id": "gv-6f2ae0e431",
+          "name": "Atlanta Hawks vs Los Angeles Lakers | 07:00 10/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -113,15 +113,15 @@
           ],
           "sources": [
             {
-              "id": "src-f2d5d022fa",
+              "id": "src-6f2ae0e431",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-f2d5d022fa",
-                  "name": "Hawks vs Lakers",
+                  "id": "ct-6f2ae0e431",
+                  "name": "Atlanta Hawks vs Los Angeles Lakers",
                   "streams": [
                     {
-                      "id": "st-f2d5d022fa",
+                      "id": "st-6f2ae0e431",
                       "name": "GV",
                       "stream_links": [
                         {
@@ -150,10 +150,10 @@
           ],
           "org_metadata": {
             "league": "National Basketball Association",
-            "team_a": "Hawks",
-            "team_b": "Lakers",
-            "logo_a": "https://static.flashscore.com/res/image/data/ATU7HwyB-4bqaxRtQ.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/06fGDMdM-6y7aqqwb.png",
+            "team_a": "Atlanta Hawks",
+            "team_b": "Los Angeles Lakers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/57bd383cc8c9b3d4f92a5d1c371e38e9.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
             "time": "07:00:00",
             "date": "10/11",
             "blv": "Nem",
@@ -164,7 +164,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xy82f1w2emfi_a61de7e8_20261109.png?v=a61de7e8",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21238273_09c6cf6a_20261109.png?v=09c6cf6a",
             "width": 1600,
             "height": 1200
           }
@@ -903,6 +903,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4799ixg4j22l_e501379d_20261109.png?v=e501379d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b94a251030",
+          "name": "Colorado Avalanche vs Toronto Maple Leafs | 07:00 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b94a251030",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b94a251030",
+                  "name": "Colorado Avalanche vs Toronto Maple Leafs",
+                  "streams": [
+                    {
+                      "id": "st-b94a251030",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-99f597b2de",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794234467_hd/1794234467_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "Colorado Avalanche",
+            "team_b": "Toronto Maple Leafs",
+            "logo_a": "https://static.flashscore.com/res/image/data/hzAqe0zB-UkrSKu1K.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/YNzyDZjl-xC30mm91.png",
+            "time": "07:00:00",
+            "date": "11/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/l9rts7e4982a_7829c75f_20261109.png?v=7829c75f",
             "width": 1600,
             "height": 1200
           }
