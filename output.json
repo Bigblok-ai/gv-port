@@ -672,6 +672,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-b4acb0433e",
+          "name": "Rockets vs Nuggets | 08:30 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b4acb0433e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b4acb0433e",
+                  "name": "Rockets vs Nuggets",
+                  "streams": [
+                    {
+                      "id": "st-b4acb0433e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d55a1dde0",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794210363_hd/1794210363_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Rockets",
+            "team_b": "Nuggets",
+            "logo_a": "https://static.flashscore.com/res/image/data/tpfZ3yeM-Q9iB8bcq.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OnnMU0hl-vXFf6tnR.png",
+            "time": "08:30:00",
+            "date": "10/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zdmz434xnefa_c0c9d160_20261109.png?v=c0c9d160",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-13669b6a38",
+          "name": "Suns vs Spurs | 09:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-13669b6a38",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-13669b6a38",
+                  "name": "Suns vs Spurs",
+                  "streams": [
+                    {
+                      "id": "st-13669b6a38",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d9c86af884",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794210444_hd/1794210444_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Suns",
+            "team_b": "Spurs",
+            "logo_a": "https://static.flashscore.com/res/image/data/zketXXhl-fgP08kAm.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/8f2WVCFG-SrHHDGUm.png",
+            "time": "09:00:00",
+            "date": "10/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/epdxm9p8y2a1_1b48a642_20261109.png?v=1b48a642",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1af1700bad",
+          "name": "Warriors vs Pelicans | 10:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1af1700bad",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1af1700bad",
+                  "name": "Warriors vs Pelicans",
+                  "streams": [
+                    {
+                      "id": "st-1af1700bad",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c0d08c140a",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794210596_hd/1794210596_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Warriors",
+            "team_b": "Pelicans",
+            "logo_a": "https://static.flashscore.com/res/image/data/ptyTvYeM-pfzjG61O.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/8zSALSil-StvCsRZ7.png",
+            "time": "10:00:00",
+            "date": "10/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/smbm8rnw1t7x_7bf0fb42_20261109.png?v=7bf0fb42",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
