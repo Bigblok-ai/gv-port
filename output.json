@@ -168,6 +168,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-4516eebac4",
+          "name": "Shimane vs Toyama | 17:01 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4516eebac4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4516eebac4",
+                  "name": "Shimane vs Toyama",
+                  "streams": [
+                    {
+                      "id": "st-4516eebac4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-da0027bac2",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794208760_hd/1794208760_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japan Basketball League",
+            "team_a": "Shimane",
+            "team_b": "Toyama",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Shimane_Susanoo_Magic_logo_%282026%29.png/250px-Shimane_Susanoo_Magic_logo_%282026%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/en/a/a9/Toyama_Grouses_logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+            "time": "17:01:00",
+            "date": "09/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/aigmi8lob23q_f4ff66eb_20261109.png?v=f4ff66eb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c81df80927",
+          "name": "Abra Weavers vs San Juan Knights | 17:30 09/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c81df80927",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c81df80927",
+                  "name": "Abra Weavers vs San Juan Knights",
+                  "streams": [
+                    {
+                      "id": "st-c81df80927",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4c4d6056db",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794208981_hd/1794208981_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Philippines MPBL",
+            "team_a": "Abra Weavers",
+            "team_b": "San Juan Knights",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/892baaa7306258ab78e3c4fd0bfdb775.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c510ba73d42457170c2b44cba1ac39f1.png",
+            "time": "17:30:00",
+            "date": "09/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25012570_16536b3c_20261109.png?v=16536b3c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
