@@ -528,6 +528,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-ea07a566c7",
+          "name": "Raptors vs Grizzlies | 07:30 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ea07a566c7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ea07a566c7",
+                  "name": "Raptors vs Grizzlies",
+                  "streams": [
+                    {
+                      "id": "st-ea07a566c7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-48e200e066",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794210121_hd/1794210121_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Raptors",
+            "team_b": "Grizzlies",
+            "logo_a": "https://static.flashscore.com/res/image/data/UmPff6f5-dfaUavPf.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/6ie0GUzB-OGDApLpE.png",
+            "time": "07:30:00",
+            "date": "10/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ktvbn59u15rd_19501bbe_20261109.png?v=19501bbe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-180d79b32e",
+          "name": "Mavericks vs Pacers | 08:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-180d79b32e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-180d79b32e",
+                  "name": "Mavericks vs Pacers",
+                  "streams": [
+                    {
+                      "id": "st-180d79b32e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-be1926ac3d",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794210258_hd/1794210258_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Mavericks",
+            "team_b": "Pacers",
+            "logo_a": "https://static.flashscore.com/res/image/data/vB6XdCBr-CG2H5Lcq.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/YyvHJVCa-OGagz1v1.png",
+            "time": "08:00:00",
+            "date": "10/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/462nrsrtgtby_fb53c8e0_20261109.png?v=fb53c8e0",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
