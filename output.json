@@ -524,83 +524,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4e08c61a8d",
-          "name": "Chiba vs Osaka | 17:05 10/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4e08c61a8d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4e08c61a8d",
-                  "name": "Chiba vs Osaka",
-                  "streams": [
-                    {
-                      "id": "st-4e08c61a8d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-06f71484de",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294324_hd/1794294324_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japan Basketball League",
-            "team_a": "Chiba",
-            "team_b": "Osaka",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxrXWQ_bbnIXKAr0mE2oGUk4Do6HAS8PjX8e2tZtO0g&s",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnBcGA8nQqmkms8XIEnBNE1-d8Kp2J8PtEpJn2pfUD6w&s=10",
-            "time": "17:05:00",
-            "date": "10/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uyl3zmktepuz_27d310d8_20261110.png?v=27d310d8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-7c32923b4c",
           "name": "Barangay Ginebra San Miguel vs San Miguel Beermen | 18:30 10/11",
@@ -749,83 +677,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c44aa039fa",
-          "name": "SOOP SOOPers Nữ vs IBK Nữ | 17:00 10/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c44aa039fa",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c44aa039fa",
-                  "name": "SOOP SOOPers Nữ vs IBK Nữ",
-                  "streams": [
-                    {
-                      "id": "st-c44aa039fa",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2d03f697ac",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294611_hd/1794294611_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Volleyball League Nữ",
-            "team_a": "SOOP SOOPers Nữ",
-            "team_b": "IBK Nữ",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6vBdrVjA3NdglwDD3cP0UP1d_YgxPxPyzI6Shm3jbA&s=10",
-            "logo_b": "https://static.flashscore.com/res/image/data/GCVCfeyS-8pDUfQGg.png",
-            "time": "17:00:00",
-            "date": "10/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yhv5e3hqnmf4_f5f7c17d_20261110.png?v=f5f7c17d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a141334eb7",
           "name": "Ziraat Bankasi vs Alanya Bld | 22:00 10/11",
