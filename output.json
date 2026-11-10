@@ -820,6 +820,303 @@
       ]
     },
     {
+      "id": "cate_bongchuyen",
+      "name": "🏐 Bóng Chuyền",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-c44aa039fa",
+          "name": "SOOP SOOPers Nữ vs IBK Nữ | 17:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c44aa039fa",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c44aa039fa",
+                  "name": "SOOP SOOPers Nữ vs IBK Nữ",
+                  "streams": [
+                    {
+                      "id": "st-c44aa039fa",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2d03f697ac",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294611_hd/1794294611_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hàn Quốc Volleyball League Nữ",
+            "team_a": "SOOP SOOPers Nữ",
+            "team_b": "IBK Nữ",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ6vBdrVjA3NdglwDD3cP0UP1d_YgxPxPyzI6Shm3jbA&s=10",
+            "logo_b": "https://static.flashscore.com/res/image/data/GCVCfeyS-8pDUfQGg.png",
+            "time": "17:00:00",
+            "date": "10/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yhv5e3hqnmf4_f5f7c17d_20261110.png?v=f5f7c17d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a141334eb7",
+          "name": "Ziraat Bankasi vs Alanya Bld | 22:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a141334eb7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a141334eb7",
+                  "name": "Ziraat Bankasi vs Alanya Bld",
+                  "streams": [
+                    {
+                      "id": "st-a141334eb7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b74a152d72",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294676_hd/1794294676_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish Cup - Play Offs - Tứ kết",
+            "team_a": "Ziraat Bankasi",
+            "team_b": "Alanya Bld",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-oByM_l-CzkV4iHU3wzFB1aC4eTt0gc_sLzNCMXgkvA&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfJrNzDL60r72QLHyUmrUo9hM-v5grF0wCYi-LoCL7HA&s",
+            "time": "22:00:00",
+            "date": "10/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ban42xsj690j_921a96a3_20261110.png?v=921a96a3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ec0a7033f4",
+          "name": "Halkbank vs Fenerbahce | 22:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ec0a7033f4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ec0a7033f4",
+                  "name": "Halkbank vs Fenerbahce",
+                  "streams": [
+                    {
+                      "id": "st-ec0a7033f4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8c236344f3",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294751_hd/1794294751_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish Cup - Play Offs - Tứ kết",
+            "team_a": "Halkbank",
+            "team_b": "Fenerbahce",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ030AwJnowiv6Dq8YG7phO46ElUlBPoYL32j8Iz1sy_A&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQllIjTV1tap6JSUu6NbpTSgOjN2jPEEkbDbOGAom7ojA&s",
+            "time": "22:00:00",
+            "date": "10/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/smwtfkuc77hx_9e246da5_20261110.png?v=9e246da5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3bf2737221",
+          "name": "Galatasaray vs Gebze | 22:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3bf2737221",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3bf2737221",
+                  "name": "Galatasaray vs Gebze",
+                  "streams": [
+                    {
+                      "id": "st-3bf2737221",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5e320851f9",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294814_hd/1794294814_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish Cup - Play Offs - Tứ kết",
+            "team_a": "Galatasaray",
+            "team_b": "Gebze",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjZpMcNlBFtY3fqUDM9nejlXRPXPvVF6Rn-bis51nDw&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAq8Whd1xfKN5_A9ptM-EoashZQaDA6B0vjhhNmmoL0lbYfW29U8F1ZY&s=10",
+            "time": "22:00:00",
+            "date": "10/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2d08d341xux5_a1208a50_20261110.png?v=a1208a50",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_rugby",
       "name": "🏅 Thể Thao",
       "display": "vertical",
