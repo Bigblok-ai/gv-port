@@ -1599,6 +1599,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c488869191",
+          "name": "Eintracht Frankfurt vs PSV | 00:30 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c488869191",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c488869191",
+                  "name": "Eintracht Frankfurt vs PSV",
+                  "streams": [
+                    {
+                      "id": "st-c488869191",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-acf4c23ebc",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306736_hd/1794306736_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Europe - UEFA Women's Europa League",
+            "team_a": "Eintracht Frankfurt",
+            "team_b": "PSV",
+            "logo_a": "https://images.keovip88.net/images/teams/eintracht-frankfurt.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/FylTPR72JXIGFzqwQocSAQ_96x96.png",
+            "time": "00:30:00",
+            "date": "12/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8di4xcnstnuj_34961f43_20261111.png?v=34961f43",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
