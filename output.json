@@ -452,83 +452,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f09c2678f4",
-          "name": "Philadelphia Flyers vs Vancouver Canucks | 09:30 10/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f09c2678f4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f09c2678f4",
-                  "name": "Philadelphia Flyers vs Vancouver Canucks",
-                  "streams": [
-                    {
-                      "id": "st-f09c2678f4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ebc35e7202",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794210835_hd/1794210835_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NHL",
-            "team_a": "Philadelphia Flyers",
-            "team_b": "Vancouver Canucks",
-            "logo_a": "https://static.flashscore.com/res/image/data/bkKsBIhl-zRkGfUnJ.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/dAqcJsxS-lKtjafx1.png",
-            "time": "09:30:00",
-            "date": "10/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4799ixg4j22l_e501379d_20261110.png?v=e501379d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b94a251030",
           "name": "Colorado Avalanche vs Toronto Maple Leafs | 07:00 11/11",
