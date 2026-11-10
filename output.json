@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d7091a5c88",
-          "name": "U23 Việt Nam vs U23 Thái Lan | 19:00 10/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d7091a5c88",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d7091a5c88",
-                  "name": "U23 Việt Nam vs U23 Thái Lan",
-                  "streams": [
-                    {
-                      "id": "st-d7091a5c88",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-43bbc170e2",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294203_hd/1794294203_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao hữu quốc tế",
-            "team_a": "U23 Việt Nam",
-            "team_b": "U23 Thái Lan",
-            "logo_a": "https://images.keovip88.net/images/teams/vietnam-u23.png",
-            "logo_b": "https://images.keovip88.net/images/teams/thailand-u23.png",
-            "time": "19:00:00",
-            "date": "10/11",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aebc74724d46db870d83767_d54a0d61_20261110.png?v=d54a0d61",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-9062fa14f0",
           "name": "Nữ BK Hacken vs Nữ Chelsea FC | 00:45 11/11",
