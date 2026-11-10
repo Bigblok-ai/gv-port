@@ -683,80 +683,8 @@
           }
         },
         {
-          "id": "gv-ec0a7033f4",
-          "name": "Halkbank vs Fenerbahce | 22:00 10/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ec0a7033f4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ec0a7033f4",
-                  "name": "Halkbank vs Fenerbahce",
-                  "streams": [
-                    {
-                      "id": "st-ec0a7033f4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8c236344f3",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294751_hd/1794294751_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish Cup - Play Offs - Tứ kết",
-            "team_a": "Halkbank",
-            "team_b": "Fenerbahce",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ030AwJnowiv6Dq8YG7phO46ElUlBPoYL32j8Iz1sy_A&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQllIjTV1tap6JSUu6NbpTSgOjN2jPEEkbDbOGAom7ojA&s",
-            "time": "22:00:00",
-            "date": "10/11",
-            "blv": "Điếc",
-            "is_live": false,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/smwtfkuc77hx_9e246da5_20261110.png?v=9e246da5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-3bf2737221",
-          "name": "Galatasaray vs Gebze | 22:00 10/11",
+          "name": "Galatasaray vs Gebze | 22:00 11/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -812,7 +740,7 @@
             "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjZpMcNlBFtY3fqUDM9nejlXRPXPvVF6Rn-bis51nDw&s=10",
             "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAq8Whd1xfKN5_A9ptM-EoashZQaDA6B0vjhhNmmoL0lbYfW29U8F1ZY&s=10",
             "time": "22:00:00",
-            "date": "10/11",
+            "date": "11/11",
             "blv": "Trĩ",
             "is_live": false,
             "cate_type": "bongchuyen"
