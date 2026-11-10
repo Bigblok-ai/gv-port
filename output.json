@@ -744,6 +744,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-78b38684f9",
+          "name": "Paris vs Fenerbahce | 02:45 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-78b38684f9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-78b38684f9",
+                  "name": "Paris vs Fenerbahce",
+                  "streams": [
+                    {
+                      "id": "st-78b38684f9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3d0b022453",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306990_hd/1794306990_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Paris",
+            "team_b": "Fenerbahce",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/379bcd41f23aff50b9aa09d0d41e22d1.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/zPhuZDil-4O6TfMXl.png",
+            "time": "02:45:00",
+            "date": "12/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hn5bee46mg8v_bb0b33a7_20261110.png?v=bb0b33a7",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
