@@ -458,78 +458,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-0269db5744",
-          "name": "Charlotte Hornets vs Cleveland Cavaliers | 07:00 10/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0269db5744",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0269db5744",
-                  "name": "Charlotte Hornets vs Cleveland Cavaliers",
-                  "streams": [
-                    {
-                      "id": "st-0269db5744",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-67ed7db43f",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794209779_hd/1794209779_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Charlotte Hornets",
-            "team_b": "Cleveland Cavaliers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
-            "time": "07:00:00",
-            "date": "10/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20238272_19cf8f5a_20261110.png?v=19cf8f5a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-6f2ae0e431",
           "name": "Atlanta Hawks vs Los Angeles Lakers | 07:00 10/11",
           "type": "single",
@@ -669,6 +597,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39138270_bc5e4d42_20261110.png?v=bc5e4d42",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0269db5744",
+          "name": "Charlotte Hornets vs Cleveland Cavaliers | 07:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0269db5744",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0269db5744",
+                  "name": "Charlotte Hornets vs Cleveland Cavaliers",
+                  "streams": [
+                    {
+                      "id": "st-0269db5744",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-67ed7db43f",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794209779_hd/1794209779_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Charlotte Hornets",
+            "team_b": "Cleveland Cavaliers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
+            "time": "07:00:00",
+            "date": "10/11",
+            "blv": "Vịt",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20238272_19cf8f5a_20261110.png?v=19cf8f5a",
             "width": 1600,
             "height": 1200
           }
