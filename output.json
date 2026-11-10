@@ -1394,6 +1394,78 @@
           }
         },
         {
+          "id": "gv-7639671e73",
+          "name": "Binan Tatak Gel vs Quezon Huskers | 17:30 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7639671e73",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7639671e73",
+                  "name": "Binan Tatak Gel vs Quezon Huskers",
+                  "streams": [
+                    {
+                      "id": "st-7639671e73",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-71bffaa3d1",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794324604_hd/1794324604_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Philippines MPBL",
+            "team_a": "Binan Tatak Gel",
+            "team_b": "Quezon Huskers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/50c55a722740c471fa456f9c42a1ae6c.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/GMzF9fe5-dvmFFpGo.png",
+            "time": "17:30:00",
+            "date": "11/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bx23vi7m5pii_0eae236b_20261110.png?v=0eae236b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-78b38684f9",
           "name": "Paris vs Fenerbahce | 02:45 12/11",
           "type": "single",
@@ -1542,6 +1614,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ban42xsj690j_921a96a3_20261110.png?v=921a96a3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-55b07951e7",
+          "name": "Hyundai E&C Hillstate Nữ vs GS Caltex Nữ | 17:00 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-55b07951e7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-55b07951e7",
+                  "name": "Hyundai E&C Hillstate Nữ vs GS Caltex Nữ",
+                  "streams": [
+                    {
+                      "id": "st-55b07951e7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bc44347d88",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794324686_hd/1794324686_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hàn Quốc Volleyball League Nữ",
+            "team_a": "Hyundai E&C Hillstate Nữ",
+            "team_b": "GS Caltex Nữ",
+            "logo_a": "https://volleybox.net/media/upload/players/1759324442D5qgx.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/EXtx7sXg-EL2iNWK6.png",
+            "time": "17:00:00",
+            "date": "11/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6qvscue25f9e_d1c12834_20261110.png?v=d1c12834",
             "width": 1600,
             "height": 1200
           }
