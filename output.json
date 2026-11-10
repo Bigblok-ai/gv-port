@@ -1028,83 +1028,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-7c32923b4c",
-          "name": "Barangay Ginebra San Miguel vs San Miguel Beermen | 18:30 10/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7c32923b4c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7c32923b4c",
-                  "name": "Barangay Ginebra San Miguel vs San Miguel Beermen",
-                  "streams": [
-                    {
-                      "id": "st-7c32923b4c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3203d2a4cd",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294504_hd/1794294504_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Philippines MPBL",
-            "team_a": "Barangay Ginebra San Miguel",
-            "team_b": "San Miguel Beermen",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhKOQTxFJYg8-58nrWTz--1sdmKiSnkqyLdERxYmwmQ&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWi18l3PUd051rAtCN94F_YY6Lbhg0dSub_O5dElvkZw&s=10",
-            "time": "18:30:00",
-            "date": "10/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/83uo276cperf_1614e18f_20261110.png?v=1614e18f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-8e4d13ffb5",
           "name": "South East Melbourne vs Illawarra Hawks | 15:30 11/11",
@@ -1173,6 +1101,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yo00zr7xxnu8_8f25b91f_20261110.png?v=8f25b91f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3abfef23bb",
+          "name": "LG Sakers vs Seoul Knights | 17:00 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3abfef23bb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3abfef23bb",
+                  "name": "LG Sakers vs Seoul Knights",
+                  "streams": [
+                    {
+                      "id": "st-3abfef23bb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d127235d49",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794324286_hd/1794324286_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "LG Sakers",
+            "team_b": "Seoul Knights",
+            "logo_a": "https://static.flashscore.com/res/image/data/M5dauNCa-2el3ggr9.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Seoul_SK_Knights_logo.svg/500px-Seoul_SK_Knights_logo.svg.png",
+            "time": "17:00:00",
+            "date": "11/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/x0vhtg2dszp1_543bd9e4_20261110.png?v=543bd9e4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6ddb81d409",
+          "name": "Brave Thunder vs Shimane | 17:05 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6ddb81d409",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6ddb81d409",
+                  "name": "Brave Thunder vs Shimane",
+                  "streams": [
+                    {
+                      "id": "st-6ddb81d409",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-24607699a7",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794324340_hd/1794324340_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japan: B.League",
+            "team_a": "Brave Thunder",
+            "team_b": "Shimane",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYiMapDwRKSyX4TjtTJhzCLCuJAWRYIsq4P2G0uya5nw&s=10",
+            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Shimane_Susanoo_Magic_logo_%282026%29.png/250px-Shimane_Susanoo_Magic_logo_%282026%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+            "time": "17:05:00",
+            "date": "11/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/t24h0mqg022q_d3338439_20261110.png?v=d3338439",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-97954ef073",
+          "name": "Hiroshima D vs Sendai | 17:05 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-97954ef073",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-97954ef073",
+                  "name": "Hiroshima D vs Sendai",
+                  "streams": [
+                    {
+                      "id": "st-97954ef073",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab2dc7d496",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794324404_hd/1794324404_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japan: B.League",
+            "team_a": "Hiroshima D",
+            "team_b": "Sendai",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKu_ZXTY0w-8Pox3yLu47ZCxlwbwKsWbxD_cB8hAqgng&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFdS_nsx6OraX0muZ1WOd6EpTyEQhGitlhlSjPW8i39Q&s",
+            "time": "17:05:00",
+            "date": "11/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hjmftd2z5m0s_e9646412_20261110.png?v=e9646412",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0b8314509a",
+          "name": "KCC Egis vs Fubon Braves | 17:05 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0b8314509a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0b8314509a",
+                  "name": "KCC Egis vs Fubon Braves",
+                  "streams": [
+                    {
+                      "id": "st-0b8314509a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-972b5b5d2b",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794324503_hd/1794324503_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EASL",
+            "team_a": "KCC Egis",
+            "team_b": "Fubon Braves",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_pHAJp1Yomh-vWnGgMcjg_ui0gKjuJ882dRmgRBD3CQ&s=10",
+            "logo_b": "https://static.flashscore.com/res/image/data/Ie0wYPZA-ja1iLwgA.png",
+            "time": "17:05:00",
+            "date": "11/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/w6mbzk0t7fqb_861d47aa_20261110.png?v=861d47aa",
             "width": 1600,
             "height": 1200
           }
