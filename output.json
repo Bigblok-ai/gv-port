@@ -17,6 +17,150 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-027c72ab69",
+          "name": "U23 Qatar vs U23 Singapore | 15:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-027c72ab69",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-027c72ab69",
+                  "name": "U23 Qatar vs U23 Singapore",
+                  "streams": [
+                    {
+                      "id": "st-027c72ab69",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-697ec5807c",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294165_hd/1794294165_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "U23 Qatar",
+            "team_b": "U23 Singapore",
+            "logo_a": "https://images.keovip88.net/images/teams/qatar-u23.png",
+            "logo_b": "https://images.keovip88.net/images/teams/singapore-u23.png",
+            "time": "15:00:00",
+            "date": "10/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aebc74624d46db870d835c0_db987d56_20261110.png?v=db987d56",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d7091a5c88",
+          "name": "U23 Việt Nam vs U23 Thái Lan | 19:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d7091a5c88",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d7091a5c88",
+                  "name": "U23 Việt Nam vs U23 Thái Lan",
+                  "streams": [
+                    {
+                      "id": "st-d7091a5c88",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-43bbc170e2",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294203_hd/1794294203_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "U23 Việt Nam",
+            "team_b": "U23 Thái Lan",
+            "logo_a": "https://images.keovip88.net/images/teams/vietnam-u23.png",
+            "logo_b": "https://images.keovip88.net/images/teams/thailand-u23.png",
+            "time": "19:00:00",
+            "date": "10/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aebc74724d46db870d83767_d54a0d61_20261110.png?v=d54a0d61",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-9062fa14f0",
           "name": "Nữ BK Hacken vs Nữ Chelsea FC | 00:45 11/11",
           "type": "single",
@@ -444,6 +588,231 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b807_5681abb2_20261110.png?v=5681abb2",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_basketball",
+      "name": "🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-8dfcec014e",
+          "name": "Ulsan Hyundai Mobis Phoebus vs Goyang Orions | 17:00 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8dfcec014e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8dfcec014e",
+                  "name": "Ulsan Hyundai Mobis Phoebus vs Goyang Orions",
+                  "streams": [
+                    {
+                      "id": "st-8dfcec014e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cb1575e882",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294282_hd/1794294282_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Ulsan Hyundai Mobis Phoebus",
+            "team_b": "Goyang Orions",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e22caa597076764dd0d04b55d46f764e.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/5b0e513f868dee6a403d7d5dfc3628b3.png",
+            "time": "17:00:00",
+            "date": "10/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22360371_255efecb_20261110.png?v=255efecb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4e08c61a8d",
+          "name": "Chiba vs Osaka | 17:05 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4e08c61a8d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4e08c61a8d",
+                  "name": "Chiba vs Osaka",
+                  "streams": [
+                    {
+                      "id": "st-4e08c61a8d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-06f71484de",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294324_hd/1794294324_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Japan Basketball League",
+            "team_a": "Chiba",
+            "team_b": "Osaka",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfxrXWQ_bbnIXKAr0mE2oGUk4Do6HAS8PjX8e2tZtO0g&s",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnBcGA8nQqmkms8XIEnBNE1-d8Kp2J8PtEpJn2pfUD6w&s=10",
+            "time": "17:05:00",
+            "date": "10/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uyl3zmktepuz_27d310d8_20261110.png?v=27d310d8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7c32923b4c",
+          "name": "Barangay Ginebra San Miguel vs San Miguel Beermen | 18:30 10/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7c32923b4c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7c32923b4c",
+                  "name": "Barangay Ginebra San Miguel vs San Miguel Beermen",
+                  "streams": [
+                    {
+                      "id": "st-7c32923b4c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3203d2a4cd",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294504_hd/1794294504_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Philippines MPBL",
+            "team_a": "Barangay Ginebra San Miguel",
+            "team_b": "San Miguel Beermen",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShhKOQTxFJYg8-58nrWTz--1sdmKiSnkqyLdERxYmwmQ&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWi18l3PUd051rAtCN94F_YY6Lbhg0dSub_O5dElvkZw&s=10",
+            "time": "18:30:00",
+            "date": "10/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/83uo276cperf_1614e18f_20261110.png?v=1614e18f",
             "width": 1600,
             "height": 1200
           }
