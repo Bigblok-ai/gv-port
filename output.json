@@ -1619,6 +1619,78 @@
           }
         },
         {
+          "id": "gv-fa869d09d9",
+          "name": "Opening Round - Group B vs BLAST Rivals 2026 Season 2 | 15:00 11/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fa869d09d9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fa869d09d9",
+                  "name": "Opening Round - Group B vs BLAST Rivals 2026 Season 2",
+                  "streams": [
+                    {
+                      "id": "st-fa869d09d9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bec8c63069",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794324808_hd/1794324808_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "BLAST Rivals 2026 Season 2",
+            "team_a": "Opening Round - Group B",
+            "team_b": "BLAST Rivals 2026 Season 2",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54VjgYF0wf5gt8HWOH-nlZPrWe5veMtnRZeLnw7o4lg&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoC5E4VYW5XlnB7G-GHmN7zq9P_ywn9b6FByELOvWeYNxRdOmCHVMhIAg&s=10",
+            "time": "15:00:00",
+            "date": "11/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ac45o5tqlt4o_525c353a_20261110.png?v=525c353a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-55b07951e7",
           "name": "Hyundai E&C Hillstate Nữ vs GS Caltex Nữ | 17:00 11/11",
           "type": "single",
@@ -1691,8 +1763,8 @@
           }
         },
         {
-          "id": "gv-3bf2737221",
-          "name": "Galatasaray vs Gebze | 22:00 11/11",
+          "id": "gv-ec0a7033f4",
+          "name": "Halkbank vs Fenerbahce | 22:00 11/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1706,23 +1778,23 @@
           ],
           "sources": [
             {
-              "id": "src-3bf2737221",
+              "id": "src-ec0a7033f4",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-3bf2737221",
-                  "name": "Galatasaray vs Gebze",
+                  "id": "ct-ec0a7033f4",
+                  "name": "Halkbank vs Fenerbahce",
                   "streams": [
                     {
-                      "id": "st-3bf2737221",
+                      "id": "st-ec0a7033f4",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-5e320851f9",
-                          "name": "Trĩ",
+                          "id": "lnk-8c236344f3",
+                          "name": "Điếc",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294814_hd/1794294814_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294751_hd/1794294751_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1743,13 +1815,13 @@
           ],
           "org_metadata": {
             "league": "Turkish Cup - Play Offs - Tứ kết",
-            "team_a": "Galatasaray",
-            "team_b": "Gebze",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREjZpMcNlBFtY3fqUDM9nejlXRPXPvVF6Rn-bis51nDw&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnAq8Whd1xfKN5_A9ptM-EoashZQaDA6B0vjhhNmmoL0lbYfW29U8F1ZY&s=10",
+            "team_a": "Halkbank",
+            "team_b": "Fenerbahce",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ030AwJnowiv6Dq8YG7phO46ElUlBPoYL32j8Iz1sy_A&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQllIjTV1tap6JSUu6NbpTSgOjN2jPEEkbDbOGAom7ojA&s",
             "time": "22:00:00",
             "date": "11/11",
-            "blv": "Trĩ",
+            "blv": "Điếc",
             "is_live": false,
             "cate_type": "bongchuyen"
           },
@@ -1757,7 +1829,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2d08d341xux5_a1208a50_20261110.png?v=a1208a50",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/smwtfkuc77hx_9e246da5_20261110.png?v=9e246da5",
             "width": 1600,
             "height": 1200
           }
