@@ -1025,6 +1025,78 @@
           }
         },
         {
+          "id": "gv-4e99344a93",
+          "name": "New Zealand vs Ấn Độ | 13:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4e99344a93",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4e99344a93",
+                  "name": "New Zealand vs Ấn Độ",
+                  "streams": [
+                    {
+                      "id": "st-4e99344a93",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0e367bbf3a",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410508_hd/1794410508_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "New Zealand",
+            "team_b": "Ấn Độ",
+            "logo_a": "https://images.keovip88.net/images/teams/new-zealand.png",
+            "logo_b": "https://images.keovip88.net/images/teams/india.png",
+            "time": "13:00:00",
+            "date": "12/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e8c24d46db8709a7c21_a4089f47_20261111.png?v=a4089f47",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-2927c410ae",
           "name": "U23 Thái Lan vs U23 Qatar | 15:00 12/11",
           "type": "single",
@@ -1245,6 +1317,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hn5bee46mg8v_bb0b33a7_20261111.png?v=bb0b33a7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-149c19d69e",
+          "name": "Indiana Pacers vs Washington Wizards | 07:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-149c19d69e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-149c19d69e",
+                  "name": "Indiana Pacers vs Washington Wizards",
+                  "streams": [
+                    {
+                      "id": "st-149c19d69e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9528fb60ff",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410547_hd/1794410547_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Indiana Pacers",
+            "team_b": "Washington Wizards",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/f4a3bba0c74c9f2b90bc5861ec26e3c7.png",
+            "time": "07:00:00",
+            "date": "12/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25238277_cef0b970_20261111.png?v=cef0b970",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e6aad73c0c",
+          "name": "New York Knicks vs Cleveland Cavaliers | 07:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e6aad73c0c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e6aad73c0c",
+                  "name": "New York Knicks vs Cleveland Cavaliers",
+                  "streams": [
+                    {
+                      "id": "st-e6aad73c0c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-33a5df9522",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410584_hd/1794410584_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "New York Knicks",
+            "team_b": "Cleveland Cavaliers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
+            "time": "07:00:00",
+            "date": "12/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26238278_bc268452_20261111.png?v=bc268452",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-85bcb6823e",
+          "name": "Toronto Raptors vs Boston Celtics | 07:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-85bcb6823e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-85bcb6823e",
+                  "name": "Toronto Raptors vs Boston Celtics",
+                  "streams": [
+                    {
+                      "id": "st-85bcb6823e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-15aa54ce2b",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410647_hd/1794410647_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Toronto Raptors",
+            "team_b": "Boston Celtics",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3f61db02c20eb73e5f27948b3122f2fb.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
+            "time": "07:00:00",
+            "date": "12/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27238279_dff22d40_20261111.png?v=dff22d40",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5c74449bbf",
+          "name": "Memphis Grizzlies vs Denver Nuggets | 08:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5c74449bbf",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5c74449bbf",
+                  "name": "Memphis Grizzlies vs Denver Nuggets",
+                  "streams": [
+                    {
+                      "id": "st-5c74449bbf",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8e27b6835d",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410688_hd/1794410688_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Memphis Grizzlies",
+            "team_b": "Denver Nuggets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
+            "time": "08:00:00",
+            "date": "12/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38298276_2267f116_20261111.png?v=2267f116",
             "width": 1600,
             "height": 1200
           }
