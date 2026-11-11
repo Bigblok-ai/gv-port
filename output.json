@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-9c1154ac64",
-          "name": "Tunisia vs Libya | 00:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9c1154ac64",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9c1154ac64",
-                  "name": "Tunisia vs Libya",
-                  "streams": [
-                    {
-                      "id": "st-9c1154ac64",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-18fcfcd99e",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306066_hd/1794306066_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Africa Cup of Nations",
-            "team_a": "Tunisia",
-            "team_b": "Libya",
-            "logo_a": "https://images.keovip88.net/images/teams/tunisia.png",
-            "logo_b": "https://images.keovip88.net/images/teams/libya.png",
-            "time": "00:00:00",
-            "date": "12/11",
-            "blv": "Bee",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0c0i33euz0jw_0b49800c_20261111.png?v=0b49800c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-f72478732a",
           "name": "Senegal vs Sudan | 00:00 12/11",
           "type": "single",
@@ -156,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vkzcgc09k748_11808bba_20261111.png?v=11808bba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-a227197c10",
-          "name": "Ivory Coast vs Gambia | 00:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a227197c10",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a227197c10",
-                  "name": "Ivory Coast vs Gambia",
-                  "streams": [
-                    {
-                      "id": "st-a227197c10",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f27e4015c9",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306434_hd/1794306434_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Africa Cup of Nations",
-            "team_a": "Ivory Coast",
-            "team_b": "Gambia",
-            "logo_a": "https://cdn.keobongvip.digital/images/teams/4962febd71182520966724c2a553c81c.png",
-            "logo_b": "https://images.keovip88.net/images/teams/gambia.png",
-            "time": "00:00:00",
-            "date": "12/11",
-            "blv": "Hứa",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2w5zsmcq0owj_57afcead_20261111.png?v=57afcead",
             "width": 1600,
             "height": 1200
           }
@@ -1839,6 +1695,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bbcp954d0bhr_371b9ed9_20261111.png?v=371b9ed9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8d720ff9b0",
+          "name": "FURIA vs Team Vitality | 11:30 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8d720ff9b0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8d720ff9b0",
+                  "name": "FURIA vs Team Vitality",
+                  "streams": [
+                    {
+                      "id": "st-8d720ff9b0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-906ca387b3",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794414311_hd/1794414311_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "BLAST Rivals 2026 Season 2",
+            "team_a": "FURIA",
+            "team_b": "Team Vitality",
+            "logo_a": "https://static.flashscore.com/res/image/data/G2z2rzf5-EgrECzdn.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",
+            "time": "11:30:00",
+            "date": "12/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0d9quy9n9kmy_c2ce3896_20261111.png?v=c2ce3896",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-729cded85c",
+          "name": "FUT Esports vs MOUZ | 14:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-729cded85c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-729cded85c",
+                  "name": "FUT Esports vs MOUZ",
+                  "streams": [
+                    {
+                      "id": "st-729cded85c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2d25690a75",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794414428_hd/1794414428_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "BLAST Rivals 2026 Season 2",
+            "team_a": "FUT Esports",
+            "team_b": "MOUZ",
+            "logo_a": "https://static.flashscore.com/res/image/data/8IALaoGG-WQ0dY9GI.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/ObrRkAe5-xrMguOa9.png",
+            "time": "14:00:00",
+            "date": "12/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/131ec64v186u_10e28064_20261111.png?v=10e28064",
             "width": 1600,
             "height": 1200
           }
