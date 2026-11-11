@@ -1901,83 +1901,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-55b07951e7",
-          "name": "Hyundai E&C Hillstate Nữ vs GS Caltex Nữ | 17:00 11/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-55b07951e7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-55b07951e7",
-                  "name": "Hyundai E&C Hillstate Nữ vs GS Caltex Nữ",
-                  "streams": [
-                    {
-                      "id": "st-55b07951e7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc44347d88",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794324686_hd/1794324686_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Volleyball League Nữ",
-            "team_a": "Hyundai E&C Hillstate Nữ",
-            "team_b": "GS Caltex Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/MkA1GJXg-YJMxkMx4.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/EXtx7sXg-EL2iNWK6.png",
-            "time": "17:00:00",
-            "date": "11/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6qvscue25f9e_4c5703f3_20261111.png?v=4c5703f3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ec0a7033f4",
           "name": "Halkbank vs Fenerbahce | 22:00 11/11",
