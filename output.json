@@ -2198,83 +2198,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (2 LIVE)",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-811743916c",
-          "name": "Opening Round - Group A vs BLAST Rivals 2026 Season 2 | 10:00 11/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-811743916c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-811743916c",
-                  "name": "Opening Round - Group A vs BLAST Rivals 2026 Season 2",
-                  "streams": [
-                    {
-                      "id": "st-811743916c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d7570f5477",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794364678_hd/1794364678_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "BLAST Rivals 2026 Season 2",
-            "team_a": "Opening Round - Group A",
-            "team_b": "BLAST Rivals 2026 Season 2",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoC5E4VYW5XlnB7G-GHmN7zq9P_ywn9b6FByELOvWeYNxRdOmCHVMhIAg&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfRsUPfuBDNk9Ej-chsKpOaYJ9hjeswKSk-RAkl_XEmA&s=10",
-            "time": "10:00:00",
-            "date": "11/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/iy0fv2xfhafk_4d5bdc1e_20261111.png?v=4d5bdc1e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fa869d09d9",
           "name": "Opening Round - Group B vs BLAST Rivals 2026 Season 2 | 14:00 11/11",
@@ -2343,87 +2271,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ac45o5tqlt4o_525c353a_20261111.png?v=525c353a",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-a80808cb04",
-          "name": "Nashville Predators vs Los Angeles Kings | 10:00 11/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a80808cb04",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a80808cb04",
-                  "name": "Nashville Predators vs Los Angeles Kings",
-                  "streams": [
-                    {
-                      "id": "st-a80808cb04",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-151f9a846f",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794236347_hd/1794236347_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NHL",
-            "team_a": "Nashville Predators",
-            "team_b": "Los Angeles Kings",
-            "logo_a": "https://static.flashscore.com/res/image/data/YouJXDg5-ITwf9voH.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Kl6wcHYA-Iih2qL9f.png",
-            "time": "10:00:00",
-            "date": "11/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gswbcxwqhohs_6c5d6d48_20261111.png?v=6c5d6d48",
             "width": 1600,
             "height": 1200
           }
