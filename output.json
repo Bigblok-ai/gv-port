@@ -1316,7 +1316,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (4 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1389,78 +1389,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/x0vhtg2dszp1_543bd9e4_20261111.png?v=543bd9e4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-6ddb81d409",
-          "name": "Brave Thunder vs Shimane | 17:05 11/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6ddb81d409",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6ddb81d409",
-                  "name": "Brave Thunder vs Shimane",
-                  "streams": [
-                    {
-                      "id": "st-6ddb81d409",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-24607699a7",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794324340_hd/1794324340_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Japan: B.League",
-            "team_a": "Brave Thunder",
-            "team_b": "Shimane",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYiMapDwRKSyX4TjtTJhzCLCuJAWRYIsq4P2G0uya5nw&s=10",
-            "logo_b": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Shimane_Susanoo_Magic_logo_%282026%29.png/250px-Shimane_Susanoo_Magic_logo_%282026%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-            "time": "17:05:00",
-            "date": "11/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/t24h0mqg022q_d3338439_20261111.png?v=d3338439",
             "width": 1600,
             "height": 1200
           }
