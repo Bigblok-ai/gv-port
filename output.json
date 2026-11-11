@@ -11,11 +11,227 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-f9f0794797",
+          "name": "Fenerbahçe vs Real Sociedad | 00:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f9f0794797",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f9f0794797",
+                  "name": "Fenerbahçe vs Real Sociedad",
+                  "streams": [
+                    {
+                      "id": "st-f9f0794797",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3a0442b1c4",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306663_hd/1794306663_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Europe - UEFA Women's Europa League",
+            "team_a": "Fenerbahçe",
+            "team_b": "Real Sociedad",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcYQUDbURrfI_XtxyekgH5g_OfH-qTWTxLcErJv_laYyDKk4TOcBmn3WICDsgahq4FDuSpFx8PAKruxk7Y6nYOcEU&s&ec=121528441",
+            "logo_b": "https://images.keovip88.net/images/teams/real-sociedad.png",
+            "time": "00:00:00",
+            "date": "12/11",
+            "blv": "Ngu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6t5y5v6k1lyb_0800cd4c_20261112.png?v=0800cd4c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1a3d82944a",
+          "name": "Pháp U19 vs U19 Na Uy | 00:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1a3d82944a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1a3d82944a",
+                  "name": "Pháp U19 vs U19 Na Uy",
+                  "streams": [
+                    {
+                      "id": "st-1a3d82944a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a011ac3991",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794406896_hd/1794406896_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Euro U19",
+            "team_a": "Pháp U19",
+            "team_b": "U19 Na Uy",
+            "logo_a": "https://images.keovip88.net/images/teams/france-u19.png",
+            "logo_b": "https://images.keovip88.net/images/teams/norway-u19.png",
+            "time": "00:00:00",
+            "date": "12/11",
+            "blv": "Hấu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a2b74f43d7ef10b43c3_64cd8f4a_20261112.png?v=64cd8f4a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f72478732a",
+          "name": "Senegal vs Sudan | 00:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f72478732a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f72478732a",
+                  "name": "Senegal vs Sudan",
+                  "streams": [
+                    {
+                      "id": "st-f72478732a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96ce42bbfd",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306183_hd/1794306183_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Africa Cup of Nations",
+            "team_a": "Senegal",
+            "team_b": "Sudan",
+            "logo_a": "https://images.keovip88.net/images/teams/senegal.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sudan.png",
+            "time": "00:00:00",
+            "date": "12/11",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vkzcgc09k748_11808bba_20261112.png?v=11808bba",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-9c1154ac64",
           "name": "Tunisia vs Libya | 00:00 12/11",
@@ -83,7 +299,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0c0i33euz0jw_0b49800c_20261111.png?v=0b49800c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0c0i33euz0jw_0b49800c_20261112.png?v=0b49800c",
             "width": 1600,
             "height": 1200
           }
@@ -155,7 +371,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0q2t86uz90ty_99de3ed3_20261111.png?v=99de3ed3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0q2t86uz90ty_99de3ed3_20261112.png?v=99de3ed3",
             "width": 1600,
             "height": 1200
           }
@@ -227,7 +443,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2w5zsmcq0owj_57afcead_20261111.png?v=57afcead",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2w5zsmcq0owj_57afcead_20261112.png?v=57afcead",
             "width": 1600,
             "height": 1200
           }
@@ -299,7 +515,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e2r4zkm2zi8n_bd9a3dcf_20261111.png?v=bd9a3dcf",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e2r4zkm2zi8n_bd9a3dcf_20261112.png?v=bd9a3dcf",
             "width": 1600,
             "height": 1200
           }
@@ -371,7 +587,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/malqp1546z82_8e38443b_20261111.png?v=8e38443b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/malqp1546z82_8e38443b_20261112.png?v=8e38443b",
             "width": 1600,
             "height": 1200
           }
@@ -443,7 +659,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8di4xcnstnuj_34961f43_20261111.png?v=34961f43",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8di4xcnstnuj_34961f43_20261112.png?v=34961f43",
             "width": 1600,
             "height": 1200
           }
@@ -515,7 +731,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b809_0158d808_20261111.png?v=0158d808",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b809_0158d808_20261112.png?v=0158d808",
             "width": 1600,
             "height": 1200
           }
@@ -587,7 +803,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a3338060f72229b92061bd2_cf504515_20261111.png?v=cf504515",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a3338060f72229b92061bd2_cf504515_20261112.png?v=cf504515",
             "width": 1600,
             "height": 1200
           }
@@ -659,7 +875,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80a_3c2c4f0c_20261111.png?v=3c2c4f0c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80a_3c2c4f0c_20261112.png?v=3c2c4f0c",
             "width": 1600,
             "height": 1200
           }
@@ -731,7 +947,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e8c24d46db8709a7c21_a4089f47_20261111.png?v=a4089f47",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e8c24d46db8709a7c21_a4089f47_20261112.png?v=a4089f47",
             "width": 1600,
             "height": 1200
           }
@@ -803,7 +1019,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e8c24d46db8709a7c2c_7f428ccc_20261111.png?v=7f428ccc",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e8c24d46db8709a7c2c_7f428ccc_20261112.png?v=7f428ccc",
             "width": 1600,
             "height": 1200
           }
@@ -875,7 +1091,79 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e8c24d46db8709a7c65_ae3db9d8_20261111.png?v=ae3db9d8",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e8c24d46db8709a7c65_ae3db9d8_20261112.png?v=ae3db9d8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f3ab0ec806",
+          "name": "Thổ Nhĩ Kỳ vs Bỉ | 00:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f3ab0ec806",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f3ab0ec806",
+                  "name": "Thổ Nhĩ Kỳ vs Bỉ",
+                  "streams": [
+                    {
+                      "id": "st-f3ab0ec806",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6d8cc5ad30",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794148370_hd/1794148370_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Thổ Nhĩ Kỳ",
+            "team_b": "Bỉ",
+            "logo_a": "https://images.keovip88.net/images/teams/turkey.png",
+            "logo_b": "https://images.keovip88.net/images/teams/belgium.png",
+            "time": "00:00:00",
+            "date": "13/11",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf75e_87ac6839_20261112.png?v=87ac6839",
             "width": 1600,
             "height": 1200
           }
@@ -956,7 +1244,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hn5bee46mg8v_bb0b33a7_20261111.png?v=bb0b33a7",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hn5bee46mg8v_bb0b33a7_20261112.png?v=bb0b33a7",
             "width": 1600,
             "height": 1200
           }
@@ -1028,7 +1316,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25238277_cef0b970_20261111.png?v=cef0b970",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25238277_cef0b970_20261112.png?v=cef0b970",
             "width": 1600,
             "height": 1200
           }
@@ -1100,7 +1388,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26238278_bc268452_20261111.png?v=bc268452",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26238278_bc268452_20261112.png?v=bc268452",
             "width": 1600,
             "height": 1200
           }
@@ -1172,7 +1460,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27238279_dff22d40_20261111.png?v=dff22d40",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27238279_dff22d40_20261112.png?v=dff22d40",
             "width": 1600,
             "height": 1200
           }
@@ -1244,7 +1532,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38298276_2267f116_20261111.png?v=2267f116",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38298276_2267f116_20261112.png?v=2267f116",
             "width": 1600,
             "height": 1200
           }
@@ -1316,7 +1604,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39298277_e19f36d9_20261111.png?v=e19f36d9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39298277_e19f36d9_20261112.png?v=e19f36d9",
             "width": 1600,
             "height": 1200
           }
@@ -1388,7 +1676,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38238270_2e0f0aa0_20261111.png?v=2e0f0aa0",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38238270_2e0f0aa0_20261112.png?v=2e0f0aa0",
             "width": 1600,
             "height": 1200
           }
@@ -1460,7 +1748,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39238271_dc792c90_20261111.png?v=dc792c90",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39238271_dc792c90_20261112.png?v=dc792c90",
             "width": 1600,
             "height": 1200
           }
@@ -1532,7 +1820,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20398279_db6cfd1a_20261111.png?v=db6cfd1a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20398279_db6cfd1a_20261112.png?v=db6cfd1a",
             "width": 1600,
             "height": 1200
           }
@@ -1604,7 +1892,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31398270_e5d74ff2_20261111.png?v=e5d74ff2",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31398270_e5d74ff2_20261112.png?v=e5d74ff2",
             "width": 1600,
             "height": 1200
           }
@@ -1676,7 +1964,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32398271_0e33cfe9_20261111.png?v=0e33cfe9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32398271_0e33cfe9_20261112.png?v=0e33cfe9",
             "width": 1600,
             "height": 1200
           }
@@ -1757,7 +2045,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2d08d341xux5_a1208a50_20261111.png?v=a1208a50",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2d08d341xux5_a1208a50_20261112.png?v=a1208a50",
             "width": 1600,
             "height": 1200
           }
@@ -1838,7 +2126,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bbcp954d0bhr_371b9ed9_20261111.png?v=371b9ed9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bbcp954d0bhr_371b9ed9_20261112.png?v=371b9ed9",
             "width": 1600,
             "height": 1200
           }
@@ -1910,7 +2198,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0d9quy9n9kmy_c2ce3896_20261111.png?v=c2ce3896",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0d9quy9n9kmy_c2ce3896_20261112.png?v=c2ce3896",
             "width": 1600,
             "height": 1200
           }
@@ -1982,7 +2270,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/131ec64v186u_10e28064_20261111.png?v=10e28064",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/131ec64v186u_10e28064_20261112.png?v=10e28064",
             "width": 1600,
             "height": 1200
           }
@@ -2063,7 +2351,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/649c564bnqbs_cafdd4a0_20261111.png?v=cafdd4a0",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/649c564bnqbs_cafdd4a0_20261112.png?v=cafdd4a0",
             "width": 1600,
             "height": 1200
           }
@@ -2135,7 +2423,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10a67fz1cc3w_6711d0a6_20261111.png?v=6711d0a6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10a67fz1cc3w_6711d0a6_20261112.png?v=6711d0a6",
             "width": 1600,
             "height": 1200
           }
