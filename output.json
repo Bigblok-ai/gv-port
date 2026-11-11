@@ -1896,6 +1896,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-6bd9de9c73",
+          "name": "Portland Trail Blazers vs Oklahoma City Thunder | 10:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6bd9de9c73",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6bd9de9c73",
+                  "name": "Portland Trail Blazers vs Oklahoma City Thunder",
+                  "streams": [
+                    {
+                      "id": "st-6bd9de9c73",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1a7af4f25c",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794411103_hd/1794411103_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Portland Trail Blazers",
+            "team_b": "Oklahoma City Thunder",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
+            "time": "10:00:00",
+            "date": "12/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32398271_0e33cfe9_20261111.png?v=0e33cfe9",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2046,6 +2118,168 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2d08d341xux5_a1208a50_20261111.png?v=a1208a50",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-6b2a2876b3",
+          "name": "Upper vs Lower Bracket Group A/B | 09:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6b2a2876b3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6b2a2876b3",
+                  "name": "Upper vs Lower Bracket Group A/B",
+                  "streams": [
+                    {
+                      "id": "st-6b2a2876b3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4d57a079ae",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794411195_hd/1794411195_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "BLAST Rivals 2026 Season 2",
+            "team_a": "Upper",
+            "team_b": "Lower Bracket Group A/B",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7bIEEf0TVBulxAnrHrIuLUqPSKpnw1i0oVDYC0DKsA0UIs9YQsrCSe8&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOl0rn0Cj9mjF9fjNC4ISHr-pbVvWnuI7g36j06fGwratad4b4P6Ce6vr&s=10",
+            "time": "09:00:00",
+            "date": "12/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qbg38uan3xha_2df005fe_20261111.png?v=2df005fe",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchay",
+      "name": "⚾ Bóng Chày",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-28d50b6991",
+          "name": "Hàn Quốc vs Australia | 10:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-28d50b6991",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-28d50b6991",
+                  "name": "Hàn Quốc vs Australia",
+                  "streams": [
+                    {
+                      "id": "st-28d50b6991",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7f7b486d40",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794411288_hd/1794411288_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia Professional Championship",
+            "team_a": "Hàn Quốc",
+            "team_b": "Australia",
+            "logo_a": "https://static.flashscore.com/res/image/data/zTP55fFG-bL62vc24.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/Ygu7zgHG-YNb3oHYR.png",
+            "time": "10:00:00",
+            "date": "12/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/649c564bnqbs_cafdd4a0_20261111.png?v=cafdd4a0",
             "width": 1600,
             "height": 1200
           }
