@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-f9f0794797",
-          "name": "Fenerbahçe vs Real Sociedad | 00:00 12/11",
+          "id": "gv-173ae1879d",
+          "name": "Nữ Juventus vs Nữ Lyonnais | 03:00 12/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,95 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-f9f0794797",
+              "id": "src-173ae1879d",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-f9f0794797",
-                  "name": "Fenerbahçe vs Real Sociedad",
+                  "id": "ct-173ae1879d",
+                  "name": "Nữ Juventus vs Nữ Lyonnais",
                   "streams": [
                     {
-                      "id": "st-f9f0794797",
+                      "id": "st-173ae1879d",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-3a0442b1c4",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306663_hd/1794306663_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Europe - UEFA Women's Europa League",
-            "team_a": "Fenerbahçe",
-            "team_b": "Real Sociedad",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcYQUDbURrfI_XtxyekgH5g_OfH-qTWTxLcErJv_laYyDKk4TOcBmn3WICDsgahq4FDuSpFx8PAKruxk7Y6nYOcEU&s&ec=121528441",
-            "logo_b": "https://images.keovip88.net/images/teams/real-sociedad.png",
-            "time": "00:00:00",
-            "date": "12/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6t5y5v6k1lyb_0800cd4c_20261112.png?v=0800cd4c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-f72478732a",
-          "name": "Senegal vs Sudan | 00:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f72478732a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f72478732a",
-                  "name": "Senegal vs Sudan",
-                  "streams": [
-                    {
-                      "id": "st-f72478732a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96ce42bbfd",
+                          "id": "lnk-d13ffbf29e",
                           "name": "Súp",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306183_hd/1794306183_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306886_hd/1794306886_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -140,12 +68,12 @@
             }
           ],
           "org_metadata": {
-            "league": "Africa Cup of Nations",
-            "team_a": "Senegal",
-            "team_b": "Sudan",
-            "logo_a": "https://images.keovip88.net/images/teams/senegal.png",
-            "logo_b": "https://images.keovip88.net/images/teams/sudan.png",
-            "time": "00:00:00",
+            "league": "Champions League Nữ",
+            "team_a": "Nữ Juventus",
+            "team_b": "Nữ Lyonnais",
+            "logo_a": "https://images.keovip88.net/images/teams/juventus-w.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lyon-w.png",
+            "time": "03:00:00",
             "date": "12/11",
             "blv": "Súp",
             "is_live": true,
@@ -155,79 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vkzcgc09k748_11808bba_20261112.png?v=11808bba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-c488869191",
-          "name": "Eintracht Frankfurt vs PSV | 00:30 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c488869191",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c488869191",
-                  "name": "Eintracht Frankfurt vs PSV",
-                  "streams": [
-                    {
-                      "id": "st-c488869191",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-acf4c23ebc",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306736_hd/1794306736_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Europe - UEFA Women's Europa League",
-            "team_a": "Eintracht Frankfurt",
-            "team_b": "PSV",
-            "logo_a": "https://images.keovip88.net/images/teams/eintracht-frankfurt.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/FylTPR72JXIGFzqwQocSAQ_96x96.png",
-            "time": "00:30:00",
-            "date": "12/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/8di4xcnstnuj_34961f43_20261112.png?v=34961f43",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80a_3c2c4f0c_20261112.png?v=3c2c4f0c",
             "width": 1600,
             "height": 1200
           }
@@ -660,78 +516,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a3338060f72229b92061bd2_cf504515_20261112.png?v=cf504515",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-173ae1879d",
-          "name": "Nữ Juventus vs Nữ Lyonnais | 03:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-173ae1879d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-173ae1879d",
-                  "name": "Nữ Juventus vs Nữ Lyonnais",
-                  "streams": [
-                    {
-                      "id": "st-173ae1879d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d13ffbf29e",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306886_hd/1794306886_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Champions League Nữ",
-            "team_a": "Nữ Juventus",
-            "team_b": "Nữ Lyonnais",
-            "logo_a": "https://images.keovip88.net/images/teams/juventus-w.png",
-            "logo_b": "https://images.keovip88.net/images/teams/lyon-w.png",
-            "time": "03:00:00",
-            "date": "12/11",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80a_3c2c4f0c_20261112.png?v=3c2c4f0c",
             "width": 1600,
             "height": 1200
           }
@@ -1388,7 +1172,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1401,10 +1185,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1453,7 +1237,7 @@
             "time": "02:45:00",
             "date": "12/11",
             "blv": "Riko",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
