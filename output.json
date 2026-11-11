@@ -330,25 +330,7 @@
                     {
                       "id": "st-c8ead48e27",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dc6bffa926",
-                          "name": "Trực Tiếp Nhà Đài",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794394944_hd/1794394944_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -363,7 +345,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/sweden-u19.png",
             "time": "20:00:00",
             "date": "11/11",
-            "blv": "Trực Tiếp Nhà Đài",
+            "blv": "",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1542,87 +1524,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2d08d341xux5_a1208a50_20261111.png?v=a1208a50",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-fa869d09d9",
-          "name": "Opening Round - Group B vs BLAST Rivals 2026 Season 2 | 14:00 11/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fa869d09d9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fa869d09d9",
-                  "name": "Opening Round - Group B vs BLAST Rivals 2026 Season 2",
-                  "streams": [
-                    {
-                      "id": "st-fa869d09d9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bec8c63069",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794324808_hd/1794324808_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "BLAST Rivals 2026 Season 2",
-            "team_a": "Opening Round - Group B",
-            "team_b": "BLAST Rivals 2026 Season 2",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54VjgYF0wf5gt8HWOH-nlZPrWe5veMtnRZeLnw7o4lg&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoC5E4VYW5XlnB7G-GHmN7zq9P_ywn9b6FByELOvWeYNxRdOmCHVMhIAg&s=10",
-            "time": "14:00:00",
-            "date": "11/11",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ac45o5tqlt4o_525c353a_20261111.png?v=525c353a",
             "width": 1600,
             "height": 1200
           }
