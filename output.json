@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-2b79893191",
-          "name": "Cameroon vs Namibia | 00:00 12/11",
+          "id": "gv-9c1154ac64",
+          "name": "Tunisia vs Libya | 00:00 12/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-2b79893191",
+              "id": "src-9c1154ac64",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-2b79893191",
-                  "name": "Cameroon vs Namibia",
+                  "id": "ct-9c1154ac64",
+                  "name": "Tunisia vs Libya",
                   "streams": [
                     {
-                      "id": "st-2b79893191",
+                      "id": "st-9c1154ac64",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-69fcc08808",
-                          "name": "Mù",
+                          "id": "lnk-18fcfcd99e",
+                          "name": "Bee",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306586_hd/1794306586_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306066_hd/1794306066_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -69,13 +69,13 @@
           ],
           "org_metadata": {
             "league": "Africa Cup of Nations",
-            "team_a": "Cameroon",
-            "team_b": "Namibia",
-            "logo_a": "https://images.keovip88.net/images/teams/cameroon.png",
-            "logo_b": "https://images.keovip88.net/images/teams/namibia.png",
+            "team_a": "Tunisia",
+            "team_b": "Libya",
+            "logo_a": "https://images.keovip88.net/images/teams/tunisia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/libya.png",
             "time": "00:00:00",
             "date": "12/11",
-            "blv": "Mù",
+            "blv": "Bee",
             "is_live": false,
             "cate_type": "football"
           },
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/malqp1546z82_8e38443b_20261111.png?v=8e38443b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0c0i33euz0jw_0b49800c_20261111.png?v=0b49800c",
             "width": 1600,
             "height": 1200
           }
@@ -156,6 +156,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e2r4zkm2zi8n_bd9a3dcf_20261111.png?v=bd9a3dcf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2b79893191",
+          "name": "Cameroon vs Namibia | 00:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2b79893191",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2b79893191",
+                  "name": "Cameroon vs Namibia",
+                  "streams": [
+                    {
+                      "id": "st-2b79893191",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-69fcc08808",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306586_hd/1794306586_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Africa Cup of Nations",
+            "team_a": "Cameroon",
+            "team_b": "Namibia",
+            "logo_a": "https://images.keovip88.net/images/teams/cameroon.png",
+            "logo_b": "https://images.keovip88.net/images/teams/namibia.png",
+            "time": "00:00:00",
+            "date": "12/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/malqp1546z82_8e38443b_20261111.png?v=8e38443b",
             "width": 1600,
             "height": 1200
           }
