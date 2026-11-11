@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ea5e5e5dc5",
-          "name": "U19 Séc vs Hà Lan U19 | 20:00 11/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ea5e5e5dc5",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ea5e5e5dc5",
-                  "name": "U19 Séc vs Hà Lan U19",
-                  "streams": [
-                    {
-                      "id": "st-ea5e5e5dc5",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fe41e40960",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794324073_hd/1794324073_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Euro U19",
-            "team_a": "U19 Séc",
-            "team_b": "Hà Lan U19",
-            "logo_a": "https://images.keovip88.net/images/teams/czech-republic-u19.png",
-            "logo_b": "https://images.keovip88.net/images/teams/netherlands-u19.png",
-            "time": "20:00:00",
-            "date": "11/11",
-            "blv": "Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a2a24d46db8705299eb_292c6532_20261111.png?v=292c6532",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-18b52ed99c",
           "name": "U19 Bulgaria vs Gibraltar U19 | 21:00 11/11",
@@ -1605,6 +1533,366 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38298276_2267f116_20261111.png?v=2267f116",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d470697c23",
+          "name": "New Orleans Pelicans vs Brooklyn Nets | 08:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d470697c23",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d470697c23",
+                  "name": "New Orleans Pelicans vs Brooklyn Nets",
+                  "streams": [
+                    {
+                      "id": "st-d470697c23",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-79344e2194",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410771_hd/1794410771_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "New Orleans Pelicans",
+            "team_b": "Brooklyn Nets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c01b5e6f6659dd42195e9db3aaef13b7.png",
+            "time": "08:00:00",
+            "date": "12/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39298277_e19f36d9_20261111.png?v=e19f36d9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-39b114b5e9",
+          "name": "Milwaukee Bucks vs Los Angeles Lakers | 08:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-39b114b5e9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-39b114b5e9",
+                  "name": "Milwaukee Bucks vs Los Angeles Lakers",
+                  "streams": [
+                    {
+                      "id": "st-39b114b5e9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-51f8d21a35",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410826_hd/1794410826_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Milwaukee Bucks",
+            "team_b": "Los Angeles Lakers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e82de69ea44942a3e90a5be6cf0004da.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
+            "time": "08:00:00",
+            "date": "12/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38238270_2e0f0aa0_20261111.png?v=2e0f0aa0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-64f7048fbe",
+          "name": "Chicago Bulls vs San Antonio Spurs | 08:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-64f7048fbe",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-64f7048fbe",
+                  "name": "Chicago Bulls vs San Antonio Spurs",
+                  "streams": [
+                    {
+                      "id": "st-64f7048fbe",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8b8123ee15",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410869_hd/1794410869_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Chicago Bulls",
+            "team_b": "San Antonio Spurs",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c73eca8b9cc18ff386bf6ff4c1236b9e.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
+            "time": "08:00:00",
+            "date": "12/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39238271_dc792c90_20261111.png?v=dc792c90",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c733313996",
+          "name": "Utah Jazz vs Orlando Magic | 09:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c733313996",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c733313996",
+                  "name": "Utah Jazz vs Orlando Magic",
+                  "streams": [
+                    {
+                      "id": "st-c733313996",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ed4768ec40",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410908_hd/1794410908_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Utah Jazz",
+            "team_b": "Orlando Magic",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2566b135b0e54971193a132bd8a1473c.png",
+            "time": "09:00:00",
+            "date": "12/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20398279_db6cfd1a_20261111.png?v=db6cfd1a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-156d645725",
+          "name": "Houston Rockets vs Golden State Warriors | 09:30 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-156d645725",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-156d645725",
+                  "name": "Houston Rockets vs Golden State Warriors",
+                  "streams": [
+                    {
+                      "id": "st-156d645725",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2ec2fdf028",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410994_hd/1794410994_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Houston Rockets",
+            "team_b": "Golden State Warriors",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c7341a14964f12885ea2ae80b76cebe8.png",
+            "time": "09:30:00",
+            "date": "12/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31398270_e5d74ff2_20261111.png?v=e5d74ff2",
             "width": 1600,
             "height": 1200
           }
