@@ -1460,83 +1460,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-11bc462453",
-          "name": "Sacramento Kings vs Orlando Magic | 10:00 11/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-11bc462453",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-11bc462453",
-                  "name": "Sacramento Kings vs Orlando Magic",
-                  "streams": [
-                    {
-                      "id": "st-11bc462453",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-77750a9b98",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794359836_hd/1794359836_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Sacramento Kings",
-            "team_b": "Orlando Magic",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2566b135b0e54971193a132bd8a1473c.png",
-            "time": "10:00:00",
-            "date": "11/11",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36298274_3f6e4e64_20261111.png?v=3f6e4e64",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-58e8f93ab5",
           "name": "Portland Trail Blazers vs Oklahoma City Thunder | 11:00 11/11",
