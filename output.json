@@ -161,78 +161,6 @@
           }
         },
         {
-          "id": "gv-05c7b21504",
-          "name": "Mali vs Rwanda | 00:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-05c7b21504",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-05c7b21504",
-                  "name": "Mali vs Rwanda",
-                  "streams": [
-                    {
-                      "id": "st-05c7b21504",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0c85a16b02",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306350_hd/1794306350_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Africa Cup of Nations",
-            "team_a": "Mali",
-            "team_b": "Rwanda",
-            "logo_a": "https://images.keovip88.net/images/teams/mali.png",
-            "logo_b": "https://images.keovip88.net/images/teams/rwanda.png",
-            "time": "00:00:00",
-            "date": "12/11",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0q2t86uz90ty_99de3ed3_20261111.png?v=99de3ed3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-a227197c10",
           "name": "Ivory Coast vs Gambia | 00:00 12/11",
           "type": "single",
@@ -305,78 +233,6 @@
           }
         },
         {
-          "id": "gv-35636ece26",
-          "name": "Egypt vs Malawi | 00:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-35636ece26",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-35636ece26",
-                  "name": "Egypt vs Malawi",
-                  "streams": [
-                    {
-                      "id": "st-35636ece26",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c6cd2d5c0c",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306512_hd/1794306512_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Africa Cup of Nations",
-            "team_a": "Egypt",
-            "team_b": "Malawi",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/lYah1Uqw37XdicC6C4HNqg_96x96.png",
-            "logo_b": "https://images.keovip88.net/images/teams/malawi.png",
-            "time": "00:00:00",
-            "date": "12/11",
-            "blv": "Dory",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e2r4zkm2zi8n_bd9a3dcf_20261111.png?v=bd9a3dcf",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-2b79893191",
           "name": "Cameroon vs Namibia | 00:00 12/11",
           "type": "single",
@@ -444,6 +300,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/malqp1546z82_8e38443b_20261111.png?v=8e38443b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-35636ece26",
+          "name": "Egypt vs Malawi | 00:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-35636ece26",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-35636ece26",
+                  "name": "Egypt vs Malawi",
+                  "streams": [
+                    {
+                      "id": "st-35636ece26",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c6cd2d5c0c",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794306512_hd/1794306512_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Africa Cup of Nations",
+            "team_a": "Egypt",
+            "team_b": "Malawi",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/lYah1Uqw37XdicC6C4HNqg_96x96.png",
+            "logo_b": "https://images.keovip88.net/images/teams/malawi.png",
+            "time": "00:00:00",
+            "date": "12/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e2r4zkm2zi8n_bd9a3dcf_20261111.png?v=bd9a3dcf",
             "width": 1600,
             "height": 1200
           }
@@ -1757,83 +1685,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ec0a7033f4",
-          "name": "Halkbank vs Fenerbahce | 20:30 11/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ec0a7033f4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ec0a7033f4",
-                  "name": "Halkbank vs Fenerbahce",
-                  "streams": [
-                    {
-                      "id": "st-ec0a7033f4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8c236344f3",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794294751_hd/1794294751_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish Cup - Play Offs - Tứ kết",
-            "team_a": "Halkbank",
-            "team_b": "Fenerbahce",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ030AwJnowiv6Dq8YG7phO46ElUlBPoYL32j8Iz1sy_A&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQllIjTV1tap6JSUu6NbpTSgOjN2jPEEkbDbOGAom7ojA&s",
-            "time": "20:30:00",
-            "date": "11/11",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/smwtfkuc77hx_9e246da5_20261111.png?v=9e246da5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-3bf2737221",
           "name": "Galatasaray vs Gebze | 23:00 11/11",
