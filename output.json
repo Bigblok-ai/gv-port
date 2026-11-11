@@ -1772,8 +1772,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-6b2a2876b3",
-          "name": "Upper vs Lower Bracket Group A/B | 09:00 12/11",
+          "id": "gv-19e06d0125",
+          "name": "Legacy vs Falcons | 09:00 12/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1787,23 +1787,23 @@
           ],
           "sources": [
             {
-              "id": "src-6b2a2876b3",
+              "id": "src-19e06d0125",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-6b2a2876b3",
-                  "name": "Upper vs Lower Bracket Group A/B",
+                  "id": "ct-19e06d0125",
+                  "name": "Legacy vs Falcons",
                   "streams": [
                     {
-                      "id": "st-6b2a2876b3",
+                      "id": "st-19e06d0125",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-4d57a079ae",
+                          "id": "lnk-42a8d372be",
                           "name": "Mickey",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794411195_hd/1794411195_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794414209_hd/1794414209_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1824,10 +1824,10 @@
           ],
           "org_metadata": {
             "league": "BLAST Rivals 2026 Season 2",
-            "team_a": "Upper",
-            "team_b": "Lower Bracket Group A/B",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7bIEEf0TVBulxAnrHrIuLUqPSKpnw1i0oVDYC0DKsA0UIs9YQsrCSe8&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOl0rn0Cj9mjF9fjNC4ISHr-pbVvWnuI7g36j06fGwratad4b4P6Ce6vr&s=10",
+            "team_a": "Legacy",
+            "team_b": "Falcons",
+            "logo_a": "https://static.flashscore.com/res/image/data/vJYZUiDa-rHAHYj7n.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/GfCFGXDa-Ox5OEEWq.png",
             "time": "09:00:00",
             "date": "12/11",
             "blv": "Mickey",
@@ -1838,7 +1838,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qbg38uan3xha_2df005fe_20261111.png?v=2df005fe",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bbcp954d0bhr_371b9ed9_20261111.png?v=371b9ed9",
             "width": 1600,
             "height": 1200
           }
