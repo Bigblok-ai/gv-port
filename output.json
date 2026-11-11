@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9b90699d84",
-          "name": "Hà Lan U17 vs Na uy U17 | 17:00 11/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9b90699d84",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9b90699d84",
-                  "name": "Hà Lan U17 vs Na uy U17",
-                  "streams": [
-                    {
-                      "id": "st-9b90699d84",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0b2cd6f73a",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794323749_hd/1794323749_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Euro U17",
-            "team_a": "Hà Lan U17",
-            "team_b": "Na uy U17",
-            "logo_a": "https://images.keovip88.net/images/teams/netherlands-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/norway-u17.png",
-            "time": "17:00:00",
-            "date": "11/11",
-            "blv": "Dory",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a3338060f72229b92061bc4_56bad7fe_20261111.png?v=56bad7fe",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-40f22bc40d",
           "name": "U19 Trung Quốc vs U19 Việt Nam | 18:35 11/11",
