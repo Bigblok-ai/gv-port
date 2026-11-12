@@ -879,6 +879,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-d5def026c2",
+          "name": "U21 Đan Mạch vs U21 Hà Lan | 00:30 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d5def026c2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d5def026c2",
+                  "name": "U21 Đan Mạch vs U21 Hà Lan",
+                  "streams": [
+                    {
+                      "id": "st-d5def026c2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-273e9ffa35",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794148803_hd/1794148803_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VCK U21 Châu Âu",
+            "team_a": "U21 Đan Mạch",
+            "team_b": "U21 Hà Lan",
+            "logo_a": "https://images.keovip88.net/images/teams/denmark-u21.png",
+            "logo_b": "https://images.keovip88.net/images/teams/netherlands-u21.png",
+            "time": "00:30:00",
+            "date": "14/11",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a2f24d46db870529dec_248ab84a_20261113.png?v=248ab84a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
