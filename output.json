@@ -596,83 +596,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ccfa12cef9",
-          "name": "Real Madrid Teka vs Crvena Zvezda Red Star | 03:00 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ccfa12cef9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ccfa12cef9",
-                  "name": "Real Madrid Teka vs Crvena Zvezda Red Star",
-                  "streams": [
-                    {
-                      "id": "st-ccfa12cef9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bfafff94f0",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794456129_hd/1794456129_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Real Madrid Teka",
-            "team_b": "Crvena Zvezda Red Star",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/baacc764f89f2ce4c22b48768946ca5a.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/3aac045587ed9f6b93ffba5f71d02331.png",
-            "time": "03:00:00",
-            "date": "13/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/14103277_7408dd78_20261113.png?v=7408dd78",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-5dc2e598b0",
           "name": "Washington Wizards vs Detroit Pistons | 07:00 13/11",
