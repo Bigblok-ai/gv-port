@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -161,6 +161,78 @@
           }
         },
         {
+          "id": "gv-2c730d7a7d",
+          "name": "Armenia vs Đảo Síp | 23:59 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2c730d7a7d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2c730d7a7d",
+                  "name": "Armenia vs Đảo Síp",
+                  "streams": [
+                    {
+                      "id": "st-2c730d7a7d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5585529b0f",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794455472_hd/1794455472_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Armenia",
+            "team_b": "Đảo Síp",
+            "logo_a": "https://images.keovip88.net/images/teams/armenia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cyprus.png",
+            "time": "23:59:00",
+            "date": "12/11",
+            "blv": "Hấu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf67_4350f081_20261112.png?v=4350f081",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-f3ab0ec806",
           "name": "Thổ Nhĩ Kỳ vs Bỉ | 23:59 12/11",
           "type": "single",
@@ -228,78 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf75e_87ac6839_20261112.png?v=87ac6839",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-2c730d7a7d",
-          "name": "Armenia vs Đảo Síp | 23:59 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2c730d7a7d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2c730d7a7d",
-                  "name": "Armenia vs Đảo Síp",
-                  "streams": [
-                    {
-                      "id": "st-2c730d7a7d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5585529b0f",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794455472_hd/1794455472_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Armenia",
-            "team_b": "Đảo Síp",
-            "logo_a": "https://images.keovip88.net/images/teams/armenia.png",
-            "logo_b": "https://images.keovip88.net/images/teams/cyprus.png",
-            "time": "23:59:00",
-            "date": "12/11",
-            "blv": "Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf67_4350f081_20261112.png?v=4350f081",
             "width": 1600,
             "height": 1200
           }
