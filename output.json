@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-608b34c1ae",
-          "name": "San Marino vs Belarus | 02:45 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-608b34c1ae",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-608b34c1ae",
-                  "name": "San Marino vs Belarus",
-                  "streams": [
-                    {
-                      "id": "st-608b34c1ae",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8e2833a4e1",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794455692_hd/1794455692_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "San Marino",
-            "team_b": "Belarus",
-            "logo_a": "https://images.keovip88.net/images/teams/san-marino.png",
-            "logo_b": "https://images.keovip88.net/images/teams/belarus.png",
-            "time": "02:45:00",
-            "date": "13/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf784_33772875_20261113.png?v=33772875",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-38d0e1f7d9",
           "name": "Cộng hòa Séc vs Tây Ban Nha | 02:45 13/11",
@@ -156,78 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf76d_d819cab7_20261113.png?v=d819cab7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-7d6bd95638",
-          "name": "Anh vs Croatia | 02:45 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7d6bd95638",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7d6bd95638",
-                  "name": "Anh vs Croatia",
-                  "streams": [
-                    {
-                      "id": "st-7d6bd95638",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e48b99f1f0",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794148599_hd/1794148599_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Anh",
-            "team_b": "Croatia",
-            "logo_a": "https://images.keovip88.net/images/teams/england.png",
-            "logo_b": "https://images.keovip88.net/images/teams/croatia.png",
-            "time": "02:45:00",
-            "date": "13/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf76e_f19a79a6_20261113.png?v=f19a79a6",
             "width": 1600,
             "height": 1200
           }
