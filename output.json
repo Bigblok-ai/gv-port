@@ -884,83 +884,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-db4b7b4f48",
-          "name": "Olympiacos Piraeus vs Dubai | 02:15 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-db4b7b4f48",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-db4b7b4f48",
-                  "name": "Olympiacos Piraeus vs Dubai",
-                  "streams": [
-                    {
-                      "id": "st-db4b7b4f48",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-028d64d4c7",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794456076_hd/1794456076_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Olympiacos Piraeus",
-            "team_b": "Dubai",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/12df366aacf59aec8467d50fd0611a5f.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/38e7f6ed6a1053e25c1f5d60fbf563b2.png",
-            "time": "02:15:00",
-            "date": "13/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11103274_1f5d21a4_20261113.png?v=1f5d21a4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2dae650c8d",
           "name": "Pamesa Valencia vs FC Bayern Munchen | 02:30 13/11",
