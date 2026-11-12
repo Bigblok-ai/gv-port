@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4e99344a93",
-          "name": "New Zealand vs Ấn Độ | 13:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4e99344a93",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4e99344a93",
-                  "name": "New Zealand vs Ấn Độ",
-                  "streams": [
-                    {
-                      "id": "st-4e99344a93",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0e367bbf3a",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410508_hd/1794410508_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao hữu quốc tế",
-            "team_a": "New Zealand",
-            "team_b": "Ấn Độ",
-            "logo_a": "https://images.keovip88.net/images/teams/new-zealand.png",
-            "logo_b": "https://images.keovip88.net/images/teams/india.png",
-            "time": "13:00:00",
-            "date": "12/11",
-            "blv": "Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e8c24d46db8709a7c21_a4089f47_20261112.png?v=a4089f47",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2927c410ae",
           "name": "U23 Thái Lan vs U23 Qatar | 15:00 12/11",
@@ -1824,6 +1752,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-679885d898",
+          "name": "76ers vs Raptors | 07:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-679885d898",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-679885d898",
+                  "name": "76ers vs Raptors",
+                  "streams": [
+                    {
+                      "id": "st-679885d898",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7931b436bf",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794470425_hd/1794470425_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "76ers",
+            "team_b": "Raptors",
+            "logo_a": "https://static.flashscore.com/res/image/data/rNU4bqCr-4bqaxRtQ.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/UmPff6f5-dfaUavPf.png",
+            "time": "07:00:00",
+            "date": "13/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fydsne3xkwjk_cc038b48_20261112.png?v=cc038b48",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2055,6 +2055,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/665w8e1j1l5n_b6605885_20261112.png?v=b6605885",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_rugby",
+      "name": "🏅 Thể Thao",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-6fee5ddd94",
+          "name": "Colorado Avalanche vs Ottowa Senators | 07:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6fee5ddd94",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6fee5ddd94",
+                  "name": "Colorado Avalanche vs Ottowa Senators",
+                  "streams": [
+                    {
+                      "id": "st-6fee5ddd94",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2ec759e50a",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794470916_hd/1794470916_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "Colorado Avalanche",
+            "team_b": "Ottowa Senators",
+            "logo_a": "https://static.flashscore.com/res/image/data/hzAqe0zB-UkrSKu1K.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/MymqJHHG-U3Fg3Bur.png",
+            "time": "07:00:00",
+            "date": "13/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/m1afw4v6ruzu_e7d7b766_20261112.png?v=e7d7b766",
             "width": 1600,
             "height": 1200
           }
