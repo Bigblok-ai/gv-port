@@ -818,78 +818,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-149c19d69e",
-          "name": "Indiana Pacers vs Washington Wizards | 07:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-149c19d69e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-149c19d69e",
-                  "name": "Indiana Pacers vs Washington Wizards",
-                  "streams": [
-                    {
-                      "id": "st-149c19d69e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9528fb60ff",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410547_hd/1794410547_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Indiana Pacers",
-            "team_b": "Washington Wizards",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/f4a3bba0c74c9f2b90bc5861ec26e3c7.png",
-            "time": "07:00:00",
-            "date": "12/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25238277_cef0b970_20261112.png?v=cef0b970",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-e6aad73c0c",
           "name": "New York Knicks vs Cleveland Cavaliers | 07:00 12/11",
           "type": "single",
@@ -957,6 +885,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26238278_bc268452_20261112.png?v=bc268452",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-149c19d69e",
+          "name": "Indiana Pacers vs Washington Wizards | 07:00 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-149c19d69e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-149c19d69e",
+                  "name": "Indiana Pacers vs Washington Wizards",
+                  "streams": [
+                    {
+                      "id": "st-149c19d69e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9528fb60ff",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794410547_hd/1794410547_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Indiana Pacers",
+            "team_b": "Washington Wizards",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/f4a3bba0c74c9f2b90bc5861ec26e3c7.png",
+            "time": "07:00:00",
+            "date": "12/11",
+            "blv": "Riko",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25238277_cef0b970_20261112.png?v=cef0b970",
             "width": 1600,
             "height": 1200
           }
