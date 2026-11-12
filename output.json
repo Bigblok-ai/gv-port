@@ -1757,83 +1757,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (2 LIVE)",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-8d720ff9b0",
-          "name": "FURIA vs Team Vitality | 11:30 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8d720ff9b0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8d720ff9b0",
-                  "name": "FURIA vs Team Vitality",
-                  "streams": [
-                    {
-                      "id": "st-8d720ff9b0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-906ca387b3",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794414311_hd/1794414311_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "BLAST Rivals 2026 Season 2",
-            "team_a": "FURIA",
-            "team_b": "Team Vitality",
-            "logo_a": "https://static.flashscore.com/res/image/data/G2z2rzf5-EgrECzdn.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",
-            "time": "11:30:00",
-            "date": "12/11",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0d9quy9n9kmy_c2ce3896_20261112.png?v=c2ce3896",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-729cded85c",
           "name": "FUT Esports vs MOUZ | 14:00 12/11",
@@ -1982,83 +1910,11 @@
     },
     {
       "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày (1 LIVE)",
+      "name": "⚾ Bóng Chày",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-28d50b6991",
-          "name": "Hàn Quốc vs Australia | 10:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-28d50b6991",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-28d50b6991",
-                  "name": "Hàn Quốc vs Australia",
-                  "streams": [
-                    {
-                      "id": "st-28d50b6991",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7f7b486d40",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794411288_hd/1794411288_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asia Professional Championship",
-            "team_a": "Hàn Quốc",
-            "team_b": "Australia",
-            "logo_a": "https://static.flashscore.com/res/image/data/zTP55fFG-bL62vc24.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Ygu7zgHG-YNb3oHYR.png",
-            "time": "10:00:00",
-            "date": "12/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "bongchay"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/649c564bnqbs_cafdd4a0_20261112.png?v=cafdd4a0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-30701170a7",
           "name": "Đài Loan vs Nhật Bản | 17:00 12/11",
