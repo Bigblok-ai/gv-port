@@ -1100,83 +1100,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d4a2fd42f6",
-          "name": "Daegu KoGas Pegasus vs Goyang Orions | 17:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d4a2fd42f6",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d4a2fd42f6",
-                  "name": "Daegu KoGas Pegasus vs Goyang Orions",
-                  "streams": [
-                    {
-                      "id": "st-d4a2fd42f6",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7bf54d25ba",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794461167_hd/1794461167_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Daegu KoGas Pegasus",
-            "team_b": "Goyang Orions",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a322b3f45e8fc272b36c48003e467f20.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/5b0e513f868dee6a403d7d5dfc3628b3.png",
-            "time": "17:00:00",
-            "date": "12/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24360373_395b3918_20261112.png?v=395b3918",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6bbe2e2ae9",
           "name": "Perth Wildcats vs Tasmania JackJumpers | 17:30 12/11",
