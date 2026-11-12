@@ -1752,6 +1752,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-a1a346d6a2",
+          "name": "Wizards vs Pistons | 07:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a1a346d6a2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a1a346d6a2",
+                  "name": "Wizards vs Pistons",
+                  "streams": [
+                    {
+                      "id": "st-a1a346d6a2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-498df07419",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794470358_hd/1794470358_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Wizards",
+            "team_b": "Pistons",
+            "logo_a": "https://static.flashscore.com/res/image/data/MBIxw8f5-zNBiPbd0.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/MoYJBde5-xrW85HXg.png",
+            "time": "07:00:00",
+            "date": "13/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/z2vs3xyd6tby_688dc346_20261112.png?v=688dc346",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
