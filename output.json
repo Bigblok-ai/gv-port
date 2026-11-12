@@ -1973,83 +1973,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (2 LIVE)",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-729cded85c",
-          "name": "FUT Esports vs MOUZ | 14:00 12/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-729cded85c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-729cded85c",
-                  "name": "FUT Esports vs MOUZ",
-                  "streams": [
-                    {
-                      "id": "st-729cded85c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2d25690a75",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794414428_hd/1794414428_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "BLAST Rivals 2026 Season 2",
-            "team_a": "FUT Esports",
-            "team_b": "MOUZ",
-            "logo_a": "https://static.flashscore.com/res/image/data/8IALaoGG-WQ0dY9GI.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/ObrRkAe5-xrMguOa9.png",
-            "time": "14:00:00",
-            "date": "12/11",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/131ec64v186u_10e28064_20261112.png?v=10e28064",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a2d371f3ee",
           "name": "Team Spirit vs G2 Esports | 16:30 12/11",
