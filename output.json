@@ -233,8 +233,80 @@
           }
         },
         {
+          "id": "gv-2c730d7a7d",
+          "name": "Armenia vs Đảo Síp | 23:59 12/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2c730d7a7d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2c730d7a7d",
+                  "name": "Armenia vs Đảo Síp",
+                  "streams": [
+                    {
+                      "id": "st-2c730d7a7d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5585529b0f",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794455472_hd/1794455472_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Armenia",
+            "team_b": "Đảo Síp",
+            "logo_a": "https://images.keovip88.net/images/teams/armenia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cyprus.png",
+            "time": "23:59:00",
+            "date": "12/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf67_4350f081_20261112.png?v=4350f081",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-f3ab0ec806",
-          "name": "Thổ Nhĩ Kỳ vs Bỉ | 00:00 13/11",
+          "name": "Thổ Nhĩ Kỳ vs Bỉ | 23:59 12/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -289,8 +361,8 @@
             "team_b": "Bỉ",
             "logo_a": "https://images.keovip88.net/images/teams/turkey.png",
             "logo_b": "https://images.keovip88.net/images/teams/belgium.png",
-            "time": "00:00:00",
-            "date": "13/11",
+            "time": "23:59:00",
+            "date": "12/11",
             "blv": "Ngọng",
             "is_live": false,
             "cate_type": "football"
@@ -300,6 +372,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f3f2b74bff4a0c310bf75e_87ac6839_20261112.png?v=87ac6839",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-93654233b2",
+          "name": "CS Puertollano vs Albacete | 00:30 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-93654233b2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-93654233b2",
+                  "name": "CS Puertollano vs Albacete",
+                  "streams": [
+                    {
+                      "id": "st-93654233b2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5cd4fb4c13",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794455551_hd/1794455551_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp nhà vua Tây Ban Nha",
+            "team_a": "CS Puertollano",
+            "team_b": "Albacete",
+            "logo_a": "https://images.keovip88.net/images/teams/cs-puertollano.png",
+            "logo_b": "https://images.keovip88.net/images/teams/albacete.png",
+            "time": "00:30:00",
+            "date": "13/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add469a24d46db870f865c4_076d3ad2_20261112.png?v=076d3ad2",
             "width": 1600,
             "height": 1200
           }
@@ -444,6 +588,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b808_8d8c74f6_20261112.png?v=8d8c74f6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-50e89a6db1",
+          "name": "CD Artistico Navalcarnero vs Real Betis | 01:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-50e89a6db1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-50e89a6db1",
+                  "name": "CD Artistico Navalcarnero vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-50e89a6db1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-18beac44fc",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794455626_hd/1794455626_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp nhà vua Tây Ban Nha",
+            "team_a": "CD Artistico Navalcarnero",
+            "team_b": "Real Betis",
+            "logo_a": "https://images.keovip88.net/images/teams/cd-artistico-navalcarnero.png",
+            "logo_b": "https://images.keovip88.net/images/teams/real-betis.png",
+            "time": "01:00:00",
+            "date": "13/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6add469b24d46db870f86730_67d45ea4_20261112.png?v=67d45ea4",
             "width": 1600,
             "height": 1200
           }
