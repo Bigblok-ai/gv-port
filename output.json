@@ -1617,6 +1617,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-d4c76d29b8",
+          "name": "GS Caltex Nữ vs SOOP SOOPers Nữ | 02:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d4c76d29b8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d4c76d29b8",
+                  "name": "GS Caltex Nữ vs SOOP SOOPers Nữ",
+                  "streams": [
+                    {
+                      "id": "st-d4c76d29b8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2b1c165ee4",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794554350_hd/1794554350_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hàn Quốc Volleyball League Nữ",
+            "team_a": "GS Caltex Nữ",
+            "team_b": "SOOP SOOPers Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/EXtx7sXg-EL2iNWK6.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/zaBfVVfM-jZFjtRuk.png",
+            "time": "02:00:00",
+            "date": "14/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sglj0u35nqac_f99e604f_20261113.png?v=f99e604f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2531a8c8c5",
+          "name": "Hisamitsu Springs Nữ vs PFU Blue Cats Nữ | 11:05 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2531a8c8c5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2531a8c8c5",
+                  "name": "Hisamitsu Springs Nữ vs PFU Blue Cats Nữ",
+                  "streams": [
+                    {
+                      "id": "st-2531a8c8c5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ce87eefe99",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794554231_hd/1794554231_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Nhật Bản SV. League",
+            "team_a": "Hisamitsu Springs Nữ",
+            "team_b": "PFU Blue Cats Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/djDTeKyB-v3YmnHll.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/EchVejjl-MTWAZAlJ.png",
+            "time": "11:05:00",
+            "date": "14/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/mgqkagkwk9b6_50698b00_20261113.png?v=50698b00",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2086,6 +2230,78 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-b3f1d2254b",
+          "name": "Nashville Predators vs Las Vegas Golden Knights | 10:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b3f1d2254b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b3f1d2254b",
+                  "name": "Nashville Predators vs Las Vegas Golden Knights",
+                  "streams": [
+                    {
+                      "id": "st-b3f1d2254b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-174dfe1a61",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794554130_hd/1794554130_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "Nashville Predators",
+            "team_b": "Las Vegas Golden Knights",
+            "logo_a": "https://static.flashscore.com/res/image/data/YouJXDg5-ITwf9voH.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rcaaQKFG-MucFHXDq.png",
+            "time": "10:00:00",
+            "date": "14/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e3oylpqj2tgu_2ad22922_20261113.png?v=2ad22922",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-097436af32",
           "name": "Green Bay Packers vs Minnesota Vikings | 01:00 16/11",
