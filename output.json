@@ -161,6 +161,150 @@
           }
         },
         {
+          "id": "gv-13556edc0a",
+          "name": "Nigeria vs Tanzania | 23:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-13556edc0a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-13556edc0a",
+                  "name": "Nigeria vs Tanzania",
+                  "streams": [
+                    {
+                      "id": "st-13556edc0a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5719cb5e80",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794574336_hd/1794574336_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Africa Cup of Nations",
+            "team_a": "Nigeria",
+            "team_b": "Tanzania",
+            "logo_a": "https://images.keovip88.net/images/teams/nigeria.png",
+            "logo_b": "https://images.keovip88.net/images/teams/tanzania.png",
+            "time": "23:00:00",
+            "date": "13/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a39cf7be3978e5e46039b08_443e4165_20261113.png?v=443e4165",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b94a099e63",
+          "name": "Türkiye U-21 vs Czech Republic U-21 | 23:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b94a099e63",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b94a099e63",
+                  "name": "Türkiye U-21 vs Czech Republic U-21",
+                  "streams": [
+                    {
+                      "id": "st-b94a099e63",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5ab7f41106",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794574395_hd/1794574395_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Euro U21",
+            "team_a": "Türkiye U-21",
+            "team_b": "Czech Republic U-21",
+            "logo_a": "https://images.keovip88.net/images/teams/turkey.png",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN_r5Ie6kHtQKxutqUaS8OoK2bPokFWWhqWA&s",
+            "time": "23:00:00",
+            "date": "13/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hm2c7beso2n1_e544a33a_20261113.png?v=e544a33a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-18d97fee4b",
           "name": "Moldova vs Kazakhstan | 00:00 14/11",
           "type": "single",
