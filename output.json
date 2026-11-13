@@ -1250,6 +1250,78 @@
           }
         },
         {
+          "id": "gv-33c9f5128c",
+          "name": "Binan Tatak Gel vs Quezon Huskers | 17:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-33c9f5128c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-33c9f5128c",
+                  "name": "Binan Tatak Gel vs Quezon Huskers",
+                  "streams": [
+                    {
+                      "id": "st-33c9f5128c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1bd60d5d52",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794541695_hd/1794541695_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Philippines MPBL",
+            "team_a": "Binan Tatak Gel",
+            "team_b": "Quezon Huskers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/50c55a722740c471fa456f9c42a1ae6c.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/GMzF9fe5-dvmFFpGo.png",
+            "time": "17:00:00",
+            "date": "13/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tml8il6jdi3b_0eae236b_20261113.png?v=0eae236b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-6cc687837d",
           "name": "Barcelona vs Obradoiro CAB | 23:00 15/11",
           "type": "single",
