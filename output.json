@@ -956,83 +956,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-5b3cacbafb",
-          "name": "Phoenix Suns vs Charlotte Hornets | 09:00 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5b3cacbafb",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5b3cacbafb",
-                  "name": "Phoenix Suns vs Charlotte Hornets",
-                  "streams": [
-                    {
-                      "id": "st-5b3cacbafb",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f93cac79b3",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794471562_hd/1794471562_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Phoenix Suns",
-            "team_b": "Charlotte Hornets",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/6a6855785a58edb23c76c99ed6601a33.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
-            "time": "09:00:00",
-            "date": "13/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34398273_dfd7adff_20261113.png?v=dfd7adff",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ad5e528239",
           "name": "New Zealand Breakers vs Brisbane Bullets | 13:30 13/11",
@@ -2081,83 +2009,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-3062d5ea48",
-          "name": "Washington Commanders vs New York Giants | 08:15 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3062d5ea48",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3062d5ea48",
-                  "name": "Washington Commanders vs New York Giants",
-                  "streams": [
-                    {
-                      "id": "st-3062d5ea48",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6627d3d505",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794471726_hd/1794471726_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "Washington Commanders",
-            "team_b": "New York Giants",
-            "logo_a": "https://static.flashscore.com/res/image/data/KbmUMPg5-tbPaYDWc.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/rek8GixS-OpJ5uAOg.png",
-            "time": "08:15:00",
-            "date": "13/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/42iiivzq013i_a32894c0_20261113.png?v=a32894c0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-097436af32",
           "name": "Green Bay Packers vs Minnesota Vikings | 01:00 16/11",
