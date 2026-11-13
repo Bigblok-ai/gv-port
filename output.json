@@ -1856,83 +1856,11 @@
     },
     {
       "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày (1 LIVE)",
+      "name": "⚾ Bóng Chày",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f8f878194b",
-          "name": "Australia vs Đài Loan | 10:00 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f8f878194b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f8f878194b",
-                  "name": "Australia vs Đài Loan",
-                  "streams": [
-                    {
-                      "id": "st-f8f878194b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b9880dee20",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794471803_hd/1794471803_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asia Professional Championship",
-            "team_a": "Australia",
-            "team_b": "Đài Loan",
-            "logo_a": "https://static.flashscore.com/res/image/data/bNBlJwil-8STS1xJ8.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/6Dsfqthl-Iu66xHEi.png",
-            "time": "10:00:00",
-            "date": "13/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "bongchay"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gpjev5t7kq90_5339e6fe_20261113.png?v=5339e6fe",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a6308fd35c",
           "name": "Nhật Bản vs Hàn Quốc | 17:00 13/11",
