@@ -1394,6 +1394,438 @@
           }
         },
         {
+          "id": "gv-ff6d8757b6",
+          "name": "Indiana Pacers vs New York Knicks | 07:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ff6d8757b6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ff6d8757b6",
+                  "name": "Indiana Pacers vs New York Knicks",
+                  "streams": [
+                    {
+                      "id": "st-ff6d8757b6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-02935237a9",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794555612_hd/1794555612_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Indiana Pacers",
+            "team_b": "New York Knicks",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png",
+            "time": "07:00:00",
+            "date": "14/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22338275_db84df94_20261113.png?v=db84df94",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7310d5d8ba",
+          "name": "New Orleans Pelicans vs Memphis Grizzlies | 08:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7310d5d8ba",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7310d5d8ba",
+                  "name": "New Orleans Pelicans vs Memphis Grizzlies",
+                  "streams": [
+                    {
+                      "id": "st-7310d5d8ba",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-83c793760d",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794555655_hd/1794555655_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "New Orleans Pelicans",
+            "team_b": "Memphis Grizzlies",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
+            "time": "08:00:00",
+            "date": "14/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35398274_5bf21f09_20261113.png?v=5bf21f09",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-da27bc00cd",
+          "name": "Miami Heat vs Cleveland Cavaliers | 08:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-da27bc00cd",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-da27bc00cd",
+                  "name": "Miami Heat vs Cleveland Cavaliers",
+                  "streams": [
+                    {
+                      "id": "st-da27bc00cd",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8867bb77af",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794555696_hd/1794555696_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Miami Heat",
+            "team_b": "Cleveland Cavaliers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/43ebb4d6ad3ea5b68e9b1c969dff055b.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
+            "time": "08:00:00",
+            "date": "14/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25338278_c94eab68_20261113.png?v=c94eab68",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-287a3e3380",
+          "name": "Chicago Bulls vs Atlanta Hawks | 08:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-287a3e3380",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-287a3e3380",
+                  "name": "Chicago Bulls vs Atlanta Hawks",
+                  "streams": [
+                    {
+                      "id": "st-287a3e3380",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a9d15e9430",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794555731_hd/1794555731_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Chicago Bulls",
+            "team_b": "Atlanta Hawks",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c73eca8b9cc18ff386bf6ff4c1236b9e.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/57bd383cc8c9b3d4f92a5d1c371e38e9.png",
+            "time": "08:00:00",
+            "date": "14/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24338277_1ce34494_20261113.png?v=1ce34494",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c4ae05aa20",
+          "name": "Houston Rockets vs Utah Jazz | 08:30 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c4ae05aa20",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c4ae05aa20",
+                  "name": "Houston Rockets vs Utah Jazz",
+                  "streams": [
+                    {
+                      "id": "st-c4ae05aa20",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1ad01d3e3d",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794555783_hd/1794555783_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Houston Rockets",
+            "team_b": "Utah Jazz",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
+            "time": "08:30:00",
+            "date": "14/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36398275_5493074d_20261113.png?v=5493074d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-eae36c5856",
+          "name": "San Antonio Spurs vs Golden State Warriors | 09:30 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-eae36c5856",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-eae36c5856",
+                  "name": "San Antonio Spurs vs Golden State Warriors",
+                  "streams": [
+                    {
+                      "id": "st-eae36c5856",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d63851f560",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794555828_hd/1794555828_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "San Antonio Spurs",
+            "team_b": "Golden State Warriors",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c7341a14964f12885ea2ae80b76cebe8.png",
+            "time": "09:30:00",
+            "date": "14/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37398276_bffcde2b_20261113.png?v=bffcde2b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-6cc687837d",
           "name": "Barcelona vs Obradoiro CAB | 23:00 15/11",
           "type": "single",
