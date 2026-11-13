@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -76,7 +76,7 @@
             "time": "15:30:00",
             "date": "13/11",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "15:30:00",
             "date": "13/11",
             "blv": "Dory",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1028,7 +1028,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1113,10 +1113,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1165,7 +1165,7 @@
             "time": "15:30:00",
             "date": "13/11",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1317,6 +1317,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25360374_88911ff0_20261113.png?v=88911ff0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ae4741c831",
+          "name": "Efes Pilsen vs Virtus Bologna | 00:30 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ae4741c831",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ae4741c831",
+                  "name": "Efes Pilsen vs Virtus Bologna",
+                  "streams": [
+                    {
+                      "id": "st-ae4741c831",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0433b39f35",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794556180_hd/1794556180_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Efes Pilsen",
+            "team_b": "Virtus Bologna",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/39e14cf9edd095fe5daed21f75b67bd3.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/dbace366c85c2255f2d1eab26edfe7b9.png",
+            "time": "00:30:00",
+            "date": "14/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/15103278_326567bc_20261113.png?v=326567bc",
             "width": 1600,
             "height": 1200
           }
@@ -1826,6 +1898,294 @@
           }
         },
         {
+          "id": "gv-328fb89b53",
+          "name": "Sacramento Kings vs Portland Trail Blazers | 10:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-328fb89b53",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-328fb89b53",
+                  "name": "Sacramento Kings vs Portland Trail Blazers",
+                  "streams": [
+                    {
+                      "id": "st-328fb89b53",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ea37f8d095",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794555901_hd/1794555901_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Sacramento Kings",
+            "team_b": "Portland Trail Blazers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png",
+            "time": "10:00:00",
+            "date": "14/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38398277_d4e5473d_20261113.png?v=d4e5473d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2180abf055",
+          "name": "Los Angeles Clippers vs Oklahoma City Thunder | 10:30 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2180abf055",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2180abf055",
+                  "name": "Los Angeles Clippers vs Oklahoma City Thunder",
+                  "streams": [
+                    {
+                      "id": "st-2180abf055",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fe3c87eb94",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794555957_hd/1794555957_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Los Angeles Clippers",
+            "team_b": "Oklahoma City Thunder",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
+            "time": "10:30:00",
+            "date": "14/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39398278_e435b031_20261113.png?v=e435b031",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-40129e7b72",
+          "name": "Jeonju KCC Egis vs Seoul SK Knights | 12:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40129e7b72",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-40129e7b72",
+                  "name": "Jeonju KCC Egis vs Seoul SK Knights",
+                  "streams": [
+                    {
+                      "id": "st-40129e7b72",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-31b11ea33e",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794556066_hd/1794556066_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Jeonju KCC Egis",
+            "team_b": "Seoul SK Knights",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a2ba5e8d224376506856ad5dd34de831.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/425cf7236b655f8922a9b53220d3d1b6.png",
+            "time": "12:00:00",
+            "date": "14/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26360375_c416c468_20261113.png?v=c416c468",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-03e2b9d50e",
+          "name": "Changwon LG Sakers vs Ulsan Hyundai Mobis Phoebus | 12:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-03e2b9d50e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-03e2b9d50e",
+                  "name": "Changwon LG Sakers vs Ulsan Hyundai Mobis Phoebus",
+                  "streams": [
+                    {
+                      "id": "st-03e2b9d50e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a098fa47bf",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794556107_hd/1794556107_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Changwon LG Sakers",
+            "team_b": "Ulsan Hyundai Mobis Phoebus",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ccac4cdb678cc18454c6aecd42e321d6.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e22caa597076764dd0d04b55d46f764e.png",
+            "time": "12:00:00",
+            "date": "14/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27360376_84bb59b9_20261113.png?v=84bb59b9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-6cc687837d",
           "name": "Barcelona vs Obradoiro CAB | 23:00 15/11",
           "type": "single",
@@ -2123,78 +2483,6 @@
           }
         },
         {
-          "id": "gv-d4c76d29b8",
-          "name": "GS Caltex Nữ vs SOOP SOOPers Nữ | 02:00 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d4c76d29b8",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d4c76d29b8",
-                  "name": "GS Caltex Nữ vs SOOP SOOPers Nữ",
-                  "streams": [
-                    {
-                      "id": "st-d4c76d29b8",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2b1c165ee4",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794554350_hd/1794554350_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Volleyball League Nữ",
-            "team_a": "GS Caltex Nữ",
-            "team_b": "SOOP SOOPers Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/EXtx7sXg-EL2iNWK6.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/zaBfVVfM-jZFjtRuk.png",
-            "time": "02:00:00",
-            "date": "14/11",
-            "blv": "Sún",
-            "is_live": false,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sglj0u35nqac_f99e604f_20261113.png?v=f99e604f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-2531a8c8c5",
           "name": "Hisamitsu Springs Nữ vs PFU Blue Cats Nữ | 11:05 14/11",
           "type": "single",
@@ -2262,6 +2550,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/mgqkagkwk9b6_50698b00_20261113.png?v=50698b00",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d4c76d29b8",
+          "name": "GS Caltex Nữ vs SOOP SOOPers Nữ | 14:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d4c76d29b8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d4c76d29b8",
+                  "name": "GS Caltex Nữ vs SOOP SOOPers Nữ",
+                  "streams": [
+                    {
+                      "id": "st-d4c76d29b8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2b1c165ee4",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794554350_hd/1794554350_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hàn Quốc Volleyball League Nữ",
+            "team_a": "GS Caltex Nữ",
+            "team_b": "SOOP SOOPers Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/EXtx7sXg-EL2iNWK6.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/zaBfVVfM-jZFjtRuk.png",
+            "time": "14:00:00",
+            "date": "14/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sglj0u35nqac_f99e604f_20261113.png?v=f99e604f",
             "width": 1600,
             "height": 1200
           }
