@@ -1424,83 +1424,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (2 LIVE)",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-6fee5ddd94",
-          "name": "Colorado Avalanche vs Ottowa Senators | 07:00 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6fee5ddd94",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6fee5ddd94",
-                  "name": "Colorado Avalanche vs Ottowa Senators",
-                  "streams": [
-                    {
-                      "id": "st-6fee5ddd94",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2ec759e50a",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794470916_hd/1794470916_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NHL",
-            "team_a": "Colorado Avalanche",
-            "team_b": "Ottowa Senators",
-            "logo_a": "https://static.flashscore.com/res/image/data/hzAqe0zB-UkrSKu1K.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/MymqJHHG-U3Fg3Bur.png",
-            "time": "07:00:00",
-            "date": "13/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/m1afw4v6ruzu_e7d7b766_20261113.png?v=e7d7b766",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-3062d5ea48",
           "name": "Washington Commanders vs New York Giants | 08:15 13/11",
