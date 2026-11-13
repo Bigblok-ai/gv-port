@@ -233,6 +233,78 @@
           }
         },
         {
+          "id": "gv-13a24ff8d5",
+          "name": "Qatar vs Australia | 21:45 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-13a24ff8d5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-13a24ff8d5",
+                  "name": "Qatar vs Australia",
+                  "streams": [
+                    {
+                      "id": "st-13a24ff8d5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-47fbe76799",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794539110_hd/1794539110_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Qatar",
+            "team_b": "Australia",
+            "logo_a": "https://images.keovip88.net/images/teams/qatar.png",
+            "logo_b": "https://images.keovip88.net/images/teams/australia.png",
+            "time": "21:45:00",
+            "date": "13/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e8f24d46db8709a7f75_ec449070_20261113.png?v=ec449070",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-18d97fee4b",
           "name": "Moldova vs Kazakhstan | 00:00 14/11",
           "type": "single",
@@ -1173,6 +1245,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24722274_14530828_20261113.png?v=14530828",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-923a76fef6",
+          "name": "Cairns Taipans vs Sydney Kings | 15:30 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-923a76fef6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-923a76fef6",
+                  "name": "Cairns Taipans vs Sydney Kings",
+                  "streams": [
+                    {
+                      "id": "st-923a76fef6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-70e08cd515",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794539163_hd/1794539163_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Cairns Taipans",
+            "team_b": "Sydney Kings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/690d69ad99fc8d3bd6fe4a7131521421.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7e24a7272efcfecc7b45fa8c86605bd0.png",
+            "time": "15:30:00",
+            "date": "13/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25722275_7a190298_20261113.png?v=7a190298",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cc04be8b3a",
+          "name": "Wonju Dongbu Promy vs Busan KTF Magicwings | 17:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cc04be8b3a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cc04be8b3a",
+                  "name": "Wonju Dongbu Promy vs Busan KTF Magicwings",
+                  "streams": [
+                    {
+                      "id": "st-cc04be8b3a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-82acc2c714",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794539191_hd/1794539191_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Wonju Dongbu Promy",
+            "team_b": "Busan KTF Magicwings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ad13a8e4c726a65f277f7da7a19a4126.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2cf065fbe1f93fb229c981c1d88d9618.png",
+            "time": "17:00:00",
+            "date": "13/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25360374_88911ff0_20261113.png?v=88911ff0",
             "width": 1600,
             "height": 1200
           }
