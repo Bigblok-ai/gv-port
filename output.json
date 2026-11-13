@@ -1178,78 +1178,6 @@
           }
         },
         {
-          "id": "gv-cc04be8b3a",
-          "name": "Wonju Dongbu Promy vs Busan KTF Magicwings | 17:00 13/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cc04be8b3a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cc04be8b3a",
-                  "name": "Wonju Dongbu Promy vs Busan KTF Magicwings",
-                  "streams": [
-                    {
-                      "id": "st-cc04be8b3a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-82acc2c714",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794539191_hd/1794539191_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Wonju Dongbu Promy",
-            "team_b": "Busan KTF Magicwings",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ad13a8e4c726a65f277f7da7a19a4126.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2cf065fbe1f93fb229c981c1d88d9618.png",
-            "time": "17:00:00",
-            "date": "13/11",
-            "blv": "Điếc",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25360374_88911ff0_20261113.png?v=88911ff0",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-33c9f5128c",
           "name": "Binan Tatak Gel vs Quezon Huskers | 17:00 13/11",
           "type": "single",
@@ -1317,6 +1245,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tml8il6jdi3b_0eae236b_20261113.png?v=0eae236b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cc04be8b3a",
+          "name": "Wonju Dongbu Promy vs Busan KTF Magicwings | 17:00 13/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cc04be8b3a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cc04be8b3a",
+                  "name": "Wonju Dongbu Promy vs Busan KTF Magicwings",
+                  "streams": [
+                    {
+                      "id": "st-cc04be8b3a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-82acc2c714",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794539191_hd/1794539191_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Wonju Dongbu Promy",
+            "team_b": "Busan KTF Magicwings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ad13a8e4c726a65f277f7da7a19a4126.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2cf065fbe1f93fb229c981c1d88d9618.png",
+            "time": "17:00:00",
+            "date": "13/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25360374_88911ff0_20261113.png?v=88911ff0",
             "width": 1600,
             "height": 1200
           }
