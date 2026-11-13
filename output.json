@@ -1261,6 +1261,87 @@
       ]
     },
     {
+      "id": "cate_vothuat",
+      "name": "🥊 Võ Thuật",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-ef0e69293c",
+          "name": "Gane vs Hokit | 05:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ef0e69293c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ef0e69293c",
+                  "name": "Gane vs Hokit",
+                  "streams": [
+                    {
+                      "id": "st-ef0e69293c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-69ccf8d6cb",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794537831_hd/1794537831_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UFC 334 Gane vs Hokit",
+            "team_a": "Gane",
+            "team_b": "Hokit",
+            "logo_a": "https://static.flashscore.com/res/image/data/AeITj5zB-WOcxbMQP.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/W4aeuoil-tp0rVXlb.png",
+            "time": "05:00:00",
+            "date": "15/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/klnvw1uu2ed7_e5d99460_20261113.png?v=e5d99460",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_bongchay",
       "name": "⚾ Bóng Chày (1 LIVE)",
       "display": "vertical",
@@ -1488,6 +1569,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/42iiivzq013i_a32894c0_20261113.png?v=a32894c0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-097436af32",
+          "name": "Green Bay Packers vs Minnesota Vikings | 01:00 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-097436af32",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-097436af32",
+                  "name": "Green Bay Packers vs Minnesota Vikings",
+                  "streams": [
+                    {
+                      "id": "st-097436af32",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c284f0e072",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794537938_hd/1794537938_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Green Bay Packers",
+            "team_b": "Minnesota Vikings",
+            "logo_a": "https://static.flashscore.com/res/image/data/hpgNlTf5-AinqGEaT.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/biIGYHdM-lKpbmRGS.png",
+            "time": "01:00:00",
+            "date": "16/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ojg3rnrv3uvy_03813856_20261113.png?v=03813856",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-db61a6d4e5",
+          "name": "Las Vegas Raiders vs Seattle Seahawks | 04:05 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-db61a6d4e5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-db61a6d4e5",
+                  "name": "Las Vegas Raiders vs Seattle Seahawks",
+                  "streams": [
+                    {
+                      "id": "st-db61a6d4e5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3affe7027e",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794537994_hd/1794537994_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Las Vegas Raiders",
+            "team_b": "Seattle Seahawks",
+            "logo_a": "https://static.flashscore.com/res/image/data/rD2Lyqil-4QFOfPSs.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/r3Fomsf5-ER5jeflb.png",
+            "time": "04:05:00",
+            "date": "16/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/265vfj0ywclj_4a77ba80_20261113.png?v=4a77ba80",
             "width": 1600,
             "height": 1200
           }
