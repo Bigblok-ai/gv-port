@@ -812,83 +812,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-eae36c5856",
-          "name": "San Antonio Spurs vs Golden State Warriors | 09:30 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-eae36c5856",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-eae36c5856",
-                  "name": "San Antonio Spurs vs Golden State Warriors",
-                  "streams": [
-                    {
-                      "id": "st-eae36c5856",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d63851f560",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794555828_hd/1794555828_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "San Antonio Spurs",
-            "team_b": "Golden State Warriors",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c7341a14964f12885ea2ae80b76cebe8.png",
-            "time": "09:30:00",
-            "date": "14/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37398276_bffcde2b_20261114.png?v=bffcde2b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-328fb89b53",
           "name": "Sacramento Kings vs Portland Trail Blazers | 10:00 14/11",
@@ -1704,87 +1632,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/klnvw1uu2ed7_e5d99460_20261114.png?v=e5d99460",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-bbc3a9cf56",
-          "name": "Australia vs Nhật Bản | 10:00 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bbc3a9cf56",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-bbc3a9cf56",
-                  "name": "Australia vs Nhật Bản",
-                  "streams": [
-                    {
-                      "id": "st-bbc3a9cf56",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2d144a7aea",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794554037_hd/1794554037_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asia Professional Championship",
-            "team_a": "Australia",
-            "team_b": "Nhật Bản",
-            "logo_a": "https://static.flashscore.com/res/image/data/Ygu7zgHG-YNb3oHYR.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Crg4NaGG-ALs6yNah.png",
-            "time": "10:00:00",
-            "date": "14/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "bongchay"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nk3h6nkrw8md_522cde24_20261114.png?v=522cde24",
             "width": 1600,
             "height": 1200
           }
