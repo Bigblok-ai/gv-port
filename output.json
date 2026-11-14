@@ -746,78 +746,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-3864028227",
-          "name": "Orlando Magic vs Milwaukee Bucks | 07:00 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3864028227",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3864028227",
-                  "name": "Orlando Magic vs Milwaukee Bucks",
-                  "streams": [
-                    {
-                      "id": "st-3864028227",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cf6e2b7c51",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794591125_hd/1794591125_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Orlando Magic",
-            "team_b": "Milwaukee Bucks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2566b135b0e54971193a132bd8a1473c.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e82de69ea44942a3e90a5be6cf0004da.png",
-            "time": "07:00:00",
-            "date": "14/11",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23338276_3d874316_20261114.png?v=3d874316",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-ff6d8757b6",
           "name": "Indiana Pacers vs New York Knicks | 07:00 14/11",
           "type": "single",
@@ -1257,10 +1185,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1309,7 +1237,7 @@
             "time": "10:00:00",
             "date": "14/11",
             "blv": "Mickey",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2072,7 +2000,7 @@
     },
     {
       "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày",
+      "name": "⚾ Bóng Chày (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2085,10 +2013,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2137,7 +2065,7 @@
             "time": "10:00:00",
             "date": "14/11",
             "blv": "Cận",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchay"
           },
           "image": {
@@ -2153,7 +2081,7 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2166,10 +2094,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2218,7 +2146,7 @@
             "time": "10:00:00",
             "date": "14/11",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "rugby"
           },
           "image": {
