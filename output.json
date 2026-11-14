@@ -1172,83 +1172,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-40129e7b72",
-          "name": "Jeonju KCC Egis vs Seoul SK Knights | 12:00 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-40129e7b72",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-40129e7b72",
-                  "name": "Jeonju KCC Egis vs Seoul SK Knights",
-                  "streams": [
-                    {
-                      "id": "st-40129e7b72",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-31b11ea33e",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794556066_hd/1794556066_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Jeonju KCC Egis",
-            "team_b": "Seoul SK Knights",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a2ba5e8d224376506856ad5dd34de831.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/425cf7236b655f8922a9b53220d3d1b6.png",
-            "time": "12:00:00",
-            "date": "14/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26360375_c416c468_20261114.png?v=c416c468",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-03e2b9d50e",
           "name": "Changwon LG Sakers vs Ulsan Hyundai Mobis Phoebus | 12:00 14/11",
@@ -1533,6 +1461,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27324578_6df2133b_20261114.png?v=6df2133b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8c9aaa27dc",
+          "name": "Denmark vs Germany | 21:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8c9aaa27dc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8c9aaa27dc",
+                  "name": "Denmark vs Germany",
+                  "streams": [
+                    {
+                      "id": "st-8c9aaa27dc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-492b187d85",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794639424_hd/1794639424_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIBA Women's EuroBasket 2027",
+            "team_a": "Denmark",
+            "team_b": "Germany",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/LaOvu-pyRqRso6uzff55XA_96x96.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/h1FhPLmDg9AHXzhygqvVPg_96x96.png",
+            "time": "21:00:00",
+            "date": "14/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/jjmjxnk1qv7x_5451adf3_20261114.png?v=5451adf3",
             "width": 1600,
             "height": 1200
           }
