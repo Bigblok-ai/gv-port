@@ -1613,83 +1613,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d4c76d29b8",
-          "name": "GS Caltex Nữ vs SOOP SOOPers Nữ | 14:00 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d4c76d29b8",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d4c76d29b8",
-                  "name": "GS Caltex Nữ vs SOOP SOOPers Nữ",
-                  "streams": [
-                    {
-                      "id": "st-d4c76d29b8",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2b1c165ee4",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794554350_hd/1794554350_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Volleyball League Nữ",
-            "team_a": "GS Caltex Nữ",
-            "team_b": "SOOP SOOPers Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/EXtx7sXg-EL2iNWK6.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/zaBfVVfM-jZFjtRuk.png",
-            "time": "14:00:00",
-            "date": "14/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sglj0u35nqac_f99e604f_20261114.png?v=f99e604f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-982c32feb2",
           "name": "Gebze vs Ziraat Bankasi | 18:00 14/11",
