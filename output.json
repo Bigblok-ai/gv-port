@@ -884,83 +884,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d4df99e34e",
-          "name": "San Juan Knights vs Abra Weavers | 17:30 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d4df99e34e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d4df99e34e",
-                  "name": "San Juan Knights vs Abra Weavers",
-                  "streams": [
-                    {
-                      "id": "st-d4df99e34e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a2a71c750d",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794639350_hd/1794639350_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Philippines MPBL",
-            "team_a": "San Juan Knights",
-            "team_b": "Abra Weavers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c510ba73d42457170c2b44cba1ac39f1.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/892baaa7306258ab78e3c4fd0bfdb775.png",
-            "time": "17:30:00",
-            "date": "14/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27324578_6df2133b_20261114.png?v=6df2133b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-8c9aaa27dc",
           "name": "Denmark vs Germany | 21:00 14/11",
