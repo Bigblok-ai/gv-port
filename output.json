@@ -1622,7 +1622,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1635,10 +1635,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1687,7 +1687,7 @@
             "time": "17:30:00",
             "date": "14/11",
             "blv": "Riko",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
@@ -1848,6 +1848,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/aisyuiybsctk_e7aa6721_20261114.png?v=e7aa6721",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-67d3a04b14",
+          "name": "Chimaev vs Weidman | 23:00 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-67d3a04b14",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-67d3a04b14",
+                  "name": "Chimaev vs Weidman",
+                  "streams": [
+                    {
+                      "id": "st-67d3a04b14",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-168260b982",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794650157_hd/1794650157_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "RAF Abu Dhabi",
+            "team_a": "Chimaev",
+            "team_b": "Weidman",
+            "logo_a": "https://combat-edge.com/_vercel/image?url=https%3A%2F%2Fi.imgur.com%2FS669Gqq.png&w=640&q=70&dpl=dpl_4dUJ1P9M2Qs8dRRw5KCtmi3pUVun",
+            "logo_b": "https://combat-edge.com/_vercel/image?url=https%3A%2F%2Fdmxg5wxfqgb4u.cloudfront.net%2Fstyles%2Fathlete_bio_full_body%2Fs3%2F2024-03%2FWEIDMAN_CHRIS_L_03-30.png%3Fitok%3D0WB62YKf&w=640&q=70&dpl=dpl_4dUJ1P9M2Qs8dRRw5KCtmi3pUVun",
+            "time": "23:00:00",
+            "date": "14/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/a9y4bvqd6t4h_759dcb84_20261114.png?v=759dcb84",
             "width": 1600,
             "height": 1200
           }
