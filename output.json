@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-8b53459e0c",
-          "name": "Georgia vs Hungary | 00:00 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8b53459e0c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8b53459e0c",
-                  "name": "Georgia vs Hungary",
-                  "streams": [
-                    {
-                      "id": "st-8b53459e0c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-98de065b25",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794664634_hd/1794664634_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Georgia",
-            "team_b": "Hungary",
-            "logo_a": "https://images.keovip88.net/images/teams/georgia.png",
-            "logo_b": "https://images.keovip88.net/images/teams/hungary.png",
-            "time": "00:00:00",
-            "date": "15/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f695d673ba0b335e0f2ecd_71159658_20261115.png?v=71159658",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-864fdbc418",
           "name": "Na Uy vs Wales | 00:00 15/11",
@@ -1757,83 +1685,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2750eac339",
-          "name": "Fenerbahce vs Galatasaray | 23:00 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2750eac339",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2750eac339",
-                  "name": "Fenerbahce vs Galatasaray",
-                  "streams": [
-                    {
-                      "id": "st-2750eac339",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-439e422889",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794657666_hd/1794657666_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkey Sultanlar Ligi",
-            "team_a": "Fenerbahce",
-            "team_b": "Galatasaray",
-            "logo_a": "https://static.flashscore.com/res/image/data/2NnRTQjl-llnQ8REs.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/ziy5KsdM-dEXkR0Wq.png",
-            "time": "23:00:00",
-            "date": "14/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ffl45345zpx4_f3015db8_20261115.png?v=f3015db8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-7388ea4d33",
           "name": "Hisamitsu Springs Nữ vs PFU Blue Cats Nữ | 11:05 15/11",
