@@ -1838,7 +1838,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1851,10 +1851,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1903,7 +1903,7 @@
             "time": "15:00:00",
             "date": "14/11",
             "blv": "Mickey",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
@@ -1911,6 +1911,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/o13w3birhqpc_f44f38c7_20261114.png?v=f44f38c7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-393453eb66",
+          "name": "Team Falcons vs FURIA | 17:30 14/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-393453eb66",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-393453eb66",
+                  "name": "Team Falcons vs FURIA",
+                  "streams": [
+                    {
+                      "id": "st-393453eb66",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d22306811b",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794641287_hd/1794641287_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "BLAST Rivals 2026 Season 2",
+            "team_a": "Team Falcons",
+            "team_b": "FURIA",
+            "logo_a": "https://static.flashscore.com/res/image/data/GfCFGXDa-Ox5OEEWq.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/G2z2rzf5-EgrECzdn.png",
+            "time": "17:30:00",
+            "date": "14/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/476vmp14l0ib_c2c18d0d_20261114.png?v=c2c18d0d",
             "width": 1600,
             "height": 1200
           }
