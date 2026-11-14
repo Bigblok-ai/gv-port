@@ -812,83 +812,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2180abf055",
-          "name": "Los Angeles Clippers vs Oklahoma City Thunder | 10:30 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2180abf055",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2180abf055",
-                  "name": "Los Angeles Clippers vs Oklahoma City Thunder",
-                  "streams": [
-                    {
-                      "id": "st-2180abf055",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fe3c87eb94",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794555957_hd/1794555957_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Los Angeles Clippers",
-            "team_b": "Oklahoma City Thunder",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
-            "time": "10:30:00",
-            "date": "14/11",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39398278_e435b031_20261114.png?v=e435b031",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-40129e7b72",
           "name": "Jeonju KCC Egis vs Seoul SK Knights | 12:00 14/11",
@@ -1568,83 +1496,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b3f1d2254b",
-          "name": "Nashville Predators vs Las Vegas Golden Knights | 10:00 14/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b3f1d2254b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b3f1d2254b",
-                  "name": "Nashville Predators vs Las Vegas Golden Knights",
-                  "streams": [
-                    {
-                      "id": "st-b3f1d2254b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-174dfe1a61",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794554130_hd/1794554130_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NHL",
-            "team_a": "Nashville Predators",
-            "team_b": "Las Vegas Golden Knights",
-            "logo_a": "https://static.flashscore.com/res/image/data/YouJXDg5-ITwf9voH.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/rcaaQKFG-MucFHXDq.png",
-            "time": "10:00:00",
-            "date": "14/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e3oylpqj2tgu_2ad22922_20261114.png?v=2ad22922",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-097436af32",
           "name": "Green Bay Packers vs Minnesota Vikings | 01:00 16/11",
