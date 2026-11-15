@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "gv-7208140318",
-          "name": "Phần Lan vs San Marino | 00:00 16/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7208140318",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7208140318",
-                  "name": "Phần Lan vs San Marino",
-                  "streams": [
-                    {
-                      "id": "st-7208140318",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-80943f03f1",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794536745_hd/1794536745_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Phần Lan",
-            "team_b": "San Marino",
-            "logo_a": "https://images.keovip88.net/images/teams/finland.png",
-            "logo_b": "https://images.keovip88.net/images/teams/san-marino.png",
-            "time": "00:00:00",
-            "date": "16/11",
-            "blv": "Mason",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf64_fdea580c_20261115.png?v=fdea580c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-38fe29cc1d",
           "name": "Bỉ vs Ý | 02:45 16/11",
           "type": "single",
@@ -524,83 +452,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f158f6df38",
-          "name": "Sweden (W) vs Belgium (W) | 22:00 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f158f6df38",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f158f6df38",
-                  "name": "Sweden (W) vs Belgium (W)",
-                  "streams": [
-                    {
-                      "id": "st-f158f6df38",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a0dd14f909",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794731162_hd/1794731162_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Basketball Championship Qualifier(W)",
-            "team_a": "Sweden (W)",
-            "team_b": "Belgium (W)",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/bec1be64c3fb4e372a6bf2d722c9806e.bmp",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/fbd335f7eb2dc0653f2db839e104e3d6.png",
-            "time": "22:00:00",
-            "date": "15/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28600868_dbdf6487_20261115.png?v=dbdf6487",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6cc687837d",
           "name": "Barcelona vs Obradoiro CAB | 23:00 15/11",
