@@ -674,6 +674,222 @@
           }
         },
         {
+          "id": "gv-e4864fbacb",
+          "name": "Valencia vs Leyma Coruna | 18:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e4864fbacb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e4864fbacb",
+                  "name": "Valencia vs Leyma Coruna",
+                  "streams": [
+                    {
+                      "id": "st-e4864fbacb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b20209c245",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794726551_hd/1794726551_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Spain ACB",
+            "team_a": "Valencia",
+            "team_b": "Leyma Coruna",
+            "logo_a": "https://static.flashscore.com/res/image/data/UFmsOtyB-0xo9H7fm.png",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjtLMxW3r111pC9HPmFNrl6g5QJ6Ba2dFC3ZQB9Srfwg&s=10",
+            "time": "18:00:00",
+            "date": "15/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/z4ood0hvp7gv_a74541a5_20261115.png?v=a74541a5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d77f43a706",
+          "name": "Finland (W) vs Lithuania (W) | 21:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d77f43a706",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d77f43a706",
+                  "name": "Finland (W) vs Lithuania (W)",
+                  "streams": [
+                    {
+                      "id": "st-d77f43a706",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-32c21ada00",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794726630_hd/1794726630_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Basketball Championship Qualifier(W)",
+            "team_a": "Finland (W)",
+            "team_b": "Lithuania (W)",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ee75b09ad22df411e0d14b6726bda04e.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6d5258d6c9e0575dd2d9673290b89a88.gif",
+            "time": "21:00:00",
+            "date": "15/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27600867_2ac918bf_20261115.png?v=2ac918bf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f158f6df38",
+          "name": "Sweden (W) vs Belgium (W) | 22:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f158f6df38",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f158f6df38",
+                  "name": "Sweden (W) vs Belgium (W)",
+                  "streams": [
+                    {
+                      "id": "st-f158f6df38",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cc74cc8a82",
+                          "name": "Cận vs Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794726766_hd/1794726766_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Basketball Championship Qualifier(W)",
+            "team_a": "Sweden (W)",
+            "team_b": "Belgium (W)",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/bec1be64c3fb4e372a6bf2d722c9806e.bmp",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/fbd335f7eb2dc0653f2db839e104e3d6.png",
+            "time": "22:00:00",
+            "date": "15/11",
+            "blv": "Cận vs Ngu",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28600868_dbdf6487_20261115.png?v=dbdf6487",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-6cc687837d",
           "name": "Barcelona vs Obradoiro CAB | 23:00 15/11",
           "type": "single",
@@ -1398,6 +1614,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ikgb7d4zu92a_ba16d15d_20261115.png?v=ba16d15d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-12d27a2743",
+          "name": "Fenerbahce Nữ vs Nilufer Bld. Nữ | 17:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-12d27a2743",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-12d27a2743",
+                  "name": "Fenerbahce Nữ vs Nilufer Bld. Nữ",
+                  "streams": [
+                    {
+                      "id": "st-12d27a2743",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-249219e455",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794726809_hd/1794726809_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkey Sultanlar Ligi Nữ ",
+            "team_a": "Fenerbahce Nữ",
+            "team_b": "Nilufer Bld. Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/2NnRTQjl-llnQ8REs.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rPFpfgDa-vRpcHup9.png",
+            "time": "17:00:00",
+            "date": "15/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aajwftoxuj5_8b3c2e5e_20261115.png?v=8b3c2e5e",
             "width": 1600,
             "height": 1200
           }
