@@ -524,83 +524,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-16dda5e066",
-          "name": "Changwon LG Sakers vs Busan KTF Magicwings | 14:30 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-16dda5e066",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-16dda5e066",
-                  "name": "Changwon LG Sakers vs Busan KTF Magicwings",
-                  "streams": [
-                    {
-                      "id": "st-16dda5e066",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0c671628c2",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794715485_hd/1794715485_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Changwon LG Sakers",
-            "team_b": "Busan KTF Magicwings",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ccac4cdb678cc18454c6aecd42e321d6.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2cf065fbe1f93fb229c981c1d88d9618.png",
-            "time": "14:30:00",
-            "date": "15/11",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20460370_458eafc1_20261115.png?v=458eafc1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-12e82ded8c",
           "name": "Forca Lleida vs Manresa | 18:00 15/11",
