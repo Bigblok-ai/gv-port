@@ -380,83 +380,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-6cc687837d",
-          "name": "Barcelona vs Obradoiro CAB | 23:00 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6cc687837d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6cc687837d",
-                  "name": "Barcelona vs Obradoiro CAB",
-                  "streams": [
-                    {
-                      "id": "st-6cc687837d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aba43dca0c",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794536931_hd/1794536931_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ACb",
-            "team_a": "Barcelona",
-            "team_b": "Obradoiro CAB",
-            "logo_a": "https://static.flashscore.com/res/image/data/Sn90D8FG-AZCWGI9F.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/GQO85GxS-MkO5VDN4.png",
-            "time": "23:00:00",
-            "date": "15/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gu3dtayupbyd_7a410ad4_20261116.png?v=7a410ad4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-1b19693248",
           "name": "Baskonia vs Real Madrid | 01:00 16/11",
