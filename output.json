@@ -161,6 +161,78 @@
           }
         },
         {
+          "id": "gv-798ace5f99",
+          "name": "Granada CF vs Las Palmas | 22:15 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-798ace5f99",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-798ace5f99",
+                  "name": "Granada CF vs Las Palmas",
+                  "streams": [
+                    {
+                      "id": "st-798ace5f99",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-100fda326b",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794740761_hd/1794740761_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng 2 Tây Ban Nha",
+            "team_a": "Granada CF",
+            "team_b": "Las Palmas",
+            "logo_a": "https://images.keovip88.net/images/teams/granada-cf.png",
+            "logo_b": "https://images.keovip88.net/images/teams/las-palmas.png",
+            "time": "22:15:00",
+            "date": "15/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a4324d46db87052adfc_d0ae4918_20261115.png?v=d0ae4918",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-7208140318",
           "name": "Phần Lan vs San Marino | 00:00 16/11",
           "type": "single",
@@ -2127,87 +2199,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7rh6gjon9nd5_830aad2c_20261115.png?v=830aad2c",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-d67931471e",
-          "name": "Grand Finals vs BLAST Rivals 2026 Season 2 | 15:00 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d67931471e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d67931471e",
-                  "name": "Grand Finals vs BLAST Rivals 2026 Season 2",
-                  "streams": [
-                    {
-                      "id": "st-d67931471e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3a7d3f3b19",
-                          "name": "Mickey vs Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794727177_hd/1794727177_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "BLAST Rivals 2026 Season 2",
-            "team_a": "Grand Finals",
-            "team_b": "BLAST Rivals 2026 Season 2",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUnN8qAQScNlXcAmsGlDca_z15qQ2zqB4inO8N-JcHJz2KYEWFD9fJFk&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoC5E4VYW5XlnB7G-GHmN7zq9P_ywn9b6FByELOvWeYNxRdOmCHVMhIAg&s=10",
-            "time": "15:00:00",
-            "date": "15/11",
-            "blv": "Mickey vs Nem",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/my9waxm1fhnc_ee1a5a1b_20261115.png?v=ee1a5a1b",
             "width": 1600,
             "height": 1200
           }
