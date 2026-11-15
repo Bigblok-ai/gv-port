@@ -17,6 +17,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-0137b38c46",
+          "name": "Kataller Toyama vs Tokushima Vortis | 12:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0137b38c46",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0137b38c46",
+                  "name": "Kataller Toyama vs Tokushima Vortis",
+                  "streams": [
+                    {
+                      "id": "st-0137b38c46",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b955590166",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794715269_hd/1794715269_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng 2 Nhật Bản",
+            "team_a": "Kataller Toyama",
+            "team_b": "Tokushima Vortis",
+            "logo_a": "https://images.keovip88.net/images/teams/kataller-toyama.png",
+            "logo_b": "https://images.keovip88.net/images/teams/tokushima-vortis.png",
+            "time": "12:00:00",
+            "date": "15/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a3f24d46db87052aa2e_a06d943a_20261115.png?v=a06d943a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-7208140318",
           "name": "Phần Lan vs San Marino | 00:00 16/11",
           "type": "single",
@@ -453,6 +525,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28722278_d5e93379_20261115.png?v=d5e93379",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1fcaea4696",
+          "name": "Goyang Orions vs Wonju Dongbu Promy | 12:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1fcaea4696",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1fcaea4696",
+                  "name": "Goyang Orions vs Wonju Dongbu Promy",
+                  "streams": [
+                    {
+                      "id": "st-1fcaea4696",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-db9c7e335d",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794715333_hd/1794715333_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Goyang Orions",
+            "team_b": "Wonju Dongbu Promy",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/5b0e513f868dee6a403d7d5dfc3628b3.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ad13a8e4c726a65f277f7da7a19a4126.png",
+            "time": "12:00:00",
+            "date": "15/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29360378_c47f5508_20261115.png?v=c47f5508",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-16dda5e066",
+          "name": "Changwon LG Sakers vs Busan KTF Magicwings | 14:30 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-16dda5e066",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-16dda5e066",
+                  "name": "Changwon LG Sakers vs Busan KTF Magicwings",
+                  "streams": [
+                    {
+                      "id": "st-16dda5e066",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0c671628c2",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794715485_hd/1794715485_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Changwon LG Sakers",
+            "team_b": "Busan KTF Magicwings",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ccac4cdb678cc18454c6aecd42e321d6.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2cf065fbe1f93fb229c981c1d88d9618.png",
+            "time": "14:30:00",
+            "date": "15/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20460370_458eafc1_20261115.png?v=458eafc1",
             "width": 1600,
             "height": 1200
           }
