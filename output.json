@@ -447,49 +447,40 @@
             "width": 1600,
             "height": 1200
           }
-        }
-      ]
-    },
-    {
-      "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
+        },
         {
-          "id": "gv-d77f43a706",
-          "name": "Finland (W) vs Lithuania (W) | 21:00 15/11",
+          "id": "gv-335d43e142",
+          "name": "Trung Phi vs Benin | 23:00 16/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
             {
-              "id": "src-d77f43a706",
+              "id": "src-335d43e142",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-d77f43a706",
-                  "name": "Finland (W) vs Lithuania (W)",
+                  "id": "ct-335d43e142",
+                  "name": "Trung Phi vs Benin",
                   "streams": [
                     {
-                      "id": "st-d77f43a706",
+                      "id": "st-335d43e142",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-32c21ada00",
+                          "id": "lnk-a0d62d8ed9",
                           "name": "Mickey",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794726630_hd/1794726630_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794681590_hd/1794681590_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -509,26 +500,35 @@
             }
           ],
           "org_metadata": {
-            "league": "European Basketball Championship Qualifier(W)",
-            "team_a": "Finland (W)",
-            "team_b": "Lithuania (W)",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ee75b09ad22df411e0d14b6726bda04e.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6d5258d6c9e0575dd2d9673290b89a88.gif",
-            "time": "21:00:00",
-            "date": "15/11",
+            "league": "Africa Cup of Nations",
+            "team_a": "Trung Phi",
+            "team_b": "Benin",
+            "logo_a": "https://images.keovip88.net/images/teams/central-african-republic.png",
+            "logo_b": "https://images.keovip88.net/images/teams/benin.png",
+            "time": "23:00:00",
+            "date": "16/11",
             "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "basketball"
+            "is_live": false,
+            "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27600867_2ac918bf_20261115.png?v=2ac918bf",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a35da18dbc86fdf90016047_379e40aa_20261115.png?v=379e40aa",
             "width": 1600,
             "height": 1200
           }
-        },
+        }
+      ]
+    },
+    {
+      "id": "cate_basketball",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
         {
           "id": "gv-f158f6df38",
           "name": "Sweden (W) vs Belgium (W) | 22:00 15/11",
