@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-798ace5f99",
-          "name": "Granada CF vs Las Palmas | 22:15 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-798ace5f99",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-798ace5f99",
-                  "name": "Granada CF vs Las Palmas",
-                  "streams": [
-                    {
-                      "id": "st-798ace5f99",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-100fda326b",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794740761_hd/1794740761_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng 2 Tây Ban Nha",
-            "team_a": "Granada CF",
-            "team_b": "Las Palmas",
-            "logo_a": "https://images.keovip88.net/images/teams/granada-cf.png",
-            "logo_b": "https://images.keovip88.net/images/teams/las-palmas.png",
-            "time": "22:15:00",
-            "date": "15/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a4324d46db87052adfc_d0ae4918_20261116.png?v=d0ae4918",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-7208140318",
           "name": "Phần Lan vs San Marino | 00:00 16/11",
@@ -1550,83 +1478,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-cc8fc501c1",
-          "name": "Talmassons Nữ vs Novara Nữ | 22:30 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cc8fc501c1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cc8fc501c1",
-                  "name": "Talmassons Nữ vs Novara Nữ",
-                  "streams": [
-                    {
-                      "id": "st-cc8fc501c1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b4d23eedba",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794726870_hd/1794726870_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italy - Seri A1 Nữ ",
-            "team_a": "Talmassons Nữ",
-            "team_b": "Novara Nữ",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCGrworUc8A0AdZVTsQj9RO5RLL1MGoMZP03ZBItcQRQ&s=10",
-            "logo_b": "https://static.flashscore.com/res/image/data/8UCiWxdM-KbBsKXD2.png",
-            "time": "22:30:00",
-            "date": "15/11",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zy9eaa0qbecd_17d53bdd_20261116.png?v=17d53bdd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6663235076",
           "name": "Scandicci Nữ vs UYBA Busto Arsizio Nữ | 23:00 15/11",
