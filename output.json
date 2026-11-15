@@ -602,6 +602,78 @@
           }
         },
         {
+          "id": "gv-0a0b73ddf6",
+          "name": "Brisbane Bullets vs Tasmania JackJumpers | 13:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0a0b73ddf6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0a0b73ddf6",
+                  "name": "Brisbane Bullets vs Tasmania JackJumpers",
+                  "streams": [
+                    {
+                      "id": "st-0a0b73ddf6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9e4108b3ca",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794715597_hd/1794715597_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Brisbane Bullets",
+            "team_b": "Tasmania JackJumpers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/fd1ef26f7174d02a5a30dbe9e69b45f9.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png",
+            "time": "13:00:00",
+            "date": "15/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29722279_70203b42_20261115.png?v=70203b42",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-16dda5e066",
           "name": "Changwon LG Sakers vs Busan KTF Magicwings | 14:30 15/11",
           "type": "single",
@@ -669,6 +741,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20460370_458eafc1_20261115.png?v=458eafc1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-876d58c5bc",
+          "name": "Jeonju KCC Egis vs Daegu KoGas Pegasus | 14:30 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-876d58c5bc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-876d58c5bc",
+                  "name": "Jeonju KCC Egis vs Daegu KoGas Pegasus",
+                  "streams": [
+                    {
+                      "id": "st-876d58c5bc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7f92a32d87",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794715545_hd/1794715545_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Korea Basketball League",
+            "team_a": "Jeonju KCC Egis",
+            "team_b": "Daegu KoGas Pegasus",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a2ba5e8d224376506856ad5dd34de831.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a322b3f45e8fc272b36c48003e467f20.png",
+            "time": "14:30:00",
+            "date": "15/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21460371_e65e05bb_20261115.png?v=e65e05bb",
             "width": 1600,
             "height": 1200
           }
@@ -1398,6 +1542,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/iq0cgqdurnb8_50698b00_20261115.png?v=50698b00",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-df55205d6c",
+          "name": "Hyundai E&C Hillstate Nữ vs Expressway Co Nữ | 14:00 15/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-df55205d6c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-df55205d6c",
+                  "name": "Hyundai E&C Hillstate Nữ vs Expressway Co Nữ",
+                  "streams": [
+                    {
+                      "id": "st-df55205d6c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c32bac3ad7",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794715668_hd/1794715668_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hàn Quốc Volleyball League Nữ",
+            "team_a": "Hyundai E&C Hillstate Nữ",
+            "team_b": "Expressway Co Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/MkA1GJXg-YJMxkMx4.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/2wkn81yB-WnWXnBkk.png",
+            "time": "14:00:00",
+            "date": "15/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ikgb7d4zu92a_ba16d15d_20261115.png?v=ba16d15d",
             "width": 1600,
             "height": 1200
           }
