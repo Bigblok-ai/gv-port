@@ -386,8 +386,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-1b19693248",
-          "name": "Baskonia vs Real Madrid | 01:00 16/11",
+          "id": "gv-ed08e9303c",
+          "name": "Phoenix Suns vs Los Angeles Lakers | 04:00 16/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -397,78 +397,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1b19693248",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1b19693248",
-                  "name": "Baskonia vs Real Madrid",
-                  "streams": [
-                    {
-                      "id": "st-1b19693248",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-76f0515280",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794537155_hd/1794537155_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ACB",
-            "team_a": "Baskonia",
-            "team_b": "Real Madrid",
-            "logo_a": "https://static.flashscore.com/res/image/data/fcISR1Ca-hhuZJcqF.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/GnbCKDYA-bXlcmj9T.png",
-            "time": "01:00:00",
-            "date": "16/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ym9s6629r24n_d938965d_20261116.png?v=d938965d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-ed08e9303c",
-          "name": "Phoenix Suns vs Los Angeles Lakers | 04:00 16/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -517,7 +445,7 @@
             "time": "04:00:00",
             "date": "16/11",
             "blv": "Chồn",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1189,87 +1117,6 @@
       ]
     },
     {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-6663235076",
-          "name": "Scandicci Nữ vs UYBA Busto Arsizio Nữ | 23:00 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6663235076",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6663235076",
-                  "name": "Scandicci Nữ vs UYBA Busto Arsizio Nữ",
-                  "streams": [
-                    {
-                      "id": "st-6663235076",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-254f422493",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794681914_hd/1794681914_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Italy - Seri A1 Nữ ",
-            "team_a": "Scandicci Nữ",
-            "team_b": "UYBA Busto Arsizio Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/0QZRMbg5-MuuCgGgG.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/pfEiFCxS-h8saiGlG.png",
-            "time": "23:00:00",
-            "date": "15/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7rh6gjon9nd5_830aad2c_20261116.png?v=830aad2c",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
       "id": "cate_vothuat",
       "name": "🥊 Võ Thuật",
       "display": "vertical",
@@ -1502,8 +1349,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-097436af32",
-          "name": "Green Bay Packers vs Minnesota Vikings | 01:00 16/11",
+          "id": "gv-1acedece40",
+          "name": "San Francisco 49ers vs Dallas Cowboys | 04:25 16/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1513,78 +1360,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-097436af32",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-097436af32",
-                  "name": "Green Bay Packers vs Minnesota Vikings",
-                  "streams": [
-                    {
-                      "id": "st-097436af32",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c284f0e072",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794537938_hd/1794537938_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "Green Bay Packers",
-            "team_b": "Minnesota Vikings",
-            "logo_a": "https://static.flashscore.com/res/image/data/hpgNlTf5-AinqGEaT.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/biIGYHdM-lKpbmRGS.png",
-            "time": "01:00:00",
-            "date": "16/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ojg3rnrv3uvy_03813856_20261116.png?v=03813856",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-1acedece40",
-          "name": "San Francisco 49ers vs Dallas Cowboys | 04:25 16/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1633,7 +1408,7 @@
             "time": "04:25:00",
             "date": "16/11",
             "blv": "Riko",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "rugby"
           },
           "image": {
