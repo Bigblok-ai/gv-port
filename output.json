@@ -1608,6 +1608,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-3384fb0201",
+          "name": "Sacramento Kings vs Oklahoma City Thunder | 09:00 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3384fb0201",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3384fb0201",
+                  "name": "Sacramento Kings vs Oklahoma City Thunder",
+                  "streams": [
+                    {
+                      "id": "st-3384fb0201",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9c64c41072",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794736190_hd/1794736190_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Sacramento Kings",
+            "team_b": "Oklahoma City Thunder",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
+            "time": "09:00:00",
+            "date": "16/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36498276_074b9eca_20261115.png?v=074b9eca",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2523,6 +2595,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/265vfj0ywclj_4a77ba80_20261115.png?v=4a77ba80",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b10757847c",
+          "name": "Pittsburgh Steelers vs Cincinnati Bengals | 08:20 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b10757847c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b10757847c",
+                  "name": "Pittsburgh Steelers vs Cincinnati Bengals",
+                  "streams": [
+                    {
+                      "id": "st-b10757847c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-15a0e9f9d0",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794736357_hd/1794736357_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Pittsburgh Steelers",
+            "team_b": "Cincinnati Bengals",
+            "logo_a": "https://static.flashscore.com/res/image/data/4YD54NCr-z5QECN77.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/KI7ZD8ZA-IqzC8wpd.png",
+            "time": "08:20:00",
+            "date": "16/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6rrqnvujnhqi_f95906f2_20261115.png?v=f95906f2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-295c8ffa85",
+          "name": "Vancouver Canucks vs Las Vegas Golden Knights | 09:00 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-295c8ffa85",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-295c8ffa85",
+                  "name": "Vancouver Canucks vs Las Vegas Golden Knights",
+                  "streams": [
+                    {
+                      "id": "st-295c8ffa85",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9395f672d1",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794736444_hd/1794736444_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "Vancouver Canucks",
+            "team_b": "Las Vegas Golden Knights",
+            "logo_a": "https://static.flashscore.com/res/image/data/dAqcJsxS-lKtjafx1.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rcaaQKFG-MucFHXDq.png",
+            "time": "09:00:00",
+            "date": "16/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1vu5r5q2gw26_e5503b92_20261115.png?v=e5503b92",
             "width": 1600,
             "height": 1200
           }
