@@ -17,6 +17,366 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-5cf5cd1677",
+          "name": "Namibia vs Cameroon | 20:00 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5cf5cd1677",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5cf5cd1677",
+                  "name": "Namibia vs Cameroon",
+                  "streams": [
+                    {
+                      "id": "st-5cf5cd1677",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-311fb6d94b",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783664_hd/1794783664_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Africa Cup of Nations",
+            "team_a": "Namibia",
+            "team_b": "Cameroon",
+            "logo_a": "https://images.keovip88.net/images/teams/namibia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cameroon.png",
+            "time": "20:00:00",
+            "date": "16/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a372c0432ce87f525086ba4_98a6e0e8_20261116.png?v=98a6e0e8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c0acc6b448",
+          "name": "Sudan vs Senegal | 20:00 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c0acc6b448",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c0acc6b448",
+                  "name": "Sudan vs Senegal",
+                  "streams": [
+                    {
+                      "id": "st-c0acc6b448",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-516679a618",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783688_hd/1794783688_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Africa Cup of Nations",
+            "team_a": "Sudan",
+            "team_b": "Senegal",
+            "logo_a": "https://images.keovip88.net/images/teams/sudan.png",
+            "logo_b": "https://images.keovip88.net/images/teams/senegal.png",
+            "time": "20:00:00",
+            "date": "16/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a387d79153ee8455e05572d_5b5db74a_20261116.png?v=5b5db74a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0c9294af6b",
+          "name": "Zimbabwe vs Guinea Xích đạo | 20:00 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0c9294af6b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0c9294af6b",
+                  "name": "Zimbabwe vs Guinea Xích đạo",
+                  "streams": [
+                    {
+                      "id": "st-0c9294af6b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-08d11e43d9",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783709_hd/1794783709_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Africa Cup of Nations",
+            "team_a": "Zimbabwe",
+            "team_b": "Guinea Xích đạo",
+            "logo_a": "https://images.keovip88.net/images/teams/zimbabwe.png",
+            "logo_b": "https://images.keovip88.net/images/teams/equatorial-guinea.png",
+            "time": "20:00:00",
+            "date": "16/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a387d79153ee8455e05571a_f9f8eb30_20261116.png?v=f9f8eb30",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6243ad65e0",
+          "name": "Kazakhstan vs Slovakia | 22:00 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6243ad65e0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6243ad65e0",
+                  "name": "Kazakhstan vs Slovakia",
+                  "streams": [
+                    {
+                      "id": "st-6243ad65e0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8bf7594cb8",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783759_hd/1794783759_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UEFA Nations League",
+            "team_a": "Kazakhstan",
+            "team_b": "Slovakia",
+            "logo_a": "https://images.keovip88.net/images/teams/kazakhstan.png",
+            "logo_b": "https://images.keovip88.net/images/teams/slovakia.png",
+            "time": "22:00:00",
+            "date": "16/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf6f_01b7cbea_20261116.png?v=01b7cbea",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e74943958b",
+          "name": "Somalia vs Ghana | 22:00 16/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e74943958b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e74943958b",
+                  "name": "Somalia vs Ghana",
+                  "streams": [
+                    {
+                      "id": "st-e74943958b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a64a7b475a",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783733_hd/1794783733_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Africa Cup of Nations",
+            "team_a": "Somalia",
+            "team_b": "Ghana",
+            "logo_a": "https://images.keovip88.net/images/teams/somalia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ghana.png",
+            "time": "22:00:00",
+            "date": "16/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a35da18dbc86fdf90016036_60edddea_20261116.png?v=60edddea",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-335d43e142",
           "name": "Trung Phi vs Benin | 23:00 16/11",
           "type": "single",
