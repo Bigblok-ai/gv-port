@@ -1718,8 +1718,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-cae8ff42f9",
-          "name": "New England Patriots vs Detroit Lions | 21:30 15/11",
+          "id": "gv-097436af32",
+          "name": "Green Bay Packers vs Minnesota Vikings | 01:00 16/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1729,78 +1729,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cae8ff42f9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cae8ff42f9",
-                  "name": "New England Patriots vs Detroit Lions",
-                  "streams": [
-                    {
-                      "id": "st-cae8ff42f9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cdfe81617e",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794727551_hd/1794727551_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "New England Patriots",
-            "team_b": "Detroit Lions",
-            "logo_a": "https://static.flashscore.com/res/image/data/6BZuUlhl-Yo1QgCpL.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/zkjAStEa-z5QECN77.png",
-            "time": "21:30:00",
-            "date": "15/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2ku7vcvsaj5u_0c51cd34_20261116.png?v=0c51cd34",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-097436af32",
-          "name": "Green Bay Packers vs Minnesota Vikings | 01:00 16/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1849,7 +1777,7 @@
             "time": "01:00:00",
             "date": "16/11",
             "blv": "Riko",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "rugby"
           },
           "image": {
