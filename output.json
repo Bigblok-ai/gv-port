@@ -380,7 +380,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -453,78 +453,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ym9s6629r24n_d938965d_20261116.png?v=d938965d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-ff9485bd79",
-          "name": "Philadelphia 76ers vs Indiana Pacers | 01:00 16/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ff9485bd79",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ff9485bd79",
-                  "name": "Philadelphia 76ers vs Indiana Pacers",
-                  "streams": [
-                    {
-                      "id": "st-ff9485bd79",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-476363af40",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794681717_hd/1794681717_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Philadelphia 76ers",
-            "team_b": "Indiana Pacers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7f086c864d1e283b7862a756f0b88373.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
-            "time": "01:00:00",
-            "date": "16/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38338271_fd9ef6e0_20261116.png?v=fd9ef6e0",
             "width": 1600,
             "height": 1200
           }
