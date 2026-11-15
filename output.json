@@ -452,7 +452,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -525,78 +525,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gu3dtayupbyd_7a410ad4_20261116.png?v=7a410ad4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-e84721a33d",
-          "name": "Bilbao vs Murcia | 23:59 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e84721a33d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e84721a33d",
-                  "name": "Bilbao vs Murcia",
-                  "streams": [
-                    {
-                      "id": "st-e84721a33d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8ebb87b5ad",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794537116_hd/1794537116_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ACB",
-            "team_a": "Bilbao",
-            "team_b": "Murcia",
-            "logo_a": "https://static.flashscore.com/res/image/data/Ch6tZ7jl-0hu4VHO8.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/bFsA9LdM-hxasO7Sq.png",
-            "time": "23:59:00",
-            "date": "15/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wj0tzjfmrlk1_d7481796_20261116.png?v=d7481796",
             "width": 1600,
             "height": 1200
           }
