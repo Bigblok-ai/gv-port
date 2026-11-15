@@ -1999,6 +1999,159 @@
       ]
     },
     {
+      "id": "cate_vothuat",
+      "name": "🥊 Võ Thuật",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-83d6b0c4ab",
+          "name": "ONE SAMURAI 5 vs ONE SAMURAI 5 | 14:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-83d6b0c4ab",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-83d6b0c4ab",
+                  "name": "ONE SAMURAI 5 vs ONE SAMURAI 5",
+                  "streams": [
+                    {
+                      "id": "st-83d6b0c4ab",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0121f3b835",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794727885_hd/1794727885_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ONE SAMURAI 5",
+            "team_a": "ONE SAMURAI 5",
+            "team_b": "ONE SAMURAI 5",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXxCppueUD5MSSOP1hJBRK_8vEQfkjbluc_2o9DAAbg&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh0breiHAgh7l84lRYLOQnHCq24moUFYYUDLYiMdJsSiwy6p3YdSZznX8&s=10",
+            "time": "14:00:00",
+            "date": "18/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/phjbz9x35up8_e858ea1e_20261115.png?v=e858ea1e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f4aa643160",
+          "name": "ONE Friday Fights 179 vs The Inner Circle 39 | 18:30 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f4aa643160",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f4aa643160",
+                  "name": "ONE Friday Fights 179 vs The Inner Circle 39",
+                  "streams": [
+                    {
+                      "id": "st-f4aa643160",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a85ad5977d",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794727958_hd/1794727958_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ONE Friday Fights 179 & The Inner Circle 39",
+            "team_a": "ONE Friday Fights 179",
+            "team_b": "The Inner Circle 39",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG49G-2x-lugvY75GMT8-LT2MCLuuP5BK9Zs0LNDYgQiVj8tsJy2iXSnk&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKwVah0KgfDZLife2VkCpLYpIoR2YVqZL8I1hITQXluA&s=10",
+            "time": "18:30:00",
+            "date": "20/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ze9ckubir3t6_5a206add_20261115.png?v=5a206add",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_bongchay",
       "name": "⚾ Bóng Chày",
       "display": "vertical",
@@ -2081,83 +2234,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-dcae6e33e3",
-          "name": "North Dakota State Bison vs Hawaii Rainbow Warriors | 11:00 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-dcae6e33e3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-dcae6e33e3",
-                  "name": "North Dakota State Bison vs Hawaii Rainbow Warriors",
-                  "streams": [
-                    {
-                      "id": "st-dcae6e33e3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-72b2661846",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794657994_hd/1794657994_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NCAA",
-            "team_a": "North Dakota State Bison",
-            "team_b": "Hawaii Rainbow Warriors",
-            "logo_a": "https://static.flashscore.com/res/image/data/6ebfvBFG-x6Cnx3Rs.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/CSlEJCFG-CjgNumeC.png",
-            "time": "11:00:00",
-            "date": "15/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tlxgb4plozdr_444185fc_20261115.png?v=444185fc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-cae8ff42f9",
           "name": "New England Patriots vs Detroit Lions | 21:30 15/11",
