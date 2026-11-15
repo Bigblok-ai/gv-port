@@ -1622,83 +1622,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-df55205d6c",
-          "name": "Hyundai E&C Hillstate Nữ vs Expressway Co Nữ | 14:00 15/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-df55205d6c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-df55205d6c",
-                  "name": "Hyundai E&C Hillstate Nữ vs Expressway Co Nữ",
-                  "streams": [
-                    {
-                      "id": "st-df55205d6c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c32bac3ad7",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794715668_hd/1794715668_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Volleyball League Nữ",
-            "team_a": "Hyundai E&C Hillstate Nữ",
-            "team_b": "Expressway Co Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/MkA1GJXg-YJMxkMx4.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/2wkn81yB-WnWXnBkk.png",
-            "time": "14:00:00",
-            "date": "15/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ikgb7d4zu92a_ba16d15d_20261115.png?v=ba16d15d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-12d27a2743",
           "name": "Fenerbahce Nữ vs Nilufer Bld. Nữ | 17:00 15/11",
