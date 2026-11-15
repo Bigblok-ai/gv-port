@@ -92,7 +92,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -321,10 +321,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -373,7 +373,7 @@
             "time": "06:00:00",
             "date": "16/11",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -669,159 +669,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36498276_074b9eca_20261116.png?v=074b9eca",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_tennis",
-      "name": "🎾 Tennis (2 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-1c444fc0f9",
-          "name": "Ben Shelton vs Arthur Fils | 02:30 16/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1c444fc0f9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1c444fc0f9",
-                  "name": "Ben Shelton vs Arthur Fils",
-                  "streams": [
-                    {
-                      "id": "st-1c444fc0f9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-487e250746",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794736557_hd/1794736557_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Finals ",
-            "team_a": "Ben Shelton",
-            "team_b": "Arthur Fils",
-            "logo_a": "https://static.flashscore.com/res/image/data/UBXM3cXg-fgTOwTv9.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Eg01vrEa-SQeH6w5H.png",
-            "time": "02:30:00",
-            "date": "16/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lp9w2jvwk7rw_fb1efa87_20261116.png?v=fb1efa87",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-2a88ccfb10",
-          "name": "Elina Svitolina vs Mirra Andreeva | 03:00 16/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2a88ccfb10",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2a88ccfb10",
-                  "name": "Elina Svitolina vs Mirra Andreeva",
-                  "streams": [
-                    {
-                      "id": "st-2a88ccfb10",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-997d04408f",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794736514_hd/1794736514_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "WTA Finals",
-            "team_a": "Elina Svitolina",
-            "team_b": "Mirra Andreeva",
-            "logo_a": "https://static.flashscore.com/res/image/data/0hCIo7h5-WCqsXbkh.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/ncDnFmzB-xE40e4KN.png",
-            "time": "03:00:00",
-            "date": "16/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yn3qwqqc3mp5_9f78428f_20261116.png?v=9f78428f",
             "width": 1600,
             "height": 1200
           }
