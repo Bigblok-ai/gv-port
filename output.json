@@ -380,7 +380,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -465,10 +465,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -517,7 +517,7 @@
             "time": "07:30:00",
             "date": "15/11",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1784,7 +1784,7 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1797,10 +1797,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1849,7 +1849,7 @@
             "time": "07:30:00",
             "date": "15/11",
             "blv": "Riko",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "rugby"
           },
           "image": {
