@@ -1088,7 +1088,7 @@
             "league": "South Korean KBL Cup",
             "team_a": "Seoul Knights",
             "team_b": "Mobis Phoebus",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Seoul_SK_Knights_logo.svg/500px-Seoul_SK_Knights_logo.svg.png",
+            "logo_a": "https://static.flashscore.com/res/image/data/W2SxG2g5-rVVwDBZs.png",
             "logo_b": "https://static.flashscore.com/res/image/data/UTvcCjBr-Egd2koIh.png",
             "time": "17:00:00",
             "date": "16/11",
@@ -1100,7 +1100,79 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4k9wcbw1oup0_3c6202a8_20261116.png?v=3c6202a8",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4k9wcbw1oup0_2b46dfcd_20261116.png?v=2b46dfcd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2278c1f816",
+          "name": "Wonju DB vs Anyang JungkwanJang | 17:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2278c1f816",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2278c1f816",
+                  "name": "Wonju DB vs Anyang JungkwanJang",
+                  "streams": [
+                    {
+                      "id": "st-2278c1f816",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4f032e9b2b",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784583_hd/1794784583_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "Wonju DB",
+            "team_b": "Anyang JungkwanJang",
+            "logo_a": "https://static.flashscore.com/res/image/data/ELYOWIAr-xtco8W2d.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/viUBkizB-KtOrDRPL.png",
+            "time": "17:00:00",
+            "date": "17/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/t6dprg82z3rd_46ded96c_20261116.png?v=46ded96c",
             "width": 1600,
             "height": 1200
           }
