@@ -2148,6 +2148,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-6a3da77d7c",
+          "name": "Prochazka vs Stirling | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6a3da77d7c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6a3da77d7c",
+                  "name": "Prochazka vs Stirling",
+                  "streams": [
+                    {
+                      "id": "st-6a3da77d7c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ed65f7c31e",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794728056_hd/1794728056_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Prochazka vs Stirling",
+            "team_a": "Prochazka",
+            "team_b": "Stirling",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmn9J70mK8P2JeuorkhRgbMQ8VW74qXN96UOq9_MNKOw&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgmR56_Mns5KqA3MkJXFMPBz2j0RsgW2i84-I14txfyw&s",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/167z5ytc4xaa_07353df9_20261115.png?v=07353df9",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
