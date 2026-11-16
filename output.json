@@ -2834,6 +2834,78 @@
           }
         },
         {
+          "id": "gv-99aff0fce5",
+          "name": "Estonia vs Romania | 22:30 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-99aff0fce5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-99aff0fce5",
+                  "name": "Estonia vs Romania",
+                  "streams": [
+                    {
+                      "id": "st-99aff0fce5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0d55fe5c0b",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794849478_hd/1794849478_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "FIBA Women Basketball World Cup",
+            "team_a": "Estonia",
+            "team_b": "Romania",
+            "logo_a": "https://static.flashscore.com/res/image/data/CxPcQryB-MVRu1d1m.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/vRSCbZYg-KAweNHFk.png",
+            "time": "22:30:00",
+            "date": "17/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ib5vuakci0lz_1a950ed6_20261117.png?v=1a950ed6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-7fd1f1fcf9",
           "name": "Poland (W) vs Turkey (W) | 23:00 17/11",
           "type": "single",
@@ -3270,6 +3342,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nwgttdpckesa_e4e5aeeb_20261117.png?v=e4e5aeeb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fdb89b5d44",
+          "name": "Arthur Fils vs Rafael Jodar | 20:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fdb89b5d44",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fdb89b5d44",
+                  "name": "Arthur Fils vs Rafael Jodar",
+                  "streams": [
+                    {
+                      "id": "st-fdb89b5d44",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ebef395039",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794849580_hd/1794849580_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Finals",
+            "team_a": "Arthur Fils",
+            "team_b": "Rafael Jodar",
+            "logo_a": "https://static.flashscore.com/res/image/data/Eg01vrEa-SQeH6w5H.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/A5stpqzB-bJuw1oYE.png",
+            "time": "20:00:00",
+            "date": "17/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e0loyxzyg54g_9a1b4258_20261117.png?v=9a1b4258",
             "width": 1600,
             "height": 1200
           }
