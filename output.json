@@ -2909,83 +2909,11 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4af4b4c7a7",
-          "name": "Daniil Medvedev vs Flavio Cobolli | 02:30 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4af4b4c7a7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4af4b4c7a7",
-                  "name": "Daniil Medvedev vs Flavio Cobolli",
-                  "streams": [
-                    {
-                      "id": "st-4af4b4c7a7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6e6fcef006",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794829886_hd/1794829886_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Finals",
-            "team_a": "Daniil Medvedev",
-            "team_b": "Flavio Cobolli",
-            "logo_a": "https://static.flashscore.com/res/image/data/QujxPtf5-6Z1AkBdk.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/E1rCFmCr-4rBjn5Su.png",
-            "time": "02:30:00",
-            "date": "17/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nwgttdpckesa_e4e5aeeb_20261117.png?v=e4e5aeeb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fdb89b5d44",
           "name": "Arthur Fils vs Rafael Jodar | 20:00 17/11",
