@@ -1169,6 +1169,78 @@
           }
         },
         {
+          "id": "gv-c7ba43f7f2",
+          "name": "Singapore vs Brazil | 17:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c7ba43f7f2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c7ba43f7f2",
+                  "name": "Singapore vs Brazil",
+                  "streams": [
+                    {
+                      "id": "st-c7ba43f7f2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8736cf09e4",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783866_hd/1794783866_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Singapore",
+            "team_b": "Brazil",
+            "logo_a": "https://images.keovip88.net/images/teams/singapore.png",
+            "logo_b": "https://images.keovip88.net/images/teams/brazil.png",
+            "time": "17:00:00",
+            "date": "17/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aea76a432c08df19f0fb306_faabe86e_20261116.png?v=faabe86e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-aadd60c2ce",
           "name": "Croatia U17 vs U17 Bỉ | 17:00 17/11",
           "type": "single",
@@ -1313,78 +1385,6 @@
           }
         },
         {
-          "id": "gv-c7ba43f7f2",
-          "name": "Singapore vs Brazil | 17:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c7ba43f7f2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c7ba43f7f2",
-                  "name": "Singapore vs Brazil",
-                  "streams": [
-                    {
-                      "id": "st-c7ba43f7f2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8736cf09e4",
-                          "name": "Tỵ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783866_hd/1794783866_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao hữu quốc tế",
-            "team_a": "Singapore",
-            "team_b": "Brazil",
-            "logo_a": "https://images.keovip88.net/images/teams/singapore.png",
-            "logo_b": "https://images.keovip88.net/images/teams/brazil.png",
-            "time": "17:00:00",
-            "date": "17/11",
-            "blv": "Tỵ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aea76a432c08df19f0fb306_faabe86e_20261116.png?v=faabe86e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-ceec6f8d2f",
           "name": "Serbia U17 vs Bồ Đào Nha U17 | 18:00 17/11",
           "type": "single",
@@ -1524,6 +1524,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e9e4e495feaee0abd7a_9edb3191_20261116.png?v=9edb3191",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b8df6e0b36",
+          "name": "Trung Quốc vs Bahrain | 19:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b8df6e0b36",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b8df6e0b36",
+                  "name": "Trung Quốc vs Bahrain",
+                  "streams": [
+                    {
+                      "id": "st-b8df6e0b36",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-084b68ef9f",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783955_hd/1794783955_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Trung Quốc",
+            "team_b": "Bahrain",
+            "logo_a": "https://images.keovip88.net/images/teams/china.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bahrain.png",
+            "time": "19:00:00",
+            "date": "17/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae925165e8d2e45cc0be767_26cf0025_20261116.png?v=26cf0025",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8595d67bb3",
+          "name": "Kyrgyzstan vs Việt Nam | 19:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8595d67bb3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8595d67bb3",
+                  "name": "Kyrgyzstan vs Việt Nam",
+                  "streams": [
+                    {
+                      "id": "st-8595d67bb3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-83f921c6c2",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783993_hd/1794783993_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Kyrgyzstan",
+            "team_b": "Việt Nam",
+            "logo_a": "https://images.keovip88.net/images/teams/kyrgyzstan.png",
+            "logo_b": "https://images.keovip88.net/images/teams/vietnam.png",
+            "time": "19:00:00",
+            "date": "17/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25eb624d46db8709aa8a6_9f248d7e_20261116.png?v=9f248d7e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-87307fee62",
+          "name": "Phần Lan U19 vs Tây Ban Nha U19 | 19:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-87307fee62",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-87307fee62",
+                  "name": "Phần Lan U19 vs Tây Ban Nha U19",
+                  "streams": [
+                    {
+                      "id": "st-87307fee62",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b36dcc0ebb",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783929_hd/1794783929_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Euro U19",
+            "team_a": "Phần Lan U19",
+            "team_b": "Tây Ban Nha U19",
+            "logo_a": "https://images.keovip88.net/images/teams/finland-u19.png",
+            "logo_b": "https://images.keovip88.net/images/teams/spain-u19.png",
+            "time": "19:00:00",
+            "date": "17/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e9e4e495feaee0abd77_32cfb964_20261116.png?v=32cfb964",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-007aa9c371",
+          "name": "U19 Israel vs U19 Ý | 19:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-007aa9c371",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-007aa9c371",
+                  "name": "U19 Israel vs U19 Ý",
+                  "streams": [
+                    {
+                      "id": "st-007aa9c371",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3617eb1cfa",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784086_hd/1794784086_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Euro U19",
+            "team_a": "U19 Israel",
+            "team_b": "U19 Ý",
+            "logo_a": "https://images.keovip88.net/images/teams/israel-u19.png",
+            "logo_b": "https://images.keovip88.net/images/teams/italy-u19.png",
+            "time": "19:00:00",
+            "date": "17/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e9e4e495feaee0abd78_165b6f18_20261116.png?v=165b6f18",
             "width": 1600,
             "height": 1200
           }
