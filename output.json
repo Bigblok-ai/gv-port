@@ -1820,83 +1820,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2f57b64362",
-          "name": "Seoul Knights vs Mobis Phoebus | 17:00 16/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2f57b64362",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2f57b64362",
-                  "name": "Seoul Knights vs Mobis Phoebus",
-                  "streams": [
-                    {
-                      "id": "st-2f57b64362",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-23381fd098",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784464_hd/1794784464_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "Seoul Knights",
-            "team_b": "Mobis Phoebus",
-            "logo_a": "https://static.flashscore.com/res/image/data/W2SxG2g5-rVVwDBZs.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/UTvcCjBr-Egd2koIh.png",
-            "time": "17:00:00",
-            "date": "16/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4k9wcbw1oup0_2b46dfcd_20261116.png?v=2b46dfcd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-27f4ccfbe4",
           "name": "Boston Celtics vs Orlando Magic | 07:00 17/11",
