@@ -1064,83 +1064,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (2 LIVE)",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b10757847c",
-          "name": "Pittsburgh Steelers vs Cincinnati Bengals | 08:20 16/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b10757847c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b10757847c",
-                  "name": "Pittsburgh Steelers vs Cincinnati Bengals",
-                  "streams": [
-                    {
-                      "id": "st-b10757847c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-15a0e9f9d0",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794736357_hd/1794736357_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "Pittsburgh Steelers",
-            "team_b": "Cincinnati Bengals",
-            "logo_a": "https://static.flashscore.com/res/image/data/4YD54NCr-z5QECN77.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/KI7ZD8ZA-IqzC8wpd.png",
-            "time": "08:20:00",
-            "date": "16/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6rrqnvujnhqi_f95906f2_20261116.png?v=f95906f2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-295c8ffa85",
           "name": "Vancouver Canucks vs Las Vegas Golden Knights | 09:00 16/11",
