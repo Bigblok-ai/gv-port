@@ -447,6 +447,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-8b978b80a6",
+          "name": "Malaysia vs Yemen | 13:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8b978b80a6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8b978b80a6",
+                  "name": "Malaysia vs Yemen",
+                  "streams": [
+                    {
+                      "id": "st-8b978b80a6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c1f40dc7c3",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794822105_hd/1794822105_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu quốc tế",
+            "team_a": "Malaysia",
+            "team_b": "Yemen",
+            "logo_a": "https://images.keovip88.net/images/teams/malaysia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/yemen.png",
+            "time": "13:00:00",
+            "date": "17/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aea76a432c08df19f0fb305_90e0fd8a_20261116.png?v=90e0fd8a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -525,6 +597,366 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4k9wcbw1oup0_2b46dfcd_20261116.png?v=2b46dfcd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-27f4ccfbe4",
+          "name": "Boston Celtics vs Orlando Magic | 07:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-27f4ccfbe4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-27f4ccfbe4",
+                  "name": "Boston Celtics vs Orlando Magic",
+                  "streams": [
+                    {
+                      "id": "st-27f4ccfbe4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5cb8bf8ac3",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794822172_hd/1794822172_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Boston Celtics",
+            "team_b": "Orlando Magic",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2566b135b0e54971193a132bd8a1473c.png",
+            "time": "07:00:00",
+            "date": "17/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23438277_887a3147_20261116.png?v=887a3147",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e66b893019",
+          "name": "Washington Wizards vs Memphis Grizzlies | 07:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e66b893019",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e66b893019",
+                  "name": "Washington Wizards vs Memphis Grizzlies",
+                  "streams": [
+                    {
+                      "id": "st-e66b893019",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c54068f273",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794822196_hd/1794822196_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Washington Wizards",
+            "team_b": "Memphis Grizzlies",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f4a3bba0c74c9f2b90bc5861ec26e3c7.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
+            "time": "07:00:00",
+            "date": "17/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24438278_30e3ce94_20261116.png?v=30e3ce94",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c6e34513b5",
+          "name": "Cleveland Cavaliers vs Chicago Bulls | 07:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c6e34513b5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c6e34513b5",
+                  "name": "Cleveland Cavaliers vs Chicago Bulls",
+                  "streams": [
+                    {
+                      "id": "st-c6e34513b5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0857a3cba3",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794822215_hd/1794822215_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Cleveland Cavaliers",
+            "team_b": "Chicago Bulls",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c73eca8b9cc18ff386bf6ff4c1236b9e.png",
+            "time": "07:00:00",
+            "date": "17/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25438279_7d9cb071_20261116.png?v=7d9cb071",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cd7210ca3c",
+          "name": "Brooklyn Nets vs Philadelphia 76ers | 07:30 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cd7210ca3c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cd7210ca3c",
+                  "name": "Brooklyn Nets vs Philadelphia 76ers",
+                  "streams": [
+                    {
+                      "id": "st-cd7210ca3c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4571199854",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794822235_hd/1794822235_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Brooklyn Nets",
+            "team_b": "Philadelphia 76ers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c01b5e6f6659dd42195e9db3aaef13b7.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7f086c864d1e283b7862a756f0b88373.png",
+            "time": "07:30:00",
+            "date": "17/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37438271_69ad30da_20261116.png?v=69ad30da",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6675137dbd",
+          "name": "Miami Heat vs Houston Rockets | 07:30 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6675137dbd",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6675137dbd",
+                  "name": "Miami Heat vs Houston Rockets",
+                  "streams": [
+                    {
+                      "id": "st-6675137dbd",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9ab945b752",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794822257_hd/1794822257_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Miami Heat",
+            "team_b": "Houston Rockets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/43ebb4d6ad3ea5b68e9b1c969dff055b.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
+            "time": "07:30:00",
+            "date": "17/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36438270_f774c3a7_20261116.png?v=f774c3a7",
             "width": 1600,
             "height": 1200
           }
