@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-5cf5cd1677",
-          "name": "Namibia vs Cameroon | 20:00 16/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5cf5cd1677",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5cf5cd1677",
-                  "name": "Namibia vs Cameroon",
-                  "streams": [
-                    {
-                      "id": "st-5cf5cd1677",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-311fb6d94b",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783664_hd/1794783664_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Africa Cup of Nations",
-            "team_a": "Namibia",
-            "team_b": "Cameroon",
-            "logo_a": "https://images.keovip88.net/images/teams/namibia.png",
-            "logo_b": "https://images.keovip88.net/images/teams/cameroon.png",
-            "time": "20:00:00",
-            "date": "16/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a372c0432ce87f525086ba4_98a6e0e8_20261116.png?v=98a6e0e8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-c0acc6b448",
           "name": "Sudan vs Senegal | 20:00 16/11",
@@ -1956,6 +1884,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a2b74f43d7ef10b43c5_2c004a19_20261116.png?v=2c004a19",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-953e7ccfc7",
+          "name": "U19 Lithuania vs Đức U19 | 22:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-953e7ccfc7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-953e7ccfc7",
+                  "name": "U19 Lithuania vs Đức U19",
+                  "streams": [
+                    {
+                      "id": "st-953e7ccfc7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25d517a339",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784110_hd/1794784110_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Euro U19",
+            "team_a": "U19 Lithuania",
+            "team_b": "Đức U19",
+            "logo_a": "https://images.keovip88.net/images/teams/lithuania-u19.png",
+            "logo_b": "https://images.keovip88.net/images/teams/germany-u19.png",
+            "time": "22:00:00",
+            "date": "17/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e9e4e495feaee0abd73_12fd6425_20261116.png?v=12fd6425",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9957ef5aa7",
+          "name": "Scotland U19 vs U19 Bỉ | 22:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9957ef5aa7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9957ef5aa7",
+                  "name": "Scotland U19 vs U19 Bỉ",
+                  "streams": [
+                    {
+                      "id": "st-9957ef5aa7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9786a58ff4",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784422_hd/1794784422_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Euro U19",
+            "team_a": "Scotland U19",
+            "team_b": "U19 Bỉ",
+            "logo_a": "https://images.keovip88.net/images/teams/scotland-u19.png",
+            "logo_b": "https://images.keovip88.net/images/teams/belgium-u19.png",
+            "time": "22:00:00",
+            "date": "17/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a2b74f43d7ef10b43c8_005a24ba_20261116.png?v=005a24ba",
             "width": 1600,
             "height": 1200
           }
