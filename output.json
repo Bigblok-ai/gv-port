@@ -1466,6 +1466,78 @@
           }
         },
         {
+          "id": "gv-43886d944f",
+          "name": "Dubai vs Efes Pilsen | 23:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-43886d944f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-43886d944f",
+                  "name": "Dubai vs Efes Pilsen",
+                  "streams": [
+                    {
+                      "id": "st-43886d944f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f598c6c18f",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794925805_hd/1794925805_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Dubai",
+            "team_b": "Efes Pilsen",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/38e7f6ed6a1053e25c1f5d60fbf563b2.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/39e14cf9edd095fe5daed21f75b67bd3.png",
+            "time": "23:00:00",
+            "date": "17/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28103271_e4a57abf_20261117.png?v=e4a57abf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-1d30171c77",
           "name": "Czech Republic (W) vs Bulgaria (W) | 23:15 17/11",
           "type": "single",
@@ -1605,6 +1677,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21562576_32c95b0c_20261117.png?v=32c95b0c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e117488733",
+          "name": "Latvia (W) vs Italy (W) | 00:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e117488733",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e117488733",
+                  "name": "Latvia (W) vs Italy (W)",
+                  "streams": [
+                    {
+                      "id": "st-e117488733",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-83cd80d58a",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794925871_hd/1794925871_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "European Basketball Championship Qualifier(W)",
+            "team_a": "Latvia (W)",
+            "team_b": "Italy (W)",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/8c445a02dbfa348cf09f46729d11393b.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/75cb8bcd5bf56f79b084eba3d26de8b4.jpg",
+            "time": "00:00:00",
+            "date": "18/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22662578_69a772eb_20261117.png?v=69a772eb",
             "width": 1600,
             "height": 1200
           }
