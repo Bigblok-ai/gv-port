@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-610adaaa06",
-          "name": "Nhật Bản vs Paraguay | 20:10 17/11",
+          "id": "gv-a4ae3ac682",
+          "name": "U19 Hy Lạp vs Pháp U19 | 21:00 17/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-610adaaa06",
+              "id": "src-a4ae3ac682",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-610adaaa06",
-                  "name": "Nhật Bản vs Paraguay",
+                  "id": "ct-a4ae3ac682",
+                  "name": "U19 Hy Lạp vs Pháp U19",
                   "streams": [
                     {
-                      "id": "st-610adaaa06",
+                      "id": "st-a4ae3ac682",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-d35eaca606",
-                          "name": "Hấu",
+                          "id": "lnk-b6dcbeda77",
+                          "name": "Bee",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784027_hd/1794784027_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784056_hd/1794784056_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -68,14 +68,14 @@
             }
           ],
           "org_metadata": {
-            "league": "Giao hữu quốc tế",
-            "team_a": "Nhật Bản",
-            "team_b": "Paraguay",
-            "logo_a": "https://images.keovip88.net/images/teams/japan.png",
-            "logo_b": "https://images.keovip88.net/images/teams/paraguay.png",
-            "time": "20:10:00",
+            "league": "Euro U19",
+            "team_a": "U19 Hy Lạp",
+            "team_b": "Pháp U19",
+            "logo_a": "https://images.keovip88.net/images/teams/greece-u19.png",
+            "logo_b": "https://images.keovip88.net/images/teams/france-u19.png",
+            "time": "21:00:00",
             "date": "17/11",
-            "blv": "Hấu",
+            "blv": "Bee",
             "is_live": true,
             "cate_type": "football"
           },
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aea76a432c08df19f0fb307_4750f666_20261117.png?v=4750f666",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a2b74f43d7ef10b43c5_2c004a19_20261117.png?v=2c004a19",
             "width": 1600,
             "height": 1200
           }
@@ -161,78 +161,6 @@
           }
         },
         {
-          "id": "gv-a4ae3ac682",
-          "name": "U19 Hy Lạp vs Pháp U19 | 21:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a4ae3ac682",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a4ae3ac682",
-                  "name": "U19 Hy Lạp vs Pháp U19",
-                  "streams": [
-                    {
-                      "id": "st-a4ae3ac682",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b6dcbeda77",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784056_hd/1794784056_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Euro U19",
-            "team_a": "U19 Hy Lạp",
-            "team_b": "Pháp U19",
-            "logo_a": "https://images.keovip88.net/images/teams/greece-u19.png",
-            "logo_b": "https://images.keovip88.net/images/teams/france-u19.png",
-            "time": "21:00:00",
-            "date": "17/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a2b74f43d7ef10b43c5_2c004a19_20261117.png?v=2c004a19",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-953e7ccfc7",
           "name": "U19 Lithuania vs Đức U19 | 22:00 17/11",
           "type": "single",
@@ -305,8 +233,8 @@
           }
         },
         {
-          "id": "gv-9957ef5aa7",
-          "name": "Scotland U19 vs U19 Bỉ | 22:00 17/11",
+          "id": "gv-c714a8bfbc",
+          "name": "Ả Rập Xê Út vs Uzbekistan | 22:30 17/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -316,78 +244,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9957ef5aa7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9957ef5aa7",
-                  "name": "Scotland U19 vs U19 Bỉ",
-                  "streams": [
-                    {
-                      "id": "st-9957ef5aa7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9786a58ff4",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784422_hd/1794784422_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Euro U19",
-            "team_a": "Scotland U19",
-            "team_b": "U19 Bỉ",
-            "logo_a": "https://images.keovip88.net/images/teams/scotland-u19.png",
-            "logo_b": "https://images.keovip88.net/images/teams/belgium-u19.png",
-            "time": "22:00:00",
-            "date": "17/11",
-            "blv": "Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a2b74f43d7ef10b43c8_005a24ba_20261117.png?v=005a24ba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-c714a8bfbc",
-          "name": "Ả Rập Xê Út vs Uzbekistan | 22:30 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -436,7 +292,7 @@
             "time": "22:30:00",
             "date": "17/11",
             "blv": "Trĩ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1172,7 +1028,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1185,10 +1041,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1237,7 +1093,7 @@
             "time": "22:30:00",
             "date": "17/11",
             "blv": "Cận",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2549,83 +2405,11 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-fdb89b5d44",
-          "name": "Arthur Fils vs Rafael Jodar | 20:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fdb89b5d44",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fdb89b5d44",
-                  "name": "Arthur Fils vs Rafael Jodar",
-                  "streams": [
-                    {
-                      "id": "st-fdb89b5d44",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ebef395039",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794849580_hd/1794849580_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Finals",
-            "team_a": "Arthur Fils",
-            "team_b": "Rafael Jodar",
-            "logo_a": "https://static.flashscore.com/res/image/data/Eg01vrEa-SQeH6w5H.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/A5stpqzB-bJuw1oYE.png",
-            "time": "20:00:00",
-            "date": "17/11",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/e0loyxzyg54g_9a1b4258_20261117.png?v=9a1b4258",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2e39f07ec3",
           "name": "Alexander Zverev vs Ben Shelton | 02:30 18/11",
