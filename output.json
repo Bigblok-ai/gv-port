@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-af8bc52eee",
-          "name": "Đan Mạch vs Na Uy | 02:45 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-af8bc52eee",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-af8bc52eee",
-                  "name": "Đan Mạch vs Na Uy",
-                  "streams": [
-                    {
-                      "id": "st-af8bc52eee",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c678b2eeef",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794830451_hd/1794830451_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UEFA Nations League",
-            "team_a": "Đan Mạch",
-            "team_b": "Na Uy",
-            "logo_a": "https://images.keovip88.net/images/teams/denmark.png",
-            "logo_b": "https://images.keovip88.net/images/teams/norway.png",
-            "time": "02:45:00",
-            "date": "18/11",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/69f7e7425c39b5554409bf4c_5dd3988e_20261118.png?v=5dd3988e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-8838c8eac9",
           "name": "Argentina vs Costa Rica | 06:00 18/11",
