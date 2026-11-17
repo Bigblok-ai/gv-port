@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a4ae3ac682",
-          "name": "U19 Hy Lạp vs Pháp U19 | 21:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a4ae3ac682",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a4ae3ac682",
-                  "name": "U19 Hy Lạp vs Pháp U19",
-                  "streams": [
-                    {
-                      "id": "st-a4ae3ac682",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b6dcbeda77",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784056_hd/1794784056_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Euro U19",
-            "team_a": "U19 Hy Lạp",
-            "team_b": "Pháp U19",
-            "logo_a": "https://images.keovip88.net/images/teams/greece-u19.png",
-            "logo_b": "https://images.keovip88.net/images/teams/france-u19.png",
-            "time": "21:00:00",
-            "date": "17/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a2b74f43d7ef10b43c5_2c004a19_20261117.png?v=2c004a19",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-da2aa89cfc",
           "name": "Hàn Quốc vs Qatar | 21:00 17/11",
@@ -156,6 +84,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aea76a432c08df19f0fb308_e1c4fa43_20261117.png?v=e1c4fa43",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a4ae3ac682",
+          "name": "U19 Hy Lạp vs Pháp U19 | 21:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a4ae3ac682",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a4ae3ac682",
+                  "name": "U19 Hy Lạp vs Pháp U19",
+                  "streams": [
+                    {
+                      "id": "st-a4ae3ac682",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b6dcbeda77",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784056_hd/1794784056_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Euro U19",
+            "team_a": "U19 Hy Lạp",
+            "team_b": "Pháp U19",
+            "logo_a": "https://images.keovip88.net/images/teams/greece-u19.png",
+            "logo_b": "https://images.keovip88.net/images/teams/france-u19.png",
+            "time": "21:00:00",
+            "date": "17/11",
+            "blv": "Bee",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aee6a2b74f43d7ef10b43c5_2c004a19_20261117.png?v=2c004a19",
             "width": 1600,
             "height": 1200
           }
@@ -312,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +364,7 @@
             "time": "23:00:00",
             "date": "17/11",
             "blv": "Bee",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -384,10 +384,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +436,7 @@
             "time": "23:00:00",
             "date": "17/11",
             "blv": "Ngọng",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -456,10 +456,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -508,7 +508,7 @@
             "time": "23:00:00",
             "date": "17/11",
             "blv": "Hứa",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1028,7 +1028,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1113,10 +1113,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1165,7 +1165,7 @@
             "time": "23:00:00",
             "date": "17/11",
             "blv": "Mickey",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1185,10 +1185,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1237,7 +1237,7 @@
             "time": "23:00:00",
             "date": "17/11",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1257,10 +1257,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1309,7 +1309,7 @@
             "time": "23:00:00",
             "date": "17/11",
             "blv": "Chồn",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
