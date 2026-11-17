@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -300,6 +300,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e9e4e495feaee0abd77_32cfb964_20261117.png?v=32cfb964",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-007aa9c371",
+          "name": "U19 Israel vs U19 Ý | 19:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-007aa9c371",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-007aa9c371",
+                  "name": "U19 Israel vs U19 Ý",
+                  "streams": [
+                    {
+                      "id": "st-007aa9c371",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-559c550ea0",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916689_hd/1794916689_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Euro U19",
+            "team_a": "U19 Israel",
+            "team_b": "U19 Ý",
+            "logo_a": "https://images.keovip88.net/images/teams/israel-u19.png",
+            "logo_b": "https://images.keovip88.net/images/teams/italy-u19.png",
+            "time": "19:00:00",
+            "date": "17/11",
+            "blv": "Trĩ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e9e4e495feaee0abd78_165b6f18_20261117.png?v=165b6f18",
             "width": 1600,
             "height": 1200
           }
@@ -2037,6 +2109,438 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/12203276_3c74cee5_20261117.png?v=3c74cee5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-28cef30e41",
+          "name": "Toronto Raptors vs New York Knicks | 07:30 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-28cef30e41",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-28cef30e41",
+                  "name": "Toronto Raptors vs New York Knicks",
+                  "streams": [
+                    {
+                      "id": "st-28cef30e41",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5f1762552c",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916504_hd/1794916504_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Toronto Raptors",
+            "team_b": "New York Knicks",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3f61db02c20eb73e5f27948b3122f2fb.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png",
+            "time": "07:30:00",
+            "date": "18/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38438272_428b3724_20261117.png?v=428b3724",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5260113234",
+          "name": "Minnesota Timberwolves vs Portland Trail Blazers | 08:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5260113234",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5260113234",
+                  "name": "Minnesota Timberwolves vs Portland Trail Blazers",
+                  "streams": [
+                    {
+                      "id": "st-5260113234",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-11b0a28214",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916522_hd/1794916522_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Minnesota Timberwolves",
+            "team_b": "Portland Trail Blazers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png",
+            "time": "08:00:00",
+            "date": "18/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31598272_513d549b_20261117.png?v=513d549b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-82eb24781c",
+          "name": "San Antonio Spurs vs Detroit Pistons | 08:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-82eb24781c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-82eb24781c",
+                  "name": "San Antonio Spurs vs Detroit Pistons",
+                  "streams": [
+                    {
+                      "id": "st-82eb24781c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a7dde1a061",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916595_hd/1794916595_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "San Antonio Spurs",
+            "team_b": "Detroit Pistons",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c4677b9a5c8823ad3070069d8741a809.png",
+            "time": "08:00:00",
+            "date": "18/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/30598271_96e6965c_20261117.png?v=96e6965c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-80227868f7",
+          "name": "Los Angeles Clippers vs Utah Jazz | 10:30 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-80227868f7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-80227868f7",
+                  "name": "Los Angeles Clippers vs Utah Jazz",
+                  "streams": [
+                    {
+                      "id": "st-80227868f7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e3232579c3",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916612_hd/1794916612_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Los Angeles Clippers",
+            "team_b": "Utah Jazz",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
+            "time": "10:30:00",
+            "date": "18/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33598274_3fdfe3d4_20261117.png?v=3fdfe3d4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b16c917e9c",
+          "name": "Los Angeles Lakers vs Charlotte Hornets | 11:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b16c917e9c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b16c917e9c",
+                  "name": "Los Angeles Lakers vs Charlotte Hornets",
+                  "streams": [
+                    {
+                      "id": "st-b16c917e9c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-02f2727e47",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916631_hd/1794916631_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Los Angeles Lakers",
+            "team_b": "Charlotte Hornets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
+            "time": "11:00:00",
+            "date": "18/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32598273_28f9ca6f_20261117.png?v=28f9ca6f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b6c1b944ba",
+          "name": "New Zealand Breakers vs South East Melbourne Phoenix | 13:30 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b6c1b944ba",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b6c1b944ba",
+                  "name": "New Zealand Breakers vs South East Melbourne Phoenix",
+                  "streams": [
+                    {
+                      "id": "st-b6c1b944ba",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cb74a5f21c",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916650_hd/1794916650_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "New Zealand Breakers",
+            "team_b": "South East Melbourne Phoenix",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7778a93083d2fa50e4cb4e128f07cf5f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e5c63f30ad74c5c5159f1e7695173ae5.png",
+            "time": "13:30:00",
+            "date": "18/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20822271_aa59c17f_20261117.png?v=aa59c17f",
             "width": 1600,
             "height": 1200
           }
