@@ -2936,83 +2936,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-8ec3c67a93",
-          "name": "Vancouver Canucks vs Utah Mammoth | 09:30 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8ec3c67a93",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8ec3c67a93",
-                  "name": "Vancouver Canucks vs Utah Mammoth",
-                  "streams": [
-                    {
-                      "id": "st-8ec3c67a93",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ebb2f0bbe1",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794822484_hd/1794822484_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NHL",
-            "team_a": "Vancouver Canucks",
-            "team_b": "Utah Mammoth",
-            "logo_a": "https://static.flashscore.com/res/image/data/dAqcJsxS-lKtjafx1.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/EX4MfgAr-OvWpZvXb.png",
-            "time": "09:30:00",
-            "date": "17/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/009jnb1uoh7s_ca9f171c_20261117.png?v=ca9f171c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-4e096b21c6",
           "name": "Eastern Michigan vs Western Michigan | 06:00 18/11",
