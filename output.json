@@ -596,83 +596,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b7d3f7eff7",
-          "name": "Fenerbahce Ulker vs Lyon Asvel Villeurbanne | 01:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b7d3f7eff7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b7d3f7eff7",
-                  "name": "Fenerbahce Ulker vs Lyon Asvel Villeurbanne",
-                  "streams": [
-                    {
-                      "id": "st-b7d3f7eff7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b51639d2e4",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794830689_hd/1794830689_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Fenerbahce Ulker",
-            "team_b": "Lyon Asvel Villeurbanne",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ad2880c512e15870ba354e89f5809541.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/17273883dd54ba906b39ff11cc328774.png",
-            "time": "01:00:00",
-            "date": "18/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29103272_ea0e4648_20261118.png?v=ea0e4648",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-4257d2ea6a",
           "name": "FC Barcelona vs Paris | 02:30 18/11",
