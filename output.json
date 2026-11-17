@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-da2aa89cfc",
-          "name": "Hàn Quốc vs Qatar | 21:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-da2aa89cfc",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-da2aa89cfc",
-                  "name": "Hàn Quốc vs Qatar",
-                  "streams": [
-                    {
-                      "id": "st-da2aa89cfc",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a925453ff6",
-                          "name": "Tỵ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784265_hd/1794784265_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao hữu quốc tế",
-            "team_a": "Hàn Quốc",
-            "team_b": "Qatar",
-            "logo_a": "https://images.keovip88.net/images/teams/south-korea.png",
-            "logo_b": "https://images.keovip88.net/images/teams/qatar.png",
-            "time": "21:00:00",
-            "date": "17/11",
-            "blv": "Tỵ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aea76a432c08df19f0fb308_e1c4fa43_20261118.png?v=e1c4fa43",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-29ff06a230",
           "name": "U21 Cộng hòa Séc vs Thổ Nhĩ Kỳ U21 | 23:00 17/11",
           "type": "single",
@@ -312,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +292,7 @@
             "time": "00:30:00",
             "date": "18/11",
             "blv": "Trĩ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -818,78 +746,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-b8f8dfdf18",
-          "name": "Estonia (W) vs Romania (W) | 22:30 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b8f8dfdf18",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b8f8dfdf18",
-                  "name": "Estonia (W) vs Romania (W)",
-                  "streams": [
-                    {
-                      "id": "st-b8f8dfdf18",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0d55fe5c0b",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794849478_hd/1794849478_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Basketball Championship Qualifier(W)",
-            "team_a": "Estonia (W)",
-            "team_b": "Romania (W)",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d555cad964cf052ce0c1cc8bf742560f.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c9f4921546904d65cd4757dd9c8974ba.jpg",
-            "time": "22:30:00",
-            "date": "17/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20524573_3d057366_20261118.png?v=3d057366",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-7fd1f1fcf9",
           "name": "Poland (W) vs Turkey (W) | 23:00 17/11",
           "type": "single",
@@ -1329,10 +1185,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1381,7 +1237,7 @@
             "time": "01:00:00",
             "date": "18/11",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
