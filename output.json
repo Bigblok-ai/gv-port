@@ -1892,83 +1892,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-82aa154207",
-          "name": "Denver Nuggets vs Phoenix Suns | 09:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-82aa154207",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-82aa154207",
-                  "name": "Denver Nuggets vs Phoenix Suns",
-                  "streams": [
-                    {
-                      "id": "st-82aa154207",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7da51cb171",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794822337_hd/1794822337_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Denver Nuggets",
-            "team_b": "Phoenix Suns",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6a6855785a58edb23c76c99ed6601a33.png",
-            "time": "09:00:00",
-            "date": "17/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39498279_6d48370c_20261117.png?v=6d48370c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2278c1f816",
           "name": "Wonju DB vs Anyang JungkwanJang | 17:00 17/11",
@@ -3008,83 +2936,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (2 LIVE)",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4d9dc33df2",
-          "name": "Baltimore Ravens vs Los Angeles Chargers | 08:15 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4d9dc33df2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4d9dc33df2",
-                  "name": "Baltimore Ravens vs Los Angeles Chargers",
-                  "streams": [
-                    {
-                      "id": "st-4d9dc33df2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9d30f15bc7",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794822408_hd/1794822408_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "Baltimore Ravens",
-            "team_b": "Los Angeles Chargers",
-            "logo_a": "https://static.flashscore.com/res/image/data/dUe4S2il-40MWbKRi.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/d0vpBaCr-dxGyIFGs.png",
-            "time": "08:15:00",
-            "date": "17/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cuor43tz4f01_ad688dcd_20261117.png?v=ad688dcd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-8ec3c67a93",
           "name": "Vancouver Canucks vs Utah Mammoth | 09:30 17/11",
