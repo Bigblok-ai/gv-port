@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-8b978b80a6",
-          "name": "Malaysia vs Yemen | 13:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8b978b80a6",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8b978b80a6",
-                  "name": "Malaysia vs Yemen",
-                  "streams": [
-                    {
-                      "id": "st-8b978b80a6",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c1f40dc7c3",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794822105_hd/1794822105_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao hữu quốc tế",
-            "team_a": "Malaysia",
-            "team_b": "Yemen",
-            "logo_a": "https://images.keovip88.net/images/teams/malaysia.png",
-            "logo_b": "https://images.keovip88.net/images/teams/yemen.png",
-            "time": "13:00:00",
-            "date": "17/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aea76a432c08df19f0fb305_90e0fd8a_20261117.png?v=90e0fd8a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-c7ba43f7f2",
           "name": "Singapore vs Brazil | 17:00 17/11",
