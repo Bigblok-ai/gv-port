@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c7ba43f7f2",
-          "name": "Singapore vs Brazil | 17:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c7ba43f7f2",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c7ba43f7f2",
-                  "name": "Singapore vs Brazil",
-                  "streams": [
-                    {
-                      "id": "st-c7ba43f7f2",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8736cf09e4",
-                          "name": "Tỵ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783866_hd/1794783866_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao hữu quốc tế",
-            "team_a": "Singapore",
-            "team_b": "Brazil",
-            "logo_a": "https://images.keovip88.net/images/teams/singapore.png",
-            "logo_b": "https://images.keovip88.net/images/teams/brazil.png",
-            "time": "17:00:00",
-            "date": "17/11",
-            "blv": "Tỵ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aea76a432c08df19f0fb306_faabe86e_20261117.png?v=faabe86e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-aadd60c2ce",
           "name": "Croatia U17 vs U17 Bỉ | 17:00 17/11",
@@ -96,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +76,7 @@
             "time": "17:00:00",
             "date": "17/11",
             "blv": "Mason",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "17:00:00",
             "date": "17/11",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -233,38 +161,38 @@
           }
         },
         {
-          "id": "gv-ceec6f8d2f",
-          "name": "Serbia U17 vs Bồ Đào Nha U17 | 18:00 17/11",
+          "id": "gv-c7ba43f7f2",
+          "name": "Singapore vs Brazil | 17:00 17/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-ceec6f8d2f",
+              "id": "src-c7ba43f7f2",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-ceec6f8d2f",
-                  "name": "Serbia U17 vs Bồ Đào Nha U17",
+                  "id": "ct-c7ba43f7f2",
+                  "name": "Singapore vs Brazil",
                   "streams": [
                     {
-                      "id": "st-ceec6f8d2f",
+                      "id": "st-c7ba43f7f2",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-5c03e5eb09",
-                          "name": "Cận",
+                          "id": "lnk-8736cf09e4",
+                          "name": "Tỵ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784292_hd/1794784292_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783866_hd/1794783866_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -284,22 +212,22 @@
             }
           ],
           "org_metadata": {
-            "league": "Euro U17",
-            "team_a": "Serbia U17",
-            "team_b": "Bồ Đào Nha U17",
-            "logo_a": "https://images.keovip88.net/images/teams/srbija-cgora-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/portugal-u17.png",
-            "time": "18:00:00",
+            "league": "Giao hữu quốc tế",
+            "team_a": "Singapore",
+            "team_b": "Brazil",
+            "logo_a": "https://images.keovip88.net/images/teams/singapore.png",
+            "logo_b": "https://images.keovip88.net/images/teams/brazil.png",
+            "time": "17:00:00",
             "date": "17/11",
-            "blv": "Cận",
-            "is_live": false,
+            "blv": "Tỵ",
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a31e6abea5e0af71602ace1_d9f67539_20261117.png?v=d9f67539",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aea76a432c08df19f0fb306_faabe86e_20261117.png?v=faabe86e",
             "width": 1600,
             "height": 1200
           }
@@ -372,6 +300,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e9e4e495feaee0abd7a_9edb3191_20261117.png?v=9edb3191",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ceec6f8d2f",
+          "name": "Serbia U17 vs Bồ Đào Nha U17 | 18:00 17/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ceec6f8d2f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ceec6f8d2f",
+                  "name": "Serbia U17 vs Bồ Đào Nha U17",
+                  "streams": [
+                    {
+                      "id": "st-ceec6f8d2f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5c03e5eb09",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784292_hd/1794784292_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Euro U17",
+            "team_a": "Serbia U17",
+            "team_b": "Bồ Đào Nha U17",
+            "logo_a": "https://images.keovip88.net/images/teams/srbija-cgora-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/portugal-u17.png",
+            "time": "18:00:00",
+            "date": "17/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a31e6abea5e0af71602ace1_d9f67539_20261117.png?v=d9f67539",
             "width": 1600,
             "height": 1200
           }
@@ -1748,7 +1748,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1761,10 +1761,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1813,7 +1813,7 @@
             "time": "17:00:00",
             "date": "17/11",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2486,7 +2486,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2499,10 +2499,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2551,7 +2551,7 @@
             "time": "17:00:00",
             "date": "17/11",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
