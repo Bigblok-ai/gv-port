@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -228,78 +228,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25eb624d46db8709aa8a6_9f248d7e_20261117.png?v=9f248d7e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-87307fee62",
-          "name": "Phần Lan U19 vs Tây Ban Nha U19 | 19:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-87307fee62",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-87307fee62",
-                  "name": "Phần Lan U19 vs Tây Ban Nha U19",
-                  "streams": [
-                    {
-                      "id": "st-87307fee62",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b36dcc0ebb",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794783929_hd/1794783929_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Euro U19",
-            "team_a": "Phần Lan U19",
-            "team_b": "Tây Ban Nha U19",
-            "logo_a": "https://images.keovip88.net/images/teams/finland-u19.png",
-            "logo_b": "https://images.keovip88.net/images/teams/spain-u19.png",
-            "time": "19:00:00",
-            "date": "17/11",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af25e9e4e495feaee0abd77_32cfb964_20261117.png?v=32cfb964",
             "width": 1600,
             "height": 1200
           }
@@ -1532,83 +1460,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2278c1f816",
-          "name": "Wonju DB vs Anyang JungkwanJang | 17:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2278c1f816",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2278c1f816",
-                  "name": "Wonju DB vs Anyang JungkwanJang",
-                  "streams": [
-                    {
-                      "id": "st-2278c1f816",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4f032e9b2b",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794784583_hd/1794784583_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "Wonju DB",
-            "team_b": "Anyang JungkwanJang",
-            "logo_a": "https://static.flashscore.com/res/image/data/ELYOWIAr-xtco8W2d.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/viUBkizB-KtOrDRPL.png",
-            "time": "17:00:00",
-            "date": "17/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/t6dprg82z3rd_46ded96c_20261117.png?v=46ded96c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6e6a7175fe",
           "name": "Ukraine (W) vs France (W) | 20:00 17/11",
@@ -2989,87 +2845,6 @@
       ]
     },
     {
-      "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-b03430dd8f",
-          "name": "IBK Nữ vs Daejeon JKJ Nữ | 17:00 17/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b03430dd8f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b03430dd8f",
-                  "name": "IBK Nữ vs Daejeon JKJ Nữ",
-                  "streams": [
-                    {
-                      "id": "st-b03430dd8f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5f67da15ee",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794785015_hd/1794785015_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Volleyball League Nữ",
-            "team_a": "IBK Nữ",
-            "team_b": "Daejeon JKJ Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/GCVCfeyS-8pDUfQGg.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/C6oehGYg-YPeUstG1.png",
-            "time": "17:00:00",
-            "date": "17/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/li94dz4jbspb_dde94a07_20261117.png?v=dde94a07",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
       "id": "cate_vothuat",
       "name": "🥊 Võ Thuật",
       "display": "vertical",
@@ -3441,6 +3216,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rgtnj6rja8wm_d6c6daea_20261117.png?v=d6c6daea",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-73fc903bdb",
+          "name": "Edmonton Oilers vs Florida Panthers | 07:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-73fc903bdb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-73fc903bdb",
+                  "name": "Edmonton Oilers vs Florida Panthers",
+                  "streams": [
+                    {
+                      "id": "st-73fc903bdb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1c0dd5c05a",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794917142_hd/1794917142_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "Edmonton Oilers",
+            "team_b": "Florida Panthers",
+            "logo_a": "https://static.flashscore.com/res/image/data/pOwPVde5-8tsWJaGQ.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/d6TIwN9r-4U1I4vlB.png",
+            "time": "07:00:00",
+            "date": "18/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/f4lt9r74g4eg_b8530360_20261117.png?v=b8530360",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-de6b480581",
+          "name": "Dallas Stars vs Las Vegas Golden Knights | 10:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-de6b480581",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-de6b480581",
+                  "name": "Dallas Stars vs Las Vegas Golden Knights",
+                  "streams": [
+                    {
+                      "id": "st-de6b480581",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d75a1d3abd",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794917238_hd/1794917238_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL",
+            "team_a": "Dallas Stars",
+            "team_b": "Las Vegas Golden Knights",
+            "logo_a": "https://static.flashscore.com/res/image/data/zNemh2Xg-hQU6HNTr.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rcaaQKFG-MucFHXDq.png",
+            "time": "10:00:00",
+            "date": "18/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/1eibc1m9bs7y_41892e68_20261117.png?v=41892e68",
             "width": 1600,
             "height": 1200
           }
