@@ -2198,83 +2198,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9bcda9fb22",
-          "name": "Fenerbahce Nữ vs THY Nữ | 20:30 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9bcda9fb22",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9bcda9fb22",
-                  "name": "Fenerbahce Nữ vs THY Nữ",
-                  "streams": [
-                    {
-                      "id": "st-9bcda9fb22",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1d66a14af4",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794980009_hd/1794980009_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Turkish Cup Nữ - Play Offs - Tứ kết",
-            "team_a": "Fenerbahce Nữ",
-            "team_b": "THY Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/2NnRTQjl-llnQ8REs.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Y3rwfVil-hbCWshlB.png",
-            "time": "20:30:00",
-            "date": "18/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/imif008an4qk_77ac3822_20261118.png?v=77ac3822",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-49dc439da7",
           "name": "Eczacibasi Nữ vs Aras Kargo Nữ | 23:00 18/11",
