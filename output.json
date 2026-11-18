@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2ee5a91460",
-          "name": "Nữ Real Madrid vs Nữ Inter Milan | 00:45 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2ee5a91460",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2ee5a91460",
-                  "name": "Nữ Real Madrid vs Nữ Inter Milan",
-                  "streams": [
-                    {
-                      "id": "st-2ee5a91460",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1d1ef6a704",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794831615_hd/1794831615_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Champions League Nữ",
-            "team_a": "Nữ Real Madrid",
-            "team_b": "Nữ Inter Milan",
-            "logo_a": "https://images.keovip88.net/images/teams/real-madrid-w.png",
-            "logo_b": "https://images.keovip88.net/images/teams/inter-milan-w.png",
-            "time": "00:45:00",
-            "date": "19/11",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80d_b1e847e6_20261119.png?v=b1e847e6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-5535cead16",
           "name": "Nữ Chelsea FC vs Nữ Paris Saint Germain | 03:00 19/11",
