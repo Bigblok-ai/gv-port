@@ -2189,83 +2189,11 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f3dd4717c7",
-          "name": "Flavio Cobolli vs Frances Tiafoe | 02:30 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f3dd4717c7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f3dd4717c7",
-                  "name": "Flavio Cobolli vs Frances Tiafoe",
-                  "streams": [
-                    {
-                      "id": "st-f3dd4717c7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-503e694853",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795009425_hd/1795009425_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Finals",
-            "team_a": "Flavio Cobolli",
-            "team_b": "Frances Tiafoe",
-            "logo_a": "https://static.flashscore.com/res/image/data/E1rCFmCr-4rBjn5Su.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/A3X3wNil-AJjcvBgm.png",
-            "time": "02:30:00",
-            "date": "19/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4smo0e354rzs_1305a362_20261119.png?v=1305a362",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fca35603a0",
           "name": "Alexander Zverev vs Arthur Fils | 02:30 20/11",
