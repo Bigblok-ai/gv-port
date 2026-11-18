@@ -524,83 +524,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b6c1b944ba",
-          "name": "New Zealand Breakers vs South East Melbourne Phoenix | 13:30 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b6c1b944ba",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b6c1b944ba",
-                  "name": "New Zealand Breakers vs South East Melbourne Phoenix",
-                  "streams": [
-                    {
-                      "id": "st-b6c1b944ba",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cb74a5f21c",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916650_hd/1794916650_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "New Zealand Breakers",
-            "team_b": "South East Melbourne Phoenix",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7778a93083d2fa50e4cb4e128f07cf5f.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e5c63f30ad74c5c5159f1e7695173ae5.png",
-            "time": "13:30:00",
-            "date": "18/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20822271_aa59c17f_20261118.png?v=aa59c17f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-da887ccb31",
           "name": "Guangzhou Loong Lions vs Jilin Northeast Tigers | 14:30 18/11",
