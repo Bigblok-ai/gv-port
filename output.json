@@ -524,83 +524,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c662013cc7",
-          "name": "Tianjin Pioneers vs Shanghai Black Bird | 15:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c662013cc7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c662013cc7",
-                  "name": "Tianjin Pioneers vs Shanghai Black Bird",
-                  "streams": [
-                    {
-                      "id": "st-c662013cc7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-79bbb77a78",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916993_hd/1794916993_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA Club Cup",
-            "team_a": "Tianjin Pioneers",
-            "team_b": "Shanghai Black Bird",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c95a72565d21fd4797acfbfb63c829e8.PNG",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a556906b35893417f1616392c7fe232e.png",
-            "time": "15:00:00",
-            "date": "18/11",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26234577_6993dee3_20261118.png?v=6993dee3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2330f79de4",
           "name": "Seoul Thunders vs LG Sakers | 17:00 18/11",
