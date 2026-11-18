@@ -524,83 +524,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-80227868f7",
-          "name": "Los Angeles Clippers vs Utah Jazz | 10:30 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-80227868f7",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-80227868f7",
-                  "name": "Los Angeles Clippers vs Utah Jazz",
-                  "streams": [
-                    {
-                      "id": "st-80227868f7",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e3232579c3",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916612_hd/1794916612_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Los Angeles Clippers",
-            "team_b": "Utah Jazz",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
-            "time": "10:30:00",
-            "date": "18/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33598274_3fdfe3d4_20261118.png?v=3fdfe3d4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b16c917e9c",
           "name": "Los Angeles Lakers vs Charlotte Hornets | 11:00 18/11",
