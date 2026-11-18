@@ -1334,83 +1334,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (2 LIVE)",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4e096b21c6",
-          "name": "Eastern Michigan vs Western Michigan | 06:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4e096b21c6",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4e096b21c6",
-                  "name": "Eastern Michigan vs Western Michigan",
-                  "streams": [
-                    {
-                      "id": "st-4e096b21c6",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2ff824a1db",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794830850_hd/1794830850_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NCAA",
-            "team_a": "Eastern Michigan",
-            "team_b": "Western Michigan",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/OjCjpLllrIpSKOMVG_onbg_96x96.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/MqjuUSrXhdKOfhfgZFldtw_96x96.png",
-            "time": "06:00:00",
-            "date": "18/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/rgtnj6rja8wm_d6c6daea_20261118.png?v=d6c6daea",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-73fc903bdb",
           "name": "Edmonton Oilers vs Florida Panthers | 07:00 18/11",
