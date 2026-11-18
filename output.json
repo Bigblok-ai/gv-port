@@ -668,7 +668,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -813,78 +813,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39334571_734fc78d_20261118.png?v=734fc78d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-91bcec08a6",
-          "name": "SiChuan Jingqiang Blue Whales vs QingDao Eagles | 19:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-91bcec08a6",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-91bcec08a6",
-                  "name": "SiChuan Jingqiang Blue Whales vs QingDao Eagles",
-                  "streams": [
-                    {
-                      "id": "st-91bcec08a6",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e5fde50f6a",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794979882_hd/1794979882_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA Club Cup",
-            "team_a": "SiChuan Jingqiang Blue Whales",
-            "team_b": "QingDao Eagles",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1cb8d991c7b1dbf8f56adbb08619f919.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cbbeaf29a9996f0500e140e33cb780ae.png",
-            "time": "19:00:00",
-            "date": "18/11",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23334575_f10c3c5e_20261118.png?v=f10c3c5e",
             "width": 1600,
             "height": 1200
           }
@@ -2265,6 +2193,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-f3dd4717c7",
+          "name": "Flavio Cobolli vs Frances Tiafoe | 02:30 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f3dd4717c7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f3dd4717c7",
+                  "name": "Flavio Cobolli vs Frances Tiafoe",
+                  "streams": [
+                    {
+                      "id": "st-f3dd4717c7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-503e694853",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795009425_hd/1795009425_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Finals",
+            "team_a": "Flavio Cobolli",
+            "team_b": "Frances Tiafoe",
+            "logo_a": "https://static.flashscore.com/res/image/data/E1rCFmCr-4rBjn5Su.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/A3X3wNil-AJjcvBgm.png",
+            "time": "02:30:00",
+            "date": "19/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4smo0e354rzs_1305a362_20261118.png?v=1305a362",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fca35603a0",
+          "name": "Alexander Zverev vs Arthur Fils | 02:30 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fca35603a0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fca35603a0",
+                  "name": "Alexander Zverev vs Arthur Fils",
+                  "streams": [
+                    {
+                      "id": "st-fca35603a0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3802a5cb81",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795009371_hd/1795009371_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Finals",
+            "team_a": "Alexander Zverev",
+            "team_b": "Arthur Fils",
+            "logo_a": "https://static.flashscore.com/res/image/data/tO5cePjl-2DqYxEbl.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/Eg01vrEa-SQeH6w5H.png",
+            "time": "02:30:00",
+            "date": "20/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cwe9vmagcr1w_fc41593c_20261118.png?v=fc41593c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2343,6 +2415,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/imif008an4qk_77ac3822_20261118.png?v=77ac3822",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-49dc439da7",
+          "name": "Eczacibasi Nữ vs Aras Kargo Nữ | 23:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-49dc439da7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-49dc439da7",
+                  "name": "Eczacibasi Nữ vs Aras Kargo Nữ",
+                  "streams": [
+                    {
+                      "id": "st-49dc439da7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c3a72e968a",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795009189_hd/1795009189_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish Cup Nữ - Play Offs - Tứ kết",
+            "team_a": "Eczacibasi Nữ",
+            "team_b": "Aras Kargo Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/6wWfI3zB-jm1g2SD5.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/OlaTX8Xg-OWRI6OC5.png",
+            "time": "23:00:00",
+            "date": "18/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cov0eicu6csp_928057d6_20261118.png?v=928057d6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f7a49b686f",
+          "name": "Zeren Spor Nữ vs Galatasaray Nữ | 23:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f7a49b686f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f7a49b686f",
+                  "name": "Zeren Spor Nữ vs Galatasaray Nữ",
+                  "streams": [
+                    {
+                      "id": "st-f7a49b686f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1d79a7ecd9",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795009303_hd/1795009303_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Turkish Cup Nữ - Play Offs - Tứ kết",
+            "team_a": "Zeren Spor Nữ",
+            "team_b": "Galatasaray Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/OYCV85hl-4UHCiGe2.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/x417hkDa-GdosgdYA.png",
+            "time": "23:00:00",
+            "date": "19/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3o8n4tpuvf0a_92cecfdf_20261118.png?v=92cecfdf",
             "width": 1600,
             "height": 1200
           }
