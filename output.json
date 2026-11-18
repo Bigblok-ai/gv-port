@@ -314,78 +314,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-28cef30e41",
-          "name": "Toronto Raptors vs New York Knicks | 07:30 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-28cef30e41",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-28cef30e41",
-                  "name": "Toronto Raptors vs New York Knicks",
-                  "streams": [
-                    {
-                      "id": "st-28cef30e41",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5f1762552c",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916504_hd/1794916504_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Toronto Raptors",
-            "team_b": "New York Knicks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3f61db02c20eb73e5f27948b3122f2fb.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png",
-            "time": "07:30:00",
-            "date": "18/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38438272_428b3724_20261118.png?v=428b3724",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-5260113234",
           "name": "Minnesota Timberwolves vs Portland Trail Blazers | 08:00 18/11",
           "type": "single",
@@ -537,10 +465,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -589,7 +517,7 @@
             "time": "10:30:00",
             "date": "18/11",
             "blv": "Chồn",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -1334,7 +1262,7 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1419,10 +1347,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1471,7 +1399,7 @@
             "time": "10:00:00",
             "date": "18/11",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "rugby"
           },
           "image": {
