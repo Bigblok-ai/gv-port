@@ -1468,6 +1468,87 @@
       ]
     },
     {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-901cc5f0f8",
+          "name": "Carlos Alcaraz vs Daniil Medvedev | 20:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-901cc5f0f8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-901cc5f0f8",
+                  "name": "Carlos Alcaraz vs Daniil Medvedev",
+                  "streams": [
+                    {
+                      "id": "st-901cc5f0f8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-831d49f169",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794980073_hd/1794980073_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Finals",
+            "team_a": "Carlos Alcaraz",
+            "team_b": "Daniil Medvedev",
+            "logo_a": "https://static.flashscore.com/res/image/data/OfjQEPjl-KjZlrI8i.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/QujxPtf5-6Z1AkBdk.png",
+            "time": "20:00:00",
+            "date": "18/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gkcc7jkrp7bb_13ec6f6e_20261118.png?v=13ec6f6e",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_bongchuyen",
       "name": "🏐 Bóng Chuyền",
       "display": "vertical",
