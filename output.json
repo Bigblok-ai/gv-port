@@ -1631,7 +1631,7 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật (1 LIVE)",
+      "name": "🥊 Võ Thuật",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1644,10 +1644,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1696,7 +1696,7 @@
             "time": "14:00:00",
             "date": "18/11",
             "blv": "Dory",
-            "is_live": true,
+            "is_live": false,
             "cate_type": "vothuat"
           },
           "image": {
