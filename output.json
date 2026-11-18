@@ -668,7 +668,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (4 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -885,78 +885,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23334575_f10c3c5e_20261118.png?v=f10c3c5e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-6621c5f9d1",
-          "name": "Suzhou Dragons Kentier vs Beijing Shougang Ducks | 19:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6621c5f9d1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6621c5f9d1",
-                  "name": "Suzhou Dragons Kentier vs Beijing Shougang Ducks",
-                  "streams": [
-                    {
-                      "id": "st-6621c5f9d1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4dcac6b688",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794979906_hd/1794979906_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA Club Cup",
-            "team_a": "Suzhou Dragons Kentier",
-            "team_b": "Beijing Shougang Ducks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d1c8a0f21d4d300f8ddce93f11b79c70.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/58867afcb7d9cb68ffd5338c62c7af6a.png",
-            "time": "19:00:00",
-            "date": "18/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27234578_cdca4db2_20261118.png?v=cdca4db2",
             "width": 1600,
             "height": 1200
           }
@@ -2109,6 +2037,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28234579_dbf861b4_20261118.png?v=dbf861b4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-45ff54e463",
+          "name": "Maccabi Tel Aviv vs Dubai | 00:15 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-45ff54e463",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-45ff54e463",
+                  "name": "Maccabi Tel Aviv vs Dubai",
+                  "streams": [
+                    {
+                      "id": "st-45ff54e463",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-55149890c9",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795009059_hd/1795009059_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Maccabi Tel Aviv",
+            "team_b": "Dubai",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cbdb391d51668f9243488bc1cc126767.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/38e7f6ed6a1053e25c1f5d60fbf563b2.png",
+            "time": "00:15:00",
+            "date": "20/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29203273_dfcec676_20261118.png?v=dfcec676",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ba89f26564",
+          "name": "FC Bayern Munchen vs Saski Baskonia | 02:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ba89f26564",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ba89f26564",
+                  "name": "FC Bayern Munchen vs Saski Baskonia",
+                  "streams": [
+                    {
+                      "id": "st-ba89f26564",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9d1bddab0c",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795009070_hd/1795009070_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "FC Bayern Munchen",
+            "team_b": "Saski Baskonia",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1ee20d34aaf3954a5ae419166d015a1d.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/40ff02342689917a4e3a1f46343068cc.png",
+            "time": "02:00:00",
+            "date": "20/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10303275_90be9477_20261118.png?v=90be9477",
             "width": 1600,
             "height": 1200
           }
