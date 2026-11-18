@@ -602,78 +602,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-6be54bcc10",
-          "name": "Besiktas Cola Turka vs Real Madrid Teka | 00:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6be54bcc10",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6be54bcc10",
-                  "name": "Besiktas Cola Turka vs Real Madrid Teka",
-                  "streams": [
-                    {
-                      "id": "st-6be54bcc10",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d26fe463f7",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795009643_hd/1795009643_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Besiktas Cola Turka",
-            "team_b": "Real Madrid Teka",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/4c56f517bc64726563ed7f0d226a828e.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/baacc764f89f2ce4c22b48768946ca5a.png",
-            "time": "00:00:00",
-            "date": "19/11",
-            "blv": "Nem",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27203271_3c2d74d3_20261118.png?v=3c2d74d3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-d8df947068",
           "name": "Orlando Magic vs Philadelphia 76ers | 07:00 19/11",
           "type": "single",
@@ -2198,7 +2126,7 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2211,10 +2139,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2263,7 +2191,7 @@
             "time": "23:00:00",
             "date": "18/11",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
@@ -2351,7 +2279,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2364,10 +2292,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2416,7 +2344,7 @@
             "time": "23:00:00",
             "date": "18/11",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
