@@ -591,6 +591,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-9f0287470a",
+          "name": "Argentina U17 vs Australia U17 | 23:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f0287470a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9f0287470a",
+                  "name": "Argentina U17 vs Australia U17",
+                  "streams": [
+                    {
+                      "id": "st-9f0287470a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-acb1352c32",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795008712_hd/1795008712_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Argentina U17",
+            "team_b": "Australia U17",
+            "logo_a": "https://images.keovip88.net/images/teams/argentina-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/australia-u17.png",
+            "time": "23:00:00",
+            "date": "19/11",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad62a_b198aa74_20261118.png?v=b198aa74",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-74c9993dfb",
+          "name": "Egypt U17 vs Greece U17 | 23:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-74c9993dfb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-74c9993dfb",
+                  "name": "Egypt U17 vs Greece U17",
+                  "streams": [
+                    {
+                      "id": "st-74c9993dfb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-72507abe9c",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795008762_hd/1795008762_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Egypt U17",
+            "team_b": "Greece U17",
+            "logo_a": "https://images.keovip88.net/images/teams/egypt-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/greece-u17.png",
+            "time": "23:00:00",
+            "date": "19/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad623_edc63b79_20261118.png?v=edc63b79",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
