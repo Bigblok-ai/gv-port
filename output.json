@@ -663,6 +663,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c3b4174251",
+          "name": "Austria Wien (W) vs Nữ Bayern Munich | 00:45 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c3b4174251",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c3b4174251",
+                  "name": "Austria Wien (W) vs Nữ Bayern Munich",
+                  "streams": [
+                    {
+                      "id": "st-c3b4174251",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-852bb3be8c",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795008869_hd/1795008869_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Champions League Nữ",
+            "team_a": "Austria Wien (W)",
+            "team_b": "Nữ Bayern Munich",
+            "logo_a": "https://images.keovip88.net/images/teams/austria-wien-w.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen-w.png",
+            "time": "00:45:00",
+            "date": "20/11",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b810_a4e1f3dc_20261119.png?v=a4e1f3dc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-316f496525",
+          "name": "Nữ Paris FC vs HB Koge (W) | 00:45 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-316f496525",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-316f496525",
+                  "name": "Nữ Paris FC vs HB Koge (W)",
+                  "streams": [
+                    {
+                      "id": "st-316f496525",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4980716bd7",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795008901_hd/1795008901_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Champions League Nữ",
+            "team_a": "Nữ Paris FC",
+            "team_b": "HB Koge (W)",
+            "logo_a": "https://images.keovip88.net/images/teams/paris-fc-w.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hb-koge-w.png",
+            "time": "00:45:00",
+            "date": "20/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b811_fdb5cc8c_20261119.png?v=fdb5cc8c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
