@@ -524,83 +524,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-b16c917e9c",
-          "name": "Los Angeles Lakers vs Charlotte Hornets | 11:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b16c917e9c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b16c917e9c",
-                  "name": "Los Angeles Lakers vs Charlotte Hornets",
-                  "streams": [
-                    {
-                      "id": "st-b16c917e9c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-02f2727e47",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794916631_hd/1794916631_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Los Angeles Lakers",
-            "team_b": "Charlotte Hornets",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
-            "time": "11:00:00",
-            "date": "18/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32598273_28f9ca6f_20261118.png?v=28f9ca6f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-b6c1b944ba",
           "name": "New Zealand Breakers vs South East Melbourne Phoenix | 13:30 18/11",
