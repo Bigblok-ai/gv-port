@@ -233,6 +233,78 @@
           }
         },
         {
+          "id": "gv-cf55c75958",
+          "name": "El Gounah vs Al Ittihad | 22:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cf55c75958",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cf55c75958",
+                  "name": "El Gounah vs Al Ittihad",
+                  "streams": [
+                    {
+                      "id": "st-cf55c75958",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d4a1f6fb5e",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795004999_hd/1795004999_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Ai Cập",
+            "team_a": "El Gounah",
+            "team_b": "Al Ittihad",
+            "logo_a": "https://images.keovip88.net/images/teams/el-gouna-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/zamalek.png",
+            "time": "22:00:00",
+            "date": "18/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6afa47c224d46db870cf9d17_97d86f73_20261118.png?v=97d86f73",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-f97eb709bf",
           "name": "Nữ BK Hacken vs Nữ Manchester City | 00:45 19/11",
           "type": "single",
@@ -2415,6 +2487,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/imif008an4qk_77ac3822_20261118.png?v=77ac3822",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-50ae9bab49",
+          "name": "Super High Roller Series North Cyprus 2026 vs Super High Roller Series North Cyprus 2026 | 22:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-50ae9bab49",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-50ae9bab49",
+                  "name": "Super High Roller Series North Cyprus 2026 vs Super High Roller Series North Cyprus 2026",
+                  "streams": [
+                    {
+                      "id": "st-50ae9bab49",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-446b83f8d9",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795005139_hd/1795005139_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Day 4\tTRITON",
+            "team_a": "Super High Roller Series North Cyprus 2026",
+            "team_b": "Super High Roller Series North Cyprus 2026",
+            "logo_a": "https://i.ytimg.com/vi/CJpNQh5c_2A/maxresdefault.jpg",
+            "logo_b": "https://i.ytimg.com/vi/CJpNQh5c_2A/maxresdefault.jpg",
+            "time": "22:00:00",
+            "date": "18/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kve5c32qf0l7_9c53b4ab_20261118.png?v=9c53b4ab",
             "width": 1600,
             "height": 1200
           }
