@@ -17,6 +17,222 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-c6df5b3f2f",
+          "name": "TP Hồ Chí Minh vs Buriram United | 18:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c6df5b3f2f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c6df5b3f2f",
+                  "name": "TP Hồ Chí Minh vs Buriram United",
+                  "streams": [
+                    {
+                      "id": "st-c6df5b3f2f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-da92958676",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794979315_hd/1794979315_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Club Championship",
+            "team_a": "TP Hồ Chí Minh",
+            "team_b": "Buriram United",
+            "logo_a": "https://images.keovip88.net/images/teams/ho-chi-minh-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/buriram-united.png",
+            "time": "18:00:00",
+            "date": "18/11",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a98b9ebc3cb5766bc0155ee_1be85255_20261118.png?v=1be85255",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ad67361839",
+          "name": "Tampines Rovers FC vs Ratchaburi FC | 18:30 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ad67361839",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ad67361839",
+                  "name": "Tampines Rovers FC vs Ratchaburi FC",
+                  "streams": [
+                    {
+                      "id": "st-ad67361839",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2212cbcdaf",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794979243_hd/1794979243_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Club Championship",
+            "team_a": "Tampines Rovers FC",
+            "team_b": "Ratchaburi FC",
+            "logo_a": "https://images.keovip88.net/images/teams/tampines-rovers-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ratchaburi-fc.png",
+            "time": "18:30:00",
+            "date": "18/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a3c72121de2475184064773_8da26f71_20261118.png?v=8da26f71",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a49db29992",
+          "name": "Borneo FC Samarinda vs Manila Digger FC | 19:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a49db29992",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a49db29992",
+                  "name": "Borneo FC Samarinda vs Manila Digger FC",
+                  "streams": [
+                    {
+                      "id": "st-a49db29992",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b3c6e1db17",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794979295_hd/1794979295_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Club Championship",
+            "team_a": "Borneo FC Samarinda",
+            "team_b": "Manila Digger FC",
+            "logo_a": "https://images.keovip88.net/images/teams/borneo-fc-samarinda.png",
+            "logo_b": "https://images.keovip88.net/images/teams/manila-digger-fc.png",
+            "time": "19:00:00",
+            "date": "18/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa9dd05b5dda8c9400d6666_1b7455ca_20261118.png?v=1b7455ca",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-f97eb709bf",
           "name": "Nữ BK Hacken vs Nữ Manchester City | 00:45 19/11",
           "type": "single",
@@ -813,6 +1029,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26234577_6993dee3_20261118.png?v=6993dee3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2330f79de4",
+          "name": "Seoul Thunders vs LG Sakers | 17:00 18/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2330f79de4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2330f79de4",
+                  "name": "Seoul Thunders vs LG Sakers",
+                  "streams": [
+                    {
+                      "id": "st-2330f79de4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-afbd5de332",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794979344_hd/1794979344_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "South Korean KBL Cup",
+            "team_a": "Seoul Thunders",
+            "team_b": "LG Sakers",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk96OsPcVdWJ_VfK8sNDt-Nh4Y2pCXQiBACA&s",
+            "logo_b": "https://static.flashscore.com/res/image/data/M5dauNCa-2el3ggr9.png",
+            "time": "17:00:00",
+            "date": "18/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xydsilhe35se_d50a8243_20261118.png?v=d50a8243",
             "width": 1600,
             "height": 1200
           }
