@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-cf55c75958",
-          "name": "El Gounah vs Al Ittihad | 22:00 18/11",
+          "id": "gv-f97eb709bf",
+          "name": "Nữ BK Hacken vs Nữ Manchester City | 00:45 19/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -28,78 +28,6 @@
               "position": "top-left",
               "color": "#00000080",
               "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cf55c75958",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cf55c75958",
-                  "name": "El Gounah vs Al Ittihad",
-                  "streams": [
-                    {
-                      "id": "st-cf55c75958",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d4a1f6fb5e",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795004999_hd/1795004999_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Cúp Ai Cập",
-            "team_a": "El Gounah",
-            "team_b": "Al Ittihad",
-            "logo_a": "https://images.keovip88.net/images/teams/el-gouna-fc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/zamalek.png",
-            "time": "22:00:00",
-            "date": "18/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6afa47c224d46db870cf9d17_97d86f73_20261118.png?v=97d86f73",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-f97eb709bf",
-          "name": "Nữ BK Hacken vs Nữ Manchester City | 00:45 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -148,14 +76,14 @@
             "time": "00:45:00",
             "date": "19/11",
             "blv": "Tỵ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80c_e4f0c3b3_20261118.png?v=e4f0c3b3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80c_e4f0c3b3_20261119.png?v=e4f0c3b3",
             "width": 1600,
             "height": 1200
           }
@@ -227,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80d_b1e847e6_20261118.png?v=b1e847e6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80d_b1e847e6_20261119.png?v=b1e847e6",
             "width": 1600,
             "height": 1200
           }
@@ -299,7 +227,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80e_b7b247e1_20261118.png?v=b7b247e1",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80e_b7b247e1_20261119.png?v=b7b247e1",
             "width": 1600,
             "height": 1200
           }
@@ -371,7 +299,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80f_45832744_20261118.png?v=45832744",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aaf22fc4e725bdee905b80f_45832744_20261119.png?v=45832744",
             "width": 1600,
             "height": 1200
           }
@@ -443,7 +371,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af3b03824d46db870515b79_e488e542_20261118.png?v=e488e542",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af3b03824d46db870515b79_e488e542_20261119.png?v=e488e542",
             "width": 1600,
             "height": 1200
           }
@@ -515,7 +443,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af3b03824d46db870515b92_493453dc_20261118.png?v=493453dc",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af3b03824d46db870515b92_493453dc_20261119.png?v=493453dc",
             "width": 1600,
             "height": 1200
           }
@@ -587,7 +515,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af3b03824d46db870515ba0_4f3e9f28_20261118.png?v=4f3e9f28",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af3b03824d46db870515ba0_4f3e9f28_20261119.png?v=4f3e9f28",
             "width": 1600,
             "height": 1200
           }
@@ -659,7 +587,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad62a_b198aa74_20261118.png?v=b198aa74",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad62a_b198aa74_20261119.png?v=b198aa74",
             "width": 1600,
             "height": 1200
           }
@@ -731,7 +659,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad623_edc63b79_20261118.png?v=edc63b79",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad623_edc63b79_20261119.png?v=edc63b79",
             "width": 1600,
             "height": 1200
           }
@@ -740,11 +668,83 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-6be54bcc10",
+          "name": "Besiktas Cola Turka vs Real Madrid Teka | 00:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6be54bcc10",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6be54bcc10",
+                  "name": "Besiktas Cola Turka vs Real Madrid Teka",
+                  "streams": [
+                    {
+                      "id": "st-6be54bcc10",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d26fe463f7",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795009643_hd/1795009643_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Besiktas Cola Turka",
+            "team_b": "Real Madrid Teka",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/4c56f517bc64726563ed7f0d226a828e.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/baacc764f89f2ce4c22b48768946ca5a.png",
+            "time": "00:00:00",
+            "date": "19/11",
+            "blv": "Nem",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27203271_3c2d74d3_20261119.png?v=3c2d74d3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-d8df947068",
           "name": "Orlando Magic vs Philadelphia 76ers | 07:00 19/11",
@@ -812,7 +812,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21538276_d831a9f4_20261118.png?v=d831a9f4",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21538276_d831a9f4_20261119.png?v=d831a9f4",
             "width": 1600,
             "height": 1200
           }
@@ -884,7 +884,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22538277_76c3e7ae_20261118.png?v=76c3e7ae",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22538277_76c3e7ae_20261119.png?v=76c3e7ae",
             "width": 1600,
             "height": 1200
           }
@@ -956,7 +956,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39438273_23f350f6_20261118.png?v=23f350f6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39438273_23f350f6_20261119.png?v=23f350f6",
             "width": 1600,
             "height": 1200
           }
@@ -1028,7 +1028,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20538275_daf96408_20261118.png?v=daf96408",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20538275_daf96408_20261119.png?v=daf96408",
             "width": 1600,
             "height": 1200
           }
@@ -1100,7 +1100,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23538278_b05e934b_20261118.png?v=b05e934b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23538278_b05e934b_20261119.png?v=b05e934b",
             "width": 1600,
             "height": 1200
           }
@@ -1172,7 +1172,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24538279_552828a3_20261118.png?v=552828a3",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24538279_552828a3_20261119.png?v=552828a3",
             "width": 1600,
             "height": 1200
           }
@@ -1244,7 +1244,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34598275_7c1e3532_20261118.png?v=7c1e3532",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34598275_7c1e3532_20261119.png?v=7c1e3532",
             "width": 1600,
             "height": 1200
           }
@@ -1316,7 +1316,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35598276_a35f5bfc_20261118.png?v=a35f5bfc",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35598276_a35f5bfc_20261119.png?v=a35f5bfc",
             "width": 1600,
             "height": 1200
           }
@@ -1388,7 +1388,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37598278_0dd9cefd_20261118.png?v=0dd9cefd",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37598278_0dd9cefd_20261119.png?v=0dd9cefd",
             "width": 1600,
             "height": 1200
           }
@@ -1460,7 +1460,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36598277_ac658d86_20261118.png?v=ac658d86",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36598277_ac658d86_20261119.png?v=ac658d86",
             "width": 1600,
             "height": 1200
           }
@@ -1532,7 +1532,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49598270_f876fe5f_20261118.png?v=f876fe5f",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49598270_f876fe5f_20261119.png?v=f876fe5f",
             "width": 1600,
             "height": 1200
           }
@@ -1604,7 +1604,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38598279_a5d0d743_20261118.png?v=a5d0d743",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38598279_a5d0d743_20261119.png?v=a5d0d743",
             "width": 1600,
             "height": 1200
           }
@@ -1676,7 +1676,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26434579_e0e63530_20261118.png?v=e0e63530",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26434579_e0e63530_20261119.png?v=e0e63530",
             "width": 1600,
             "height": 1200
           }
@@ -1748,7 +1748,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20434573_9c8f1b8a_20261118.png?v=9c8f1b8a",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20434573_9c8f1b8a_20261119.png?v=9c8f1b8a",
             "width": 1600,
             "height": 1200
           }
@@ -1820,7 +1820,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24334576_06d48416_20261118.png?v=06d48416",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24334576_06d48416_20261119.png?v=06d48416",
             "width": 1600,
             "height": 1200
           }
@@ -1892,7 +1892,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28234579_dbf861b4_20261118.png?v=dbf861b4",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28234579_dbf861b4_20261119.png?v=dbf861b4",
             "width": 1600,
             "height": 1200
           }
@@ -1964,7 +1964,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29203273_dfcec676_20261118.png?v=dfcec676",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29203273_dfcec676_20261119.png?v=dfcec676",
             "width": 1600,
             "height": 1200
           }
@@ -2036,7 +2036,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10303275_90be9477_20261118.png?v=90be9477",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/10303275_90be9477_20261119.png?v=90be9477",
             "width": 1600,
             "height": 1200
           }
@@ -2045,83 +2045,11 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-901cc5f0f8",
-          "name": "Carlos Alcaraz vs Daniil Medvedev | 20:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-901cc5f0f8",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-901cc5f0f8",
-                  "name": "Carlos Alcaraz vs Daniil Medvedev",
-                  "streams": [
-                    {
-                      "id": "st-901cc5f0f8",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-831d49f169",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794980073_hd/1794980073_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Finals",
-            "team_a": "Carlos Alcaraz",
-            "team_b": "Daniil Medvedev",
-            "logo_a": "https://static.flashscore.com/res/image/data/OfjQEPjl-KjZlrI8i.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/QujxPtf5-6Z1AkBdk.png",
-            "time": "20:00:00",
-            "date": "18/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gkcc7jkrp7bb_13ec6f6e_20261118.png?v=13ec6f6e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f3dd4717c7",
           "name": "Flavio Cobolli vs Frances Tiafoe | 02:30 19/11",
@@ -2189,7 +2117,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4smo0e354rzs_1305a362_20261118.png?v=1305a362",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/4smo0e354rzs_1305a362_20261119.png?v=1305a362",
             "width": 1600,
             "height": 1200
           }
@@ -2261,7 +2189,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cwe9vmagcr1w_fc41593c_20261118.png?v=fc41593c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cwe9vmagcr1w_fc41593c_20261119.png?v=fc41593c",
             "width": 1600,
             "height": 1200
           }
@@ -2342,7 +2270,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cov0eicu6csp_928057d6_20261118.png?v=928057d6",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cov0eicu6csp_928057d6_20261119.png?v=928057d6",
             "width": 1600,
             "height": 1200
           }
@@ -2414,7 +2342,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3o8n4tpuvf0a_92cecfdf_20261118.png?v=92cecfdf",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3o8n4tpuvf0a_92cecfdf_20261119.png?v=92cecfdf",
             "width": 1600,
             "height": 1200
           }
@@ -2495,7 +2423,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kve5c32qf0l7_9c53b4ab_20261118.png?v=9c53b4ab",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kve5c32qf0l7_9c53b4ab_20261119.png?v=9c53b4ab",
             "width": 1600,
             "height": 1200
           }
@@ -2576,7 +2504,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ze9ckubir3t6_5a206add_20261118.png?v=5a206add",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/ze9ckubir3t6_5a206add_20261119.png?v=5a206add",
             "width": 1600,
             "height": 1200
           }
@@ -2648,7 +2576,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/167z5ytc4xaa_07353df9_20261118.png?v=07353df9",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/167z5ytc4xaa_07353df9_20261119.png?v=07353df9",
             "width": 1600,
             "height": 1200
           }
@@ -2729,7 +2657,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/90lb1gdzamdk_0baae1d8_20261118.png?v=0baae1d8",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/90lb1gdzamdk_0baae1d8_20261119.png?v=0baae1d8",
             "width": 1600,
             "height": 1200
           }
