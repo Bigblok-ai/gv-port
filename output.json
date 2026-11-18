@@ -740,83 +740,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2330f79de4",
-          "name": "Seoul Thunders vs LG Sakers | 17:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2330f79de4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2330f79de4",
-                  "name": "Seoul Thunders vs LG Sakers",
-                  "streams": [
-                    {
-                      "id": "st-2330f79de4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-afbd5de332",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794979344_hd/1794979344_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "South Korean KBL Cup",
-            "team_a": "Seoul Thunders",
-            "team_b": "LG Sakers",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk96OsPcVdWJ_VfK8sNDt-Nh4Y2pCXQiBACA&s",
-            "logo_b": "https://static.flashscore.com/res/image/data/M5dauNCa-2el3ggr9.png",
-            "time": "17:00:00",
-            "date": "18/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xydsilhe35se_d50a8243_20261118.png?v=d50a8243",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-459aa92e7d",
           "name": "Shandong Hi-Speed Kirin vs Guangdong Southern Tigers | 19:00 18/11",
