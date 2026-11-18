@@ -18,7 +18,7 @@
       "channels": [
         {
           "id": "gv-c6df5b3f2f",
-          "name": "TP Hồ Chí Minh vs Buriram United | 18:00 18/11",
+          "name": "Công An TP Hồ Chí Minh vs Buriram United | 18:00 18/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -37,7 +37,7 @@
               "contents": [
                 {
                   "id": "ct-c6df5b3f2f",
-                  "name": "TP Hồ Chí Minh vs Buriram United",
+                  "name": "Công An TP Hồ Chí Minh vs Buriram United",
                   "streams": [
                     {
                       "id": "st-c6df5b3f2f",
@@ -69,9 +69,9 @@
           ],
           "org_metadata": {
             "league": "ASEAN Club Championship",
-            "team_a": "TP Hồ Chí Minh",
+            "team_a": "Công An TP Hồ Chí Minh",
             "team_b": "Buriram United",
-            "logo_a": "https://images.keovip88.net/images/teams/ho-chi-minh-city.png",
+            "logo_a": "https://static.flashscore.com/res/image/data/Cf2X2OAr-pnSvBhcE.png",
             "logo_b": "https://images.keovip88.net/images/teams/buriram-united.png",
             "time": "18:00:00",
             "date": "18/11",
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a98b9ebc3cb5766bc0155ee_1be85255_20261118.png?v=1be85255",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a98b9ebc3cb5766bc0155ee_9d07ddd4_20261118.png?v=9d07ddd4",
             "width": 1600,
             "height": 1200
           }
@@ -740,7 +740,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (6 LIVE)",
+      "name": "🏀 Bóng Rổ (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -813,78 +813,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xydsilhe35se_d50a8243_20261118.png?v=d50a8243",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-6671897fcf",
-          "name": "Goyang Orions vs Ulaanbaatar Xac Broncos | 17:10 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6671897fcf",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6671897fcf",
-                  "name": "Goyang Orions vs Ulaanbaatar Xac Broncos",
-                  "streams": [
-                    {
-                      "id": "st-6671897fcf",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-326683959a",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794979637_hd/1794979637_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "East Asia Super League",
-            "team_a": "Goyang Orions",
-            "team_b": "Ulaanbaatar Xac Broncos",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/5b0e513f868dee6a403d7d5dfc3628b3.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b8dd4610f1e6604cab55a4736107a75c.png",
-            "time": "17:10:00",
-            "date": "18/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39514470_b99753f8_20261118.png?v=b99753f8",
             "width": 1600,
             "height": 1200
           }
@@ -2414,83 +2342,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d8a0528fea",
-          "name": "SOOP SOOPers Nữ vs Hyundai E&C Hillstate Nữ | 17:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d8a0528fea",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d8a0528fea",
-                  "name": "SOOP SOOPers Nữ vs Hyundai E&C Hillstate Nữ",
-                  "streams": [
-                    {
-                      "id": "st-d8a0528fea",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eb63eab6dc",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794979962_hd/1794979962_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Volleyball League Nữ",
-            "team_a": "SOOP SOOPers Nữ",
-            "team_b": "Hyundai E&C Hillstate Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/zaBfVVfM-jZFjtRuk.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/MkA1GJXg-YJMxkMx4.png",
-            "time": "17:00:00",
-            "date": "18/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9vfnklb589bu_9801ae29_20261118.png?v=9801ae29",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-9bcda9fb22",
           "name": "Fenerbahce Nữ vs THY Nữ | 20:30 18/11",
