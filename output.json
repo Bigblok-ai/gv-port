@@ -1118,83 +1118,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (2 LIVE)",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-73fc903bdb",
-          "name": "Edmonton Oilers vs Florida Panthers | 07:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-73fc903bdb",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-73fc903bdb",
-                  "name": "Edmonton Oilers vs Florida Panthers",
-                  "streams": [
-                    {
-                      "id": "st-73fc903bdb",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1c0dd5c05a",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794917142_hd/1794917142_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NHL",
-            "team_a": "Edmonton Oilers",
-            "team_b": "Florida Panthers",
-            "logo_a": "https://static.flashscore.com/res/image/data/pOwPVde5-8tsWJaGQ.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/d6TIwN9r-4U1I4vlB.png",
-            "time": "07:00:00",
-            "date": "18/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/f4lt9r74g4eg_b8530360_20261118.png?v=b8530360",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-de6b480581",
           "name": "Dallas Stars vs Las Vegas Golden Knights | 10:00 18/11",
