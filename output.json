@@ -1347,25 +1347,7 @@
                     {
                       "id": "st-56af769309",
                       "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9b4bcd1a69",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794996023_hd/1794996023_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -1380,7 +1362,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
             "time": "09:30:00",
             "date": "19/11",
-            "blv": "Ben",
+            "blv": "",
             "is_live": false,
             "cate_type": "basketball"
           },
