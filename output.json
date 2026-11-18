@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a49db29992",
-          "name": "Borneo FC Samarinda vs Manila Digger FC | 19:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a49db29992",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a49db29992",
-                  "name": "Borneo FC Samarinda vs Manila Digger FC",
-                  "streams": [
-                    {
-                      "id": "st-a49db29992",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b3c6e1db17",
-                          "name": "Tỵ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794979295_hd/1794979295_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASEAN Club Championship",
-            "team_a": "Borneo FC Samarinda",
-            "team_b": "Manila Digger FC",
-            "logo_a": "https://images.keovip88.net/images/teams/borneo-fc-samarinda.png",
-            "logo_b": "https://images.keovip88.net/images/teams/manila-digger-fc.png",
-            "time": "19:00:00",
-            "date": "18/11",
-            "blv": "Tỵ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa9dd05b5dda8c9400d6666_1b7455ca_20261118.png?v=1b7455ca",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-cf55c75958",
           "name": "El Gounah vs Al Ittihad | 22:00 18/11",
@@ -668,83 +596,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-459aa92e7d",
-          "name": "Shandong Hi-Speed Kirin vs Guangdong Southern Tigers | 19:00 18/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-459aa92e7d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-459aa92e7d",
-                  "name": "Shandong Hi-Speed Kirin vs Guangdong Southern Tigers",
-                  "streams": [
-                    {
-                      "id": "st-459aa92e7d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25ed7de1c8",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794979816_hd/1794979816_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA Club Cup",
-            "team_a": "Shandong Hi-Speed Kirin",
-            "team_b": "Guangdong Southern Tigers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/5e5e6dd519553b0782b6ad7cda315e98.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/37b8668860b7f12aeb8a40fafaaa2e83.png",
-            "time": "19:00:00",
-            "date": "18/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25434578_016d66cc_20261118.png?v=016d66cc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6be54bcc10",
           "name": "Besiktas Cola Turka vs Real Madrid Teka | 00:00 19/11",
