@@ -2114,6 +2114,150 @@
           }
         },
         {
+          "id": "gv-57d223ee80",
+          "name": "San Pablo Burgos vs Unicaja | 23:59 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-57d223ee80",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-57d223ee80",
+                  "name": "San Pablo Burgos vs Unicaja",
+                  "streams": [
+                    {
+                      "id": "st-57d223ee80",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-37235a442d",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062770_hd/1795062770_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Supercopa ACB",
+            "team_a": "San Pablo Burgos",
+            "team_b": "Unicaja",
+            "logo_a": "https://static.flashscore.com/res/image/data/O6YcMlwS-YebVHhbt.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d2265c87f92fa0bc4b6150a507cc23f1.png",
+            "time": "23:59:00",
+            "date": "21/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/c4lda6ots15b_55f92358_20261119.png?v=55f92358",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-53d8e302b3",
+          "name": "Philadelphia 76ers vs Milwaukee Bucks | 01:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-53d8e302b3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-53d8e302b3",
+                  "name": "Philadelphia 76ers vs Milwaukee Bucks",
+                  "streams": [
+                    {
+                      "id": "st-53d8e302b3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b2354dc003",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062947_hd/1795062947_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Philadelphia 76ers",
+            "team_b": "Milwaukee Bucks",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7f086c864d1e283b7862a756f0b88373.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e82de69ea44942a3e90a5be6cf0004da.png",
+            "time": "01:00:00",
+            "date": "22/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21638277_85468cc3_20261119.png?v=85468cc3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-227a18c99f",
           "name": "New York Knicks vs Portland Trail Blazers | 07:30 22/11",
           "type": "single",
@@ -2616,6 +2760,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-8c24b4ee75",
+          "name": "Basquet Coruna vs Lleida | 23:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8c24b4ee75",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8c24b4ee75",
+                  "name": "Basquet Coruna vs Lleida",
+                  "streams": [
+                    {
+                      "id": "st-8c24b4ee75",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0a6a5902b9",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062988_hd/1795062988_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Supercopa ACB",
+            "team_a": "Basquet Coruna",
+            "team_b": "Lleida",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3db71e411344ff9410da86c3f09fd6f2.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/x8LbomyS-zRykV8ZA.png",
+            "time": "23:00:00",
+            "date": "22/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xfmn7f6xaqf4_fb5b662b_20261119.png?v=fb5b662b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-daef6a363f",
+          "name": "Atlanta Hawks vs Detroit Pistons | 03:30 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-daef6a363f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-daef6a363f",
+                  "name": "Atlanta Hawks vs Detroit Pistons",
+                  "streams": [
+                    {
+                      "id": "st-daef6a363f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4606db7056",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795063035_hd/1795063035_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Atlanta Hawks",
+            "team_b": "Detroit Pistons",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/57bd383cc8c9b3d4f92a5d1c371e38e9.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c4677b9a5c8823ad3070069d8741a809.png",
+            "time": "03:30:00",
+            "date": "23/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23638279_a1be7106_20261119.png?v=a1be7106",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-808845eb9b",
+          "name": "Miami Heat vs Oklahoma City Thunder | 06:00 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-808845eb9b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-808845eb9b",
+                  "name": "Miami Heat vs Oklahoma City Thunder",
+                  "streams": [
+                    {
+                      "id": "st-808845eb9b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bafc7c0f91",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795063064_hd/1795063064_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Miami Heat",
+            "team_b": "Oklahoma City Thunder",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/43ebb4d6ad3ea5b68e9b1c969dff055b.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
+            "time": "06:00:00",
+            "date": "23/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34638270_4370f4c3_20261119.png?v=4370f4c3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2775,6 +3135,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3o8n4tpuvf0a_92cecfdf_20261119.png?v=92cecfdf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f690b52555",
+          "name": "Vero Volley Nữ vs Conegliano Nữ | 23:59 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f690b52555",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f690b52555",
+                  "name": "Vero Volley Nữ vs Conegliano Nữ",
+                  "streams": [
+                    {
+                      "id": "st-f690b52555",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-63a0e6bb32",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795063108_hd/1795063108_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Italy - Seri A1 Nữ ",
+            "team_a": "Vero Volley Nữ",
+            "team_b": "Conegliano Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/prWwhLwS-dbN3tce0.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/8SyXR1f5-zwIwk56d.png",
+            "time": "23:59:00",
+            "date": "22/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26f1hbplk076_7a68eca1_20261119.png?v=7a68eca1",
             "width": 1600,
             "height": 1200
           }
