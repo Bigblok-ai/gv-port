@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -240,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +292,7 @@
             "time": "22:30:00",
             "date": "19/11",
             "blv": "Trĩ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1380,6 +1380,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad640_de3adc18_20261119.png?v=de3adc18",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bf2841272b",
+          "name": "Mali U17 vs New Zealand U17 | 20:30 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bf2841272b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bf2841272b",
+                  "name": "Mali U17 vs New Zealand U17",
+                  "streams": [
+                    {
+                      "id": "st-bf2841272b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2ebfec306a",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795101520_hd/1795101520_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Mali U17",
+            "team_b": "New Zealand U17",
+            "logo_a": "https://images.keovip88.net/images/teams/mali-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/new-zealand-u17.png",
+            "time": "20:30:00",
+            "date": "20/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad63f_68cd33e7_20261119.png?v=68cd33e7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b6ccfd826b",
+          "name": "Tây Ban Nha U17 vs China U17 | 21:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b6ccfd826b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b6ccfd826b",
+                  "name": "Tây Ban Nha U17 vs China U17",
+                  "streams": [
+                    {
+                      "id": "st-b6ccfd826b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a04a816387",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795101563_hd/1795101563_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Tây Ban Nha U17",
+            "team_b": "China U17",
+            "logo_a": "https://images.keovip88.net/images/teams/spain-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/china-u17.png",
+            "time": "21:00:00",
+            "date": "20/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad645_2690330d_20261119.png?v=2690330d",
             "width": 1600,
             "height": 1200
           }
