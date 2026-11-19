@@ -1244,7 +1244,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (4 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1473,10 +1473,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "● LIVE",
+              "text": "🕐 Sắp",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#ff4444"
+              "text_color": "#aaaaaa"
             }
           ],
           "sources": [
@@ -1493,11 +1493,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-3aca499371",
+                          "id": "lnk-34492b6ab6",
                           "name": "Mickey",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794996344_hd/1794996344_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795074039_hd/1795074039_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1525,78 +1525,6 @@
             "time": "15:00:00",
             "date": "19/11",
             "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28234579_dbf861b4_20261119.png?v=dbf861b4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-1bf59baebf",
-          "name": "Shenzhen Leopards vs Tianjin Pioneers | 15:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1bf59baebf",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1bf59baebf",
-                  "name": "Shenzhen Leopards vs Tianjin Pioneers",
-                  "streams": [
-                    {
-                      "id": "st-1bf59baebf",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-be083d9062",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795073860_hd/1795073860_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA Club Cup",
-            "team_a": "Shenzhen Leopards",
-            "team_b": "Tianjin Pioneers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/4d9ec843176ad902c32b3b317118e543.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c95a72565d21fd4797acfbfb63c829e8.PNG",
-            "time": "15:00:00",
-            "date": "19/11",
-            "blv": "Ben",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -1604,7 +1532,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/282345798_dbf861b4_20261119.png?v=dbf861b4",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/28234579_dbf861b4_20261119.png?v=dbf861b4",
             "width": 1600,
             "height": 1200
           }
@@ -2757,6 +2685,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26334578_af035357_20261119.png?v=af035357",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-6605c2264a",
+          "name": "Shanghai Black Bird vs Shenzhen Leopards | 15:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6605c2264a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6605c2264a",
+                  "name": "Shanghai Black Bird vs Shenzhen Leopards",
+                  "streams": [
+                    {
+                      "id": "st-6605c2264a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f670c93d5c",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795074168_hd/1795074168_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA Club Cup",
+            "team_a": "Shanghai Black Bird",
+            "team_b": "Shenzhen Leopards",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a556906b35893417f1616392c7fe232e.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/4d9ec843176ad902c32b3b317118e543.png",
+            "time": "15:00:00",
+            "date": "20/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20334572_1d2644a5_20261119.png?v=1d2644a5",
             "width": 1600,
             "height": 1200
           }
