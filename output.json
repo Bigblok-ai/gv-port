@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-08a1803a95",
-          "name": "New Caledonia U17 vs Ecuador U17 | 20:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-08a1803a95",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-08a1803a95",
-                  "name": "New Caledonia U17 vs Ecuador U17",
-                  "streams": [
-                    {
-                      "id": "st-08a1803a95",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-35d971d198",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071585_hd/1795071585_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "New Caledonia U17",
-            "team_b": "Ecuador U17",
-            "logo_a": "https://images.keovip88.net/images/teams/new-caledonia-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/ecuador-u17.png",
-            "time": "20:00:00",
-            "date": "19/11",
-            "blv": "Dory",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad627_241a99ba_20261119.png?v=241a99ba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2644816e22",
           "name": "Hàn Quốc U17 vs U17 Uganda | 20:30 19/11",
@@ -1020,6 +948,294 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fccdf_4cf06039_20261119.png?v=4cf06039",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ebb636b37b",
+          "name": "TP Hồ Chí Minh vs Thai Nguyen | 17:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ebb636b37b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ebb636b37b",
+                  "name": "TP Hồ Chí Minh vs Thai Nguyen",
+                  "streams": [
+                    {
+                      "id": "st-ebb636b37b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-97dddc3ce7",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795100179_hd/1795100179_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Việt Nam",
+            "team_a": "TP Hồ Chí Minh",
+            "team_b": "Thai Nguyen",
+            "logo_a": "https://images.keovip88.net/images/teams/ho-chi-minh-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/thai-nguyen.png",
+            "time": "17:00:00",
+            "date": "20/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fccc6_d872af8c_20261119.png?v=d872af8c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-57725c5bea",
+          "name": "Kashiwa Reysol vs JEF United Ichihara | 17:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-57725c5bea",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-57725c5bea",
+                  "name": "Kashiwa Reysol vs JEF United Ichihara",
+                  "streams": [
+                    {
+                      "id": "st-57725c5bea",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0edfcb4336",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795100212_hd/1795100212_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kashiwa Reysol",
+            "team_b": "JEF United Ichihara",
+            "logo_a": "https://images.keovip88.net/images/teams/kashiwa-reysol.png",
+            "logo_b": "https://images.keovip88.net/images/teams/jef-united-ichihara-chiba.png",
+            "time": "17:00:00",
+            "date": "20/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fccd3_0113c6e9_20261119.png?v=0113c6e9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0b6b3f188e",
+          "name": "Kashima Antlers vs Shimizu S-Pulse | 17:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0b6b3f188e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0b6b3f188e",
+                  "name": "Kashima Antlers vs Shimizu S-Pulse",
+                  "streams": [
+                    {
+                      "id": "st-0b6b3f188e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8592848a0d",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795100248_hd/1795100248_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kashima Antlers",
+            "team_b": "Shimizu S-Pulse",
+            "logo_a": "https://images.keovip88.net/images/teams/kashima-antlers.png",
+            "logo_b": "https://images.keovip88.net/images/teams/shimizu-s-pulse.png",
+            "time": "17:00:00",
+            "date": "20/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fccca_aaa19648_20261119.png?v=aaa19648",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-86633c8a90",
+          "name": "Vissel Kobe vs Mito Hollyhock | 17:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-86633c8a90",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-86633c8a90",
+                  "name": "Vissel Kobe vs Mito Hollyhock",
+                  "streams": [
+                    {
+                      "id": "st-86633c8a90",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-eab257b8ea",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795100275_hd/1795100275_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Vissel Kobe",
+            "team_b": "Mito Hollyhock",
+            "logo_a": "https://images.keovip88.net/images/teams/vissel-kobe.png",
+            "logo_b": "https://images.keovip88.net/images/teams/mito-hollyhock.png",
+            "time": "17:00:00",
+            "date": "20/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fccd7_6ac802ae_20261119.png?v=6ac802ae",
             "width": 1600,
             "height": 1200
           }
