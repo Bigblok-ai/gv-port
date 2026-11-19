@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-166d63f926",
-          "name": "Pháp U17 vs Haiti U17 | 20:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-166d63f926",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-166d63f926",
-                  "name": "Pháp U17 vs Haiti U17",
-                  "streams": [
-                    {
-                      "id": "st-166d63f926",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d82b1030f7",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071535_hd/1795071535_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "Pháp U17",
-            "team_b": "Haiti U17",
-            "logo_a": "https://images.keovip88.net/images/teams/france-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/haitiu17.png",
-            "time": "20:00:00",
-            "date": "19/11",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad62d_5ebe3789_20261119.png?v=5ebe3789",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-08a1803a95",
           "name": "New Caledonia U17 vs Ecuador U17 | 20:00 19/11",
@@ -951,6 +879,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-1ec3cf39c5",
+          "name": "Western Sydney Wanderers vs Adelaide United FC | 15:40 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1ec3cf39c5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1ec3cf39c5",
+                  "name": "Western Sydney Wanderers vs Adelaide United FC",
+                  "streams": [
+                    {
+                      "id": "st-1ec3cf39c5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-32a56484ea",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795100052_hd/1795100052_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Úc",
+            "team_a": "Western Sydney Wanderers",
+            "team_b": "Adelaide United FC",
+            "logo_a": "https://images.keovip88.net/images/teams/western-sydney.png",
+            "logo_b": "https://images.keovip88.net/images/teams/adelaide-united.png",
+            "time": "15:40:00",
+            "date": "20/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fccba_daefd82a_20261119.png?v=daefd82a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9b8e3be78f",
+          "name": "Thanh Hóa vs Hoàng Anh Gia Lai | 17:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9b8e3be78f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9b8e3be78f",
+                  "name": "Thanh Hóa vs Hoàng Anh Gia Lai",
+                  "streams": [
+                    {
+                      "id": "st-9b8e3be78f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b5205905e4",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795100100_hd/1795100100_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Thanh Hóa",
+            "team_b": "Hoàng Anh Gia Lai",
+            "logo_a": "https://images.keovip88.net/images/teams/thanh-hoa.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hoang-anh-gia-lai.png",
+            "time": "17:00:00",
+            "date": "20/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fccdf_4cf06039_20261119.png?v=4cf06039",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1677,6 +1749,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20334572_1d2644a5_20261119.png?v=1d2644a5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ce0b582d4d",
+          "name": "Cairns Taipans vs Perth Wildcats | 15:30 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ce0b582d4d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ce0b582d4d",
+                  "name": "Cairns Taipans vs Perth Wildcats",
+                  "streams": [
+                    {
+                      "id": "st-ce0b582d4d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fdd5e18680",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795100014_hd/1795100014_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Cairns Taipans",
+            "team_b": "Perth Wildcats",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/690d69ad99fc8d3bd6fe4a7131521421.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d6e217ac051f3258b82d74a932d11ada.png",
+            "time": "15:30:00",
+            "date": "20/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22822273_0faf32b6_20261119.png?v=0faf32b6",
             "width": 1600,
             "height": 1200
           }
