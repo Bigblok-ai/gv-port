@@ -5246,6 +5246,240 @@
           }
         }
       ]
+    },
+    {
+      "id": "cate_duaxe",
+      "name": "🏎️ Đua Xe",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-5097a865d8",
+          "name": "Heineken Las Vegas vs Grand Prix | 07:30 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5097a865d8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5097a865d8",
+                  "name": "Heineken Las Vegas vs Grand Prix",
+                  "streams": [
+                    {
+                      "id": "st-5097a865d8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e6b6f009d0",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795074417_hd/1795074417_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "F1",
+            "team_a": "Heineken Las Vegas",
+            "team_b": "Grand Prix",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWu9zRO6MM841Hq6XzhtphVXqS8z4h9jmVnsf3kLj5tb0FTLUVnAWAaWj&s=10",
+            "logo_b": "https://assets.simpleviewcms.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/lasvegas/Formula-1-2025_1E2EE61E-9E65-A996-EBF8C8E25482E9F9_1e2f7928-02bb-55f4-4ca9b411f6557587.jpg",
+            "time": "07:30:00",
+            "date": "20/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "duaxe"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/55b2fjkz0nh7_1537bf40_20261119.png?v=1537bf40",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f196570095",
+          "name": "Heineken Las Vegas vs Grand Prix | 11:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f196570095",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f196570095",
+                  "name": "Heineken Las Vegas vs Grand Prix",
+                  "streams": [
+                    {
+                      "id": "st-f196570095",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-46869f97f4",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795074506_hd/1795074506_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "F1",
+            "team_a": "Heineken Las Vegas",
+            "team_b": "Grand Prix",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWu9zRO6MM841Hq6XzhtphVXqS8z4h9jmVnsf3kLj5tb0FTLUVnAWAaWj&s=10",
+            "logo_b": "https://assets.simpleviewcms.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/lasvegas/Formula-1-2025_1E2EE61E-9E65-A996-EBF8C8E25482E9F9_1e2f7928-02bb-55f4-4ca9b411f6557587.jpg",
+            "time": "11:00:00",
+            "date": "20/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "duaxe"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d8vsphy2v92a_1537bf40_20261119.png?v=1537bf40",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_rugby",
+      "name": "🏅 Thể Thao",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-baaf7705ab",
+          "name": "Indianapolis Colts vs Houston Texans | 08:15 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-baaf7705ab",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-baaf7705ab",
+                  "name": "Indianapolis Colts vs Houston Texans",
+                  "streams": [
+                    {
+                      "id": "st-baaf7705ab",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b85057f613",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795074306_hd/1795074306_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Indianapolis Colts",
+            "team_b": "Houston Texans",
+            "logo_a": "https://static.flashscore.com/res/image/data/MN9imLGG-YyQpH4gP.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/t0j6ujYA-rRBknBpC.png",
+            "time": "08:15:00",
+            "date": "20/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sz3me16rk7hz_df5a5f08_20261119.png?v=df5a5f08",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
     }
   ]
 }
