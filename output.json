@@ -17,6 +17,438 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-763e37c435",
+          "name": "Svay Rieng FC vs Port FC | 19:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-763e37c435",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-763e37c435",
+                  "name": "Svay Rieng FC vs Port FC",
+                  "streams": [
+                    {
+                      "id": "st-763e37c435",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5ace5acf07",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071317_hd/1795071317_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Club Championship",
+            "team_a": "Svay Rieng FC",
+            "team_b": "Port FC",
+            "logo_a": "https://images.keovip88.net/images/teams/svay-rieng-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/port-fc.png",
+            "time": "19:00:00",
+            "date": "19/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a3c72121de247518406477a_0b19cea1_20261119.png?v=0b19cea1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2528ce957d",
+          "name": "Persib Bandung vs Shan United | 19:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2528ce957d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2528ce957d",
+                  "name": "Persib Bandung vs Shan United",
+                  "streams": [
+                    {
+                      "id": "st-2528ce957d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5238ef6824",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071384_hd/1795071384_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Club Championship",
+            "team_a": "Persib Bandung",
+            "team_b": "Shan United",
+            "logo_a": "https://images.keovip88.net/images/teams/persib-bandung.png",
+            "logo_b": "https://images.keovip88.net/images/teams/shan-united.png",
+            "time": "19:00:00",
+            "date": "19/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af8f61324d46db870c6c90d_a35fc445_20261119.png?v=a35fc445",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-356e196dd4",
+          "name": "Công An Hà Nội vs Johor Darul Takzim | 19:30 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-356e196dd4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-356e196dd4",
+                  "name": "Công An Hà Nội vs Johor Darul Takzim",
+                  "streams": [
+                    {
+                      "id": "st-356e196dd4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7a05d3d2f0",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071433_hd/1795071433_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASEAN Club Championship",
+            "team_a": "Công An Hà Nội",
+            "team_b": "Johor Darul Takzim",
+            "logo_a": "https://images.keovip88.net/images/teams/cong-an-ha-noi.png",
+            "logo_b": "https://images.keovip88.net/images/teams/johor-darul-takzim.png",
+            "time": "19:30:00",
+            "date": "19/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a3c72121de2475184064779_2ab29702_20261119.png?v=2ab29702",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-166d63f926",
+          "name": "Pháp U17 vs Haiti U17 | 20:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-166d63f926",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-166d63f926",
+                  "name": "Pháp U17 vs Haiti U17",
+                  "streams": [
+                    {
+                      "id": "st-166d63f926",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d82b1030f7",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071535_hd/1795071535_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Pháp U17",
+            "team_b": "Haiti U17",
+            "logo_a": "https://images.keovip88.net/images/teams/france-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/haitiu17.png",
+            "time": "20:00:00",
+            "date": "19/11",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad62d_5ebe3789_20261119.png?v=5ebe3789",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-08a1803a95",
+          "name": "New Caledonia U17 vs Ecuador U17 | 20:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-08a1803a95",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-08a1803a95",
+                  "name": "New Caledonia U17 vs Ecuador U17",
+                  "streams": [
+                    {
+                      "id": "st-08a1803a95",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-35d971d198",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071585_hd/1795071585_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "New Caledonia U17",
+            "team_b": "Ecuador U17",
+            "logo_a": "https://images.keovip88.net/images/teams/new-caledonia-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ecuador-u17.png",
+            "time": "20:00:00",
+            "date": "19/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad627_241a99ba_20261119.png?v=241a99ba",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-96f37a88a3",
+          "name": "IFK Norrkoping vs KuPS | 20:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-96f37a88a3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-96f37a88a3",
+                  "name": "IFK Norrkoping vs KuPS",
+                  "streams": [
+                    {
+                      "id": "st-96f37a88a3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3149fff389",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071490_hd/1795071490_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giao hữu",
+            "team_a": "IFK Norrkoping",
+            "team_b": "KuPS",
+            "logo_a": "https://images.keovip88.net/images/teams/ifk-norrkoping-fk.png",
+            "logo_b": "https://images.keovip88.net/images/teams/kups.png",
+            "time": "20:00:00",
+            "date": "19/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6afcea8724d46db87093f8a9_65edec13_20261119.png?v=65edec13",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-9f0287470a",
           "name": "Argentina U17 vs Australia U17 | 23:00 19/11",
           "type": "single",
