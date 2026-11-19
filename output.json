@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-8944a28cda",
-          "name": "Cruzeiro (MG) vs Palmeiras | 06:30 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8944a28cda",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8944a28cda",
-                  "name": "Cruzeiro (MG) vs Palmeiras",
-                  "streams": [
-                    {
-                      "id": "st-8944a28cda",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ccc3d322f1",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795001580_hd/1795001580_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Brazil",
-            "team_a": "Cruzeiro (MG)",
-            "team_b": "Palmeiras",
-            "logo_a": "https://images.keovip88.net/images/teams/cruzeiro.png",
-            "logo_b": "https://images.keovip88.net/images/teams/palmeiras.png",
-            "time": "06:30:00",
-            "date": "19/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af3b03824d46db870515b92_493453dc_20261119.png?v=493453dc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-9f0287470a",
           "name": "Argentina U17 vs Australia U17 | 23:00 19/11",
