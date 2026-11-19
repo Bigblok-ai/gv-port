@@ -1178,6 +1178,222 @@
           }
         },
         {
+          "id": "gv-e489a9b7d5",
+          "name": "Efes Pilsen vs Lyon Asvel Villeurbanne | 00:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e489a9b7d5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e489a9b7d5",
+                  "name": "Efes Pilsen vs Lyon Asvel Villeurbanne",
+                  "streams": [
+                    {
+                      "id": "st-e489a9b7d5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-66b214b18e",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062660_hd/1795062660_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Efes Pilsen",
+            "team_b": "Lyon Asvel Villeurbanne",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/39e14cf9edd095fe5daed21f75b67bd3.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/17273883dd54ba906b39ff11cc328774.png",
+            "time": "00:30:00",
+            "date": "21/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/14303279_d7a15e5f_20261119.png?v=d7a15e5f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-868994062b",
+          "name": "Olympiacos Piraeus vs Real Madrid Teka | 02:15 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-868994062b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-868994062b",
+                  "name": "Olympiacos Piraeus vs Real Madrid Teka",
+                  "streams": [
+                    {
+                      "id": "st-868994062b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cccfd480ea",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062718_hd/1795062718_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Olympiacos Piraeus",
+            "team_b": "Real Madrid Teka",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/12df366aacf59aec8467d50fd0611a5f.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/baacc764f89f2ce4c22b48768946ca5a.png",
+            "time": "02:15:00",
+            "date": "21/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25303270_506492dd_20261119.png?v=506492dd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bd88bbdfff",
+          "name": "FC Barcelona vs Crvena Zvezda Red Star | 02:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bd88bbdfff",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bd88bbdfff",
+                  "name": "FC Barcelona vs Crvena Zvezda Red Star",
+                  "streams": [
+                    {
+                      "id": "st-bd88bbdfff",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a00f0b7249",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062740_hd/1795062740_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "FC Barcelona",
+            "team_b": "Crvena Zvezda Red Star",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c98a3d8df4a10628be76ab5e38a4d65c.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/3aac045587ed9f6b93ffba5f71d02331.png",
+            "time": "02:30:00",
+            "date": "21/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26303271_13f9e10e_20261119.png?v=13f9e10e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-5a84bda3df",
           "name": "Atlanta Hawks vs Charlotte Hornets | 07:00 21/11",
           "type": "single",
