@@ -4940,6 +4940,78 @@
           }
         },
         {
+          "id": "gv-da42bbe089",
+          "name": "Expressway Co Nữ vs IBK Nữ | 17:00 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-da42bbe089",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-da42bbe089",
+                  "name": "Expressway Co Nữ vs IBK Nữ",
+                  "streams": [
+                    {
+                      "id": "st-da42bbe089",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ef897ed8c9",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795103322_hd/1795103322_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hàn Quốc Volleyball League Nữ",
+            "team_a": "Expressway Co Nữ",
+            "team_b": "IBK Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/2wkn81yB-WnWXnBkk.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/GCVCfeyS-8pDUfQGg.png",
+            "time": "17:00:00",
+            "date": "20/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kbk0mxsa27c3_dbb13fb3_20261119.png?v=dbb13fb3",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-f690b52555",
           "name": "Vero Volley Nữ vs Conegliano Nữ | 23:59 22/11",
           "type": "single",
