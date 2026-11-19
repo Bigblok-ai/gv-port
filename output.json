@@ -1034,6 +1034,150 @@
           }
         },
         {
+          "id": "gv-712741ee92",
+          "name": "Zhejiang Lions vs Suzhou Dragons Kentier | 18:30 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-712741ee92",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-712741ee92",
+                  "name": "Zhejiang Lions vs Suzhou Dragons Kentier",
+                  "streams": [
+                    {
+                      "id": "st-712741ee92",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-558fa95918",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795070780_hd/1795070780_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA Club Cup",
+            "team_a": "Zhejiang Lions",
+            "team_b": "Suzhou Dragons Kentier",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/17bf3755eecad867cf5fcc08b83104af.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d1c8a0f21d4d300f8ddce93f11b79c70.png",
+            "time": "18:30:00",
+            "date": "19/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39234570_be686cbd_20261119.png?v=be686cbd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cb0aac9b0e",
+          "name": "Guangdong Southern Tigers vs Zhejiang Golden Bulls | 19:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cb0aac9b0e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cb0aac9b0e",
+                  "name": "Guangdong Southern Tigers vs Zhejiang Golden Bulls",
+                  "streams": [
+                    {
+                      "id": "st-cb0aac9b0e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1f63b2aff5",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795070905_hd/1795070905_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA Club Cup",
+            "team_a": "Guangdong Southern Tigers",
+            "team_b": "Zhejiang Golden Bulls",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/37b8668860b7f12aeb8a40fafaaa2e83.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/eaff06bd8c853345d0a2061a1ef15585.png",
+            "time": "19:00:00",
+            "date": "19/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37434570_fbf4afbf_20261119.png?v=fbf4afbf",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-45ff54e463",
           "name": "Maccabi Tel Aviv vs Dubai | 00:15 20/11",
           "type": "single",
