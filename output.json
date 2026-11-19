@@ -1244,83 +1244,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-1d9ccff9d8",
-          "name": "Jilin Northeast Tigers vs HK JinNiu | 14:30 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1d9ccff9d8",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1d9ccff9d8",
-                  "name": "Jilin Northeast Tigers vs HK JinNiu",
-                  "streams": [
-                    {
-                      "id": "st-1d9ccff9d8",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2e90c4f92e",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794996110_hd/1794996110_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA Club Cup",
-            "team_a": "Jilin Northeast Tigers",
-            "team_b": "HK JinNiu",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/9b1edb3adebae8211e057008d8352b03.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/baae7b75e6186b90add3aa6116f1cda7.png",
-            "time": "14:30:00",
-            "date": "19/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26434579_e0e63530_20261119.png?v=e0e63530",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-9f18b6d513",
           "name": "Shenzhen Leopards vs Tianjin Pioneers | 15:00 19/11",
