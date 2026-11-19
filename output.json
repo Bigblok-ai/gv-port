@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2d29229245",
-          "name": "U17 Qatar vs Panama(U17) | 22:30 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2d29229245",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2d29229245",
-                  "name": "U17 Qatar vs Panama(U17)",
-                  "streams": [
-                    {
-                      "id": "st-2d29229245",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b1514a0cf2",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071805_hd/1795071805_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "U17 Qatar",
-            "team_b": "Panama(U17)",
-            "logo_a": "https://images.keovip88.net/images/teams/qatar-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/panamau17.png",
-            "time": "22:30:00",
-            "date": "19/11",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad622_2a9ca3d6_20261120.png?v=2a9ca3d6",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-9f0287470a",
           "name": "Argentina U17 vs Australia U17 | 23:00 19/11",
