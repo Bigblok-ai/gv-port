@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -240,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -292,7 +292,7 @@
             "time": "20:00:00",
             "date": "19/11",
             "blv": "Hứa",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -312,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +364,7 @@
             "time": "20:00:00",
             "date": "19/11",
             "blv": "Dory",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -372,78 +372,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad627_241a99ba_20261119.png?v=241a99ba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-96f37a88a3",
-          "name": "IFK Norrkoping vs KuPS | 20:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-96f37a88a3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-96f37a88a3",
-                  "name": "IFK Norrkoping vs KuPS",
-                  "streams": [
-                    {
-                      "id": "st-96f37a88a3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3149fff389",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071490_hd/1795071490_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Giao hữu",
-            "team_a": "IFK Norrkoping",
-            "team_b": "KuPS",
-            "logo_a": "https://images.keovip88.net/images/teams/ifk-norrkoping-fk.png",
-            "logo_b": "https://images.keovip88.net/images/teams/kups.png",
-            "time": "20:00:00",
-            "date": "19/11",
-            "blv": "Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6afcea8724d46db87093f8a9_65edec13_20261119.png?v=65edec13",
             "width": 1600,
             "height": 1200
           }
@@ -3989,7 +3917,7 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis",
+      "name": "🎾 Tennis (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -4002,10 +3930,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -4054,7 +3982,7 @@
             "time": "20:00:00",
             "date": "19/11",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "tennis"
           },
           "image": {
@@ -4214,83 +4142,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-cc35363b1c",
-          "name": "Hungkuk Nữ vs GS Caltex Nữ | 17:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cc35363b1c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cc35363b1c",
-                  "name": "Hungkuk Nữ vs GS Caltex Nữ",
-                  "streams": [
-                    {
-                      "id": "st-cc35363b1c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4f128e4371",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071894_hd/1795071894_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Volleyball League Nữ",
-            "team_a": "Hungkuk Nữ",
-            "team_b": "GS Caltex Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/8bAPfUCa-SfuGhwLE.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/EXtx7sXg-EL2iNWK6.png",
-            "time": "17:00:00",
-            "date": "19/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lya58hz379wh_ddd8f3d1_20261119.png?v=ddd8f3d1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f7a49b686f",
           "name": "Zeren Spor Nữ vs Galatasaray Nữ | 23:00 19/11",
