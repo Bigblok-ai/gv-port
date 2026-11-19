@@ -524,83 +524,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-56af769309",
-          "name": "Denver Nuggets vs Boston Celtics | 09:30 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-56af769309",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-56af769309",
-                  "name": "Denver Nuggets vs Boston Celtics",
-                  "streams": [
-                    {
-                      "id": "st-56af769309",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9b4bcd1a69",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794996023_hd/1794996023_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Denver Nuggets",
-            "team_b": "Boston Celtics",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
-            "time": "09:30:00",
-            "date": "19/11",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36598277_ac658d86_20261119.png?v=ac658d86",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ca90c46bfa",
           "name": "Los Angeles Lakers vs Utah Jazz | 10:00 19/11",
@@ -669,78 +597,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49598270_f876fe5f_20261119.png?v=f876fe5f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b4ef5ea1f4",
-          "name": "Sacramento Kings vs Phoenix Suns | 10:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b4ef5ea1f4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b4ef5ea1f4",
-                  "name": "Sacramento Kings vs Phoenix Suns",
-                  "streams": [
-                    {
-                      "id": "st-b4ef5ea1f4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0fc8a32c3b",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794996069_hd/1794996069_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Sacramento Kings",
-            "team_b": "Phoenix Suns",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6a6855785a58edb23c76c99ed6601a33.png",
-            "time": "10:00:00",
-            "date": "19/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38598279_a5d0d743_20261119.png?v=a5d0d743",
             "width": 1600,
             "height": 1200
           }
@@ -3432,87 +3288,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/167z5ytc4xaa_07353df9_20261119.png?v=07353df9",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-c77b7ee30a",
-          "name": "Colorado Avalanche vs Utah Mammoth | 10:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c77b7ee30a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c77b7ee30a",
-                  "name": "Colorado Avalanche vs Utah Mammoth",
-                  "streams": [
-                    {
-                      "id": "st-c77b7ee30a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e7dadf4e49",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794996429_hd/1794996429_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NHL",
-            "team_a": "Colorado Avalanche",
-            "team_b": "Utah Mammoth",
-            "logo_a": "https://static.flashscore.com/res/image/data/hzAqe0zB-UkrSKu1K.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/EX4MfgAr-OvWpZvXb.png",
-            "time": "10:00:00",
-            "date": "19/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/90lb1gdzamdk_0baae1d8_20261119.png?v=0baae1d8",
             "width": 1600,
             "height": 1200
           }
