@@ -737,6 +737,78 @@
           }
         },
         {
+          "id": "gv-336c2b4c3b",
+          "name": "Vitoria Salvador BA vs Bragantino SP | 05:30 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-336c2b4c3b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-336c2b4c3b",
+                  "name": "Vitoria Salvador BA vs Bragantino SP",
+                  "streams": [
+                    {
+                      "id": "st-336c2b4c3b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e15deabd32",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795102493_hd/1795102493_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Brazil",
+            "team_a": "Vitoria Salvador BA",
+            "team_b": "Bragantino SP",
+            "logo_a": "https://images.keovip88.net/images/teams/vitoria-ba.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bragantino.png",
+            "time": "05:30:00",
+            "date": "20/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fcc70_897adf47_20261119.png?v=897adf47",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-61b7366753",
           "name": "Indonesia U-17 vs Myanmar U-17 | 15:30 20/11",
           "type": "single",
@@ -1755,7 +1827,7 @@
       "channels": [
         {
           "id": "gv-45ff54e463",
-          "name": "Maccabi Tel Aviv vs Dubai | 00:15 20/11",
+          "name": "Maccabi Tel Aviv vs Dubai | 00:30 20/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1810,7 +1882,7 @@
             "team_b": "Dubai",
             "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cbdb391d51668f9243488bc1cc126767.png",
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/38e7f6ed6a1053e25c1f5d60fbf563b2.png",
-            "time": "00:15:00",
+            "time": "00:30:00",
             "date": "20/11",
             "blv": "Nem",
             "is_live": false,
