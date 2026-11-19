@@ -524,7 +524,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (10 LIVE)",
+      "name": "🏀 Bóng Rổ (9 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -597,78 +597,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21538276_d831a9f4_20261119.png?v=d831a9f4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-7367528721",
-          "name": "Indiana Pacers vs Houston Rockets | 07:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7367528721",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7367528721",
-                  "name": "Indiana Pacers vs Houston Rockets",
-                  "streams": [
-                    {
-                      "id": "st-7367528721",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-361fc33952",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794995823_hd/1794995823_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Indiana Pacers",
-            "team_b": "Houston Rockets",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cd4e8cb86960160ecba025ba8d73cd3f.png",
-            "time": "07:00:00",
-            "date": "19/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22538277_76c3e7ae_20261119.png?v=76c3e7ae",
             "width": 1600,
             "height": 1200
           }
