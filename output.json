@@ -818,6 +818,78 @@
           }
         },
         {
+          "id": "gv-6dac461d32",
+          "name": "Illawarra Hawks vs Adelaide 36ers | 15:30 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6dac461d32",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6dac461d32",
+                  "name": "Illawarra Hawks vs Adelaide 36ers",
+                  "streams": [
+                    {
+                      "id": "st-6dac461d32",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e0dabe7c49",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795069777_hd/1795069777_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball League(Australia)",
+            "team_a": "Illawarra Hawks",
+            "team_b": "Adelaide 36ers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e97aa6ff62044e05b1dc126043568a18.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6a6d3d4063e675d1ce3e701153e3f367.png",
+            "time": "15:30:00",
+            "date": "19/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21822272_8f1a0118_20261119.png?v=8f1a0118",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-45ff54e463",
           "name": "Maccabi Tel Aviv vs Dubai | 00:15 20/11",
           "type": "single",
