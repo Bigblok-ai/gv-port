@@ -89,78 +89,6 @@
           }
         },
         {
-          "id": "gv-2528ce957d",
-          "name": "Persib Bandung vs Shan United | 19:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2528ce957d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2528ce957d",
-                  "name": "Persib Bandung vs Shan United",
-                  "streams": [
-                    {
-                      "id": "st-2528ce957d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5238ef6824",
-                          "name": "Tỵ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071384_hd/1795071384_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASEAN Club Championship",
-            "team_a": "Persib Bandung",
-            "team_b": "Shan United",
-            "logo_a": "https://images.keovip88.net/images/teams/persib-bandung.png",
-            "logo_b": "https://images.keovip88.net/images/teams/shan-united.png",
-            "time": "19:00:00",
-            "date": "19/11",
-            "blv": "Tỵ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af8f61324d46db870c6c90d_a35fc445_20261119.png?v=a35fc445",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-356e196dd4",
           "name": "Công An Hà Nội vs Johor Darul Takzim | 19:30 19/11",
           "type": "single",
@@ -384,10 +312,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +364,7 @@
             "time": "20:30:00",
             "date": "19/11",
             "blv": "Bee",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
