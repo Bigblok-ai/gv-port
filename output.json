@@ -1244,7 +1244,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1317,78 +1317,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25460375_761e0c1a_20261119.png?v=761e0c1a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-c9693e493c",
-          "name": "Busan KTF Magicwings vs Seoul SK Knights | 17:00 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c9693e493c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c9693e493c",
-                  "name": "Busan KTF Magicwings vs Seoul SK Knights",
-                  "streams": [
-                    {
-                      "id": "st-c9693e493c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bb21dbc8c3",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795070532_hd/1795070532_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Korea Basketball League",
-            "team_a": "Busan KTF Magicwings",
-            "team_b": "Seoul SK Knights",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2cf065fbe1f93fb229c981c1d88d9618.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/425cf7236b655f8922a9b53220d3d1b6.png",
-            "time": "17:00:00",
-            "date": "19/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26460376_46e439cc_20261119.png?v=46e439cc",
             "width": 1600,
             "height": 1200
           }
