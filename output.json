@@ -737,78 +737,6 @@
           }
         },
         {
-          "id": "gv-6b8735c165",
-          "name": "Vasco Gama vs Internacional (RS) | 05:30 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6b8735c165",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6b8735c165",
-                  "name": "Vasco Gama vs Internacional (RS)",
-                  "streams": [
-                    {
-                      "id": "st-6b8735c165",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bb6c7cd5ac",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795105051_hd/1795105051_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Brazil",
-            "team_a": "Vasco Gama",
-            "team_b": "Internacional (RS)",
-            "logo_a": "https://images.keovip88.net/images/teams/vasco-da-gama.png",
-            "logo_b": "https://images.keovip88.net/images/teams/internacional-rs.png",
-            "time": "05:30:00",
-            "date": "20/11",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fcc68_25a44a25_20261119.png?v=25a44a25",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-61b7366753",
           "name": "Indonesia U-17 vs Myanmar U-17 | 15:30 20/11",
           "type": "single",
@@ -5673,6 +5601,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/167z5ytc4xaa_07353df9_20261119.png?v=07353df9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e5a2b94238",
+          "name": "Prochazka vs Stirling | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e5a2b94238",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e5a2b94238",
+                  "name": "Prochazka vs Stirling",
+                  "streams": [
+                    {
+                      "id": "st-e5a2b94238",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7216305b54",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106913_hd/1795106913_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UFC Fight Night",
+            "team_a": "Prochazka",
+            "team_b": "Stirling",
+            "logo_a": "https://static.flashscore.com/res/image/data/IHNpCXDa-4UsHKcmC.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/dr7Y0SGG-vcHbARdK.png",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/91w0zxoqj102_8361dc0a_20261119.png?v=8361dc0a",
             "width": 1600,
             "height": 1200
           }
