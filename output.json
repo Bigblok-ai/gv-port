@@ -1178,6 +1178,150 @@
           }
         },
         {
+          "id": "gv-120222aeec",
+          "name": "Shanxi Loongs Fenjiu vs Ningbo Rockets | 19:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-120222aeec",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-120222aeec",
+                  "name": "Shanxi Loongs Fenjiu vs Ningbo Rockets",
+                  "streams": [
+                    {
+                      "id": "st-120222aeec",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19849b96c3",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071128_hd/1795071128_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA Club Cup",
+            "team_a": "Shanxi Loongs Fenjiu",
+            "team_b": "Ningbo Rockets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2b1276c6b68b581bd3023f5f11bb6f44.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/78539aa7b6e4518265799642461ab855.png",
+            "time": "19:00:00",
+            "date": "19/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21434574_5992a296_20261119.png?v=5992a296",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-11d8f1e962",
+          "name": "Shanghai Jiushi Sharks vs SiChuan Jingqiang Blue Whales | 19:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-11d8f1e962",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-11d8f1e962",
+                  "name": "Shanghai Jiushi Sharks vs SiChuan Jingqiang Blue Whales",
+                  "streams": [
+                    {
+                      "id": "st-11d8f1e962",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7d4bda7df5",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071268_hd/1795071268_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA Club Cup",
+            "team_a": "Shanghai Jiushi Sharks",
+            "team_b": "SiChuan Jingqiang Blue Whales",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d67cd54e91fe7a46a2f9bdd646544989.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/1cb8d991c7b1dbf8f56adbb08619f919.png",
+            "time": "19:00:00",
+            "date": "19/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25334577_7bfa1e9e_20261119.png?v=7bfa1e9e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-45ff54e463",
           "name": "Maccabi Tel Aviv vs Dubai | 00:15 20/11",
           "type": "single",
