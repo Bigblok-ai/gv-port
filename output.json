@@ -4493,7 +4493,7 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis",
+      "name": "🎾 Tennis (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -4506,10 +4506,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -4558,7 +4558,7 @@
             "time": "02:30:00",
             "date": "20/11",
             "blv": "Nem",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "tennis"
           },
           "image": {
@@ -4952,83 +4952,11 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật (1 LIVE)",
+      "name": "🥊 Võ Thuật",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-088a871171",
-          "name": "Power Slap 27: Quinones vs Godfrey | 23:45 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-088a871171",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-088a871171",
-                  "name": "Power Slap 27: Quinones vs Godfrey",
-                  "streams": [
-                    {
-                      "id": "st-088a871171",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-98a8d5e3f3",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795096852_hd/1795096852_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Power Slap 27: Quinones vs. Godfrey",
-            "team_a": "Power Slap 27: Quinones",
-            "team_b": "Godfrey",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMOcJ_iB2WEKOF0JQMChW5qcbcOXal9z_Qf-wxWZyU1SJGPFdOUdIoMjg&s=10",
-            "logo_b": "https://www.powerslap.com/app/uploads/2023/03/GODFREY_R-e1744063552327.png",
-            "time": "23:45:45",
-            "date": "19/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "vothuat"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/yxit0ei5j4te_4c445857_20261120.png?v=4c445857",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f4aa643160",
           "name": "ONE Friday Fights 179 vs The Inner Circle 39 | 18:30 20/11",
