@@ -1676,83 +1676,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-45ff54e463",
-          "name": "Maccabi Tel Aviv vs Dubai | 00:30 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-45ff54e463",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-45ff54e463",
-                  "name": "Maccabi Tel Aviv vs Dubai",
-                  "streams": [
-                    {
-                      "id": "st-45ff54e463",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-55149890c9",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795009059_hd/1795009059_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Maccabi Tel Aviv",
-            "team_b": "Dubai",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cbdb391d51668f9243488bc1cc126767.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/38e7f6ed6a1053e25c1f5d60fbf563b2.png",
-            "time": "00:30:00",
-            "date": "20/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/29203273_dfcec676_20261120.png?v=dfcec676",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-ba89f26564",
           "name": "FC Bayern Munchen vs Saski Baskonia | 02:00 20/11",
