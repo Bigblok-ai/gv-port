@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-356e196dd4",
-          "name": "Công An Hà Nội vs Johor Darul Takzim | 19:30 19/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-356e196dd4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-356e196dd4",
-                  "name": "Công An Hà Nội vs Johor Darul Takzim",
-                  "streams": [
-                    {
-                      "id": "st-356e196dd4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7a05d3d2f0",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071433_hd/1795071433_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ASEAN Club Championship",
-            "team_a": "Công An Hà Nội",
-            "team_b": "Johor Darul Takzim",
-            "logo_a": "https://images.keovip88.net/images/teams/cong-an-ha-noi.png",
-            "logo_b": "https://images.keovip88.net/images/teams/johor-darul-takzim.png",
-            "time": "19:30:00",
-            "date": "19/11",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a3c72121de2475184064779_2ab29702_20261119.png?v=2ab29702",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-166d63f926",
           "name": "Pháp U17 vs Haiti U17 | 20:00 19/11",
