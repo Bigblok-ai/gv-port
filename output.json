@@ -3995,6 +3995,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-0ee414101f",
+          "name": "Ben Shelton vs Rafael Jodar | 20:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0ee414101f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0ee414101f",
+                  "name": "Ben Shelton vs Rafael Jodar",
+                  "streams": [
+                    {
+                      "id": "st-0ee414101f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6e12065c9",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795071964_hd/1795071964_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Finals",
+            "team_a": "Ben Shelton",
+            "team_b": "Rafael Jodar",
+            "logo_a": "https://static.flashscore.com/res/image/data/UBXM3cXg-fgTOwTv9.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/A5stpqzB-bJuw1oYE.png",
+            "time": "20:00:00",
+            "date": "19/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vyx1q41q3cmx_fda64164_20261119.png?v=fda64164",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-fca35603a0",
           "name": "Alexander Zverev vs Arthur Fils | 02:30 20/11",
           "type": "single",
@@ -4359,6 +4431,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26f1hbplk076_7a68eca1_20261119.png?v=7a68eca1",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-66d450a54c",
+          "name": "Super High Roller Series North Cyprus 2026 Day 5 vs Super High Roller Series North Cyprus 2026 Day 5 | 17:00 19/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-66d450a54c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-66d450a54c",
+                  "name": "Super High Roller Series North Cyprus 2026 Day 5 vs Super High Roller Series North Cyprus 2026 Day 5",
+                  "streams": [
+                    {
+                      "id": "st-66d450a54c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1390cb9ab9",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795072103_hd/1795072103_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "TRITON",
+            "team_a": "Super High Roller Series North Cyprus 2026 Day 5",
+            "team_b": "Super High Roller Series North Cyprus 2026 Day 5",
+            "logo_a": "https://i.ytimg.com/vi/DMRh7rl-EI0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDfBCmPsCU72bbNeOG9PRGwBU6ArA",
+            "logo_b": "https://tritonpokerseries.com/api/media/file/Ivan%20Kozlov_TritonOneCyprus_Miguel%20Cortes_MC208277.jpg",
+            "time": "17:00:00",
+            "date": "19/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nd8zdzbejkg3_eee8f721_20261119.png?v=eee8f721",
             "width": 1600,
             "height": 1200
           }
