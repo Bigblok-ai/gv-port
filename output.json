@@ -1909,83 +1909,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-36133c92b0",
-          "name": "Liaoning Flying Leopards vs Shanxi Loongs Fenjiu | 19:00 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-36133c92b0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-36133c92b0",
-                  "name": "Liaoning Flying Leopards vs Shanxi Loongs Fenjiu",
-                  "streams": [
-                    {
-                      "id": "st-36133c92b0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ca8025e87c",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795169156_hd/1795169156_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA Club Cup",
-            "team_a": "Liaoning Flying Leopards",
-            "team_b": "Shanxi Loongs Fenjiu",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e5b2db0dc53319933071f194e099180f.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2b1276c6b68b581bd3023f5f11bb6f44.png",
-            "time": "19:00:00",
-            "date": "20/11",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23434576_620a790d_20261120.png?v=620a790d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e489a9b7d5",
           "name": "Efes Pilsen vs Lyon Asvel Villeurbanne | 00:30 21/11",
