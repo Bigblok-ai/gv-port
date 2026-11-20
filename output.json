@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-66411e224b",
-          "name": "U17 Bỉ vs Việt Nam U17 | 20:00 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-66411e224b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-66411e224b",
-                  "name": "U17 Bỉ vs Việt Nam U17",
-                  "streams": [
-                    {
-                      "id": "st-66411e224b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e916cae92a",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795100778_hd/1795100778_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "U17 Bỉ",
-            "team_b": "Việt Nam U17",
-            "logo_a": "https://images.keovip88.net/images/teams/belgium-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/vietnam-u17.png",
-            "time": "20:00:00",
-            "date": "20/11",
-            "blv": "Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad640_de3adc18_20261120.png?v=de3adc18",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-bf2841272b",
           "name": "Mali U17 vs New Zealand U17 | 20:30 20/11",
@@ -2117,6 +2045,383 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b424d46db870c87dbb_d5002834_20261120.png?v=d5002834",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-157a0d90a1",
+          "name": "Chelsea FC vs Leeds United | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-157a0d90a1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-157a0d90a1",
+                  "name": "Chelsea FC vs Leeds United",
+                  "streams": [
+                    {
+                      "id": "st-157a0d90a1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1bb527e666",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106563_hd/1795106563_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Chelsea FC",
+            "team_b": "Leeds United",
+            "logo_a": "https://images.keovip88.net/images/teams/chelsea.png",
+            "logo_b": "https://images.keovip88.net/images/teams/leeds-united.png",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f070a_95386c1c_20261120.png?v=95386c1c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bdb0ecd9d3",
+          "name": "Tottenham Hotspur vs Ipswich | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bdb0ecd9d3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bdb0ecd9d3",
+                  "name": "Tottenham Hotspur vs Ipswich",
+                  "streams": [
+                    {
+                      "id": "st-bdb0ecd9d3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fd32c13506",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106603_hd/1795106603_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-d0bd1879c5",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106625_hd/1795106625_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Tottenham Hotspur",
+            "team_b": "Ipswich",
+            "logo_a": "https://images.keovip88.net/images/teams/tottenham-hotspur.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ipswich-town.png",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "Ngọng, Nem",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b424d46db870c87ea6_a3d097e5_20261120.png?v=a3d097e5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8765ab6970",
+          "name": "Coventry vs Crystal Palace | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8765ab6970",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8765ab6970",
+                  "name": "Coventry vs Crystal Palace",
+                  "streams": [
+                    {
+                      "id": "st-8765ab6970",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4a030c778c",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106685_hd/1795106685_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Coventry",
+            "team_b": "Crystal Palace",
+            "logo_a": "https://images.keovip88.net/images/teams/coventry-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/crystal-palace.png",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b424d46db870c87e9e_6133ad92_20261120.png?v=6133ad92",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2cf72dbaab",
+          "name": "AFC Bournemouth vs Nottingham Forest | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2cf72dbaab",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2cf72dbaab",
+                  "name": "AFC Bournemouth vs Nottingham Forest",
+                  "streams": [
+                    {
+                      "id": "st-2cf72dbaab",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6a68f04455",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106727_hd/1795106727_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "AFC Bournemouth",
+            "team_b": "Nottingham Forest",
+            "logo_a": "https://images.keovip88.net/images/teams/afc-bournemouth.png",
+            "logo_b": "https://images.keovip88.net/images/teams/nottingham-forest.png",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0708_8b7177fb_20261120.png?v=8b7177fb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5600ab4913",
+          "name": "Aston Villa vs Sunderland | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5600ab4913",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5600ab4913",
+                  "name": "Aston Villa vs Sunderland",
+                  "streams": [
+                    {
+                      "id": "st-5600ab4913",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2eefa20b88",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106769_hd/1795106769_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Aston Villa",
+            "team_b": "Sunderland",
+            "logo_a": "https://images.keovip88.net/images/teams/aston-villa.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sunderland-afc.png",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0709_5aa67e3a_20261120.png?v=5aa67e3a",
             "width": 1600,
             "height": 1200
           }
