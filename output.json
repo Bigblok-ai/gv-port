@@ -4277,83 +4277,11 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-fca35603a0",
-          "name": "Alexander Zverev vs Arthur Fils | 02:30 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fca35603a0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fca35603a0",
-                  "name": "Alexander Zverev vs Arthur Fils",
-                  "streams": [
-                    {
-                      "id": "st-fca35603a0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3802a5cb81",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795009371_hd/1795009371_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Finals",
-            "team_a": "Alexander Zverev",
-            "team_b": "Arthur Fils",
-            "logo_a": "https://static.flashscore.com/res/image/data/tO5cePjl-2DqYxEbl.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Eg01vrEa-SQeH6w5H.png",
-            "time": "02:30:00",
-            "date": "20/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cwe9vmagcr1w_fc41593c_20261120.png?v=fc41593c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-0e058af1c5",
           "name": "Carlos Alcaraz vs Flavio Cobolli | 20:00 20/11",
