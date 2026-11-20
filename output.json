@@ -1671,6 +1671,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-9f252b6f80",
+          "name": "Lâm Đồng FC vs Cao Su Đồng Tháp | 15:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9f252b6f80",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9f252b6f80",
+                  "name": "Lâm Đồng FC vs Cao Su Đồng Tháp",
+                  "streams": [
+                    {
+                      "id": "st-9f252b6f80",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3f18695921",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795104777_hd/1795104777_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Việt Nam",
+            "team_a": "Lâm Đồng FC",
+            "team_b": "Cao Su Đồng Tháp",
+            "logo_a": "https://images.keovip88.net/images/teams/lam-dong.png",
+            "logo_b": "https://images.keovip88.net/images/teams/dong-thap.png",
+            "time": "15:30:00",
+            "date": "21/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ae24d46db870c875f9_1cf78be5_20261120.png?v=1cf78be5",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
