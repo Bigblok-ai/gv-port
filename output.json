@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c5ff8a7b80",
-          "name": "Al Ahli Jeddah vs Al-Nassr FC | 00:30 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c5ff8a7b80",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c5ff8a7b80",
-                  "name": "Al Ahli Jeddah vs Al-Nassr FC",
-                  "streams": [
-                    {
-                      "id": "st-c5ff8a7b80",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-926fec9533",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795061509_hd/1795061509_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Ả Rập Xê Út",
-            "team_a": "Al Ahli Jeddah",
-            "team_b": "Al-Nassr FC",
-            "logo_a": "https://images.keovip88.net/images/teams/al-ahli-sfc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/al-nassr.png",
-            "time": "00:30:00",
-            "date": "21/11",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ac6dd5024d46db870d13a10_0902a3e2_20261121.png?v=0902a3e2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-366be8cc4d",
           "name": "Bayern Munich vs Koln | 02:30 21/11",
@@ -2583,6 +2511,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4bd24d46db870c8896e_5c13372e_20261121.png?v=5c13372e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e73aad0a80",
+          "name": "Palmeiras vs Flamengo | 02:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e73aad0a80",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e73aad0a80",
+                  "name": "Palmeiras vs Flamengo",
+                  "streams": [
+                    {
+                      "id": "st-e73aad0a80",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-03cd43b1db",
+                          "name": "Hứa",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062526_hd/1795062526_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Brazil",
+            "team_a": "Palmeiras",
+            "team_b": "Flamengo",
+            "logo_a": "https://images.keovip88.net/images/teams/palmeiras.png",
+            "logo_b": "https://images.keovip88.net/images/teams/flamengo.png",
+            "time": "02:30:00",
+            "date": "22/11",
+            "blv": "Hứa",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4bf24d46db870c88b81_dc92d5e2_20261121.png?v=dc92d5e2",
             "width": 1600,
             "height": 1200
           }
