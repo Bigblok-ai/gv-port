@@ -1820,7 +1820,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1893,78 +1893,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38434571_321a869d_20261120.png?v=321a869d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-3645152f27",
-          "name": "Hefei Kuangfeng vs NanJing Monkey Kings | 14:30 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3645152f27",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3645152f27",
-                  "name": "Hefei Kuangfeng vs NanJing Monkey Kings",
-                  "streams": [
-                    {
-                      "id": "st-3645152f27",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-109edc8a24",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795073555_hd/1795073555_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA Club Cup",
-            "team_a": "Hefei Kuangfeng",
-            "team_b": "NanJing Monkey Kings",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/5f225505be0a7127ebd1aaf37cc3518e.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e3bbce6525ca22d736f744cd2e31ff59.png",
-            "time": "14:30:00",
-            "date": "20/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22434575_145b54c7_20261120.png?v=145b54c7",
             "width": 1600,
             "height": 1200
           }
