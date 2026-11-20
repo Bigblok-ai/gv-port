@@ -4311,83 +4311,11 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
+      "name": "🎾 Tennis",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-0e058af1c5",
-          "name": "Carlos Alcaraz vs Flavio Cobolli | 20:00 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0e058af1c5",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0e058af1c5",
-                  "name": "Carlos Alcaraz vs Flavio Cobolli",
-                  "streams": [
-                    {
-                      "id": "st-0e058af1c5",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f50d863f9a",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795169178_hd/1795169178_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Finals",
-            "team_a": "Carlos Alcaraz",
-            "team_b": "Flavio Cobolli",
-            "logo_a": "https://static.flashscore.com/res/image/data/OfjQEPjl-KjZlrI8i.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/E1rCFmCr-4rBjn5Su.png",
-            "time": "20:00:00",
-            "date": "20/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/275cnetmqhd9_9d2f33a7_20261120.png?v=9d2f33a7",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2becd96fb9",
           "name": "Daniil Medvedev vs Frances Tiafoe | 02:30 21/11",
@@ -4609,87 +4537,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26f1hbplk076_7a68eca1_20261120.png?v=7a68eca1",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-11902cd86f",
-          "name": "Super High Roller Series North Cyprus 2026 Day 6 vs Super High Roller Series North Cyprus 2026 Day 6 | 17:00 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-11902cd86f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-11902cd86f",
-                  "name": "Super High Roller Series North Cyprus 2026 Day 6 vs Super High Roller Series North Cyprus 2026 Day 6",
-                  "streams": [
-                    {
-                      "id": "st-11902cd86f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5161620209",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795103506_hd/1795103506_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "TRITON",
-            "team_a": "Super High Roller Series North Cyprus 2026 Day 6",
-            "team_b": "Super High Roller Series North Cyprus 2026 Day 6",
-            "logo_a": "https://i.ytimg.com/vi/DMRh7rl-EI0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDfBCmPsCU72bbNeOG9PRGwBU6ArA",
-            "logo_b": "https://tritonpokerseries.com/api/media/file/Ivan%20Kozlov_TritonOneCyprus_Miguel%20Cortes_MC208277.jpg",
-            "time": "17:00:00",
-            "date": "20/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/lw9ax7yw1194_eee8f721_20261120.png?v=eee8f721",
             "width": 1600,
             "height": 1200
           }
