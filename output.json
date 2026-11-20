@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-8ec32c7dfc",
-          "name": "Beijing Guoan vs Shanghai Port | 18:35 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8ec32c7dfc",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8ec32c7dfc",
-                  "name": "Beijing Guoan vs Shanghai Port",
-                  "streams": [
-                    {
-                      "id": "st-8ec32c7dfc",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fb66ed939e",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795103713_hd/1795103713_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "RP China - FA Cup",
-            "team_a": "Beijing Guoan",
-            "team_b": "Shanghai Port",
-            "logo_a": "https://static.flashscore.com/res/image/data/jy16BaFa-0WVkf0ET.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/pv2alWYA-4Iubiv1h.png",
-            "time": "18:35:00",
-            "date": "20/11",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7u0cf1en2q05_156b0709_20261120.png?v=156b0709",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-e4af8ced93",
-          "name": "Thailand U-17 vs Iraq U-17 | 19:00 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e4af8ced93",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e4af8ced93",
-                  "name": "Thailand U-17 vs Iraq U-17",
-                  "streams": [
-                    {
-                      "id": "st-e4af8ced93",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-02fd336b62",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795102019_hd/1795102019_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC U-17 Asian Cup",
-            "team_a": "Thailand U-17",
-            "team_b": "Iraq U-17",
-            "logo_a": "https://static.flashscore.com/res/image/data/AaDuBdyB-vgRdTjEE.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Y5vaJExS-zBsRLJE2.png",
-            "time": "19:00:00",
-            "date": "20/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7fivyrg1w863_361aebb3_20261120.png?v=361aebb3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-4e811fb897",
           "name": "Thể Công Viettel vs Sông Lam Nghệ An | 19:15 20/11",
@@ -384,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -436,7 +292,7 @@
             "time": "21:00:00",
             "date": "20/11",
             "blv": "Bee",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1901,6 +1757,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b124d46db870c87a0b_393cd12e_20261120.png?v=393cd12e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-760ed0471a",
+          "name": "Como vs Cagliari | 21:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-760ed0471a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-760ed0471a",
+                  "name": "Como vs Cagliari",
+                  "streams": [
+                    {
+                      "id": "st-760ed0471a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e390f995b3",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795105560_hd/1795105560_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Como",
+            "team_b": "Cagliari",
+            "logo_a": "https://images.keovip88.net/images/teams/como.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cagliari.png",
+            "time": "21:00:00",
+            "date": "21/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b224d46db870c87c12_95d2b98e_20261120.png?v=95d2b98e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2094d57f65",
+          "name": "Lazio vs Lecce | 21:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2094d57f65",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2094d57f65",
+                  "name": "Lazio vs Lecce",
+                  "streams": [
+                    {
+                      "id": "st-2094d57f65",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a91b3f15fa",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795105597_hd/1795105597_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Lazio",
+            "team_b": "Lecce",
+            "logo_a": "https://images.keovip88.net/images/teams/lazio.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lecce.png",
+            "time": "21:00:00",
+            "date": "21/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b224d46db870c87c1a_33a6f09b_20261120.png?v=33a6f09b",
             "width": 1600,
             "height": 1200
           }
