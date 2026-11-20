@@ -17,78 +17,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-86633c8a90",
-          "name": "Vissel Kobe vs Mito Hollyhock | 17:00 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-86633c8a90",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-86633c8a90",
-                  "name": "Vissel Kobe vs Mito Hollyhock",
-                  "streams": [
-                    {
-                      "id": "st-86633c8a90",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-eab257b8ea",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795100275_hd/1795100275_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Vissel Kobe",
-            "team_b": "Mito Hollyhock",
-            "logo_a": "https://images.keovip88.net/images/teams/vissel-kobe.png",
-            "logo_b": "https://images.keovip88.net/images/teams/mito-hollyhock.png",
-            "time": "17:00:00",
-            "date": "20/11",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fccd7_6ac802ae_20261120.png?v=6ac802ae",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-8ec32c7dfc",
           "name": "Beijing Guoan vs Shanghai Port | 18:35 20/11",
           "type": "single",
@@ -168,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +148,7 @@
             "time": "19:00:00",
             "date": "20/11",
             "blv": "Mù",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
