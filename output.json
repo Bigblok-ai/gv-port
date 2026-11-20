@@ -11,11 +11,83 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-61b7366753",
+          "name": "Indonesia U-17 vs Myanmar U-17 | 15:30 20/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-61b7366753",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-61b7366753",
+                  "name": "Indonesia U-17 vs Myanmar U-17",
+                  "streams": [
+                    {
+                      "id": "st-61b7366753",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6c9b9b0619",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795101825_hd/1795101825_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC U-17 Asian Cup",
+            "team_a": "Indonesia U-17",
+            "team_b": "Myanmar U-17",
+            "logo_a": "https://static.flashscore.com/res/image/data/QB8Xo4YA-zyopBu8j.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/bJSUUpGG-AoZW059P.png",
+            "time": "15:30:00",
+            "date": "20/11",
+            "blv": "Hấu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q02dle74jnqi_935473a8_20261120.png?v=935473a8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-1ec3cf39c5",
           "name": "Western Sydney Wanderers vs Adelaide United FC | 15:40 20/11",
@@ -84,78 +156,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af501b924d46db8700fccba_daefd82a_20261120.png?v=daefd82a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-61b7366753",
-          "name": "Indonesia U-17 vs Myanmar U-17 | 15:30 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-61b7366753",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-61b7366753",
-                  "name": "Indonesia U-17 vs Myanmar U-17",
-                  "streams": [
-                    {
-                      "id": "st-61b7366753",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6c9b9b0619",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795101825_hd/1795101825_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC U-17 Asian Cup",
-            "team_a": "Indonesia U-17",
-            "team_b": "Myanmar U-17",
-            "logo_a": "https://static.flashscore.com/res/image/data/QB8Xo4YA-zyopBu8j.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/bJSUUpGG-AoZW059P.png",
-            "time": "15:30:00",
-            "date": "20/11",
-            "blv": "Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/q02dle74jnqi_935473a8_20261120.png?v=935473a8",
             "width": 1600,
             "height": 1200
           }
