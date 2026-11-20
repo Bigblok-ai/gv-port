@@ -1832,6 +1832,294 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-256d676ac5",
+          "name": "Bayer Leverkusen vs SC Paderborn 07 | 21:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-256d676ac5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-256d676ac5",
+                  "name": "Bayer Leverkusen vs SC Paderborn 07",
+                  "streams": [
+                    {
+                      "id": "st-256d676ac5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-87b81fcaf4",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106392_hd/1795106392_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Bayer Leverkusen",
+            "team_b": "SC Paderborn 07",
+            "logo_a": "https://images.keovip88.net/images/teams/bayer-leverkusen.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sc-paderborn-07.png",
+            "time": "21:30:00",
+            "date": "21/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b424d46db870c87da3_2398c16f_20261120.png?v=2398c16f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f97f9983a1",
+          "name": "Monchengladbach vs Borussia Dortmund | 21:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f97f9983a1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f97f9983a1",
+                  "name": "Monchengladbach vs Borussia Dortmund",
+                  "streams": [
+                    {
+                      "id": "st-f97f9983a1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-138cd4d8b2",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106427_hd/1795106427_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Monchengladbach",
+            "team_b": "Borussia Dortmund",
+            "logo_a": "https://images.keovip88.net/images/teams/borussia-monchengladbach.png",
+            "logo_b": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
+            "time": "21:30:00",
+            "date": "21/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b424d46db870c87dab_866a4e0d_20261120.png?v=866a4e0d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c0783cf59a",
+          "name": "SV Elversberg vs SC Freiburg | 21:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c0783cf59a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c0783cf59a",
+                  "name": "SV Elversberg vs SC Freiburg",
+                  "streams": [
+                    {
+                      "id": "st-c0783cf59a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5a46cb0055",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106471_hd/1795106471_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "SV Elversberg",
+            "team_b": "SC Freiburg",
+            "logo_a": "https://images.keovip88.net/images/teams/sv-elversberg.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sc-freiburg.png",
+            "time": "21:30:00",
+            "date": "21/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b424d46db870c87db7_38436ce2_20261120.png?v=38436ce2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-96d204d5c6",
+          "name": "Union Berlin vs RB Leipzig | 21:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-96d204d5c6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-96d204d5c6",
+                  "name": "Union Berlin vs RB Leipzig",
+                  "streams": [
+                    {
+                      "id": "st-96d204d5c6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cd14955686",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106514_hd/1795106514_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Union Berlin",
+            "team_b": "RB Leipzig",
+            "logo_a": "https://images.keovip88.net/images/teams/union-berlin.png",
+            "logo_b": "https://images.keovip88.net/images/teams/rb-leipzig.png",
+            "time": "21:30:00",
+            "date": "21/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b424d46db870c87dbb_d5002834_20261120.png?v=d5002834",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
