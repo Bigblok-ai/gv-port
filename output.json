@@ -1527,6 +1527,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-6af9ceefaa",
+          "name": "Sanfrecce Hiroshima vs Yokohama F Marinos | 12:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-6af9ceefaa",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-6af9ceefaa",
+                  "name": "Sanfrecce Hiroshima vs Yokohama F Marinos",
+                  "streams": [
+                    {
+                      "id": "st-6af9ceefaa",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f25da749c2",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795061474_hd/1795061474_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Sanfrecce Hiroshima",
+            "team_b": "Yokohama F Marinos",
+            "logo_a": "https://images.keovip88.net/images/teams/hiroshima-sanfrecce.png",
+            "logo_b": "https://images.keovip88.net/images/teams/yokohama-marinos.png",
+            "time": "12:00:00",
+            "date": "21/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af6533e24d46db870e043fe_6c91329e_20261120.png?v=6c91329e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-dd2eadf33a",
+          "name": "Kyoto Sanga vs Urawa Red Diamonds | 12:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dd2eadf33a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-dd2eadf33a",
+                  "name": "Kyoto Sanga vs Urawa Red Diamonds",
+                  "streams": [
+                    {
+                      "id": "st-dd2eadf33a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f2f6cbd820",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795061495_hd/1795061495_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kyoto Sanga",
+            "team_b": "Urawa Red Diamonds",
+            "logo_a": "https://images.keovip88.net/images/teams/kyoto-sanga.png",
+            "logo_b": "https://images.keovip88.net/images/teams/urawa-red-diamonds.png",
+            "time": "12:00:00",
+            "date": "21/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af6533e24d46db870e043ed_17d54f11_20261120.png?v=17d54f11",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
