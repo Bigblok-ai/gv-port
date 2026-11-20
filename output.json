@@ -1909,7 +1909,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1982,78 +1982,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23434576_620a790d_20261120.png?v=620a790d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-cf80899d8e",
-          "name": "QingDao Eagles vs Shanghai Jiushi Sharks | 19:00 20/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cf80899d8e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cf80899d8e",
-                  "name": "QingDao Eagles vs Shanghai Jiushi Sharks",
-                  "streams": [
-                    {
-                      "id": "st-cf80899d8e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b1041b7f32",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795100582_hd/1795100582_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "CBA Club Cup",
-            "team_a": "QingDao Eagles",
-            "team_b": "Shanghai Jiushi Sharks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/cbbeaf29a9996f0500e140e33cb780ae.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d67cd54e91fe7a46a2f9bdd646544989.png",
-            "time": "19:00:00",
-            "date": "20/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27334579_c1079d78_20261120.png?v=c1079d78",
             "width": 1600,
             "height": 1200
           }
