@@ -2807,83 +2807,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-868994062b",
-          "name": "Olympiacos Piraeus vs Real Madrid Teka | 02:15 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-868994062b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-868994062b",
-                  "name": "Olympiacos Piraeus vs Real Madrid Teka",
-                  "streams": [
-                    {
-                      "id": "st-868994062b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cccfd480ea",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062718_hd/1795062718_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Olympiacos Piraeus",
-            "team_b": "Real Madrid Teka",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/12df366aacf59aec8467d50fd0611a5f.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/baacc764f89f2ce4c22b48768946ca5a.png",
-            "time": "02:15:00",
-            "date": "21/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/25303270_506492dd_20261121.png?v=506492dd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-bd88bbdfff",
           "name": "FC Barcelona vs Crvena Zvezda Red Star | 02:30 21/11",
@@ -4608,87 +4536,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34638270_4370f4c3_20261121.png?v=4370f4c3",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-2becd96fb9",
-          "name": "Daniil Medvedev vs Frances Tiafoe | 02:30 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2becd96fb9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2becd96fb9",
-                  "name": "Daniil Medvedev vs Frances Tiafoe",
-                  "streams": [
-                    {
-                      "id": "st-2becd96fb9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-683390872f",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795185990_hd/1795185990_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "ATP Finals ",
-            "team_a": "Daniil Medvedev",
-            "team_b": "Frances Tiafoe",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPPzdT_SSFmquyzYgJlCJeGe25Xb1ecoOzyNI_ojYWA&s=10",
-            "logo_b": "https://static.flashscore.com/res/image/data/A3X3wNil-AJjcvBgm.png",
-            "time": "02:30:00",
-            "date": "21/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zwh2cvto0s7n_d291add1_20261121.png?v=d291add1",
             "width": 1600,
             "height": 1200
           }
