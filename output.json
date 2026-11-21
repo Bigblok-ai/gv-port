@@ -737,6 +737,78 @@
           }
         },
         {
+          "id": "gv-41b63dacde",
+          "name": "Sevilla vs Real Betis | 00:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-41b63dacde",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-41b63dacde",
+                  "name": "Sevilla vs Real Betis",
+                  "streams": [
+                    {
+                      "id": "st-41b63dacde",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3545c410a3",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062082_hd/1795062082_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Sevilla",
+            "team_b": "Real Betis",
+            "logo_a": "https://images.keovip88.net/images/teams/sevilla.png",
+            "logo_b": "https://images.keovip88.net/images/teams/real-betis.png",
+            "time": "00:30:00",
+            "date": "22/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4bd24d46db870c8896e_5c13372e_20261121.png?v=5c13372e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-3ae8631576",
           "name": "Schalke 04 vs VfB Stuttgart | 00:30 22/11",
           "type": "single",
@@ -893,78 +965,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4bd24d46db870c88963_1dfed796_20261121.png?v=1dfed796",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-41b63dacde",
-          "name": "Sevilla vs Real Betis | 00:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-41b63dacde",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-41b63dacde",
-                  "name": "Sevilla vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "st-41b63dacde",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3545c410a3",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062082_hd/1795062082_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Sevilla",
-            "team_b": "Real Betis",
-            "logo_a": "https://images.keovip88.net/images/teams/sevilla.png",
-            "logo_b": "https://images.keovip88.net/images/teams/real-betis.png",
-            "time": "00:30:00",
-            "date": "22/11",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4bd24d46db870c8896e_5c13372e_20261121.png?v=5c13372e",
             "width": 1600,
             "height": 1200
           }
@@ -1757,6 +1757,222 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c124d46db870c88e56_bc7ced14_20261121.png?v=bc7ced14",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-174d3aa03c",
+          "name": "Juventus vs Venezia F.C. | 18:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-174d3aa03c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-174d3aa03c",
+                  "name": "Juventus vs Venezia F.C.",
+                  "streams": [
+                    {
+                      "id": "st-174d3aa03c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19a41d0fda",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278780_hd/1795278780_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Juventus",
+            "team_b": "Venezia F.C.",
+            "logo_a": "https://images.keovip88.net/images/teams/juventus.png",
+            "logo_b": "https://images.keovip88.net/images/teams/venezia.png",
+            "time": "18:30:00",
+            "date": "22/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c224d46db870c88f36_f179ef2e_20261121.png?v=f179ef2e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-08b18bd4cc",
+          "name": "Denmark U17 vs Úc U17 | 19:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-08b18bd4cc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-08b18bd4cc",
+                  "name": "Denmark U17 vs Úc U17",
+                  "streams": [
+                    {
+                      "id": "st-08b18bd4cc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6d157be69",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278840_hd/1795278840_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Denmark U17",
+            "team_b": "Úc U17",
+            "logo_a": "https://images.keovip88.net/images/teams/denmark-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/australia-u17.png",
+            "time": "19:30:00",
+            "date": "22/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad62b_0e09380b_20261121.png?v=0e09380b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7628aa7827",
+          "name": "Barcelona vs Villarreal | 20:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7628aa7827",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7628aa7827",
+                  "name": "Barcelona vs Villarreal",
+                  "streams": [
+                    {
+                      "id": "st-7628aa7827",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6f29b5c091",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278871_hd/1795278871_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Barcelona",
+            "team_b": "Villarreal",
+            "logo_a": "https://images.keovip88.net/images/teams/fc-barcelona.png",
+            "logo_b": "https://images.keovip88.net/images/teams/villarreal.png",
+            "time": "20:00:00",
+            "date": "22/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c224d46db870c88fde_e02194b5_20261121.png?v=e02194b5",
             "width": 1600,
             "height": 1200
           }
