@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (9 LIVE)",
+      "name": "⚽ Bóng Đá (8 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-96d204d5c6",
-          "name": "Union Berlin vs RB Leipzig | 21:30 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-96d204d5c6",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-96d204d5c6",
-                  "name": "Union Berlin vs RB Leipzig",
-                  "streams": [
-                    {
-                      "id": "st-96d204d5c6",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cd14955686",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106514_hd/1795106514_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Union Berlin",
-            "team_b": "RB Leipzig",
-            "logo_a": "https://images.keovip88.net/images/teams/union-berlin.png",
-            "logo_b": "https://images.keovip88.net/images/teams/rb-leipzig.png",
-            "time": "21:30:00",
-            "date": "21/11",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b424d46db870c87dbb_d5002834_20261121.png?v=d5002834",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-157a0d90a1",
           "name": "Chelsea FC vs Leeds United | 22:00 21/11",
@@ -1469,6 +1397,544 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c024d46db870c88d5b_9c4222ca_20261121.png?v=9c4222ca",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cd244d7a34",
+          "name": "Khánh Hòa vs Hung Yen | 17:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cd244d7a34",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cd244d7a34",
+                  "name": "Khánh Hòa vs Hung Yen",
+                  "streams": [
+                    {
+                      "id": "st-cd244d7a34",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2de1cfe235",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278346_hd/1795278346_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Việt Nam",
+            "team_a": "Khánh Hòa",
+            "team_b": "Hung Yen",
+            "logo_a": "https://images.keovip88.net/images/teams/khatoco-khanh-hoa.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hung-yen.png",
+            "time": "17:00:00",
+            "date": "22/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c124d46db870c88e1b_fe448758_20261121.png?v=fe448758",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-85aa9eb80f",
+          "name": "Van Hien University vs Bình Định | 17:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-85aa9eb80f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-85aa9eb80f",
+                  "name": "Van Hien University vs Bình Định",
+                  "streams": [
+                    {
+                      "id": "st-85aa9eb80f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-807e322c48",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278376_hd/1795278376_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Việt Nam",
+            "team_a": "Van Hien University",
+            "team_b": "Bình Định",
+            "logo_a": "https://images.keovip88.net/images/teams/van-hien-university.png",
+            "logo_b": "https://images.keovip88.net/images/teams/binh-dinh.png",
+            "time": "17:00:00",
+            "date": "22/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c124d46db870c88df4_f5ae38fa_20261121.png?v=f5ae38fa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fb08f38152",
+          "name": "PVF-CAND vs Than Quảng Ninh | 18:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fb08f38152",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fb08f38152",
+                  "name": "PVF-CAND vs Than Quảng Ninh",
+                  "streams": [
+                    {
+                      "id": "st-fb08f38152",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-10a3d329d9",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278491_hd/1795278491_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Việt Nam",
+            "team_a": "PVF-CAND",
+            "team_b": "Than Quảng Ninh",
+            "logo_a": "https://images.keovip88.net/images/teams/pvf-cand.png",
+            "logo_b": "https://images.keovip88.net/images/teams/than-quang-ninh.gif",
+            "time": "18:00:00",
+            "date": "22/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c224d46db870c88f0a_4ee4d33e_20261121.png?v=4ee4d33e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b7e1f8a3a7",
+          "name": "Hồng Lĩnh Hà Tĩnh vs TP Hồ Chí Minh | 18:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b7e1f8a3a7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b7e1f8a3a7",
+                  "name": "Hồng Lĩnh Hà Tĩnh vs TP Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-b7e1f8a3a7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d77c7ebf14",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278409_hd/1795278409_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Hồng Lĩnh Hà Tĩnh",
+            "team_b": "TP Hồ Chí Minh",
+            "logo_a": "https://images.keovip88.net/images/teams/hong-linh-ha-tinh.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ho-chi-minh-city.png",
+            "time": "18:00:00",
+            "date": "22/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c124d46db870c88e5a_00d266d2_20261121.png?v=00d266d2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8b68febd32",
+          "name": "SHB Đà Nẵng vs Ninh Bình FC | 18:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8b68febd32",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8b68febd32",
+                  "name": "SHB Đà Nẵng vs Ninh Bình FC",
+                  "streams": [
+                    {
+                      "id": "st-8b68febd32",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c39f478054",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278451_hd/1795278451_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "SHB Đà Nẵng",
+            "team_b": "Ninh Bình FC",
+            "logo_a": "https://images.keovip88.net/images/teams/da-nang.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ninh-binh-fc.png",
+            "time": "18:00:00",
+            "date": "22/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c124d46db870c88e56_bc7ced14_20261121.png?v=bc7ced14",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-806c690339",
+          "name": "Werder Bremen vs Hamburger | 23:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-806c690339",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-806c690339",
+                  "name": "Werder Bremen vs Hamburger",
+                  "streams": [
+                    {
+                      "id": "st-806c690339",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a48b9d4379",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062379_hd/1795062379_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Werder Bremen",
+            "team_b": "Hamburger",
+            "logo_a": "https://images.keovip88.net/images/teams/werder-bremen.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hamburger-sv.png",
+            "time": "23:30:00",
+            "date": "22/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a511_3188b235_20261121.png?v=3188b235",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cc9bf34e68",
+          "name": "Liverpool vs Manchester United | 23:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cc9bf34e68",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cc9bf34e68",
+                  "name": "Liverpool vs Manchester United",
+                  "streams": [
+                    {
+                      "id": "st-cc9bf34e68",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5fa870b5a9",
+                          "name": "Đầu cầu cò: Tỵ + Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062300_hd/1795062300_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-edccd4a8eb",
+                          "name": "Anti Mân Đàn: Chồn",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062324_hd/1795062324_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-640416e74a",
+                          "name": "Off Fan MU: Hấu",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062352_hd/1795062352_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Liverpool",
+            "team_b": "Manchester United",
+            "logo_a": "https://images.keovip88.net/images/teams/liverpool.png",
+            "logo_b": "https://images.keovip88.net/images/teams/manchester-united.png",
+            "time": "23:30:00",
+            "date": "22/11",
+            "blv": "Đầu cầu cò: Tỵ + Trĩ, Anti Mân Đàn: Chồn, Off Fan MU: Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261121.png?v=e3e1f23a",
             "width": 1600,
             "height": 1200
           }
