@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9497c1a8be",
-          "name": "Auckland FC vs Melbourne Victory FC | 11:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9497c1a8be",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9497c1a8be",
-                  "name": "Auckland FC vs Melbourne Victory FC",
-                  "streams": [
-                    {
-                      "id": "st-9497c1a8be",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30a66fcb8c",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795061441_hd/1795061441_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Úc",
-            "team_a": "Auckland FC",
-            "team_b": "Melbourne Victory FC",
-            "logo_a": "https://images.keovip88.net/images/teams/auckland-fc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/melbourne-victory.png",
-            "time": "11:00:00",
-            "date": "21/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af6533e24d46db870e043c2_59c5ae61_20261121.png?v=59c5ae61",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6af9ceefaa",
           "name": "Sanfrecce Hiroshima vs Yokohama F Marinos | 12:00 21/11",
