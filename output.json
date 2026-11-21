@@ -1798,11 +1798,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-b2354dc003",
-                          "name": "Ben",
+                          "id": "lnk-3a2493f3f0",
+                          "name": "Chồn",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062947_hd/1795062947_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795277498_hd/1795277498_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1829,7 +1829,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e82de69ea44942a3e90a5be6cf0004da.png",
             "time": "01:00:00",
             "date": "22/11",
-            "blv": "Ben",
+            "blv": "Chồn",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -2558,6 +2558,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34638270_4370f4c3_20261121.png?v=4370f4c3",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-9343c6c9bb",
+          "name": "Alexander Zverev vs Daniil Medvedev | 02:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9343c6c9bb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9343c6c9bb",
+                  "name": "Alexander Zverev vs Daniil Medvedev",
+                  "streams": [
+                    {
+                      "id": "st-9343c6c9bb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b9f87f9a19",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795277560_hd/1795277560_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Finals ",
+            "team_a": "Alexander Zverev",
+            "team_b": "Daniil Medvedev",
+            "logo_a": "https://static.flashscore.com/res/image/data/tO5cePjl-2DqYxEbl.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/QujxPtf5-6Z1AkBdk.png",
+            "time": "02:30:00",
+            "date": "22/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/na5htffr0m9f_d9da8f38_20261121.png?v=d9da8f38",
             "width": 1600,
             "height": 1200
           }
