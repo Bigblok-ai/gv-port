@@ -2355,6 +2355,78 @@
           }
         },
         {
+          "id": "gv-5b7a1a6850",
+          "name": "Hàn Quốc U17 vs New Caledonia U17 | 21:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5b7a1a6850",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5b7a1a6850",
+                  "name": "Hàn Quốc U17 vs New Caledonia U17",
+                  "streams": [
+                    {
+                      "id": "st-5b7a1a6850",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d836e06611",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279210_hd/1795279210_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Hàn Quốc U17",
+            "team_b": "New Caledonia U17",
+            "logo_a": "https://images.keovip88.net/images/teams/south-korea-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/new-caledonia-u17.png",
+            "time": "21:30:00",
+            "date": "22/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad628_fb123643_20261121.png?v=fb123643",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-e1bf4d475f",
           "name": "Augsburg vs Mainz | 21:30 22/11",
           "type": "single",
@@ -2422,6 +2494,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c89980_a550222b_20261121.png?v=a550222b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-93d35060fd",
+          "name": "Racing Santander vs Real Sociedad | 22:15 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-93d35060fd",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-93d35060fd",
+                  "name": "Racing Santander vs Real Sociedad",
+                  "streams": [
+                    {
+                      "id": "st-93d35060fd",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cec327e286",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279240_hd/1795279240_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Racing Santander",
+            "team_b": "Real Sociedad",
+            "logo_a": "https://images.keovip88.net/images/teams/racing-santander.png",
+            "logo_b": "https://images.keovip88.net/images/teams/real-sociedad.png",
+            "time": "22:15:00",
+            "date": "22/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c724d46db870c8a0e8_943594ba_20261121.png?v=943594ba",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2b630bc6fa",
+          "name": "Argentina U17 vs Mozambique U17 | 22:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2b630bc6fa",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2b630bc6fa",
+                  "name": "Argentina U17 vs Mozambique U17",
+                  "streams": [
+                    {
+                      "id": "st-2b630bc6fa",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-426d179f1e",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279313_hd/1795279313_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Argentina U17",
+            "team_b": "Mozambique U17",
+            "logo_a": "https://images.keovip88.net/images/teams/argentina-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/mozambique-u17.png",
+            "time": "22:30:00",
+            "date": "22/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a20c24c9d3d28ee730c3117_b7dd2a57_20261121.png?v=b7dd2a57",
             "width": 1600,
             "height": 1200
           }
@@ -3257,6 +3473,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26822277_ac42b72b_20261121.png?v=ac42b72b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-22dabfb094",
+          "name": "Bilbao Basket vs Baskonia | 18:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-22dabfb094",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-22dabfb094",
+                  "name": "Bilbao Basket vs Baskonia",
+                  "streams": [
+                    {
+                      "id": "st-22dabfb094",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5fa7c5b608",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279393_hd/1795279393_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Supercopa ACB",
+            "team_a": "Bilbao Basket",
+            "team_b": "Baskonia",
+            "logo_a": "https://static.flashscore.com/res/image/data/Ch6tZ7jl-0hu4VHO8.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/fcISR1Ca-hhuZJcqF.png",
+            "time": "18:00:00",
+            "date": "22/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3wwvosek8n70_2d920811_20261121.png?v=2d920811",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-f124eaf07f",
+          "name": "Obradoiro vs Girona | 18:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f124eaf07f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f124eaf07f",
+                  "name": "Obradoiro vs Girona",
+                  "streams": [
+                    {
+                      "id": "st-f124eaf07f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-917c939fb8",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279497_hd/1795279497_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Supercopa ACB",
+            "team_a": "Obradoiro",
+            "team_b": "Girona",
+            "logo_a": "https://static.flashscore.com/res/image/data/GQO85GxS-MkO5VDN4.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/h4mAxXEa-YgmHmwO2.png",
+            "time": "18:00:00",
+            "date": "22/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/y40cje13k4v5_3a44f067_20261121.png?v=3a44f067",
             "width": 1600,
             "height": 1200
           }
