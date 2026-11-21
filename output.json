@@ -2591,7 +2591,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (6 LIVE)",
+      "name": "🏀 Bóng Rổ (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2885,78 +2885,6 @@
           }
         },
         {
-          "id": "gv-e7c865bd2b",
-          "name": "Oklahoma City Thunder vs New Orleans Pelicans | 08:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e7c865bd2b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e7c865bd2b",
-                  "name": "Oklahoma City Thunder vs New Orleans Pelicans",
-                  "streams": [
-                    {
-                      "id": "st-e7c865bd2b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6f61b4de17",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795060972_hd/1795060972_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Oklahoma City Thunder",
-            "team_b": "New Orleans Pelicans",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
-            "time": "08:00:00",
-            "date": "21/11",
-            "blv": "Riko",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33698275_8f45c769_20261121.png?v=8f45c769",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-1fa3c93e28",
           "name": "Chicago Bulls vs Washington Wizards | 08:00 21/11",
           "type": "single",
@@ -3024,6 +2952,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20638276_2f23ecd7_20261121.png?v=2f23ecd7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e7c865bd2b",
+          "name": "Oklahoma City Thunder vs New Orleans Pelicans | 08:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e7c865bd2b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e7c865bd2b",
+                  "name": "Oklahoma City Thunder vs New Orleans Pelicans",
+                  "streams": [
+                    {
+                      "id": "st-e7c865bd2b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6f61b4de17",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795060972_hd/1795060972_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Oklahoma City Thunder",
+            "team_b": "New Orleans Pelicans",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
+            "time": "08:00:00",
+            "date": "21/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33698275_8f45c769_20261121.png?v=8f45c769",
             "width": 1600,
             "height": 1200
           }
