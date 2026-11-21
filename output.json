@@ -809,78 +809,6 @@
           }
         },
         {
-          "id": "gv-3ae8631576",
-          "name": "Schalke 04 vs VfB Stuttgart | 00:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3ae8631576",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3ae8631576",
-                  "name": "Schalke 04 vs VfB Stuttgart",
-                  "streams": [
-                    {
-                      "id": "st-3ae8631576",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-41b729f1c1",
-                          "name": "Dory",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795061828_hd/1795061828_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Schalke 04",
-            "team_b": "VfB Stuttgart",
-            "logo_a": "https://images.keovip88.net/images/teams/schalke-04.png",
-            "logo_b": "https://images.keovip88.net/images/teams/vfb-stuttgart.png",
-            "time": "00:30:00",
-            "date": "22/11",
-            "blv": "Dory",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4bd24d46db870c88972_714bc1ac_20261121.png?v=714bc1ac",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-fd32b0481a",
           "name": "Newcastle United vs Arsenal | 00:30 22/11",
           "type": "single",
@@ -965,6 +893,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4bd24d46db870c88963_1dfed796_20261121.png?v=1dfed796",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3ae8631576",
+          "name": "Schalke 04 vs VfB Stuttgart | 00:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3ae8631576",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3ae8631576",
+                  "name": "Schalke 04 vs VfB Stuttgart",
+                  "streams": [
+                    {
+                      "id": "st-3ae8631576",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-41b729f1c1",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795061828_hd/1795061828_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Schalke 04",
+            "team_b": "VfB Stuttgart",
+            "logo_a": "https://images.keovip88.net/images/teams/schalke-04.png",
+            "logo_b": "https://images.keovip88.net/images/teams/vfb-stuttgart.png",
+            "time": "00:30:00",
+            "date": "22/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4bd24d46db870c88972_714bc1ac_20261121.png?v=714bc1ac",
             "width": 1600,
             "height": 1200
           }
@@ -1978,8 +1978,8 @@
           }
         },
         {
-          "id": "gv-806c690339",
-          "name": "Werder Bremen vs Hamburger | 23:30 22/11",
+          "id": "gv-6a81e45957",
+          "name": "Pháp U17 vs Saudi Arabia U17 | 20:30 22/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -1993,23 +1993,400 @@
           ],
           "sources": [
             {
-              "id": "src-806c690339",
+              "id": "src-6a81e45957",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-806c690339",
-                  "name": "Werder Bremen vs Hamburger",
+                  "id": "ct-6a81e45957",
+                  "name": "Pháp U17 vs Saudi Arabia U17",
                   "streams": [
                     {
-                      "id": "st-806c690339",
+                      "id": "st-6a81e45957",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-a48b9d4379",
-                          "name": "Mù",
+                          "id": "lnk-70105bcbaa",
+                          "name": "Hấu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062379_hd/1795062379_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278908_hd/1795278908_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Pháp U17",
+            "team_b": "Saudi Arabia U17",
+            "logo_a": "https://images.keovip88.net/images/teams/france-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/saudi-arabia-u17.png",
+            "time": "20:30:00",
+            "date": "22/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad62f_748fa7b2_20261121.png?v=748fa7b2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c027270bab",
+          "name": "US Sassuolo Calcio vs Genoa | 21:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c027270bab",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c027270bab",
+                  "name": "US Sassuolo Calcio vs Genoa",
+                  "streams": [
+                    {
+                      "id": "st-c027270bab",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d43dfe1856",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278998_hd/1795278998_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "US Sassuolo Calcio",
+            "team_b": "Genoa",
+            "logo_a": "https://images.keovip88.net/images/teams/sassuolo.png",
+            "logo_b": "https://images.keovip88.net/images/teams/genoa.png",
+            "time": "21:00:00",
+            "date": "22/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c8945f_586668b8_20261121.png?v=586668b8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b30a0597c2",
+          "name": "Bologna vs Udinese | 21:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b30a0597c2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b30a0597c2",
+                  "name": "Bologna vs Udinese",
+                  "streams": [
+                    {
+                      "id": "st-b30a0597c2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-05293bce9b",
+                          "name": "Dory",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279036_hd/1795279036_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Bologna",
+            "team_b": "Udinese",
+            "logo_a": "https://images.keovip88.net/images/teams/bologna.png",
+            "logo_b": "https://images.keovip88.net/images/teams/udinese.png",
+            "time": "21:00:00",
+            "date": "22/11",
+            "blv": "Dory",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c89431_c3a22ee1_20261121.png?v=c3a22ee1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2e23bf662b",
+          "name": "Hull City vs Brighton   Hove Albion | 21:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2e23bf662b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2e23bf662b",
+                  "name": "Hull City vs Brighton   Hove Albion",
+                  "streams": [
+                    {
+                      "id": "st-2e23bf662b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d27662ff7c",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278948_hd/1795278948_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-78d0fb8875",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278959_hd/1795278959_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Hull City",
+            "team_b": "Brighton   Hove Albion",
+            "logo_a": "https://images.keovip88.net/images/teams/hull-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
+            "time": "21:00:00",
+            "date": "22/11",
+            "blv": "Riko, Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c8940b_4e00c76e_20261121.png?v=4e00c76e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e9e6a7ef3a",
+          "name": "Paris FC vs Angers SCO | 21:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e9e6a7ef3a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e9e6a7ef3a",
+                  "name": "Paris FC vs Angers SCO",
+                  "streams": [
+                    {
+                      "id": "st-e9e6a7ef3a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d98b983fc0",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279096_hd/1795279096_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Paris FC",
+            "team_b": "Angers SCO",
+            "logo_a": "https://images.keovip88.net/images/teams/paris-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/angers.png",
+            "time": "21:00:00",
+            "date": "22/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c89488_5770f0d9_20261121.png?v=5770f0d9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e1bf4d475f",
+          "name": "Augsburg vs Mainz | 21:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e1bf4d475f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e1bf4d475f",
+                  "name": "Augsburg vs Mainz",
+                  "streams": [
+                    {
+                      "id": "st-e1bf4d475f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-288f02fdc1",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279137_hd/1795279137_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2030,13 +2407,13 @@
           ],
           "org_metadata": {
             "league": "Bundesliga",
-            "team_a": "Werder Bremen",
-            "team_b": "Hamburger",
-            "logo_a": "https://images.keovip88.net/images/teams/werder-bremen.png",
-            "logo_b": "https://images.keovip88.net/images/teams/hamburger-sv.png",
-            "time": "23:30:00",
+            "team_a": "Augsburg",
+            "team_b": "Mainz",
+            "logo_a": "https://images.keovip88.net/images/teams/augsburg.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fsv-mainz-05.png",
+            "time": "21:30:00",
             "date": "22/11",
-            "blv": "Mù",
+            "blv": "Mickey",
             "is_live": false,
             "cate_type": "football"
           },
@@ -2044,7 +2421,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a511_3188b235_20261121.png?v=3188b235",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c89980_a550222b_20261121.png?v=a550222b",
             "width": 1600,
             "height": 1200
           }
@@ -2151,6 +2528,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261121.png?v=e3e1f23a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-806c690339",
+          "name": "Werder Bremen vs Hamburger | 23:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-806c690339",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-806c690339",
+                  "name": "Werder Bremen vs Hamburger",
+                  "streams": [
+                    {
+                      "id": "st-806c690339",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a48b9d4379",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062379_hd/1795062379_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Werder Bremen",
+            "team_b": "Hamburger",
+            "logo_a": "https://images.keovip88.net/images/teams/werder-bremen.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hamburger-sv.png",
+            "time": "23:30:00",
+            "date": "22/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a511_3188b235_20261121.png?v=3188b235",
             "width": 1600,
             "height": 1200
           }
