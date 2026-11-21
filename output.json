@@ -2519,83 +2519,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-1f906dd752",
-          "name": "Tasmania JackJumpers vs Illawarra Hawks | 13:30 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1f906dd752",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1f906dd752",
-                  "name": "Tasmania JackJumpers vs Illawarra Hawks",
-                  "streams": [
-                    {
-                      "id": "st-1f906dd752",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-618e003bc4",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795061102_hd/1795061102_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "Tasmania JackJumpers",
-            "team_b": "Illawarra Hawks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b4775c62432e01185c4fd9669952b258.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e97aa6ff62044e05b1dc126043568a18.png",
-            "time": "13:30:00",
-            "date": "21/11",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23822274_72cfbc4f_20261121.png?v=72cfbc4f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f5f1c4e760",
           "name": "Fujian Xunxing Sturgeons vs SiChuan Jingqiang Blue Whales | 14:30 21/11",
