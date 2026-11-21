@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (8 LIVE)",
+      "name": "⚽ Bóng Đá (14 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -600,10 +600,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -652,7 +652,7 @@
             "time": "22:00:00",
             "date": "21/11",
             "blv": "Chồn",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -672,10 +672,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -707,23 +707,6 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
-                        },
-                        {
-                          "id": "lnk-d0bd1879c5",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106625_hd/1795106625_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
                         }
                       ]
                     }
@@ -740,8 +723,8 @@
             "logo_b": "https://images.keovip88.net/images/teams/ipswich-town.png",
             "time": "22:00:00",
             "date": "21/11",
-            "blv": "Ngọng, Nem",
-            "is_live": false,
+            "blv": "Ngọng",
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -761,10 +744,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -813,7 +796,7 @@
             "time": "22:00:00",
             "date": "21/11",
             "blv": "Mù",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -833,10 +816,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -885,7 +868,7 @@
             "time": "22:00:00",
             "date": "21/11",
             "blv": "Hấu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -905,10 +888,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -957,7 +940,7 @@
             "time": "22:00:00",
             "date": "21/11",
             "blv": "Súp",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -965,6 +948,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0709_5aa67e3a_20261121.png?v=5aa67e3a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c19b68f278",
+          "name": "Brazil U17 vs Ireland U17 | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c19b68f278",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c19b68f278",
+                  "name": "Brazil U17 vs Ireland U17",
+                  "streams": [
+                    {
+                      "id": "st-c19b68f278",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-12c3c8a7b0",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795272236_hd/1795272236_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Brazil U17",
+            "team_b": "Ireland U17",
+            "logo_a": "https://images.keovip88.net/images/teams/brazil-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/default.png",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "Nem",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad64b_64333dcf_20261121.png?v=64333dcf",
             "width": 1600,
             "height": 1200
           }
@@ -3105,11 +3160,83 @@
     },
     {
       "id": "cate_vothuat",
-      "name": "🥊 Võ Thuật",
+      "name": "🥊 Võ Thuật (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-e5a2b94238",
+          "name": "Prochazka vs Stirling | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e5a2b94238",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e5a2b94238",
+                  "name": "Prochazka vs Stirling",
+                  "streams": [
+                    {
+                      "id": "st-e5a2b94238",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7216305b54",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106913_hd/1795106913_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "UFC Fight Night",
+            "team_a": "Prochazka",
+            "team_b": "Stirling",
+            "logo_a": "https://static.flashscore.com/res/image/data/IHNpCXDa-4UsHKcmC.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/dr7Y0SGG-vcHbARdK.png",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "Cầy",
+            "is_live": true,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/91w0zxoqj102_8361dc0a_20261121.png?v=8361dc0a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-6a3da77d7c",
           "name": "Prochazka vs Stirling | 22:00 21/11",
@@ -3178,78 +3305,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/167z5ytc4xaa_07353df9_20261121.png?v=07353df9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-e5a2b94238",
-          "name": "Prochazka vs Stirling | 22:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e5a2b94238",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e5a2b94238",
-                  "name": "Prochazka vs Stirling",
-                  "streams": [
-                    {
-                      "id": "st-e5a2b94238",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7216305b54",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106913_hd/1795106913_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "UFC Fight Night",
-            "team_a": "Prochazka",
-            "team_b": "Stirling",
-            "logo_a": "https://static.flashscore.com/res/image/data/IHNpCXDa-4UsHKcmC.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/dr7Y0SGG-vcHbARdK.png",
-            "time": "22:00:00",
-            "date": "21/11",
-            "blv": "Cầy",
-            "is_live": false,
-            "cate_type": "vothuat"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/91w0zxoqj102_8361dc0a_20261121.png?v=8361dc0a",
             "width": 1600,
             "height": 1200
           }
