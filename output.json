@@ -665,78 +665,6 @@
           }
         },
         {
-          "id": "gv-bdb0ecd9d3",
-          "name": "Tottenham Hotspur vs Ipswich | 22:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bdb0ecd9d3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-bdb0ecd9d3",
-                  "name": "Tottenham Hotspur vs Ipswich",
-                  "streams": [
-                    {
-                      "id": "st-bdb0ecd9d3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fd32c13506",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106603_hd/1795106603_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Tottenham Hotspur",
-            "team_b": "Ipswich",
-            "logo_a": "https://images.keovip88.net/images/teams/tottenham-hotspur.png",
-            "logo_b": "https://images.keovip88.net/images/teams/ipswich-town.png",
-            "time": "22:00:00",
-            "date": "21/11",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b424d46db870c87ea6_a3d097e5_20261121.png?v=a3d097e5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-8765ab6970",
           "name": "Coventry vs Crystal Palace | 22:00 21/11",
           "type": "single",
@@ -804,6 +732,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b424d46db870c87e9e_6133ad92_20261121.png?v=6133ad92",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bdb0ecd9d3",
+          "name": "Tottenham Hotspur vs Ipswich | 22:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bdb0ecd9d3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bdb0ecd9d3",
+                  "name": "Tottenham Hotspur vs Ipswich",
+                  "streams": [
+                    {
+                      "id": "st-bdb0ecd9d3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fd32c13506",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795106603_hd/1795106603_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Tottenham Hotspur",
+            "team_b": "Ipswich",
+            "logo_a": "https://images.keovip88.net/images/teams/tottenham-hotspur.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ipswich-town.png",
+            "time": "22:00:00",
+            "date": "21/11",
+            "blv": "Ngọng",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b424d46db870c87ea6_a3d097e5_20261121.png?v=a3d097e5",
             "width": 1600,
             "height": 1200
           }
@@ -3233,78 +3233,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/91w0zxoqj102_8361dc0a_20261121.png?v=8361dc0a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-6a3da77d7c",
-          "name": "Prochazka vs Stirling | 22:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6a3da77d7c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6a3da77d7c",
-                  "name": "Prochazka vs Stirling",
-                  "streams": [
-                    {
-                      "id": "st-6a3da77d7c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ed65f7c31e",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1794728056_hd/1794728056_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Prochazka vs Stirling",
-            "team_a": "Prochazka",
-            "team_b": "Stirling",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmn9J70mK8P2JeuorkhRgbMQ8VW74qXN96UOq9_MNKOw&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgmR56_Mns5KqA3MkJXFMPBz2j0RsgW2i84-I14txfyw&s",
-            "time": "22:00:00",
-            "date": "21/11",
-            "blv": "Cầy",
-            "is_live": false,
-            "cate_type": "vothuat"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/167z5ytc4xaa_07353df9_20261121.png?v=07353df9",
             "width": 1600,
             "height": 1200
           }
