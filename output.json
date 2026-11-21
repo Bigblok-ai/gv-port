@@ -11,14 +11,14 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-41b63dacde",
-          "name": "Sevilla vs Real Betis | 00:30 22/11",
+          "id": "gv-41f8a8c13c",
+          "name": "AS Monaco vs Auxerre | 02:45 22/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-41b63dacde",
+              "id": "src-41f8a8c13c",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-41b63dacde",
-                  "name": "Sevilla vs Real Betis",
+                  "id": "ct-41f8a8c13c",
+                  "name": "AS Monaco vs Auxerre",
                   "streams": [
                     {
-                      "id": "st-41b63dacde",
+                      "id": "st-41f8a8c13c",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-3545c410a3",
-                          "name": "Trĩ",
+                          "id": "lnk-3eaa296117",
+                          "name": "Mù",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062082_hd/1795062082_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795289429_hd/1795289429_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -68,14 +68,14 @@
             }
           ],
           "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Sevilla",
-            "team_b": "Real Betis",
-            "logo_a": "https://images.keovip88.net/images/teams/sevilla.png",
-            "logo_b": "https://images.keovip88.net/images/teams/real-betis.png",
-            "time": "00:30:00",
+            "league": "Ligue 1",
+            "team_a": "AS Monaco",
+            "team_b": "Auxerre",
+            "logo_a": "https://images.keovip88.net/images/teams/monaco.png",
+            "logo_b": "https://images.keovip88.net/images/teams/aj-auxerre.png",
+            "time": "02:45:00",
             "date": "22/11",
-            "blv": "Trĩ",
+            "blv": "Mù",
             "is_live": true,
             "cate_type": "football"
           },
@@ -83,7 +83,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4bd24d46db870c8896e_5c13372e_20261122.png?v=5c13372e",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4bf24d46db870c88ba3_bc1df64e_20261122.png?v=bc1df64e",
             "width": 1600,
             "height": 1200
           }
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "02:45:00",
             "date": "22/11",
             "blv": "Súp",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -2015,83 +2015,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-57d223ee80",
-          "name": "San Pablo Burgos vs Unicaja | 23:59 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-57d223ee80",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-57d223ee80",
-                  "name": "San Pablo Burgos vs Unicaja",
-                  "streams": [
-                    {
-                      "id": "st-57d223ee80",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-37235a442d",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062770_hd/1795062770_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Supercopa ACB",
-            "team_a": "San Pablo Burgos",
-            "team_b": "Unicaja",
-            "logo_a": "https://static.flashscore.com/res/image/data/O6YcMlwS-YebVHhbt.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d2265c87f92fa0bc4b6150a507cc23f1.png",
-            "time": "23:59:00",
-            "date": "21/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/c4lda6ots15b_55f92358_20261122.png?v=55f92358",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-53d8e302b3",
           "name": "Philadelphia 76ers vs Milwaukee Bucks | 01:00 22/11",
