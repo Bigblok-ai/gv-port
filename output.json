@@ -3389,6 +3389,150 @@
           }
         },
         {
+          "id": "gv-f3ed07cf1c",
+          "name": "Jilin Northeast Tigers vs Zhejiang Golden Bulls | 14:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-f3ed07cf1c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-f3ed07cf1c",
+                  "name": "Jilin Northeast Tigers vs Zhejiang Golden Bulls",
+                  "streams": [
+                    {
+                      "id": "st-f3ed07cf1c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7fc7e3ae3a",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795225208_hd/1795225208_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA Club Cup",
+            "team_a": "Jilin Northeast Tigers",
+            "team_b": "Zhejiang Golden Bulls",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/9b1edb3adebae8211e057008d8352b03.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/eaff06bd8c853345d0a2061a1ef15585.png",
+            "time": "14:30:00",
+            "date": "21/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21265576_040aa694_20261121.png?v=040aa694",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-39bff91cc0",
+          "name": "Shenzhen Leopards vs Suzhou Dragons Kentier | 14:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-39bff91cc0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-39bff91cc0",
+                  "name": "Shenzhen Leopards vs Suzhou Dragons Kentier",
+                  "streams": [
+                    {
+                      "id": "st-39bff91cc0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0279f47160",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795225257_hd/1795225257_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CBA Club Cup",
+            "team_a": "Shenzhen Leopards",
+            "team_b": "Suzhou Dragons Kentier",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/4d9ec843176ad902c32b3b317118e543.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d1c8a0f21d4d300f8ddce93f11b79c70.png",
+            "time": "14:30:00",
+            "date": "21/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24265579_d6daf6c1_20261121.png?v=d6daf6c1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-68ac515a45",
           "name": "Melbourne United vs New Zealand Breakers | 15:30 21/11",
           "type": "single",
