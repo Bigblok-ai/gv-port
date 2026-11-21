@@ -620,11 +620,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-e490947bfc",
-                          "name": "Chồn",
+                          "id": "lnk-c31d531dbf",
+                          "name": "Fan MC: Ben",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795105338_hd/1795105338_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795245242_hd/1795245242_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -637,11 +637,11 @@
                           ]
                         },
                         {
-                          "id": "lnk-ec26f74bb0",
-                          "name": "Ben",
+                          "id": "lnk-818889f859",
+                          "name": "Trung lập: Chồn",
                           "type": "hls",
                           "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795105327_hd/1795105327_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795245236_hd/1795245236_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -668,7 +668,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/fulham.png",
             "time": "19:30:00",
             "date": "21/11",
-            "blv": "Chồn, Ben",
+            "blv": "Fan MC: Ben, Trung lập: Chồn",
             "is_live": false,
             "cate_type": "football"
           },
@@ -2663,7 +2663,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2748,10 +2748,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2800,7 +2800,7 @@
             "time": "14:30:00",
             "date": "21/11",
             "blv": "Nem",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2820,10 +2820,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2872,7 +2872,7 @@
             "time": "14:30:00",
             "date": "21/11",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2892,10 +2892,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2944,7 +2944,7 @@
             "time": "14:30:00",
             "date": "21/11",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
