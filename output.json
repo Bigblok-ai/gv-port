@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -96,10 +96,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -148,7 +148,7 @@
             "time": "15:40:00",
             "date": "21/11",
             "blv": "Tỵ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -156,150 +156,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ae24d46db870c87604_457a5fa1_20261121.png?v=457a5fa1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-76267178ab",
-          "name": "Gia Dinh vs Đồng Tâm Long An | 18:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-76267178ab",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-76267178ab",
-                  "name": "Gia Dinh vs Đồng Tâm Long An",
-                  "streams": [
-                    {
-                      "id": "st-76267178ab",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fa871ddb4c",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795105205_hd/1795105205_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng Nhất Việt Nam",
-            "team_a": "Gia Dinh",
-            "team_b": "Đồng Tâm Long An",
-            "logo_a": "https://images.keovip88.net/images/teams/gia-dinh.png",
-            "logo_b": "https://images.keovip88.net/images/teams/dong-tam-long-an.png",
-            "time": "18:00:00",
-            "date": "21/11",
-            "blv": "Mason",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b024d46db870c87825_c7e17bc9_20261121.png?v=c7e17bc9",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-a283614e7c",
-          "name": "Becamex Bình Dương vs Huế FC | 18:00 21/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a283614e7c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a283614e7c",
-                  "name": "Becamex Bình Dương vs Huế FC",
-                  "streams": [
-                    {
-                      "id": "st-a283614e7c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ba24f9bf69",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795105293_hd/1795105293_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng Nhất Việt Nam",
-            "team_a": "Becamex Bình Dương",
-            "team_b": "Huế FC",
-            "logo_a": "https://images.keovip88.net/images/teams/becamex-binh-duong.png",
-            "logo_b": "https://images.keovip88.net/images/teams/huda-hue.png",
-            "time": "18:00:00",
-            "date": "21/11",
-            "blv": "Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b024d46db870c8781d_d4e97759_20261121.png?v=d4e97759",
             "width": 1600,
             "height": 1200
           }
@@ -444,6 +300,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4af24d46db870c8777d_0d8cdea2_20261121.png?v=0d8cdea2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-76267178ab",
+          "name": "Gia Dinh vs Đồng Tâm Long An | 18:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-76267178ab",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-76267178ab",
+                  "name": "Gia Dinh vs Đồng Tâm Long An",
+                  "streams": [
+                    {
+                      "id": "st-76267178ab",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fa871ddb4c",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795105205_hd/1795105205_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Việt Nam",
+            "team_a": "Gia Dinh",
+            "team_b": "Đồng Tâm Long An",
+            "logo_a": "https://images.keovip88.net/images/teams/gia-dinh.png",
+            "logo_b": "https://images.keovip88.net/images/teams/dong-tam-long-an.png",
+            "time": "18:00:00",
+            "date": "21/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b024d46db870c87825_c7e17bc9_20261121.png?v=c7e17bc9",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a283614e7c",
+          "name": "Becamex Bình Dương vs Huế FC | 18:00 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a283614e7c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a283614e7c",
+                  "name": "Becamex Bình Dương vs Huế FC",
+                  "streams": [
+                    {
+                      "id": "st-a283614e7c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ba24f9bf69",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795105293_hd/1795105293_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Việt Nam",
+            "team_a": "Becamex Bình Dương",
+            "team_b": "Huế FC",
+            "logo_a": "https://images.keovip88.net/images/teams/becamex-binh-duong.png",
+            "logo_b": "https://images.keovip88.net/images/teams/huda-hue.png",
+            "time": "18:00:00",
+            "date": "21/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4b024d46db870c8781d_d4e97759_20261121.png?v=d4e97759",
             "width": 1600,
             "height": 1200
           }
