@@ -3247,6 +3247,87 @@
       ]
     },
     {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-e77d20167c",
+          "name": "Carlos Alcaraz vs Ben Shelton | 20:30 21/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e77d20167c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e77d20167c",
+                  "name": "Carlos Alcaraz vs Ben Shelton",
+                  "streams": [
+                    {
+                      "id": "st-e77d20167c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2a53c04ef8",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795263592_hd/1795263592_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ATP Finals",
+            "team_a": "Carlos Alcaraz",
+            "team_b": "Ben Shelton",
+            "logo_a": "https://static.flashscore.com/res/image/data/OfjQEPjl-KjZlrI8i.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/UBXM3cXg-fgTOwTv9.png",
+            "time": "20:30:00",
+            "date": "21/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/zqxpikuytudw_64492c20_20261121.png?v=64492c20",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_bongchuyen",
       "name": "🏐 Bóng Chuyền",
       "display": "vertical",
