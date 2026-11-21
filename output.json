@@ -2387,6 +2387,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-89c8ece5e3",
+          "name": "Osasuna vs Malaga | 00:30 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-89c8ece5e3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-89c8ece5e3",
+                  "name": "Osasuna vs Malaga",
+                  "streams": [
+                    {
+                      "id": "st-89c8ece5e3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7617c1faae",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062455_hd/1795062455_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Osasuna",
+            "team_b": "Malaga",
+            "logo_a": "https://images.keovip88.net/images/teams/osasuna.png",
+            "logo_b": "https://images.keovip88.net/images/teams/malaga.png",
+            "time": "00:30:00",
+            "date": "23/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f075d_f532806c_20261122.png?v=f532806c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
