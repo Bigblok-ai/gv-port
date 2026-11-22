@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2b630bc6fa",
-          "name": "Argentina U17 vs Mozambique U17 | 22:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2b630bc6fa",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2b630bc6fa",
-                  "name": "Argentina U17 vs Mozambique U17",
-                  "streams": [
-                    {
-                      "id": "st-2b630bc6fa",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-426d179f1e",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279313_hd/1795279313_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "Argentina U17",
-            "team_b": "Mozambique U17",
-            "logo_a": "https://images.keovip88.net/images/teams/argentina-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/mozambique-u17.png",
-            "time": "22:30:00",
-            "date": "22/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a20c24c9d3d28ee730c3117_b7dd2a57_20261123.png?v=b7dd2a57",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-cc9bf34e68",
           "name": "Liverpool vs Manchester United | 23:30 22/11",
