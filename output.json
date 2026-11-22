@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -233,6 +233,150 @@
           }
         },
         {
+          "id": "gv-2e23bf662b",
+          "name": "Hull City vs Brighton   Hove Albion | 21:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2e23bf662b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2e23bf662b",
+                  "name": "Hull City vs Brighton   Hove Albion",
+                  "streams": [
+                    {
+                      "id": "st-2e23bf662b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d27662ff7c",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278948_hd/1795278948_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Hull City",
+            "team_b": "Brighton   Hove Albion",
+            "logo_a": "https://images.keovip88.net/images/teams/hull-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
+            "time": "21:00:00",
+            "date": "22/11",
+            "blv": "Riko",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c8940b_4e00c76e_20261122.png?v=4e00c76e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c027270bab",
+          "name": "US Sassuolo Calcio vs Genoa | 21:00 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c027270bab",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c027270bab",
+                  "name": "US Sassuolo Calcio vs Genoa",
+                  "streams": [
+                    {
+                      "id": "st-c027270bab",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d43dfe1856",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278998_hd/1795278998_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "US Sassuolo Calcio",
+            "team_b": "Genoa",
+            "logo_a": "https://images.keovip88.net/images/teams/sassuolo.png",
+            "logo_b": "https://images.keovip88.net/images/teams/genoa.png",
+            "time": "21:00:00",
+            "date": "22/11",
+            "blv": "Bee",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c8945f_586668b8_20261122.png?v=586668b8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-e9e6a7ef3a",
           "name": "Paris FC vs Angers SCO | 21:00 22/11",
           "type": "single",
@@ -305,78 +449,6 @@
           }
         },
         {
-          "id": "gv-c027270bab",
-          "name": "US Sassuolo Calcio vs Genoa | 21:00 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c027270bab",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c027270bab",
-                  "name": "US Sassuolo Calcio vs Genoa",
-                  "streams": [
-                    {
-                      "id": "st-c027270bab",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d43dfe1856",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278998_hd/1795278998_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "US Sassuolo Calcio",
-            "team_b": "Genoa",
-            "logo_a": "https://images.keovip88.net/images/teams/sassuolo.png",
-            "logo_b": "https://images.keovip88.net/images/teams/genoa.png",
-            "time": "21:00:00",
-            "date": "22/11",
-            "blv": "Bee",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c8945f_586668b8_20261122.png?v=586668b8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-b30a0597c2",
           "name": "Bologna vs Udinese | 21:00 22/11",
           "type": "single",
@@ -444,78 +516,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c89431_c3a22ee1_20261122.png?v=c3a22ee1",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-2e23bf662b",
-          "name": "Hull City vs Brighton   Hove Albion | 21:00 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2e23bf662b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2e23bf662b",
-                  "name": "Hull City vs Brighton   Hove Albion",
-                  "streams": [
-                    {
-                      "id": "st-2e23bf662b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d27662ff7c",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278948_hd/1795278948_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Hull City",
-            "team_b": "Brighton   Hove Albion",
-            "logo_a": "https://images.keovip88.net/images/teams/hull-city.png",
-            "logo_b": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
-            "time": "21:00:00",
-            "date": "22/11",
-            "blv": "Riko",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c8940b_4e00c76e_20261122.png?v=4e00c76e",
             "width": 1600,
             "height": 1200
           }
