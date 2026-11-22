@@ -1633,6 +1633,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-50ab460f40",
+          "name": "Getafe vs Atletico Madrid | 03:00 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-50ab460f40",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-50ab460f40",
+                  "name": "Getafe vs Atletico Madrid",
+                  "streams": [
+                    {
+                      "id": "st-50ab460f40",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8ad49da9b0",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795345985_hd/1795345985_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Getafe",
+            "team_b": "Atletico Madrid",
+            "logo_a": "https://images.keovip88.net/images/teams/getafe.png",
+            "logo_b": "https://images.keovip88.net/images/teams/atletico-madrid.png",
+            "time": "03:00:00",
+            "date": "23/11",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af8f63a24d46db870c6f2ca_8de60c7b_20261122.png?v=8de60c7b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2233,6 +2305,150 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3v0l2gaa4pmm_82317ae4_20261122.png?v=82317ae4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-041d2a6bb0",
+          "name": "Baltimore Ravens vs Carolina Panthers | 01:00 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-041d2a6bb0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-041d2a6bb0",
+                  "name": "Baltimore Ravens vs Carolina Panthers",
+                  "streams": [
+                    {
+                      "id": "st-041d2a6bb0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0aa1e012cd",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795345812_hd/1795345812_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Baltimore Ravens",
+            "team_b": "Carolina Panthers",
+            "logo_a": "https://static.flashscore.com/res/image/data/dUe4S2il-40MWbKRi.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/CXMe1uLygmmxPU3PNKga7g_96x96.png",
+            "time": "01:00:00",
+            "date": "23/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2tco8p8sn3ka_b1415eec_20261122.png?v=b1415eec",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2f5fd6f33c",
+          "name": "Las Vegas Raiders vs Denver Broncos | 04:25 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2f5fd6f33c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2f5fd6f33c",
+                  "name": "Las Vegas Raiders vs Denver Broncos",
+                  "streams": [
+                    {
+                      "id": "st-2f5fd6f33c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a69e2dc58a",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795345862_hd/1795345862_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Las Vegas Raiders",
+            "team_b": "Denver Broncos",
+            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/UVLlczXJQ1wxxKMT9ShJQw_96x96.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/bs8k9qcM-dWj1wpBo.png",
+            "time": "04:25:00",
+            "date": "23/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/mp9j30e1ys14_457a5b6e_20261122.png?v=457a5b6e",
             "width": 1600,
             "height": 1200
           }
