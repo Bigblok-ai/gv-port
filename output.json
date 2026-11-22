@@ -1805,78 +1805,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-a95ba6237c",
-          "name": "Sacramento Kings vs Boston Celtics | 10:00 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a95ba6237c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a95ba6237c",
-                  "name": "Sacramento Kings vs Boston Celtics",
-                  "streams": [
-                    {
-                      "id": "st-a95ba6237c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-359170634e",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795061244_hd/1795061244_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Sacramento Kings",
-            "team_b": "Boston Celtics",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b7096093642227c698108ad872603a76.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
-            "time": "10:00:00",
-            "date": "22/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/30798273_c213a65e_20261122.png?v=c213a65e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-db7093a0c3",
           "name": "South East Melbourne Phoenix vs Cairns Taipans | 11:00 22/11",
           "type": "single",
@@ -1956,10 +1884,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2008,7 +1936,7 @@
             "time": "13:00:00",
             "date": "22/11",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
