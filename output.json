@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (10 LIVE)",
+      "name": "⚽ Bóng Đá (9 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-7628aa7827",
-          "name": "Barcelona vs Villarreal | 20:00 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7628aa7827",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7628aa7827",
-                  "name": "Barcelona vs Villarreal",
-                  "streams": [
-                    {
-                      "id": "st-7628aa7827",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6f29b5c091",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278871_hd/1795278871_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Barcelona",
-            "team_b": "Villarreal",
-            "logo_a": "https://images.keovip88.net/images/teams/fc-barcelona.png",
-            "logo_b": "https://images.keovip88.net/images/teams/villarreal.png",
-            "time": "20:00:00",
-            "date": "22/11",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c224d46db870c88fde_e02194b5_20261122.png?v=e02194b5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6a81e45957",
           "name": "Pháp U17 vs Saudi Arabia U17 | 20:30 22/11",
@@ -844,7 +772,7 @@
         },
         {
           "id": "gv-61d41ac7c6",
-          "name": "AC Milan vs Frosinone | 00:00 23/11",
+          "name": "AC Milan vs Frosinone | 23:59 22/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -899,8 +827,8 @@
             "team_b": "Frosinone",
             "logo_a": "https://images.keovip88.net/images/teams/ac-milan.png",
             "logo_b": "https://images.keovip88.net/images/teams/frosinone.png",
-            "time": "00:00:00",
-            "date": "23/11",
+            "time": "23:59:00",
+            "date": "22/11",
             "blv": "Ngọng",
             "is_live": false,
             "cate_type": "football"
