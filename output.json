@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (9 LIVE)",
+      "name": "⚽ Bóng Đá (8 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-6a81e45957",
-          "name": "Pháp U17 vs Saudi Arabia U17 | 20:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6a81e45957",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6a81e45957",
-                  "name": "Pháp U17 vs Saudi Arabia U17",
-                  "streams": [
-                    {
-                      "id": "st-6a81e45957",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-70105bcbaa",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795278908_hd/1795278908_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "Pháp U17",
-            "team_b": "Saudi Arabia U17",
-            "logo_a": "https://images.keovip88.net/images/teams/france-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/saudi-arabia-u17.png",
-            "time": "20:30:00",
-            "date": "22/11",
-            "blv": "Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad62f_748fa7b2_20261122.png?v=748fa7b2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2e23bf662b",
           "name": "Hull City vs Brighton   Hove Albion | 21:00 22/11",
@@ -377,78 +305,6 @@
           }
         },
         {
-          "id": "gv-5b7a1a6850",
-          "name": "Hàn Quốc U17 vs New Caledonia U17 | 21:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5b7a1a6850",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5b7a1a6850",
-                  "name": "Hàn Quốc U17 vs New Caledonia U17",
-                  "streams": [
-                    {
-                      "id": "st-5b7a1a6850",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d836e06611",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279210_hd/1795279210_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "Hàn Quốc U17",
-            "team_b": "New Caledonia U17",
-            "logo_a": "https://images.keovip88.net/images/teams/south-korea-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/new-caledonia-u17.png",
-            "time": "21:30:00",
-            "date": "22/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad628_fb123643_20261122.png?v=fb123643",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-e1bf4d475f",
           "name": "Augsburg vs Mainz | 21:30 22/11",
           "type": "single",
@@ -516,6 +372,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c89980_a550222b_20261122.png?v=a550222b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5b7a1a6850",
+          "name": "Hàn Quốc U17 vs New Caledonia U17 | 21:30 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5b7a1a6850",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5b7a1a6850",
+                  "name": "Hàn Quốc U17 vs New Caledonia U17",
+                  "streams": [
+                    {
+                      "id": "st-5b7a1a6850",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d836e06611",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279210_hd/1795279210_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Hàn Quốc U17",
+            "team_b": "New Caledonia U17",
+            "logo_a": "https://images.keovip88.net/images/teams/south-korea-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/new-caledonia-u17.png",
+            "time": "21:30:00",
+            "date": "22/11",
+            "blv": "Cận",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad628_fb123643_20261122.png?v=fb123643",
             "width": 1600,
             "height": 1200
           }
