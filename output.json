@@ -1871,7 +1871,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1956,10 +1956,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2008,7 +2008,7 @@
             "time": "11:00:00",
             "date": "22/11",
             "blv": "Mickey",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2528,11 +2528,83 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-61a8d21b75",
+          "name": "Toray Arrows Nữ vs Okayama Seagulls Nữ | 11:05 22/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-61a8d21b75",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-61a8d21b75",
+                  "name": "Toray Arrows Nữ vs Okayama Seagulls Nữ",
+                  "streams": [
+                    {
+                      "id": "st-61a8d21b75",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a675ef4c76",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795318455_hd/1795318455_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Nhật Bản SV. League",
+            "team_a": "Toray Arrows Nữ",
+            "team_b": "Okayama Seagulls Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/IT5JALxS-pxaNm0c7.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
+            "time": "11:05:00",
+            "date": "22/11",
+            "blv": "Nem",
+            "is_live": true,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/j24q3h1gt8lw_4471f9f7_20261122.png?v=4471f9f7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-a882a9720b",
           "name": "Gunma Greenwings Nữ vs Aleeza Aichi Nữ | 11:05 22/11",
@@ -2541,10 +2613,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2593,7 +2665,7 @@
             "time": "11:05:00",
             "date": "22/11",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
@@ -2825,7 +2897,7 @@
     },
     {
       "id": "cate_duaxe",
-      "name": "🏎️ Đua Xe",
+      "name": "🏎️ Đua Xe (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2838,10 +2910,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2890,7 +2962,7 @@
             "time": "11:00:00",
             "date": "22/11",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "duaxe"
           },
           "image": {
