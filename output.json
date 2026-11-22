@@ -1871,83 +1871,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-227a18c99f",
-          "name": "New York Knicks vs Portland Trail Blazers | 07:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-227a18c99f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-227a18c99f",
-                  "name": "New York Knicks vs Portland Trail Blazers",
-                  "streams": [
-                    {
-                      "id": "st-227a18c99f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-990e3b6bed",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795061142_hd/1795061142_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "New York Knicks",
-            "team_b": "Portland Trail Blazers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png",
-            "time": "07:30:00",
-            "date": "22/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22638278_4b324724_20261122.png?v=4b324724",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fd6a6fdb0f",
           "name": "Dallas Mavericks vs Los Angeles Clippers | 08:00 22/11",
