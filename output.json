@@ -1710,83 +1710,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-74baceeeea",
-          "name": "Brisbane Bullets vs Sydney Kings | 13:00 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-74baceeeea",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-74baceeeea",
-                  "name": "Brisbane Bullets vs Sydney Kings",
-                  "streams": [
-                    {
-                      "id": "st-74baceeeea",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4268d95a3a",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795318685_hd/1795318685_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball League(Australia)",
-            "team_a": "Brisbane Bullets",
-            "team_b": "Sydney Kings",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/fd1ef26f7174d02a5a30dbe9e69b45f9.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7e24a7272efcfecc7b45fa8c86605bd0.png",
-            "time": "13:00:00",
-            "date": "22/11",
-            "blv": "Vịt",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26822277_ac42b72b_20261122.png?v=ac42b72b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-22dabfb094",
           "name": "Bilbao Basket vs Baskonia | 18:00 22/11",
