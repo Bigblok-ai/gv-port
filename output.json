@@ -1871,155 +1871,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-fd6a6fdb0f",
-          "name": "Dallas Mavericks vs Los Angeles Clippers | 08:00 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fd6a6fdb0f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fd6a6fdb0f",
-                  "name": "Dallas Mavericks vs Los Angeles Clippers",
-                  "streams": [
-                    {
-                      "id": "st-fd6a6fdb0f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-70384a5f0f",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795061166_hd/1795061166_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Dallas Mavericks",
-            "team_b": "Los Angeles Clippers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
-            "time": "08:00:00",
-            "date": "22/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/48698270_b5295826_20261122.png?v=b5295826",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-74ecf4cdcf",
-          "name": "San Antonio Spurs vs New Orleans Pelicans | 08:00 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-74ecf4cdcf",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-74ecf4cdcf",
-                  "name": "San Antonio Spurs vs New Orleans Pelicans",
-                  "streams": [
-                    {
-                      "id": "st-74ecf4cdcf",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-272993e64e",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795309606_hd/1795309606_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "San Antonio Spurs",
-            "team_b": "New Orleans Pelicans",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
-            "time": "08:00:00",
-            "date": "22/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49698271_029db27d_20261122.png?v=029db27d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a95ba6237c",
           "name": "Sacramento Kings vs Boston Celtics | 10:00 22/11",
@@ -2192,11 +2048,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-fc49605130",
-                          "name": "Vịt",
+                          "id": "lnk-b703e98a70",
+                          "name": "Chồn",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795061369_hd/1795061369_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795318214_hd/1795318214_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2223,7 +2079,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7e24a7272efcfecc7b45fa8c86605bd0.png",
             "time": "13:00:00",
             "date": "22/11",
-            "blv": "Vịt",
+            "blv": "Chồn",
             "is_live": false,
             "cate_type": "basketball"
           },
