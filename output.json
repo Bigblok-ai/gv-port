@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-50ab460f40",
-          "name": "Getafe vs Atletico Madrid | 03:00 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-50ab460f40",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-50ab460f40",
-                  "name": "Getafe vs Atletico Madrid",
-                  "streams": [
-                    {
-                      "id": "st-50ab460f40",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8ad49da9b0",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795345985_hd/1795345985_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Getafe",
-            "team_b": "Atletico Madrid",
-            "logo_a": "https://images.keovip88.net/images/teams/getafe.png",
-            "logo_b": "https://images.keovip88.net/images/teams/atletico-madrid.png",
-            "time": "03:00:00",
-            "date": "23/11",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af8f63a24d46db870c6f2ca_8de60c7b_20261123.png?v=8de60c7b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-9f2faf9d0c",
           "name": "Torreense vs Benfica | 03:45 23/11",
@@ -668,83 +596,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f7fb79bbe1",
-          "name": "Real Madrid vs Joventut Badalona | 01:00 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f7fb79bbe1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f7fb79bbe1",
-                  "name": "Real Madrid vs Joventut Badalona",
-                  "streams": [
-                    {
-                      "id": "st-f7fb79bbe1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ffead38b24",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795369311_hd/1795369311_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Supercopa ACB",
-            "team_a": "Real Madrid",
-            "team_b": "Joventut Badalona",
-            "logo_a": "https://static.flashscore.com/res/image/data/GnbCKDYA-bXlcmj9T.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/O0k3SqZA-4QFp2rHo.png",
-            "time": "01:00:00",
-            "date": "23/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/unht2oc7sbnh_63dc8d22_20261123.png?v=63dc8d22",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-daef6a363f",
           "name": "Atlanta Hawks vs Detroit Pistons | 03:30 23/11",
