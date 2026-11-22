@@ -1347,78 +1347,6 @@
           }
         },
         {
-          "id": "gv-806c690339",
-          "name": "Werder Bremen vs Hamburger | 23:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-806c690339",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-806c690339",
-                  "name": "Werder Bremen vs Hamburger",
-                  "streams": [
-                    {
-                      "id": "st-806c690339",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a48b9d4379",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062379_hd/1795062379_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Werder Bremen",
-            "team_b": "Hamburger",
-            "logo_a": "https://images.keovip88.net/images/teams/werder-bremen.png",
-            "logo_b": "https://images.keovip88.net/images/teams/hamburger-sv.png",
-            "time": "23:30:00",
-            "date": "22/11",
-            "blv": "Mù",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a511_3188b235_20261122.png?v=3188b235",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-61d41ac7c6",
           "name": "AC Milan vs Frosinone | 00:00 23/11",
           "type": "single",
@@ -1932,78 +1860,6 @@
           }
         },
         {
-          "id": "gv-8c24b4ee75",
-          "name": "Basquet Coruna vs Lleida | 23:00 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8c24b4ee75",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8c24b4ee75",
-                  "name": "Basquet Coruna vs Lleida",
-                  "streams": [
-                    {
-                      "id": "st-8c24b4ee75",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0a6a5902b9",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062988_hd/1795062988_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Supercopa ACB",
-            "team_a": "Basquet Coruna",
-            "team_b": "Lleida",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3db71e411344ff9410da86c3f09fd6f2.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/x8LbomyS-zRykV8ZA.png",
-            "time": "23:00:00",
-            "date": "22/11",
-            "blv": "Cầy",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/xfmn7f6xaqf4_fb5b662b_20261122.png?v=fb5b662b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-daef6a363f",
           "name": "Atlanta Hawks vs Detroit Pistons | 03:30 23/11",
           "type": "single",
@@ -2296,6 +2152,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/26f1hbplk076_7a68eca1_20261122.png?v=7a68eca1",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_rugby",
+      "name": "🏅 Thể Thao",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-5d8411f426",
+          "name": "Detroit Lions vs Tampa Bay Buccaneers | 01:00 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5d8411f426",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5d8411f426",
+                  "name": "Detroit Lions vs Tampa Bay Buccaneers",
+                  "streams": [
+                    {
+                      "id": "st-5d8411f426",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-02b9c91961",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795345754_hd/1795345754_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Detroit Lions",
+            "team_b": "Tampa Bay Buccaneers",
+            "logo_a": "https://static.flashscore.com/res/image/data/zkjAStEa-z5QECN77.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/Ym4bBOeM-SAmySbid.png",
+            "time": "01:00:00",
+            "date": "23/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3v0l2gaa4pmm_82317ae4_20261122.png?v=82317ae4",
             "width": 1600,
             "height": 1200
           }
