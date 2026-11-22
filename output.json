@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-e1bf4d475f",
-          "name": "Augsburg vs Mainz | 21:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e1bf4d475f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e1bf4d475f",
-                  "name": "Augsburg vs Mainz",
-                  "streams": [
-                    {
-                      "id": "st-e1bf4d475f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-288f02fdc1",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795279137_hd/1795279137_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Augsburg",
-            "team_b": "Mainz",
-            "logo_a": "https://images.keovip88.net/images/teams/augsburg.png",
-            "logo_b": "https://images.keovip88.net/images/teams/fsv-mainz-05.png",
-            "time": "21:30:00",
-            "date": "22/11",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4c424d46db870c89980_a550222b_20261122.png?v=a550222b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-93d35060fd",
           "name": "Racing Santander vs Real Sociedad | 22:15 22/11",
