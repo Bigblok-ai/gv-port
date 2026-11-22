@@ -11,117 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-cc9bf34e68",
-          "name": "Liverpool vs Manchester United | 23:30 22/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cc9bf34e68",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cc9bf34e68",
-                  "name": "Liverpool vs Manchester United",
-                  "streams": [
-                    {
-                      "id": "st-cc9bf34e68",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-640416e74a",
-                          "name": "Off Fan MU: Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062352_hd/1795062352_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-5fa870b5a9",
-                          "name": "Đầu cầu cò: Thìn + Tỵ",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062300_hd/1795062300_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-edccd4a8eb",
-                          "name": "Anti Mân Đàn: Chồn",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795062324_hd/1795062324_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Liverpool",
-            "team_b": "Manchester United",
-            "logo_a": "https://images.keovip88.net/images/teams/liverpool.png",
-            "logo_b": "https://images.keovip88.net/images/teams/manchester-united.png",
-            "time": "23:30:00",
-            "date": "22/11",
-            "blv": "Off Fan MU: Hấu, Đầu cầu cò: Thìn + Tỵ, Anti Mân Đàn: Chồn",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6af7a4ca24d46db870c8a505_e3e1f23a_20261123.png?v=e3e1f23a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-806c690339",
           "name": "Werder Bremen vs Hamburger | 23:30 22/11",
