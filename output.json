@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d59bfa79d9",
-          "name": "Tajikistan U17 vs Croatia U17 | 19:30 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d59bfa79d9",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d59bfa79d9",
-                  "name": "Tajikistan U17 vs Croatia U17",
-                  "streams": [
-                    {
-                      "id": "st-d59bfa79d9",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-23ff1a90e2",
-                          "name": "Tỵ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795369753_hd/1795369753_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "Tajikistan U17",
-            "team_b": "Croatia U17",
-            "logo_a": "https://images.keovip88.net/images/teams/tajikistan-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/croatia-u17.png",
-            "time": "19:30:00",
-            "date": "23/11",
-            "blv": "Tỵ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad63c_0bd23f3e_20261123.png?v=0bd23f3e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-a6e25b2b7a",
           "name": "Neftchi Fargona vs Al Hilal | 20:45 23/11",
@@ -1524,6 +1452,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8a38e5eb269e70040bbd90_71914367_20261123.png?v=71914367",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d62205593f",
+          "name": "Dominican Republic U17 vs Chilê U17 | 21:30 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d62205593f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d62205593f",
+                  "name": "Dominican Republic U17 vs Chilê U17",
+                  "streams": [
+                    {
+                      "id": "st-d62205593f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-840d709a28",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795370180_hd/1795370180_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Dominican Republic U17",
+            "team_b": "Chilê U17",
+            "logo_a": "https://images.keovip88.net/images/teams/dominican-republic-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/chile-u17.png",
+            "time": "21:30:00",
+            "date": "24/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1636bd85360c6da00af32b_fcf3c37a_20261123.png?v=fcf3c37a",
             "width": 1600,
             "height": 1200
           }
