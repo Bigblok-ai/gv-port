@@ -1544,6 +1544,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-8aa889ede1",
+          "name": "Al-Nassr FC vs Al-Sadd | 01:15 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8aa889ede1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8aa889ede1",
+                  "name": "Al-Nassr FC vs Al-Sadd",
+                  "streams": [
+                    {
+                      "id": "st-8aa889ede1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77ff66b88b",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455294_hd/1795455294_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League",
+            "team_a": "Al-Nassr FC",
+            "team_b": "Al-Sadd",
+            "logo_a": "https://images.keovip88.net/images/teams/al-nassr.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-sadd.png",
+            "time": "01:15:00",
+            "date": "25/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a6f4d3de1ad3e0d9545_64ed315b_20261124.png?v=64ed315b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2414,6 +2486,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/13403279_fa02e52d_20261124.png?v=fa02e52d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-fed424b249",
+          "name": "Dubai vs Partizan | 23:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fed424b249",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fed424b249",
+                  "name": "Dubai vs Partizan",
+                  "streams": [
+                    {
+                      "id": "st-fed424b249",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9454922429",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795457520_hd/1795457520_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "Dubai",
+            "team_b": "Partizan",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/38e7f6ed6a1053e25c1f5d60fbf563b2.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/98f7869762c650e17a6b90e3045ca130.png",
+            "time": "23:00:00",
+            "date": "25/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24403270_39f8a28b_20261124.png?v=39f8a28b",
             "width": 1600,
             "height": 1200
           }
