@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-c040372e41",
-          "name": "Monza vs Fiorentina | 02:45 24/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c040372e41",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c040372e41",
-                  "name": "Monza vs Fiorentina",
-                  "streams": [
-                    {
-                      "id": "st-c040372e41",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-74d3154939",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795415965_hd/1795415965_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Seria A",
-            "team_a": "Monza",
-            "team_b": "Fiorentina",
-            "logo_a": "https://images.keovip88.net/images/teams/monza.png",
-            "logo_b": "https://images.keovip88.net/images/teams/fiorentina.png",
-            "time": "02:45:00",
-            "date": "24/11",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6afa47c424d46db870cf9e80_c9a390c3_20261124.png?v=c9a390c3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-4e77951cab",
           "name": "Brentford vs Everton | 03:00 24/11",
