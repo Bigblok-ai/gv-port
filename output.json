@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -168,10 +168,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -220,7 +220,7 @@
             "time": "22:30:00",
             "date": "23/11",
             "blv": "Tỵ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -240,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -260,11 +260,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-1c35d56161",
-                          "name": "Súp",
+                          "id": "lnk-44446f4362",
+                          "name": "Cổ vũ Việt Nam",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795369950_hd/1795369950_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795446191_hd/1795446191_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -291,8 +291,8 @@
             "logo_b": "https://images.keovip88.net/images/teams/new-zealand-u17.png",
             "time": "22:30:00",
             "date": "23/11",
-            "blv": "Súp",
-            "is_live": false,
+            "blv": "Cổ vũ Việt Nam",
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
