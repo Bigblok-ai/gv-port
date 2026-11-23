@@ -2924,6 +2924,159 @@
           }
         }
       ]
+    },
+    {
+      "id": "cate_rugby",
+      "name": "🏅 Thể Thao",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-c362a026d1",
+          "name": "Cincinnati Bengals vs Washington Commanders | 08:15 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c362a026d1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c362a026d1",
+                  "name": "Cincinnati Bengals vs Washington Commanders",
+                  "streams": [
+                    {
+                      "id": "st-c362a026d1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1cb32c8fbf",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795447174_hd/1795447174_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Cincinnati Bengals",
+            "team_b": "Washington Commanders",
+            "logo_a": "https://static.flashscore.com/res/image/data/KI7ZD8ZA-IqzC8wpd.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/KbmUMPg5-tbPaYDWc.png",
+            "time": "08:15:00",
+            "date": "24/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/g7k8s0xt3mwh_d970d5ba_20261123.png?v=d970d5ba",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bddd7ceadc",
+          "name": "Minnesota Wild vs San Jose Sharks | 10:00 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bddd7ceadc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bddd7ceadc",
+                  "name": "Minnesota Wild vs San Jose Sharks",
+                  "streams": [
+                    {
+                      "id": "st-bddd7ceadc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ed293d45b6",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795447226_hd/1795447226_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NHL Hockey",
+            "team_a": "Minnesota Wild",
+            "team_b": "San Jose Sharks",
+            "logo_a": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1b/Minnesota_Wild.svg/1280px-Minnesota_Wild.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZjlP50dkV8lE8lKfKS-iEOWcPw878bBTQxDva_ro9wQ&s=10",
+            "time": "10:00:00",
+            "date": "24/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wt6eoph8ieys_43a79f01_20261123.png?v=43a79f01",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
     }
   ]
 }
