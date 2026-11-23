@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9f2faf9d0c",
-          "name": "Torreense vs Benfica | 03:45 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9f2faf9d0c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9f2faf9d0c",
-                  "name": "Torreense vs Benfica",
-                  "streams": [
-                    {
-                      "id": "st-9f2faf9d0c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fb49e3fd0f",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795360724_hd/1795360724_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Portugal Cúp ",
-            "team_a": "Torreense",
-            "team_b": "Benfica",
-            "logo_a": "https://images.keovip88.net/images/teams/torreense-u23.png",
-            "logo_b": "https://images.keovip88.net/images/teams/sl-benfica-w.png",
-            "time": "03:45:00",
-            "date": "23/11",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tz01fvqampbq_c8c0d2ba_20261123.png?v=c8c0d2ba",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-01e8a22719",
           "name": "Tây Ban Nha U17 vs Fiji U17 | 19:30 23/11",
