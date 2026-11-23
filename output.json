@@ -2328,6 +2328,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-393cc2f7f1",
+          "name": "Los Angeles Lakers vs Utah Jazz | 10:00 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-393cc2f7f1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-393cc2f7f1",
+                  "name": "Los Angeles Lakers vs Utah Jazz",
+                  "streams": [
+                    {
+                      "id": "st-393cc2f7f1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-adb0fafc5c",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795446916_hd/1795446916_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Los Angeles Lakers",
+            "team_b": "Utah Jazz",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
+            "time": "10:00:00",
+            "date": "24/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/47798270_f876fe5f_20261123.png?v=f876fe5f",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2563,6 +2635,150 @@
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-89a686d3b5",
+          "name": "PGL Major Stage 1 #1 Ca 1 vs PGL Major Singapore | 11:00 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-89a686d3b5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-89a686d3b5",
+                  "name": "PGL Major Stage 1 #1 Ca 1 vs PGL Major Singapore",
+                  "streams": [
+                    {
+                      "id": "st-89a686d3b5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-126304e99c",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795447017_hd/1795447017_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PGL Major Singapore 2026 Stage 1",
+            "team_a": "PGL Major Stage 1 #1 Ca 1",
+            "team_b": "PGL Major Singapore",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXpW4kmkC3UBqEL2ooWKrhxy8cMn0ngH9OWz9fDreLehcX4JTeE1PnZE&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpfjyiOMULPoxbDG_RIYMycP9KtYlvrb6o6INuesB8w&s",
+            "time": "11:00:00",
+            "date": "24/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7pnd8v4nc5fb_606e8229_20261123.png?v=606e8229",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a5e9a3f482",
+          "name": "PGL Major Stage 1 #2 vs PGL Major Singapore | 11:00 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a5e9a3f482",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a5e9a3f482",
+                  "name": "PGL Major Stage 1 #2 vs PGL Major Singapore",
+                  "streams": [
+                    {
+                      "id": "st-a5e9a3f482",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0d7b2bc27a",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795447080_hd/1795447080_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PGL Major Singapore 2026 Stage 1",
+            "team_a": "PGL Major Stage 1 #2",
+            "team_b": "PGL Major Singapore",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlJsTYJ4kw8M8k2mTWEqolks4RpEVUNet4T_VISzEqe_7rZt9p1DH0nYp&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDT-x70p4UUZzZRvF8LFHXxHXvOoA262sT9AgqKT7cq8IoS59TfeKEO7c&s=10",
+            "time": "11:00:00",
+            "date": "24/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/s0qy6nkv774o_4b0b5795_20261123.png?v=4b0b5795",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-d39b7d48ca",
           "name": "PGL Major Stage 1 #1 Ca 3 vs PGL | 15:00 24/11",
