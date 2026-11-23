@@ -1599,6 +1599,167 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-e3b24cb805",
+          "name": "Galatasaray vs Aston Villa | 00:45 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e3b24cb805",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e3b24cb805",
+                  "name": "Galatasaray vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-e3b24cb805",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9745e412f8",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455208_hd/1795455208_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "Galatasaray",
+            "team_b": "Aston Villa",
+            "logo_a": "https://images.keovip88.net/images/teams/galatasaray.png",
+            "logo_b": "https://images.keovip88.net/images/teams/aston-villa.png",
+            "time": "00:45:00",
+            "date": "25/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e3e_8308ff28_20261124.png?v=8308ff28",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-afcde14226",
+          "name": "Bodo Glimt vs LASK Linz | 00:45 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-afcde14226",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-afcde14226",
+                  "name": "Bodo Glimt vs LASK Linz",
+                  "streams": [
+                    {
+                      "id": "st-afcde14226",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-88de9958e8",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455239_hd/1795455239_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-3b7c82cb4f",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455259_hd/1795455259_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "Bodo Glimt",
+            "team_b": "LASK Linz",
+            "logo_a": "https://images.keovip88.net/images/teams/bodo-glimt.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lask-linz.png",
+            "time": "00:45:00",
+            "date": "25/11",
+            "blv": "Trĩ, Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e2c_e883aba6_20261124.png?v=e883aba6",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
