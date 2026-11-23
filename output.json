@@ -452,83 +452,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-35552e0e7c",
-          "name": "New York Knicks vs Indiana Pacers | 08:00 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-35552e0e7c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-35552e0e7c",
-                  "name": "New York Knicks vs Indiana Pacers",
-                  "streams": [
-                    {
-                      "id": "st-35552e0e7c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-36314b72c5",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795365889_hd/1795365889_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "New York Knicks",
-            "team_b": "Indiana Pacers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c34850b658b2b7735d3bf51912e01bd1.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
-            "time": "08:00:00",
-            "date": "23/11",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37638273_bd9ad66c_20261123.png?v=bd9ad66c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-c8400253f5",
           "name": "Golden State Warriors vs Boston Celtics | 08:30 23/11",
