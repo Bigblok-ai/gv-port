@@ -161,78 +161,6 @@
           }
         },
         {
-          "id": "gv-9993e9e6c1",
-          "name": "Mali U17 vs U17 Bỉ | 22:30 23/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9993e9e6c1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9993e9e6c1",
-                  "name": "Mali U17 vs U17 Bỉ",
-                  "streams": [
-                    {
-                      "id": "st-9993e9e6c1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-32cbae54e6",
-                          "name": "Tỵ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795369931_hd/1795369931_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "Mali U17",
-            "team_b": "U17 Bỉ",
-            "logo_a": "https://images.keovip88.net/images/teams/mali-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/belgium-u17.png",
-            "time": "22:30:00",
-            "date": "23/11",
-            "blv": "Tỵ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad641_1c731f6f_20261123.png?v=1c731f6f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-7f7cc02ea4",
           "name": "Việt Nam U17 vs New Zealand U17 | 22:30 23/11",
           "type": "single",
@@ -300,6 +228,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad642_84c16a74_20261123.png?v=84c16a74",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9993e9e6c1",
+          "name": "Mali U17 vs U17 Bỉ | 22:30 23/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9993e9e6c1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9993e9e6c1",
+                  "name": "Mali U17 vs U17 Bỉ",
+                  "streams": [
+                    {
+                      "id": "st-9993e9e6c1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-32cbae54e6",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795369931_hd/1795369931_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "Mali U17",
+            "team_b": "U17 Bỉ",
+            "logo_a": "https://images.keovip88.net/images/teams/mali-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/belgium-u17.png",
+            "time": "22:30:00",
+            "date": "23/11",
+            "blv": "Tỵ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad641_1c731f6f_20261123.png?v=1c731f6f",
             "width": 1600,
             "height": 1200
           }
@@ -953,6 +953,150 @@
           }
         },
         {
+          "id": "gv-9adb445624",
+          "name": "Santos vs Gremio (RS) | 07:00 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9adb445624",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9adb445624",
+                  "name": "Santos vs Gremio (RS)",
+                  "streams": [
+                    {
+                      "id": "st-9adb445624",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e39c730d5e",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795446420_hd/1795446420_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Brazil",
+            "team_a": "Santos",
+            "team_b": "Gremio (RS)",
+            "logo_a": "https://images.keovip88.net/images/teams/santos.png",
+            "logo_b": "https://images.keovip88.net/images/teams/gremio-rs.png",
+            "time": "07:00:00",
+            "date": "24/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6afa47c424d46db870cf9f32_a1718293_20261123.png?v=a1718293",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a9759c64f4",
+          "name": "Newcastle Jets FC vs Kashiwa Reysol | 14:45 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a9759c64f4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a9759c64f4",
+                  "name": "Newcastle Jets FC vs Kashiwa Reysol",
+                  "streams": [
+                    {
+                      "id": "st-a9759c64f4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a369dd1925",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795446527_hd/1795446527_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Champions League",
+            "team_a": "Newcastle Jets FC",
+            "team_b": "Kashiwa Reysol",
+            "logo_a": "https://images.keovip88.net/images/teams/newcastle-jets.png",
+            "logo_b": "https://images.keovip88.net/images/teams/kashiwa-reysol.png",
+            "time": "14:45:00",
+            "date": "24/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a6f4d3de1ad3e0d952b_144cf5e5_20261123.png?v=144cf5e5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-4678013ca2",
           "name": "Daejeon Citizen vs Beijing Guoan | 17:00 24/11",
           "type": "single",
@@ -1596,6 +1740,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad64d_cb3f7a2e_20261123.png?v=cb3f7a2e",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_basketball",
+      "name": "🏀 Bóng Rổ",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-81d836def0",
+          "name": "Philadelphia 76ers vs Portland Trail Blazers | 07:00 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-81d836def0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-81d836def0",
+                  "name": "Philadelphia 76ers vs Portland Trail Blazers",
+                  "streams": [
+                    {
+                      "id": "st-81d836def0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-193ab9d4d0",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795446573_hd/1795446573_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Philadelphia 76ers",
+            "team_b": "Portland Trail Blazers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7f086c864d1e283b7862a756f0b88373.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png",
+            "time": "07:00:00",
+            "date": "24/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39638275_bfd64405_20261123.png?v=bfd64405",
             "width": 1600,
             "height": 1200
           }
