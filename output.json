@@ -2561,6 +2561,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-d9ffa340e1",
+          "name": "FC Barcelona vs Fenerbahce Ulker | 03:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d9ffa340e1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d9ffa340e1",
+                  "name": "FC Barcelona vs Fenerbahce Ulker",
+                  "streams": [
+                    {
+                      "id": "st-d9ffa340e1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-24b876fe02",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795456202_hd/1795456202_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "EURO",
+            "team_a": "FC Barcelona",
+            "team_b": "Fenerbahce Ulker",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c98a3d8df4a10628be76ab5e38a4d65c.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ad2880c512e15870ba354e89f5809541.png",
+            "time": "03:00:00",
+            "date": "25/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/13403279_fa02e52d_20261124.png?v=fa02e52d",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -2711,6 +2783,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/a8lf95heg7ty_2c92c998_20261124.png?v=2c92c998",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-1f6353385d",
+          "name": "Eczacibasi Nữ vs Tent Nữ | 23:00 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1f6353385d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1f6353385d",
+                  "name": "Eczacibasi Nữ vs Tent Nữ",
+                  "streams": [
+                    {
+                      "id": "st-1f6353385d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2fe6d42364",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795456293_hd/1795456293_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Champions League Nữ",
+            "team_a": "Eczacibasi Nữ",
+            "team_b": "Tent Nữ",
+            "logo_a": "https://static.flashscore.com/res/image/data/6wWfI3zB-jm1g2SD5.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/xbeN85jl-2wgqbgJU.png",
+            "time": "23:00:00",
+            "date": "24/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tou7n5ebpqv2_5fca636d_20261124.png?v=5fca636d",
             "width": 1600,
             "height": 1200
           }
