@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -89,6 +89,78 @@
           }
         },
         {
+          "id": "gv-099628243d",
+          "name": "Real Madrid vs PSV Eindhoven | 03:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-099628243d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-099628243d",
+                  "name": "Real Madrid vs PSV Eindhoven",
+                  "streams": [
+                    {
+                      "id": "st-099628243d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3e6f9b01eb",
+                          "name": "Đầu cầu Real: Mason + Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455394_hd/1795455394_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "Real Madrid",
+            "team_b": "PSV Eindhoven",
+            "logo_a": "https://images.keovip88.net/images/teams/real-madrid.png",
+            "logo_b": "https://images.keovip88.net/images/teams/psv-eindhoven.png",
+            "time": "03:00:00",
+            "date": "25/11",
+            "blv": "Đầu cầu Real: Mason + Hấu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e47_c14ad056_20261125.png?v=c14ad056",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-b3a565469e",
           "name": "Manchester City vs Napoli | 03:00 25/11",
           "type": "single",
@@ -156,6 +228,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e4e_0dc06bcd_20261125.png?v=0dc06bcd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e7caae6211",
+          "name": "Feyenoord Rotterdam vs FC Porto | 03:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e7caae6211",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e7caae6211",
+                  "name": "Feyenoord Rotterdam vs FC Porto",
+                  "streams": [
+                    {
+                      "id": "st-e7caae6211",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-96d6c44c70",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455855_hd/1795455855_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "Feyenoord Rotterdam",
+            "team_b": "FC Porto",
+            "logo_a": "https://images.keovip88.net/images/teams/feyenoord.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fc-porto.png",
+            "time": "03:00:00",
+            "date": "25/11",
+            "blv": "Mù",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e3a_a9e8aafb_20261125.png?v=a9e8aafb",
             "width": 1600,
             "height": 1200
           }
@@ -233,6 +377,95 @@
           }
         },
         {
+          "id": "gv-3fd621a440",
+          "name": "Arsenal vs Borussia Dortmund | 03:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3fd621a440",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3fd621a440",
+                  "name": "Arsenal vs Borussia Dortmund",
+                  "streams": [
+                    {
+                      "id": "st-3fd621a440",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5968c17ccc",
+                          "name": "Fan Arsenal: Ngọng + Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455944_hd/1795455944_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-e6e6ba7f7d",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455934_hd/1795455934_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C1",
+            "team_a": "Arsenal",
+            "team_b": "Borussia Dortmund",
+            "logo_a": "https://images.keovip88.net/images/teams/arsenal.png",
+            "logo_b": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
+            "time": "03:00:00",
+            "date": "25/11",
+            "blv": "Fan Arsenal: Ngọng + Cận, Chồn",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4cd164566b7f70b4346_a23b1864_20261125.png?v=a23b1864",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-e5aeb06113",
           "name": "Slovan Bratislava vs Real Betis | 03:00 25/11",
           "type": "single",
@@ -305,78 +538,6 @@
           }
         },
         {
-          "id": "gv-099628243d",
-          "name": "Real Madrid vs PSV Eindhoven | 03:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-099628243d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-099628243d",
-                  "name": "Real Madrid vs PSV Eindhoven",
-                  "streams": [
-                    {
-                      "id": "st-099628243d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3e6f9b01eb",
-                          "name": "Đầu cầu Real: Mason + Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455394_hd/1795455394_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Real Madrid",
-            "team_b": "PSV Eindhoven",
-            "logo_a": "https://images.keovip88.net/images/teams/real-madrid.png",
-            "logo_b": "https://images.keovip88.net/images/teams/psv-eindhoven.png",
-            "time": "03:00:00",
-            "date": "25/11",
-            "blv": "Đầu cầu Real: Mason + Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e47_c14ad056_20261125.png?v=c14ad056",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-c12a3d4a9c",
           "name": "RB Leipzig vs Lens | 03:00 25/11",
           "type": "single",
@@ -444,167 +605,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a92220607a55a68f709da9d_148b19eb_20261125.png?v=148b19eb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-e7caae6211",
-          "name": "Feyenoord Rotterdam vs FC Porto | 03:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e7caae6211",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e7caae6211",
-                  "name": "Feyenoord Rotterdam vs FC Porto",
-                  "streams": [
-                    {
-                      "id": "st-e7caae6211",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-96d6c44c70",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455855_hd/1795455855_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Feyenoord Rotterdam",
-            "team_b": "FC Porto",
-            "logo_a": "https://images.keovip88.net/images/teams/feyenoord.png",
-            "logo_b": "https://images.keovip88.net/images/teams/fc-porto.png",
-            "time": "03:00:00",
-            "date": "25/11",
-            "blv": "Mù",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e3a_a9e8aafb_20261125.png?v=a9e8aafb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-3fd621a440",
-          "name": "Arsenal vs Borussia Dortmund | 03:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-3fd621a440",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-3fd621a440",
-                  "name": "Arsenal vs Borussia Dortmund",
-                  "streams": [
-                    {
-                      "id": "st-3fd621a440",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5968c17ccc",
-                          "name": "Fan Arsenal: Ngọng + Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455944_hd/1795455944_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        },
-                        {
-                          "id": "lnk-e6e6ba7f7d",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455934_hd/1795455934_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Arsenal",
-            "team_b": "Borussia Dortmund",
-            "logo_a": "https://images.keovip88.net/images/teams/arsenal.png",
-            "logo_b": "https://images.keovip88.net/images/teams/borussia-dortmund.png",
-            "time": "03:00:00",
-            "date": "25/11",
-            "blv": "Fan Arsenal: Ngọng + Cận, Chồn",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4cd164566b7f70b4346_a23b1864_20261125.png?v=a23b1864",
             "width": 1600,
             "height": 1200
           }
@@ -1417,6 +1417,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-106df1a4ab",
+          "name": "Burnley vs Birmingham | 02:45 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-106df1a4ab",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-106df1a4ab",
+                  "name": "Burnley vs Birmingham",
+                  "streams": [
+                    {
+                      "id": "st-106df1a4ab",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6684dd9f95",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795458250_hd/1795458250_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Anh",
+            "team_a": "Burnley",
+            "team_b": "Birmingham",
+            "logo_a": "https://images.keovip88.net/images/teams/burnley.png",
+            "logo_b": "https://images.keovip88.net/images/teams/birmingham-city.png",
+            "time": "02:45:00",
+            "date": "26/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6afceac624d46db8709448cb_d62de384_20261125.png?v=d62de384",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
@@ -1927,87 +1999,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35738272_4aa5bb26_20261125.png?v=4aa5bb26",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_tennis",
-      "name": "🎾 Tennis (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-0ecde3e44b",
-          "name": "Czechia vs Canada | 22:00 24/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0ecde3e44b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0ecde3e44b",
-                  "name": "Czechia vs Canada",
-                  "streams": [
-                    {
-                      "id": "st-0ecde3e44b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2fcaaa85de",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795491614_hd/1795491614_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Davis Cup ",
-            "team_a": "Czechia",
-            "team_b": "Canada",
-            "logo_a": "https://static.flashscore.com/res/image/data/GvfKvkCr-b1xaMyVe.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/2wu2CJZA-SI9oDwq1.png",
-            "time": "22:00:00",
-            "date": "24/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "tennis"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/a9pzak8h4ym7_454a1f81_20261125.png?v=454a1f81",
             "width": 1600,
             "height": 1200
           }
