@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -329,10 +329,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -381,7 +381,7 @@
             "time": "01:15:00",
             "date": "25/11",
             "blv": "Súp",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -1671,11 +1671,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-24b876fe02",
-                          "name": "Riko",
+                          "id": "lnk-c518c311c8",
+                          "name": "Điếc",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795456202_hd/1795456202_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795541805_hd/1795541805_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1702,7 +1702,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ad2880c512e15870ba354e89f5809541.png",
             "time": "03:00:00",
             "date": "25/11",
-            "blv": "Riko",
+            "blv": "Điếc",
             "is_live": false,
             "cate_type": "basketball"
           },
