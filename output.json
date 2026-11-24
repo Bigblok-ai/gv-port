@@ -1131,6 +1131,78 @@
           }
         },
         {
+          "id": "gv-d9c50a4def",
+          "name": "Melbourne Victory vs Viettel | 14:45 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d9c50a4def",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d9c50a4def",
+                  "name": "Melbourne Victory vs Viettel",
+                  "streams": [
+                    {
+                      "id": "st-d9c50a4def",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9b9f5a6da5",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795530490_hd/1795530490_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia - AFC Champions League Two",
+            "team_a": "Melbourne Victory",
+            "team_b": "Viettel",
+            "logo_a": "https://static.flashscore.com/res/image/data/xQp2OjDa-8xXa2Yg2.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/0Qfb99EG-vcLqLXYS.png",
+            "time": "14:45:00",
+            "date": "25/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gxaf2xi3yfdl_5503ab87_20261124.png?v=5503ab87",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-de5b390b8d",
           "name": "Gamba Osaka vs Port FC | 17:00 25/11",
           "type": "single",
