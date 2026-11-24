@@ -1638,7 +1638,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (7 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2011,10 +2011,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2063,7 +2063,7 @@
             "time": "10:00:00",
             "date": "24/11",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2083,10 +2083,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2135,7 +2135,7 @@
             "time": "10:00:00",
             "date": "24/11",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2887,7 +2887,7 @@
       "channels": [
         {
           "id": "gv-89a686d3b5",
-          "name": "PGL Major Stage 1 #1 Ca 1 vs PGL Major Singapore | 11:00 24/11",
+          "name": "PGL Major Stage 1 #1 vs PGL Major Singapore | 11:00 24/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2906,7 +2906,7 @@
               "contents": [
                 {
                   "id": "ct-89a686d3b5",
-                  "name": "PGL Major Stage 1 #1 Ca 1 vs PGL Major Singapore",
+                  "name": "PGL Major Stage 1 #1 vs PGL Major Singapore",
                   "streams": [
                     {
                       "id": "st-89a686d3b5",
@@ -2938,7 +2938,7 @@
           ],
           "org_metadata": {
             "league": "PGL Major Singapore 2026 Stage 1",
-            "team_a": "PGL Major Stage 1 #1 Ca 1",
+            "team_a": "PGL Major Stage 1 #1",
             "team_b": "PGL Major Singapore",
             "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXpW4kmkC3UBqEL2ooWKrhxy8cMn0ngH9OWz9fDreLehcX4JTeE1PnZE&s=10",
             "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqpfjyiOMULPoxbDG_RIYMycP9KtYlvrb6o6INuesB8w&s",
@@ -3177,7 +3177,7 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -3262,10 +3262,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -3314,7 +3314,7 @@
             "time": "10:00:00",
             "date": "24/11",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "rugby"
           },
           "image": {
