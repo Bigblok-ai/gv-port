@@ -1860,6 +1860,222 @@
           }
         },
         {
+          "id": "gv-0451b6002b",
+          "name": "Orlando Magic vs Detroit Pistons | 07:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0451b6002b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0451b6002b",
+                  "name": "Orlando Magic vs Detroit Pistons",
+                  "streams": [
+                    {
+                      "id": "st-0451b6002b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8dba8abc10",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795530657_hd/1795530657_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Orlando Magic",
+            "team_b": "Detroit Pistons",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2566b135b0e54971193a132bd8a1473c.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c4677b9a5c8823ad3070069d8741a809.png",
+            "time": "07:00:00",
+            "date": "25/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33738270_ccdeb389_20261124.png?v=ccdeb389",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5d95f03145",
+          "name": "Washington Wizards vs Boston Celtics | 08:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5d95f03145",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5d95f03145",
+                  "name": "Washington Wizards vs Boston Celtics",
+                  "streams": [
+                    {
+                      "id": "st-5d95f03145",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3fdde999dd",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795530685_hd/1795530685_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Washington Wizards",
+            "team_b": "Boston Celtics",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f4a3bba0c74c9f2b90bc5861ec26e3c7.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
+            "time": "08:00:00",
+            "date": "25/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34738271_0d080bdb_20261124.png?v=0d080bdb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7560c331ff",
+          "name": "Denver Nuggets vs Dallas Mavericks | 10:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7560c331ff",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7560c331ff",
+                  "name": "Denver Nuggets vs Dallas Mavericks",
+                  "streams": [
+                    {
+                      "id": "st-7560c331ff",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd2f918cf4",
+                          "name": "Vịt",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795530800_hd/1795530800_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Denver Nuggets",
+            "team_b": "Dallas Mavericks",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
+            "time": "10:00:00",
+            "date": "25/11",
+            "blv": "Vịt",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/48798271_59a0983f_20261124.png?v=59a0983f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-fed424b249",
           "name": "Dubai vs Partizan | 23:00 25/11",
           "type": "single",
