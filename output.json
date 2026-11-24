@@ -1813,7 +1813,25 @@
                     {
                       "id": "st-d44ce37980",
                       "name": "GV",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-609bcec3d3",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795456168_hd/1795456168_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -1828,7 +1846,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/81bfed8510a92e9b85ca73ef13f5e97a.png",
             "time": "02:30:00",
             "date": "25/11",
-            "blv": "",
+            "blv": "Cầy",
             "is_live": false,
             "cate_type": "basketball"
           },
