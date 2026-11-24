@@ -1888,83 +1888,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d44ce37980",
-          "name": "Pamesa Valencia vs Panathinaikos | 02:30 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d44ce37980",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d44ce37980",
-                  "name": "Pamesa Valencia vs Panathinaikos",
-                  "streams": [
-                    {
-                      "id": "st-d44ce37980",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-609bcec3d3",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795456168_hd/1795456168_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Pamesa Valencia",
-            "team_b": "Panathinaikos",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3145cb770be61ddcc64193ceeb423a83.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/81bfed8510a92e9b85ca73ef13f5e97a.png",
-            "time": "02:30:00",
-            "date": "25/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11403277_16b9aa40_20261125.png?v=16b9aa40",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-d9ffa340e1",
           "name": "FC Barcelona vs Fenerbahce Ulker | 03:00 25/11",
