@@ -1638,7 +1638,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1711,78 +1711,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34798277_66167802_20261124.png?v=66167802",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-d199524154",
-          "name": "Chicago Bulls vs Cleveland Cavaliers | 08:00 24/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d199524154",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d199524154",
-                  "name": "Chicago Bulls vs Cleveland Cavaliers",
-                  "streams": [
-                    {
-                      "id": "st-d199524154",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-417bc2fd2b",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795446795_hd/1795446795_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Chicago Bulls",
-            "team_b": "Cleveland Cavaliers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/c73eca8b9cc18ff386bf6ff4c1236b9e.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
-            "time": "08:00:00",
-            "date": "24/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22738279_6ee76279_20261124.png?v=6ee76279",
             "width": 1600,
             "height": 1200
           }
