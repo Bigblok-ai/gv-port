@@ -1633,6 +1633,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-ecaf053beb",
+          "name": "Persib Bandung vs FC Seoul | 19:15 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ecaf053beb",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ecaf053beb",
+                  "name": "Persib Bandung vs FC Seoul",
+                  "streams": [
+                    {
+                      "id": "st-ecaf053beb",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-017ebbf9e4",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795370337_hd/1795370337_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Cup",
+            "team_a": "Persib Bandung",
+            "team_b": "FC Seoul",
+            "logo_a": "https://images.keovip88.net/images/teams/persib-bandung.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fc-seoul.png",
+            "time": "19:15:00",
+            "date": "25/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aa5ea751d1aab51a804b869_6271750a_20261124.png?v=6271750a",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
