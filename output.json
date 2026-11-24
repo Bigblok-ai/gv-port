@@ -1638,83 +1638,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (7 LIVE)",
+      "name": "🏀 Bóng Rổ (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d6f1852271",
-          "name": "Indiana Pacers vs Oklahoma City Thunder | 07:30 24/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d6f1852271",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d6f1852271",
-                  "name": "Indiana Pacers vs Oklahoma City Thunder",
-                  "streams": [
-                    {
-                      "id": "st-d6f1852271",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5269f1ad2f",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795446662_hd/1795446662_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Indiana Pacers",
-            "team_b": "Oklahoma City Thunder",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/3a8c9a8a304f078913c60b52698ab585.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/75c31ec2c28ab86f2f54563667653426.png",
-            "time": "07:30:00",
-            "date": "24/11",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21738278_f0bf7f02_20261124.png?v=f0bf7f02",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-cdf653eb4f",
           "name": "Minnesota Timberwolves vs Brooklyn Nets | 07:30 24/11",
