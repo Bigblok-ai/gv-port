@@ -2294,6 +2294,87 @@
       ]
     },
     {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-0ecde3e44b",
+          "name": "Czechia vs Canada | 22:00 24/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0ecde3e44b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0ecde3e44b",
+                  "name": "Czechia vs Canada",
+                  "streams": [
+                    {
+                      "id": "st-0ecde3e44b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2fcaaa85de",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795491614_hd/1795491614_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Davis Cup ",
+            "team_a": "Czechia",
+            "team_b": "Canada",
+            "logo_a": "https://static.flashscore.com/res/image/data/GvfKvkCr-b1xaMyVe.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/2wu2CJZA-SI9oDwq1.png",
+            "time": "22:00:00",
+            "date": "24/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/a9pzak8h4ym7_454a1f81_20261124.png?v=454a1f81",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_bongchuyen",
       "name": "🏐 Bóng Chuyền",
       "display": "vertical",
