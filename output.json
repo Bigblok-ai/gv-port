@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-e5aeb06113",
-          "name": "Slovan Bratislava vs Real Betis | 03:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e5aeb06113",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-e5aeb06113",
-                  "name": "Slovan Bratislava vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "st-e5aeb06113",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ef0a5505d3",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795455360_hd/1795455360_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C1",
-            "team_a": "Slovan Bratislava",
-            "team_b": "Real Betis",
-            "logo_a": "https://images.keovip88.net/images/teams/slovan-bratislava.png",
-            "logo_b": "https://images.keovip88.net/images/teams/real-betis.png",
-            "time": "03:00:00",
-            "date": "25/11",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93737afccd5ecc44060e43_17eb07bc_20261125.png?v=17eb07bc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-099628243d",
           "name": "Real Madrid vs PSV Eindhoven | 03:00 25/11",
