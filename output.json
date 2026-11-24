@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -24,10 +24,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -76,7 +76,7 @@
             "time": "14:45:00",
             "date": "24/11",
             "blv": "Tỵ",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -2535,8 +2535,8 @@
           }
         },
         {
-          "id": "gv-a5e9a3f482",
-          "name": "PGL Major Stage 1 #2 vs PGL Major Singapore | 11:00 24/11",
+          "id": "gv-d39b7d48ca",
+          "name": "PGL Major Stage 1 #1 Ca 3 vs PGL | 13:00 24/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2550,23 +2550,23 @@
           ],
           "sources": [
             {
-              "id": "src-a5e9a3f482",
+              "id": "src-d39b7d48ca",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-a5e9a3f482",
-                  "name": "PGL Major Stage 1 #2 vs PGL Major Singapore",
+                  "id": "ct-d39b7d48ca",
+                  "name": "PGL Major Stage 1 #1 Ca 3 vs PGL",
                   "streams": [
                     {
-                      "id": "st-a5e9a3f482",
+                      "id": "st-d39b7d48ca",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-0d7b2bc27a",
-                          "name": "Hấu",
+                          "id": "lnk-a4de4997e5",
+                          "name": "Điếc",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795447080_hd/1795447080_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795370706_hd/1795370706_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2587,13 +2587,13 @@
           ],
           "org_metadata": {
             "league": "PGL Major Singapore 2026 Stage 1",
-            "team_a": "PGL Major Stage 1 #2",
-            "team_b": "PGL Major Singapore",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlJsTYJ4kw8M8k2mTWEqolks4RpEVUNet4T_VISzEqe_7rZt9p1DH0nYp&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDT-x70p4UUZzZRvF8LFHXxHXvOoA262sT9AgqKT7cq8IoS59TfeKEO7c&s=10",
-            "time": "11:00:00",
+            "team_a": "PGL Major Stage 1 #1 Ca 3",
+            "team_b": "PGL",
+            "logo_a": "https://i.ytimg.com/vi/r15_iNWob2A/hq720.jpg?v=6b027605&sqp=CNT0idgG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCMgyywsdWs1_At3eHsY4BRShmGEA",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRieTNl1mbFCEW3o8BeoEMfPYjMGf2Kx9yIjJ12Kxjj1A&s",
+            "time": "13:00:00",
             "date": "24/11",
-            "blv": "Hấu",
+            "blv": "Điếc",
             "is_live": true,
             "cate_type": "esport"
           },
@@ -2601,7 +2601,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/s0qy6nkv774o_4b0b5795_20261124.png?v=4b0b5795",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kvh4nqepgx1m_fc2b3842_20261124.png?v=fc2b3842",
             "width": 1600,
             "height": 1200
           }
@@ -2818,87 +2818,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/gqu85loek89n_8a71b6ae_20261124.png?v=8a71b6ae",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-bddd7ceadc",
-          "name": "Minnesota Wild vs San Jose Sharks | 10:00 24/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bddd7ceadc",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-bddd7ceadc",
-                  "name": "Minnesota Wild vs San Jose Sharks",
-                  "streams": [
-                    {
-                      "id": "st-bddd7ceadc",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ed293d45b6",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795447226_hd/1795447226_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NHL Hockey",
-            "team_a": "Minnesota Wild",
-            "team_b": "San Jose Sharks",
-            "logo_a": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1b/Minnesota_Wild.svg/1280px-Minnesota_Wild.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZjlP50dkV8lE8lKfKS-iEOWcPw878bBTQxDva_ro9wQ&s=10",
-            "time": "10:00:00",
-            "date": "24/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/wt6eoph8ieys_43a79f01_20261124.png?v=43a79f01",
             "width": 1600,
             "height": 1200
           }
