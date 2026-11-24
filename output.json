@@ -620,11 +620,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-840d709a28",
-                          "name": "Mù",
+                          "id": "lnk-8fcd4dc065",
+                          "name": "Hấu",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795370180_hd/1795370180_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795498044_hd/1795498044_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -651,7 +651,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/chile-u17.png",
             "time": "21:30:00",
             "date": "24/11",
-            "blv": "Mù",
+            "blv": "Hấu",
             "is_live": false,
             "cate_type": "football"
           },
@@ -2529,7 +2529,7 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (2 LIVE)",
+      "name": "🎮 Esport (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2686,10 +2686,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2738,7 +2738,7 @@
             "time": "13:00:00",
             "date": "24/11",
             "blv": "Điếc",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "esport"
           },
           "image": {
@@ -2922,11 +2922,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-d4864be744",
-                          "name": "Điếc",
+                          "id": "lnk-85e3daaa37",
+                          "name": "Chồn",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795370839_hd/1795370839_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795498009_hd/1795498009_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2953,7 +2953,7 @@
             "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFdtfOY-6B27HJYc-7UVmgbYNHOORlWxZQZmoW0J-ppHy3mokHaagUSg&s=10",
             "time": "20:00:00",
             "date": "24/11",
-            "blv": "Điếc",
+            "blv": "Chồn",
             "is_live": false,
             "cate_type": "esport"
           },
