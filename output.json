@@ -2753,83 +2753,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (3 LIVE)",
+      "name": "🎮 Esport (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-83224c5f00",
-          "name": "Las Vegas Golden Knights vs Edmonton Oilers | 08:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-83224c5f00",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-83224c5f00",
-                  "name": "Las Vegas Golden Knights vs Edmonton Oilers",
-                  "streams": [
-                    {
-                      "id": "st-83224c5f00",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-685109c234",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795531628_hd/1795531628_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NHL",
-            "team_a": "Las Vegas Golden Knights",
-            "team_b": "Edmonton Oilers",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/QeG0x42j0YlJGYEAwowewA_96x96.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/GFR5_nXarHj6qRI8R05otg_96x96.png",
-            "time": "08:00:00",
-            "date": "25/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/tdi9ik4kyd9h_cfe3f7e4_20261125.png?v=cfe3f7e4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-c75cdaf9ff",
           "name": "PGL Major Stage 1 vs Swiss Round 3-Stream A | 11:00 25/11",
@@ -2898,78 +2826,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/sougxczz1648_8e3abe97_20261125.png?v=8e3abe97",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-8cd1ae3220",
-          "name": "PGL Major Stage 1 vs Swiss Round 3-Stream B | 11:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8cd1ae3220",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8cd1ae3220",
-                  "name": "PGL Major Stage 1 vs Swiss Round 3-Stream B",
-                  "streams": [
-                    {
-                      "id": "st-8cd1ae3220",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0d70ac2c8a",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795531085_hd/1795531085_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PGL Major Singapore 2026 Stage 1",
-            "team_a": "PGL Major Stage 1",
-            "team_b": "Swiss Round 3-Stream B",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWfHml4Myh82bNrx4YhwcADFf1ElUN4mI2XYYm5WKDLg&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWfHml4Myh82bNrx4YhwcADFf1ElUN4mI2XYYm5WKDLg&s=10",
-            "time": "11:00:00",
-            "date": "25/11",
-            "blv": "Hấu",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/mprdf1fgts59_8e3abe97_20261125.png?v=8e3abe97",
             "width": 1600,
             "height": 1200
           }
