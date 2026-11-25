@@ -1947,6 +1947,438 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-4404f81249",
+          "name": "Iran vs Australia | 16:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4404f81249",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4404f81249",
+                  "name": "Iran vs Australia",
+                  "streams": [
+                    {
+                      "id": "st-4404f81249",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7a154e3c67",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575301_hd/1795575301_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup Asia qualifiers",
+            "team_a": "Iran",
+            "team_b": "Australia",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/fd824340b59fd17ed954aa1dafac0564.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/55a362ade39ca0e222f3f243dc091372.jpg",
+            "time": "16:00:00",
+            "date": "27/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23808278_ae4c20fe_20261125.png?v=ae4c20fe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-086f4e686c",
+          "name": "Hong Kong China vs Mongolia | 18:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-086f4e686c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-086f4e686c",
+                  "name": "Hong Kong China vs Mongolia",
+                  "streams": [
+                    {
+                      "id": "st-086f4e686c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-786052becd",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575452_hd/1795575452_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia Cup Qualifiers",
+            "team_a": "Hong Kong China",
+            "team_b": "Mongolia",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/bc17d59b01db36bcbba153ca9911d62c.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ecf6ce9d65754769fe2e08a2c00142a0.gif",
+            "time": "18:00:00",
+            "date": "27/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39474576_ffd54ee0_20261125.png?v=ffd54ee0",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bf72769d6c",
+          "name": "Sri Lanka vs Bahrain | 19:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bf72769d6c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bf72769d6c",
+                  "name": "Sri Lanka vs Bahrain",
+                  "streams": [
+                    {
+                      "id": "st-bf72769d6c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-02dc0b2e0c",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575538_hd/1795575538_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia Cup Qualifiers",
+            "team_a": "Sri Lanka",
+            "team_b": "Bahrain",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7fde79664952b15c263a879bc59211ba.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/8c461c07aaa52929101f0f3f369ce9a1.gif",
+            "time": "19:00:00",
+            "date": "27/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35374571_a8f69b6c_20261125.png?v=a8f69b6c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-40aaf4c299",
+          "name": "Syria vs Philippines | 19:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-40aaf4c299",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-40aaf4c299",
+                  "name": "Syria vs Philippines",
+                  "streams": [
+                    {
+                      "id": "st-40aaf4c299",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-15f4bd2ed9",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575508_hd/1795575508_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup Asia qualifiers",
+            "team_a": "Syria",
+            "team_b": "Philippines",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/0715d1f2f9ca8ea91035f3fcc2af4d35.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/4a90bcf36e15a461be95b68ad651d29c.png",
+            "time": "19:00:00",
+            "date": "27/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24808279_14bc0b03_20261125.png?v=14bc0b03",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-5f20196ea1",
+          "name": "Bahrain vs Kazakhstan | 15:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5f20196ea1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5f20196ea1",
+                  "name": "Bahrain vs Kazakhstan",
+                  "streams": [
+                    {
+                      "id": "st-5f20196ea1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1240ea685a",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575565_hd/1795575565_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia Cup Qualifiers",
+            "team_a": "Bahrain",
+            "team_b": "Kazakhstan",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/8c461c07aaa52929101f0f3f369ce9a1.gif",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6235a0c4a7cfbaac7d93363980995b88.jpg",
+            "time": "15:00:00",
+            "date": "28/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38374574_69f1fe77_20261125.png?v=69f1fe77",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d850735a39",
+          "name": "United Arab Emirates vs Sri Lanka | 18:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d850735a39",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d850735a39",
+                  "name": "United Arab Emirates vs Sri Lanka",
+                  "streams": [
+                    {
+                      "id": "st-d850735a39",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5ca6c3585a",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575589_hd/1795575589_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia Cup Qualifiers",
+            "team_a": "United Arab Emirates",
+            "team_b": "Sri Lanka",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2b794e95819c64c838fd0b228aa31404.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7fde79664952b15c263a879bc59211ba.png",
+            "time": "18:00:00",
+            "date": "28/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39374575_6e05c4c3_20261125.png?v=6e05c4c3",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
