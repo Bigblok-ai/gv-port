@@ -2379,6 +2379,294 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-1d010a34d0",
+          "name": "Thailand vs Hong Kong China | 15:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1d010a34d0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1d010a34d0",
+                  "name": "Thailand vs Hong Kong China",
+                  "streams": [
+                    {
+                      "id": "st-1d010a34d0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-713b805360",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575618_hd/1795575618_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia Cup Qualifiers",
+            "team_a": "Thailand",
+            "team_b": "Hong Kong China",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/62890b46cde58557c89cbae9af954643.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/bc17d59b01db36bcbba153ca9911d62c.png",
+            "time": "15:00:00",
+            "date": "29/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21574579_5b00be48_20261125.png?v=5b00be48",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-47a8307ec2",
+          "name": "Iran vs Philippines | 16:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-47a8307ec2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-47a8307ec2",
+                  "name": "Iran vs Philippines",
+                  "streams": [
+                    {
+                      "id": "st-47a8307ec2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5d63474b2a",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575690_hd/1795575690_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup Asia qualifiers",
+            "team_a": "Iran",
+            "team_b": "Philippines",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/fd824340b59fd17ed954aa1dafac0564.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/4a90bcf36e15a461be95b68ad651d29c.png",
+            "time": "16:00:00",
+            "date": "29/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38808273_0fea25dc_20261125.png?v=0fea25dc",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c84752d320",
+          "name": "Mongolia vs Malaysia | 18:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c84752d320",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c84752d320",
+                  "name": "Mongolia vs Malaysia",
+                  "streams": [
+                    {
+                      "id": "st-c84752d320",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b9122a4e0f",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575668_hd/1795575668_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia Cup Qualifiers",
+            "team_a": "Mongolia",
+            "team_b": "Malaysia",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ecf6ce9d65754769fe2e08a2c00142a0.gif",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/a4b3bf9470a9dc6bd70093549652a13c.png",
+            "time": "18:00:00",
+            "date": "29/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32574570_035aa9fa_20261125.png?v=035aa9fa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0926978d45",
+          "name": "Jordan vs Australia | 19:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0926978d45",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0926978d45",
+                  "name": "Jordan vs Australia",
+                  "streams": [
+                    {
+                      "id": "st-0926978d45",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3e2f24b205",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575639_hd/1795575639_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup Asia qualifiers",
+            "team_a": "Jordan",
+            "team_b": "Australia",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e43e71c4c323cd8cbfa066024d17bef0.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/55a362ade39ca0e222f3f243dc091372.jpg",
+            "time": "19:00:00",
+            "date": "29/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36808271_ab474d8b_20261125.png?v=ab474d8b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
