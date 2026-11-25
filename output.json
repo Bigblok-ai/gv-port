@@ -3542,6 +3542,240 @@
           }
         }
       ]
+    },
+    {
+      "id": "cate_esport",
+      "name": "🎮 Esport",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-fcd8990cec",
+          "name": "PGL Major Stage 1 vs Swiss Round 4-Stream A | 13:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fcd8990cec",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-fcd8990cec",
+                  "name": "PGL Major Stage 1 vs Swiss Round 4-Stream A",
+                  "streams": [
+                    {
+                      "id": "st-fcd8990cec",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9afa04913f",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795616228_hd/1795616228_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PGL Major Singapore 2026 Stage 1",
+            "team_a": "PGL Major Stage 1",
+            "team_b": "Swiss Round 4-Stream A",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "time": "13:00:00",
+            "date": "26/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/05a6jsut288p_be0e0da1_20261125.png?v=be0e0da1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-839ea1a667",
+          "name": "PGL Major Stage 1 vs Swiss Round 4-Stream B | 13:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-839ea1a667",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-839ea1a667",
+                  "name": "PGL Major Stage 1 vs Swiss Round 4-Stream B",
+                  "streams": [
+                    {
+                      "id": "st-839ea1a667",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8a8c9870b1",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795616270_hd/1795616270_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PGL Major Singapore 2026 Stage 1",
+            "team_a": "PGL Major Stage 1",
+            "team_b": "Swiss Round 4-Stream B",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "time": "13:00:00",
+            "date": "26/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/pje2617rk18l_be0e0da1_20261125.png?v=be0e0da1",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_bongchay",
+      "name": "⚾ Bóng Chày",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-647ee90e8f",
+          "name": "Nicaragua vs Great Britain | 11:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-647ee90e8f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-647ee90e8f",
+                  "name": "Nicaragua vs Great Britain",
+                  "streams": [
+                    {
+                      "id": "st-647ee90e8f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c7c4ecdec9",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795616313_hd/1795616313_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vòng loại Premier 12",
+            "team_a": "Nicaragua",
+            "team_b": "Great Britain",
+            "logo_a": "https://static.flashscore.com/res/image/data/pGI3t8Ca-zgrCmUB4.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/h410KXil-U3XTDJgq.png",
+            "time": "11:00:00",
+            "date": "26/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/u839upqhdkxo_ac328c69_20261125.png?v=ac328c69",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
     }
   ]
 }
