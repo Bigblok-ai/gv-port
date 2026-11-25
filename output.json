@@ -1583,83 +1583,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-fed424b249",
-          "name": "Dubai vs Partizan | 23:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fed424b249",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fed424b249",
-                  "name": "Dubai vs Partizan",
-                  "streams": [
-                    {
-                      "id": "st-fed424b249",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9454922429",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795457520_hd/1795457520_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "EURO",
-            "team_a": "Dubai",
-            "team_b": "Partizan",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/38e7f6ed6a1053e25c1f5d60fbf563b2.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/98f7869762c650e17a6b90e3045ca130.png",
-            "time": "23:00:00",
-            "date": "25/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24403270_39f8a28b_20261126.png?v=39f8a28b",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-58b293a38b",
           "name": "Philadelphia 76ers vs Miami Heat | 05:00 26/11",
@@ -3401,83 +3329,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (2 LIVE)",
+      "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-77762ba605",
-          "name": "Vakifbank Nữ vs Asterix Avo Nữ | 23:00 25/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-77762ba605",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-77762ba605",
-                  "name": "Vakifbank Nữ vs Asterix Avo Nữ",
-                  "streams": [
-                    {
-                      "id": "st-77762ba605",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-479d594d1e",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795593285_hd/1795593285_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Champions League Nữ",
-            "team_a": "Vakifbank Nữ",
-            "team_b": "Asterix Avo Nữ",
-            "logo_a": "https://static.flashscore.com/res/image/data/YRICRqzB-A3UKTsyj.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/Yu96ScBr-Uui6MKoK.png",
-            "time": "23:00:00",
-            "date": "25/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/nd9x3cpjywj0_4e06964e_20261126.png?v=4e06964e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-01f4023471",
           "name": "Olsztyn vs Rzeszow | 23:30 25/11",
