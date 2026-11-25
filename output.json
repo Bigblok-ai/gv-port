@@ -3391,6 +3391,87 @@
       ]
     },
     {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis (1 LIVE)",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-7f2a9ffa03",
+          "name": "Italy vs Korea | 23:00 25/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7f2a9ffa03",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7f2a9ffa03",
+                  "name": "Italy vs Korea",
+                  "streams": [
+                    {
+                      "id": "st-7f2a9ffa03",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1a4c9adcff",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795622493_hd/1795622493_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Davis Cup ",
+            "team_a": "Italy",
+            "team_b": "Korea",
+            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg?utm_source=pam.wikipedia.org&utm_campaign=index&utm_content=original",
+            "logo_b": "https://cdn.britannica.com/49/1949-050-39ED83BA/Flag-South-Korea.jpg",
+            "time": "23:00:00",
+            "date": "25/11",
+            "blv": "Mù",
+            "is_live": true,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/qa9tgot1hkem_92dd134a_20261125.png?v=92dd134a",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
       "id": "cate_bongchuyen",
       "name": "🏐 Bóng Chuyền (1 LIVE)",
       "display": "vertical",
