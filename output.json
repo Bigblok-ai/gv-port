@@ -1506,6 +1506,222 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-536aef58a5",
+          "name": "Bangkok Glass vs Lion City Sailors | 19:15 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-536aef58a5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-536aef58a5",
+                  "name": "Bangkok Glass vs Lion City Sailors",
+                  "streams": [
+                    {
+                      "id": "st-536aef58a5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4cfb69a535",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795572450_hd/1795572450_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Cup",
+            "team_a": "Bangkok Glass",
+            "team_b": "Lion City Sailors",
+            "logo_a": "https://images.keovip88.net/images/teams/bg-pathum-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lion-city-sailors.png",
+            "time": "19:15:00",
+            "date": "26/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d956a_b135022e_20261125.png?v=b135022e",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a1ae04aaf0",
+          "name": "Svay Rieng FC vs FC Machida Zelvia | 19:15 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a1ae04aaf0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a1ae04aaf0",
+                  "name": "Svay Rieng FC vs FC Machida Zelvia",
+                  "streams": [
+                    {
+                      "id": "st-a1ae04aaf0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-87729cb481",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795572497_hd/1795572497_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Cup",
+            "team_a": "Svay Rieng FC",
+            "team_b": "FC Machida Zelvia",
+            "logo_a": "https://images.keovip88.net/images/teams/svay-rieng-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/machida-zelvia.png",
+            "time": "19:15:00",
+            "date": "26/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d9573_9eb60c50_20261125.png?v=9eb60c50",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-852e0c9a79",
+          "name": "Wofoo Tai Po vs Adelaide United FC | 19:15 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-852e0c9a79",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-852e0c9a79",
+                  "name": "Wofoo Tai Po vs Adelaide United FC",
+                  "streams": [
+                    {
+                      "id": "st-852e0c9a79",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ed24228f72",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795572523_hd/1795572523_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "AFC Cup",
+            "team_a": "Wofoo Tai Po",
+            "team_b": "Adelaide United FC",
+            "logo_a": "https://images.keovip88.net/images/teams/wofoo-tai-po.png",
+            "logo_b": "https://images.keovip88.net/images/teams/adelaide-united.png",
+            "time": "19:15:00",
+            "date": "26/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d956b_9d3e5bef_20261125.png?v=9d3e5bef",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
