@@ -476,11 +476,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-a4393f0ab2",
-                          "name": "Tỵ",
+                          "id": "lnk-d4261fe7ad",
+                          "name": "Cổ Vũ Việt Nam",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795572561_hd/1795572561_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795660863_hd/1795660863_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -507,7 +507,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/mali-u17.png",
             "time": "20:00:00",
             "date": "26/11",
-            "blv": "Tỵ",
+            "blv": "Cổ Vũ Việt Nam",
             "is_live": false,
             "cate_type": "football"
           },
@@ -516,6 +516,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad643_cec29d4b_20261126.png?v=cec29d4b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ed3bfa9ed3",
+          "name": "New Zealand U17 vs U17 Bỉ | 20:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ed3bfa9ed3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ed3bfa9ed3",
+                  "name": "New Zealand U17 vs U17 Bỉ",
+                  "streams": [
+                    {
+                      "id": "st-ed3bfa9ed3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a65c33370d",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795661051_hd/1795661051_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "New Zealand U17",
+            "team_b": "U17 Bỉ",
+            "logo_a": "https://images.keovip88.net/images/teams/new-zealand-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/belgium-u17.png",
+            "time": "20:00:00",
+            "date": "26/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad644_6fa4fe38_20261126.png?v=6fa4fe38",
             "width": 1600,
             "height": 1200
           }
