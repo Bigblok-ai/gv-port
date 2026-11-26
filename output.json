@@ -1527,6 +1527,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c1d8cd6e60",
+          "name": "Levante vs Racing Santander | 03:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c1d8cd6e60",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c1d8cd6e60",
+                  "name": "Levante vs Racing Santander",
+                  "streams": [
+                    {
+                      "id": "st-c1d8cd6e60",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aeb0c9b3c9",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678171_hd/1795678171_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Levante",
+            "team_b": "Racing Santander",
+            "logo_a": "https://images.keovip88.net/images/teams/levante.png",
+            "logo_b": "https://images.keovip88.net/images/teams/racing-santander.png",
+            "time": "03:00:00",
+            "date": "28/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcb24d46db870537c04_380e0d5d_20261127.png?v=380e0d5d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-138aedb7a1",
+          "name": "Nottingham Forest vs Chelsea FC | 03:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-138aedb7a1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-138aedb7a1",
+                  "name": "Nottingham Forest vs Chelsea FC",
+                  "streams": [
+                    {
+                      "id": "st-138aedb7a1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ca5d7aaa1a",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678148_hd/1795678148_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Nottingham Forest",
+            "team_b": "Chelsea FC",
+            "logo_a": "https://images.keovip88.net/images/teams/nottingham-forest.png",
+            "logo_b": "https://images.keovip88.net/images/teams/chelsea.png",
+            "time": "03:00:00",
+            "date": "28/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0710_26f66212_20261127.png?v=26f66212",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
