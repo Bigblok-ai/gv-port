@@ -2252,83 +2252,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-4d79181c0c",
-          "name": "Mongolia vs Indonesia | 18:00 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-4d79181c0c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-4d79181c0c",
-                  "name": "Mongolia vs Indonesia",
-                  "streams": [
-                    {
-                      "id": "st-4d79181c0c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0552ce2b68",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575248_hd/1795575248_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asia Cup Qualifiers",
-            "team_a": "Mongolia",
-            "team_b": "Indonesia",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ecf6ce9d65754769fe2e08a2c00142a0.gif",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/373559b1eae432eecb6bb29589f1bcfe.gif",
-            "time": "18:00:00",
-            "date": "26/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36474573_e04ed680_20261126.png?v=e04ed680",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-5e558d134a",
           "name": "Saudi Arabia vs China | 20:00 26/11",
