@@ -1964,7 +1964,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2114,6 +2114,78 @@
           }
         },
         {
+          "id": "gv-5807aa29ce",
+          "name": "Greece vs Georgia | 01:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5807aa29ce",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5807aa29ce",
+                  "name": "Greece vs Georgia",
+                  "streams": [
+                    {
+                      "id": "st-5807aa29ce",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ccb8ed3250",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678471_hd/1795678471_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup European qualifiers",
+            "team_a": "Greece",
+            "team_b": "Georgia",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2db63c1ee1822f7e05ca627ce078648a.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/812a646fab3764f88481d6799a699378.jpg",
+            "time": "01:00:00",
+            "date": "27/11",
+            "blv": "Chồn",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11108279_a1bf57b4_20261127.png?v=a1bf57b4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-cee9c2e3af",
           "name": "Montenegro vs Spain | 01:00 27/11",
           "type": "single",
@@ -2253,78 +2325,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23018271_83d9b3d5_20261127.png?v=83d9b3d5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-5807aa29ce",
-          "name": "Greece vs Georgia | 01:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5807aa29ce",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5807aa29ce",
-                  "name": "Greece vs Georgia",
-                  "streams": [
-                    {
-                      "id": "st-5807aa29ce",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ccb8ed3250",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678471_hd/1795678471_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup European qualifiers",
-            "team_a": "Greece",
-            "team_b": "Georgia",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2db63c1ee1822f7e05ca627ce078648a.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/812a646fab3764f88481d6799a699378.jpg",
-            "time": "01:00:00",
-            "date": "27/11",
-            "blv": "Chồn",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11108279_a1bf57b4_20261127.png?v=a1bf57b4",
             "width": 1600,
             "height": 1200
           }
