@@ -2391,6 +2391,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-2b843ee463",
+          "name": "U17 Costa Rica vs Brazil U17 | 21:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2b843ee463",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2b843ee463",
+                  "name": "U17 Costa Rica vs Brazil U17",
+                  "streams": [
+                    {
+                      "id": "st-2b843ee463",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3d337d226f",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795573828_hd/1795573828_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "U17 Costa Rica",
+            "team_b": "Brazil U17",
+            "logo_a": "https://images.keovip88.net/images/teams/costa-rica-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/brazil-u17.png",
+            "time": "21:00:00",
+            "date": "27/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad64f_c40c0951_20261126.png?v=c40c0951",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
