@@ -1676,83 +1676,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-d9890d74d3",
-          "name": "Italy vs Turkey | 02:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d9890d74d3",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d9890d74d3",
-                  "name": "Italy vs Turkey",
-                  "streams": [
-                    {
-                      "id": "st-d9890d74d3",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6438852940",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678521_hd/1795678521_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup European qualifiers",
-            "team_a": "Italy",
-            "team_b": "Turkey",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/416be3897e748c9336d11b8d67e028fa.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/121f5d18ce7822897c277a34a76aa334.jpg",
-            "time": "02:00:00",
-            "date": "27/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/20308270_63f42930_20261127.png?v=63f42930",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-5f5f866403",
           "name": "Uruguay vs Canada | 05:10 27/11",
