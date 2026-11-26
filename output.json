@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-536aef58a5",
-          "name": "Bangkok Glass vs Lion City Sailors | 19:15 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-536aef58a5",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-536aef58a5",
-                  "name": "Bangkok Glass vs Lion City Sailors",
-                  "streams": [
-                    {
-                      "id": "st-536aef58a5",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4cfb69a535",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795572450_hd/1795572450_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "AFC Cup",
-            "team_a": "Bangkok Glass",
-            "team_b": "Lion City Sailors",
-            "logo_a": "https://images.keovip88.net/images/teams/bg-pathum-united.png",
-            "logo_b": "https://images.keovip88.net/images/teams/lion-city-sailors.png",
-            "time": "19:15:00",
-            "date": "26/11",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a8b8a724d3de1ad3e0d956a_b135022e_20261126.png?v=b135022e",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-d0525e6582",
           "name": "Việt Nam U17 vs Mali U17 | 20:00 26/11",
@@ -4368,87 +4296,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0y6v2be8omvh_7d452b40_20261126.png?v=7d452b40",
-            "width": 1600,
-            "height": 1200
-          }
-        }
-      ]
-    },
-    {
-      "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày (1 LIVE)",
-      "display": "vertical",
-      "grid_number": 2,
-      "enable_detail": false,
-      "channels": [
-        {
-          "id": "gv-56b37ee14a",
-          "name": "Cộng hòa Séc vs Trung Quốc | 17:30 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-56b37ee14a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-56b37ee14a",
-                  "name": "Cộng hòa Séc vs Trung Quốc",
-                  "streams": [
-                    {
-                      "id": "st-56b37ee14a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-de789500c3",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795660392_hd/1795660392_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vòng loại Premier 12",
-            "team_a": "Cộng hòa Séc",
-            "team_b": "Trung Quốc",
-            "logo_a": "https://static.flashscore.com/res/image/data/dSwM6RGG-lpOlJAuM.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/6VLy61Ea-QDuM2WrS.png",
-            "time": "17:30:00",
-            "date": "26/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "bongchay"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/uabppllbakuj_c6e180de_20261126.png?v=c6e180de",
             "width": 1600,
             "height": 1200
           }
