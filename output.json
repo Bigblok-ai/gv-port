@@ -1964,7 +1964,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2114,6 +2114,78 @@
           }
         },
         {
+          "id": "gv-cee9c2e3af",
+          "name": "Montenegro vs Spain | 01:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cee9c2e3af",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cee9c2e3af",
+                  "name": "Montenegro vs Spain",
+                  "streams": [
+                    {
+                      "id": "st-cee9c2e3af",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9a32358bcd",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678628_hd/1795678628_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup European qualifiers",
+            "team_a": "Montenegro",
+            "team_b": "Spain",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ef83a710e072384d6f45ff2385725189.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/26cc4ca902c7f419cac1d05384c6cb73.jpg",
+            "time": "01:00:00",
+            "date": "27/11",
+            "blv": "Cầy",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22108270_5da71c30_20261127.png?v=5da71c30",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-e491396e2e",
           "name": "Saudi Arabia vs China | 20:00 26/11",
           "type": "single",
@@ -2253,78 +2325,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11108279_a1bf57b4_20261127.png?v=a1bf57b4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-cee9c2e3af",
-          "name": "Montenegro vs Spain | 01:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cee9c2e3af",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cee9c2e3af",
-                  "name": "Montenegro vs Spain",
-                  "streams": [
-                    {
-                      "id": "st-cee9c2e3af",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9a32358bcd",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678628_hd/1795678628_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup European qualifiers",
-            "team_a": "Montenegro",
-            "team_b": "Spain",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ef83a710e072384d6f45ff2385725189.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/26cc4ca902c7f419cac1d05384c6cb73.jpg",
-            "time": "01:00:00",
-            "date": "27/11",
-            "blv": "Cầy",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22108270_5da71c30_20261127.png?v=5da71c30",
             "width": 1600,
             "height": 1200
           }
@@ -3872,11 +3872,83 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-b71a3c2d9a",
+          "name": "Chicago Bears vs Detroit Lions | 01:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b71a3c2d9a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b71a3c2d9a",
+                  "name": "Chicago Bears vs Detroit Lions",
+                  "streams": [
+                    {
+                      "id": "st-b71a3c2d9a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d3f2360bd7",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795679199_hd/1795679199_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Chicago Bears",
+            "team_b": "Detroit Lions",
+            "logo_a": "https://static.flashscore.com/res/image/data/Wr2txCEG-QwFacXgt.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/zkjAStEa-z5QECN77.png",
+            "time": "01:00:00",
+            "date": "27/11",
+            "blv": "Riko",
+            "is_live": true,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/72csaatn73dk_79ec7eb6_20261127.png?v=79ec7eb6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-f515300d93",
           "name": "Philadelphia Eagles vs Dallas Cowboys | 04:30 27/11",
