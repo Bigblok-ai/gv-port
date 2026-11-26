@@ -665,6 +665,78 @@
           }
         },
         {
+          "id": "gv-59ca97a0d5",
+          "name": "Al-Fateh SC vs Al-Riyadh | 21:25 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-59ca97a0d5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-59ca97a0d5",
+                  "name": "Al-Fateh SC vs Al-Riyadh",
+                  "streams": [
+                    {
+                      "id": "st-59ca97a0d5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b69f8482f7",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795661143_hd/1795661143_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Ả Rập Xê Út",
+            "team_a": "Al-Fateh SC",
+            "team_b": "Al-Riyadh",
+            "logo_a": "https://images.keovip88.net/images/teams/al-fateh.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-riyadh.png",
+            "time": "21:25:00",
+            "date": "26/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae28cd624d46db87027b47f_4946d484_20261126.png?v=4946d484",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-e5163cb1cf",
           "name": "U17 Morocco vs Tây Ban Nha U17 | 22:00 26/11",
           "type": "single",
@@ -732,6 +804,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad649_b0fca5ea_20261126.png?v=b0fca5ea",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e9b61045fa",
+          "name": "China U17 vs Fiji U17 | 22:00 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e9b61045fa",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e9b61045fa",
+                  "name": "China U17 vs Fiji U17",
+                  "streams": [
+                    {
+                      "id": "st-e9b61045fa",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4417ee3ccc",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795661179_hd/1795661179_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup U17",
+            "team_a": "China U17",
+            "team_b": "Fiji U17",
+            "logo_a": "https://images.keovip88.net/images/teams/china-u17.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fiji-u17.png",
+            "time": "22:00:00",
+            "date": "26/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad64a_dbec1306_20261126.png?v=dbec1306",
             "width": 1600,
             "height": 1200
           }
