@@ -4214,83 +4214,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-049dd71188",
-          "name": "PGL Major Stage 1-Swiss Round 4B Ca 2 vs PGL Major Stage 1-Swiss Round 4B Ca 2 | 16:00 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-049dd71188",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-049dd71188",
-                  "name": "PGL Major Stage 1-Swiss Round 4B Ca 2 vs PGL Major Stage 1-Swiss Round 4B Ca 2",
-                  "streams": [
-                    {
-                      "id": "st-049dd71188",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6ff04063a9",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795676987_hd/1795676987_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PGL Major Singapore 2026 Stage 1",
-            "team_a": "PGL Major Stage 1-Swiss Round 4B Ca 2",
-            "team_b": "PGL Major Stage 1-Swiss Round 4B Ca 2",
-            "logo_a": "https://i.ytimg.com/vi/UTu-pY5W4zY/sddefault.jpg?v=6b0506ed",
-            "logo_b": "https://i.ytimg.com/vi/UTu-pY5W4zY/sddefault.jpg?v=6b0506ed",
-            "time": "16:00:00",
-            "date": "26/11",
-            "blv": "Nem",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kdgdz69hw8d8_45e7df23_20261126.png?v=45e7df23",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-004cafd220",
           "name": "PGL Major Stage 1 vs Swiss Round 5 | 13:00 27/11",
