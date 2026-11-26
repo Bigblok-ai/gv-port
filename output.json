@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (6 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-2a9a0817b5",
-          "name": "Olympiakos Piraeus vs AC Milan | 00:45 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2a9a0817b5",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2a9a0817b5",
-                  "name": "Olympiakos Piraeus vs AC Milan",
-                  "streams": [
-                    {
-                      "id": "st-2a9a0817b5",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8c7637ce89",
-                          "name": "Tỵ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677796_hd/1795677796_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Olympiakos Piraeus",
-            "team_b": "AC Milan",
-            "logo_a": "https://images.keovip88.net/images/teams/olympiakos-piraeus.png",
-            "logo_b": "https://images.keovip88.net/images/teams/ac-milan.png",
-            "time": "00:45:00",
-            "date": "27/11",
-            "blv": "Tỵ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b438b_5528cb23_20261127.png?v=5528cb23",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f62ce79e4a",
           "name": "Hearts vs AS Monaco | 00:45 27/11",
@@ -161,8 +89,8 @@
           }
         },
         {
-          "id": "gv-407148e26e",
-          "name": "Brighton   Hove Albion vs CS Universitatea Craiova | 00:45 27/11",
+          "id": "gv-2d0e328142",
+          "name": "Borac Banja Luka vs Atalanta | 03:00 27/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -176,23 +104,23 @@
           ],
           "sources": [
             {
-              "id": "src-407148e26e",
+              "id": "src-2d0e328142",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-407148e26e",
-                  "name": "Brighton   Hove Albion vs CS Universitatea Craiova",
+                  "id": "ct-2d0e328142",
+                  "name": "Borac Banja Luka vs Atalanta",
                   "streams": [
                     {
-                      "id": "st-407148e26e",
+                      "id": "st-2d0e328142",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-f885987fd1",
-                          "name": "Nem",
+                          "id": "lnk-3bdc5accaa",
+                          "name": "Bee",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677915_hd/1795677915_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678025_hd/1795678025_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -213,13 +141,13 @@
           ],
           "org_metadata": {
             "league": "Europa Conference League",
-            "team_a": "Brighton   Hove Albion",
-            "team_b": "CS Universitatea Craiova",
-            "logo_a": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
-            "logo_b": "https://images.keovip88.net/images/teams/cs-universitatea-craiova.png",
-            "time": "00:45:00",
+            "team_a": "Borac Banja Luka",
+            "team_b": "Atalanta",
+            "logo_a": "https://images.keovip88.net/images/teams/borac-banja-luka.png",
+            "logo_b": "https://images.keovip88.net/images/teams/atalanta.png",
+            "time": "03:00:00",
             "date": "27/11",
-            "blv": "Nem",
+            "blv": "Bee",
             "is_live": true,
             "cate_type": "football"
           },
@@ -227,7 +155,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93739cfccd5ecc44060ea2_38588498_20261127.png?v=38588498",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d9164566b7f70b43bc_214417b8_20261127.png?v=214417b8",
             "width": 1600,
             "height": 1200
           }
@@ -372,78 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e76_ffa04f0d_20261127.png?v=ffa04f0d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-2d0e328142",
-          "name": "Borac Banja Luka vs Atalanta | 03:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2d0e328142",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2d0e328142",
-                  "name": "Borac Banja Luka vs Atalanta",
-                  "streams": [
-                    {
-                      "id": "st-2d0e328142",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3bdc5accaa",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678025_hd/1795678025_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Europa Conference League",
-            "team_a": "Borac Banja Luka",
-            "team_b": "Atalanta",
-            "logo_a": "https://images.keovip88.net/images/teams/borac-banja-luka.png",
-            "logo_b": "https://images.keovip88.net/images/teams/atalanta.png",
-            "time": "03:00:00",
-            "date": "27/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d9164566b7f70b43bc_214417b8_20261127.png?v=214417b8",
             "width": 1600,
             "height": 1200
           }
@@ -1599,12 +1455,156 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-9bb59ae27f",
+          "name": "Venezia F.C. vs Bologna | 02:45 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9bb59ae27f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9bb59ae27f",
+                  "name": "Venezia F.C. vs Bologna",
+                  "streams": [
+                    {
+                      "id": "st-9bb59ae27f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d7b7339884",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678113_hd/1795678113_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Venezia F.C.",
+            "team_b": "Bologna",
+            "logo_a": "https://images.keovip88.net/images/teams/venezia.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bologna.png",
+            "time": "02:45:00",
+            "date": "28/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcb24d46db870537b8f_59fca1a8_20261127.png?v=59fca1a8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-453ce98632",
+          "name": "Stade Brestois vs Paris FC | 02:45 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-453ce98632",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-453ce98632",
+                  "name": "Stade Brestois vs Paris FC",
+                  "streams": [
+                    {
+                      "id": "st-453ce98632",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e0c6b3f382",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678129_hd/1795678129_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Stade Brestois",
+            "team_b": "Paris FC",
+            "logo_a": "https://images.keovip88.net/images/teams/stade-brestois.png",
+            "logo_b": "https://images.keovip88.net/images/teams/paris-fc.png",
+            "time": "02:45:00",
+            "date": "28/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcb24d46db870537b93_d181c91b_20261127.png?v=d181c91b",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1677,78 +1677,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/11108279_a1bf57b4_20261127.png?v=a1bf57b4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-cee9c2e3af",
-          "name": "Montenegro vs Spain | 01:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cee9c2e3af",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cee9c2e3af",
-                  "name": "Montenegro vs Spain",
-                  "streams": [
-                    {
-                      "id": "st-cee9c2e3af",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9a32358bcd",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678628_hd/1795678628_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup European qualifiers",
-            "team_a": "Montenegro",
-            "team_b": "Spain",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ef83a710e072384d6f45ff2385725189.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/26cc4ca902c7f419cac1d05384c6cb73.jpg",
-            "time": "01:00:00",
-            "date": "27/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/22108270_5da71c30_20261127.png?v=5da71c30",
             "width": 1600,
             "height": 1200
           }
