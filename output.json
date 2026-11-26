@@ -2252,83 +2252,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-5e558d134a",
-          "name": "Saudi Arabia vs China | 20:00 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5e558d134a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5e558d134a",
-                  "name": "Saudi Arabia vs China",
-                  "streams": [
-                    {
-                      "id": "st-5e558d134a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f0828ff6ff",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795690374_hd/1795690374_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup Asia qualifiers",
-            "team_a": "Saudi Arabia",
-            "team_b": "China",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/079847bad6b01cbc4b326fbbac8c9df8.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/87af165754df68d909d1c51bdfac1450.jpg",
-            "time": "20:00:00",
-            "date": "26/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/230182712_83d9b3d5_20261126.png?v=83d9b3d5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e491396e2e",
           "name": "Saudi Arabia vs China | 20:00 26/11",
@@ -3996,7 +3924,7 @@
       "channels": [
         {
           "id": "gv-37977bfa62",
-          "name": "England vs Germany | 16:00 26/11",
+          "name": "Austria vs Spain | 23:00 26/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -4015,7 +3943,7 @@
               "contents": [
                 {
                   "id": "ct-37977bfa62",
-                  "name": "England vs Germany",
+                  "name": "Austria vs Spain",
                   "streams": [
                     {
                       "id": "st-37977bfa62",
@@ -4047,11 +3975,11 @@
           ],
           "org_metadata": {
             "league": "Davis Cup",
-            "team_a": "England",
-            "team_b": "Germany",
-            "logo_a": "https://static.flashscore.com/res/image/data/tCG9KQYA-Iyld3bDd.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/zP226aXg-fB4vYUZp.png",
-            "time": "16:00:00",
+            "team_a": "Austria",
+            "team_b": "Spain",
+            "logo_a": "https://static.flashscore.com/res/image/data/p2STPgdM-6cnthjRG.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png",
+            "time": "23:00:00",
             "date": "26/11",
             "blv": "Ben",
             "is_live": true,
@@ -4061,7 +3989,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/k6svm5iyjwex_3896ef6b_20261126.png?v=3896ef6b",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/k6svm5iyjwex_073b1ac3_20261126.png?v=073b1ac3",
             "width": 1600,
             "height": 1200
           }
