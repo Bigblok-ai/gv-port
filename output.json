@@ -1311,6 +1311,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-62dce68a42",
+          "name": "Fluminense (RJ) vs Cruzeiro (MG) | 06:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-62dce68a42",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-62dce68a42",
+                  "name": "Fluminense (RJ) vs Cruzeiro (MG)",
+                  "streams": [
+                    {
+                      "id": "st-62dce68a42",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8a20b5732c",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678189_hd/1795678189_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Brazil",
+            "team_a": "Fluminense (RJ)",
+            "team_b": "Cruzeiro (MG)",
+            "logo_a": "https://images.keovip88.net/images/teams/fluminense-rj.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cruzeiro.png",
+            "time": "06:00:00",
+            "date": "28/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcb24d46db870537c20_ec1d5b9c_20261127.png?v=ec1d5b9c",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
