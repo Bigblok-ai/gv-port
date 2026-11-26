@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (5 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-343236c5bf",
-          "name": "Uzbekistan U17 vs Ý U17 | 21:00 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-343236c5bf",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-343236c5bf",
-                  "name": "Uzbekistan U17 vs Ý U17",
-                  "streams": [
-                    {
-                      "id": "st-343236c5bf",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f8396d9417",
-                          "name": "Hứa",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795573137_hd/1795573137_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "Uzbekistan U17",
-            "team_b": "Ý U17",
-            "logo_a": "https://images.keovip88.net/images/teams/uzbekistan-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/italy-u17.png",
-            "time": "21:00:00",
-            "date": "26/11",
-            "blv": "Hứa",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a1393a75618a0eb770ad637_bba2a2c8_20261126.png?v=bba2a2c8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-59ca97a0d5",
           "name": "Al-Fateh SC vs Al-Riyadh | 21:25 26/11",
@@ -2324,7 +2252,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2402,6 +2330,78 @@
           }
         },
         {
+          "id": "gv-b25f2a2439",
+          "name": "Lithuania vs Serbia | 23:30 26/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b25f2a2439",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b25f2a2439",
+                  "name": "Lithuania vs Serbia",
+                  "streams": [
+                    {
+                      "id": "st-b25f2a2439",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cdabcf8270",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678405_hd/1795678405_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup European qualifiers",
+            "team_a": "Lithuania",
+            "team_b": "Serbia",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/618c74edf3d2bb487e15c477c317e66f.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/0088f5444478f4f527b2e486fd54e258.jpg",
+            "time": "23:30:00",
+            "date": "26/11",
+            "blv": "Ngu",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21308271_8af3a26a_20261126.png?v=8af3a26a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-e491396e2e",
           "name": "Saudi Arabia vs China | 20:00 26/11",
           "type": "single",
@@ -2469,78 +2469,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23018271_83d9b3d5_20261126.png?v=83d9b3d5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b25f2a2439",
-          "name": "Lithuania vs Serbia | 23:30 26/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b25f2a2439",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b25f2a2439",
-                  "name": "Lithuania vs Serbia",
-                  "streams": [
-                    {
-                      "id": "st-b25f2a2439",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cdabcf8270",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678405_hd/1795678405_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup European qualifiers",
-            "team_a": "Lithuania",
-            "team_b": "Serbia",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/618c74edf3d2bb487e15c477c317e66f.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/0088f5444478f4f527b2e486fd54e258.jpg",
-            "time": "23:30:00",
-            "date": "26/11",
-            "blv": "Ngu",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/21308271_8af3a26a_20261126.png?v=8af3a26a",
             "width": 1600,
             "height": 1200
           }
