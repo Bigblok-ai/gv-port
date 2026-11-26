@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (7 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-fd0ce70694",
-          "name": "Red Bull Salzburg vs FC Ararat Armenia | 00:45 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fd0ce70694",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fd0ce70694",
-                  "name": "Red Bull Salzburg vs FC Ararat Armenia",
-                  "streams": [
-                    {
-                      "id": "st-fd0ce70694",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-220f92580c",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677774_hd/1795677774_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Red Bull Salzburg",
-            "team_b": "FC Ararat Armenia",
-            "logo_a": "https://images.keovip88.net/images/teams/red-bull-salzburg.png",
-            "logo_b": "https://images.keovip88.net/images/teams/fc-ararat-armenia.png",
-            "time": "00:45:00",
-            "date": "27/11",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a9767c031f9dda471080134_57fc7c6a_20261127.png?v=57fc7c6a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2a9a0817b5",
           "name": "Olympiakos Piraeus vs AC Milan | 00:45 27/11",
@@ -156,222 +84,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b438b_5528cb23_20261127.png?v=5528cb23",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-7a38d0a0b4",
-          "name": "Marseille vs Levski Sofia | 00:45 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7a38d0a0b4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7a38d0a0b4",
-                  "name": "Marseille vs Levski Sofia",
-                  "streams": [
-                    {
-                      "id": "st-7a38d0a0b4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2d15216e03",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677819_hd/1795677819_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Marseille",
-            "team_b": "Levski Sofia",
-            "logo_a": "https://images.keovip88.net/images/teams/marseille.png",
-            "logo_b": "https://images.keovip88.net/images/teams/levski-sofia.png",
-            "time": "00:45:00",
-            "date": "27/11",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e90_34f6f254_20261127.png?v=34f6f254",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-d8b00f1526",
-          "name": "Dinamo Zagreb vs Bayer Leverkusen | 00:45 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d8b00f1526",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d8b00f1526",
-                  "name": "Dinamo Zagreb vs Bayer Leverkusen",
-                  "streams": [
-                    {
-                      "id": "st-d8b00f1526",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ddd45bc9de",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677853_hd/1795677853_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Dinamo Zagreb",
-            "team_b": "Bayer Leverkusen",
-            "logo_a": "https://images.keovip88.net/images/teams/dinamo-zagreb.png",
-            "logo_b": "https://images.keovip88.net/images/teams/bayer-leverkusen.png",
-            "time": "00:45:00",
-            "date": "27/11",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b438c_666498fb_20261127.png?v=666498fb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-bea68510d4",
-          "name": "Celta Vigo vs AFC Bournemouth | 00:45 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bea68510d4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-bea68510d4",
-                  "name": "Celta Vigo vs AFC Bournemouth",
-                  "streams": [
-                    {
-                      "id": "st-bea68510d4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b5dc20001d",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677875_hd/1795677875_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Celta Vigo",
-            "team_b": "AFC Bournemouth",
-            "logo_a": "https://images.keovip88.net/images/teams/celta-vigo.png",
-            "logo_b": "https://images.keovip88.net/images/teams/afc-bournemouth.png",
-            "time": "00:45:00",
-            "date": "27/11",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b438d_f7f45a9c_20261127.png?v=f7f45a9c",
             "width": 1600,
             "height": 1200
           }
@@ -521,6 +233,222 @@
           }
         },
         {
+          "id": "gv-642a111558",
+          "name": "Crystal Palace vs Real Sociedad | 03:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-642a111558",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-642a111558",
+                  "name": "Crystal Palace vs Real Sociedad",
+                  "streams": [
+                    {
+                      "id": "st-642a111558",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cb916b78dc",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677963_hd/1795677963_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "Crystal Palace",
+            "team_b": "Real Sociedad",
+            "logo_a": "https://images.keovip88.net/images/teams/crystal-palace.png",
+            "logo_b": "https://images.keovip88.net/images/teams/real-sociedad.png",
+            "time": "03:00:00",
+            "date": "27/11",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e8e_319024fa_20261127.png?v=319024fa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cbac9b5186",
+          "name": "Juventus vs Omonia Nicosia FC | 03:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cbac9b5186",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cbac9b5186",
+                  "name": "Juventus vs Omonia Nicosia FC",
+                  "streams": [
+                    {
+                      "id": "st-cbac9b5186",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1db9b366cd",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677984_hd/1795677984_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "Juventus",
+            "team_b": "Omonia Nicosia FC",
+            "logo_a": "https://images.keovip88.net/images/teams/juventus.png",
+            "logo_b": "https://images.keovip88.net/images/teams/omonia-nicosia-fc.png",
+            "time": "03:00:00",
+            "date": "27/11",
+            "blv": "Ngọng",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e76_ffa04f0d_20261127.png?v=ffa04f0d",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-2d0e328142",
+          "name": "Borac Banja Luka vs Atalanta | 03:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-2d0e328142",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-2d0e328142",
+                  "name": "Borac Banja Luka vs Atalanta",
+                  "streams": [
+                    {
+                      "id": "st-2d0e328142",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3bdc5accaa",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678025_hd/1795678025_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Europa Conference League",
+            "team_a": "Borac Banja Luka",
+            "team_b": "Atalanta",
+            "logo_a": "https://images.keovip88.net/images/teams/borac-banja-luka.png",
+            "logo_b": "https://images.keovip88.net/images/teams/atalanta.png",
+            "time": "03:00:00",
+            "date": "27/11",
+            "blv": "Bee",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d9164566b7f70b43bc_214417b8_20261127.png?v=214417b8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c9e0873072",
           "name": "Lyonnais vs Lillestrom | 03:00 27/11",
           "type": "single",
@@ -593,150 +521,6 @@
           }
         },
         {
-          "id": "gv-642a111558",
-          "name": "Crystal Palace vs Real Sociedad | 03:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-642a111558",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-642a111558",
-                  "name": "Crystal Palace vs Real Sociedad",
-                  "streams": [
-                    {
-                      "id": "st-642a111558",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cb916b78dc",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677963_hd/1795677963_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Crystal Palace",
-            "team_b": "Real Sociedad",
-            "logo_a": "https://images.keovip88.net/images/teams/crystal-palace.png",
-            "logo_b": "https://images.keovip88.net/images/teams/real-sociedad.png",
-            "time": "03:00:00",
-            "date": "27/11",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e8e_319024fa_20261127.png?v=319024fa",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-cbac9b5186",
-          "name": "Juventus vs Omonia Nicosia FC | 03:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cbac9b5186",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cbac9b5186",
-                  "name": "Juventus vs Omonia Nicosia FC",
-                  "streams": [
-                    {
-                      "id": "st-cbac9b5186",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1db9b366cd",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677984_hd/1795677984_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Juventus",
-            "team_b": "Omonia Nicosia FC",
-            "logo_a": "https://images.keovip88.net/images/teams/juventus.png",
-            "logo_b": "https://images.keovip88.net/images/teams/omonia-nicosia-fc.png",
-            "time": "03:00:00",
-            "date": "27/11",
-            "blv": "Ngọng",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93738cfccd5ecc44060e76_ffa04f0d_20261127.png?v=ffa04f0d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-669e59af36",
           "name": "SC Freiburg vs FC Twente Enschede | 03:00 27/11",
           "type": "single",
@@ -804,78 +588,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93739cfccd5ecc44060e96_b9690b8c_20261127.png?v=b9690b8c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-2d0e328142",
-          "name": "Borac Banja Luka vs Atalanta | 03:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2d0e328142",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2d0e328142",
-                  "name": "Borac Banja Luka vs Atalanta",
-                  "streams": [
-                    {
-                      "id": "st-2d0e328142",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3bdc5accaa",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678025_hd/1795678025_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Europa Conference League",
-            "team_a": "Borac Banja Luka",
-            "team_b": "Atalanta",
-            "logo_a": "https://images.keovip88.net/images/teams/borac-banja-luka.png",
-            "logo_b": "https://images.keovip88.net/images/teams/atalanta.png",
-            "time": "03:00:00",
-            "date": "27/11",
-            "blv": "Bee",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d9164566b7f70b43bc_214417b8_20261127.png?v=214417b8",
             "width": 1600,
             "height": 1200
           }
