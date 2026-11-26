@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (6 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -233,6 +233,78 @@
           }
         },
         {
+          "id": "gv-d8b00f1526",
+          "name": "Dinamo Zagreb vs Bayer Leverkusen | 00:45 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d8b00f1526",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d8b00f1526",
+                  "name": "Dinamo Zagreb vs Bayer Leverkusen",
+                  "streams": [
+                    {
+                      "id": "st-d8b00f1526",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ddd45bc9de",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677853_hd/1795677853_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "C2",
+            "team_a": "Dinamo Zagreb",
+            "team_b": "Bayer Leverkusen",
+            "logo_a": "https://images.keovip88.net/images/teams/dinamo-zagreb.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bayer-leverkusen.png",
+            "time": "00:45:00",
+            "date": "27/11",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b438c_666498fb_20261127.png?v=666498fb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-bea68510d4",
           "name": "Celta Vigo vs AFC Bournemouth | 00:45 27/11",
           "type": "single",
@@ -300,6 +372,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b438d_f7f45a9c_20261127.png?v=f7f45a9c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-407148e26e",
+          "name": "Brighton   Hove Albion vs CS Universitatea Craiova | 00:45 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-407148e26e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-407148e26e",
+                  "name": "Brighton   Hove Albion vs CS Universitatea Craiova",
+                  "streams": [
+                    {
+                      "id": "st-407148e26e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f885987fd1",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677915_hd/1795677915_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Europa Conference League",
+            "team_a": "Brighton   Hove Albion",
+            "team_b": "CS Universitatea Craiova",
+            "logo_a": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cs-universitatea-craiova.png",
+            "time": "00:45:00",
+            "date": "27/11",
+            "blv": "Nem",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93739cfccd5ecc44060ea2_38588498_20261127.png?v=38588498",
             "width": 1600,
             "height": 1200
           }
@@ -521,78 +665,6 @@
           }
         },
         {
-          "id": "gv-d8b00f1526",
-          "name": "Dinamo Zagreb vs Bayer Leverkusen | 00:45 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d8b00f1526",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d8b00f1526",
-                  "name": "Dinamo Zagreb vs Bayer Leverkusen",
-                  "streams": [
-                    {
-                      "id": "st-d8b00f1526",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ddd45bc9de",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677853_hd/1795677853_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Dinamo Zagreb",
-            "team_b": "Bayer Leverkusen",
-            "logo_a": "https://images.keovip88.net/images/teams/dinamo-zagreb.png",
-            "logo_b": "https://images.keovip88.net/images/teams/bayer-leverkusen.png",
-            "time": "00:45:00",
-            "date": "27/11",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d6164566b7f70b438c_666498fb_20261127.png?v=666498fb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-f62ce79e4a",
           "name": "Hearts vs AS Monaco | 00:45 27/11",
           "type": "single",
@@ -660,78 +732,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a94c4d9164566b7f70b43b9_c27db923_20261127.png?v=c27db923",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-407148e26e",
-          "name": "Brighton   Hove Albion vs CS Universitatea Craiova | 00:45 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-407148e26e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-407148e26e",
-                  "name": "Brighton   Hove Albion vs CS Universitatea Craiova",
-                  "streams": [
-                    {
-                      "id": "st-407148e26e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f885987fd1",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677915_hd/1795677915_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Europa Conference League",
-            "team_a": "Brighton   Hove Albion",
-            "team_b": "CS Universitatea Craiova",
-            "logo_a": "https://images.keovip88.net/images/teams/brighton-hove-albion.png",
-            "logo_b": "https://images.keovip88.net/images/teams/cs-universitatea-craiova.png",
-            "time": "00:45:00",
-            "date": "27/11",
-            "blv": "Nem",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a93739cfccd5ecc44060ea2_38588498_20261127.png?v=38588498",
             "width": 1600,
             "height": 1200
           }
