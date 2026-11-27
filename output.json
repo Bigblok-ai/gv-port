@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-fd95a2059a",
-          "name": "Colombia U17 vs Serbia U17 | 20:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fd95a2059a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fd95a2059a",
-                  "name": "Colombia U17 vs Serbia U17",
-                  "streams": [
-                    {
-                      "id": "st-fd95a2059a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-abe2ed8eac",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795573741_hd/1795573741_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "Colombia U17",
-            "team_b": "Serbia U17",
-            "logo_a": "https://images.keovip88.net/images/teams/colombia-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/srbija-cgora-u17.png",
-            "time": "20:00:00",
-            "date": "27/11",
-            "blv": "Trĩ",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a124178c018edea420a9901_37e21b5d_20261127.png?v=37e21b5d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-2e580aca99",
-          "name": "Honduras U17 vs Nhật Bản U17 | 20:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2e580aca99",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2e580aca99",
-                  "name": "Honduras U17 vs Nhật Bản U17",
-                  "streams": [
-                    {
-                      "id": "st-2e580aca99",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2f5a77f631",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795764787_hd/1795764787_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup U17",
-            "team_a": "Honduras U17",
-            "team_b": "Nhật Bản U17",
-            "logo_a": "https://images.keovip88.net/images/teams/honduras-u17.png",
-            "logo_b": "https://images.keovip88.net/images/teams/japan-u17.png",
-            "time": "20:00:00",
-            "date": "27/11",
-            "blv": "Bee",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6a124178c018edea420a9900_6ad3d666_20261127.png?v=6ad3d666",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-2b843ee463",
           "name": "U17 Costa Rica vs Brazil U17 | 21:00 27/11",
@@ -2117,6 +1973,167 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dd124d46db87053841d_4a661902_20261127.png?v=4a661902",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e85f7a67db",
+          "name": "Leeds United vs Coventry | 22:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e85f7a67db",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e85f7a67db",
+                  "name": "Leeds United vs Coventry",
+                  "streams": [
+                    {
+                      "id": "st-e85f7a67db",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-28d3551475",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574608_hd/1795574608_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Leeds United",
+            "team_b": "Coventry",
+            "logo_a": "https://images.keovip88.net/images/teams/leeds-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/coventry-city.png",
+            "time": "22:00:00",
+            "date": "28/11",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f070e_4ff061ad_20261127.png?v=4ff061ad",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c26bb37917",
+          "name": "Manchester United vs Brentford | 22:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c26bb37917",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c26bb37917",
+                  "name": "Manchester United vs Brentford",
+                  "streams": [
+                    {
+                      "id": "st-c26bb37917",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-09a17c8230",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574631_hd/1795574631_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-c9edcb77dc",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574637_hd/1795574637_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Manchester United",
+            "team_b": "Brentford",
+            "logo_a": "https://images.keovip88.net/images/teams/manchester-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/brentford.png",
+            "time": "22:00:00",
+            "date": "28/11",
+            "blv": "Bee, Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f070f_aceff70c_20261127.png?v=aceff70c",
             "width": 1600,
             "height": 1200
           }
