@@ -1599,6 +1599,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-b01a365a6f",
+          "name": "Kashiwa Reysol vs Sanfrecce Hiroshima | 14:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b01a365a6f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b01a365a6f",
+                  "name": "Kashiwa Reysol vs Sanfrecce Hiroshima",
+                  "streams": [
+                    {
+                      "id": "st-b01a365a6f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ad685feec5",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795755197_hd/1795755197_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kashiwa Reysol",
+            "team_b": "Sanfrecce Hiroshima",
+            "logo_a": "https://images.keovip88.net/images/teams/kashiwa-reysol.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hiroshima-sanfrecce.png",
+            "time": "14:00:00",
+            "date": "28/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c99_aa269860_20261127.png?v=aa269860",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
