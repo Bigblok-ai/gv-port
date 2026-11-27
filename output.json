@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -233,78 +233,6 @@
           }
         },
         {
-          "id": "gv-c1d8cd6e60",
-          "name": "Levante vs Racing Santander | 03:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c1d8cd6e60",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c1d8cd6e60",
-                  "name": "Levante vs Racing Santander",
-                  "streams": [
-                    {
-                      "id": "st-c1d8cd6e60",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aeb0c9b3c9",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678171_hd/1795678171_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Levante",
-            "team_b": "Racing Santander",
-            "logo_a": "https://images.keovip88.net/images/teams/levante.png",
-            "logo_b": "https://images.keovip88.net/images/teams/racing-santander.png",
-            "time": "03:00:00",
-            "date": "28/11",
-            "blv": "Bee",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcb24d46db870537c04_380e0d5d_20261128.png?v=380e0d5d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-138aedb7a1",
           "name": "Nottingham Forest vs Chelsea FC | 03:00 28/11",
           "type": "single",
@@ -312,10 +240,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -364,7 +292,7 @@
             "time": "03:00:00",
             "date": "28/11",
             "blv": "Fan Chelsea: Chồn",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "football"
           },
           "image": {
@@ -372,6 +300,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f0710_26f66212_20261128.png?v=26f66212",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c1d8cd6e60",
+          "name": "Levante vs Racing Santander | 03:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c1d8cd6e60",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c1d8cd6e60",
+                  "name": "Levante vs Racing Santander",
+                  "streams": [
+                    {
+                      "id": "st-c1d8cd6e60",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aeb0c9b3c9",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678171_hd/1795678171_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Levante",
+            "team_b": "Racing Santander",
+            "logo_a": "https://images.keovip88.net/images/teams/levante.png",
+            "logo_b": "https://images.keovip88.net/images/teams/racing-santander.png",
+            "time": "03:00:00",
+            "date": "28/11",
+            "blv": "Bee",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcb24d46db870537c04_380e0d5d_20261128.png?v=380e0d5d",
             "width": 1600,
             "height": 1200
           }
@@ -1998,83 +1998,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-ff14e75cc4",
-          "name": "Latvia vs Germany | 00:30 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ff14e75cc4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ff14e75cc4",
-                  "name": "Latvia vs Germany",
-                  "streams": [
-                    {
-                      "id": "st-ff14e75cc4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9760160f08",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678692_hd/1795678692_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup European qualifiers",
-            "team_a": "Latvia",
-            "team_b": "Germany",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/de9804d0eeb15dd7fe56c4b8bae4640c.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/493c4386065cba51e66493a2a9239024.jpg",
-            "time": "00:30:00",
-            "date": "28/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/27408278_096f2fca_20261128.png?v=096f2fca",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f5ce677941",
           "name": "Poland vs Croatia | 02:45 28/11",
@@ -3771,7 +3699,7 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao",
+      "name": "🏅 Thể Thao (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -3784,10 +3712,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -3836,7 +3764,7 @@
             "time": "03:00:00",
             "date": "28/11",
             "blv": "Riko",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "rugby"
           },
           "image": {
