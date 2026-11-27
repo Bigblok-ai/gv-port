@@ -1998,83 +1998,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-f5ce677941",
-          "name": "Poland vs Croatia | 02:45 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f5ce677941",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f5ce677941",
-                  "name": "Poland vs Croatia",
-                  "streams": [
-                    {
-                      "id": "st-f5ce677941",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d7e50ac0d4",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678715_hd/1795678715_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup European qualifiers",
-            "team_a": "Poland",
-            "team_b": "Croatia",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ba808fbea3947aa8d123bdaa2e9da97d.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/9ba1f311c10d55b2dbac3db6274dbe7c.jpg",
-            "time": "02:45:00",
-            "date": "28/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/39408270_e9c3ba61_20261128.png?v=e9c3ba61",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-5ecb3570b8",
           "name": "New York Knicks vs Miami Heat | 07:00 28/11",
