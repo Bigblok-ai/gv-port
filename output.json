@@ -1604,83 +1604,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-a9eb9225f4",
-          "name": "Malaysia vs Fiji | 12:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-a9eb9225f4",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-a9eb9225f4",
-                  "name": "Malaysia vs Fiji",
-                  "streams": [
-                    {
-                      "id": "st-a9eb9225f4",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-63da7e14b9",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677476_hd/1795677476_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asia Cup Qualifiers",
-            "team_a": "Malaysia",
-            "team_b": "Fiji",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a4b3bf9470a9dc6bd70093549652a13c.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/96160a8149d100c6cb317cf2c52ca4f8.jpg",
-            "time": "12:00:00",
-            "date": "27/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/37474574_73afea44_20261127.png?v=73afea44",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-fc8d4d603a",
           "name": "Jordan vs New Zealand | 13:00 27/11",
