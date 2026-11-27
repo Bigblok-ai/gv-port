@@ -1748,83 +1748,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-6c6cce3625",
-          "name": "Indonesia vs Thailand | 15:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6c6cce3625",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6c6cce3625",
-                  "name": "Indonesia vs Thailand",
-                  "streams": [
-                    {
-                      "id": "st-6c6cce3625",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cf573dfa28",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795764979_hd/1795764979_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asia Cup Qualifiers",
-            "team_a": "Indonesia",
-            "team_b": "Thailand",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/373559b1eae432eecb6bb29589f1bcfe.gif",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/62890b46cde58557c89cbae9af954643.png",
-            "time": "15:00:00",
-            "date": "27/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/38474575_f3ba8476_20261127.png?v=f3ba8476",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-4404f81249",
           "name": "Iran vs Australia | 16:00 27/11",
