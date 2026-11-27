@@ -1311,12 +1311,228 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-9d10febdd2",
+          "name": "FC Seoul vs Daejeon Citizen | 12:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9d10febdd2",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9d10febdd2",
+                  "name": "FC Seoul vs Daejeon Citizen",
+                  "streams": [
+                    {
+                      "id": "st-9d10febdd2",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9244d7f676",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795755173_hd/1795755173_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "K-League Hàn Quốc",
+            "team_a": "FC Seoul",
+            "team_b": "Daejeon Citizen",
+            "logo_a": "https://images.keovip88.net/images/teams/fc-seoul.png",
+            "logo_b": "https://images.keovip88.net/images/teams/daejeon-citizen.png",
+            "time": "12:00:00",
+            "date": "28/11",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c68_8fe4a7be_20261127.png?v=8fe4a7be",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-05a2acd231",
+          "name": "Shimizu S-Pulse vs Urawa Red Diamonds | 12:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-05a2acd231",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-05a2acd231",
+                  "name": "Shimizu S-Pulse vs Urawa Red Diamonds",
+                  "streams": [
+                    {
+                      "id": "st-05a2acd231",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25a2c58b48",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795755231_hd/1795755231_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Shimizu S-Pulse",
+            "team_b": "Urawa Red Diamonds",
+            "logo_a": "https://images.keovip88.net/images/teams/shimizu-s-pulse.png",
+            "logo_b": "https://images.keovip88.net/images/teams/urawa-red-diamonds.png",
+            "time": "12:00:00",
+            "date": "28/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c5a_7d6a35f5_20261127.png?v=7d6a35f5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-452305a00d",
+          "name": "Kyoto Sanga vs Cerezo Osaka | 12:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-452305a00d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-452305a00d",
+                  "name": "Kyoto Sanga vs Cerezo Osaka",
+                  "streams": [
+                    {
+                      "id": "st-452305a00d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-af3be55945",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795755288_hd/1795755288_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kyoto Sanga",
+            "team_b": "Cerezo Osaka",
+            "logo_a": "https://images.keovip88.net/images/teams/kyoto-sanga.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cerezo-osaka.png",
+            "time": "12:00:00",
+            "date": "28/11",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c56_0cc4e9be_20261127.png?v=0cc4e9be",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (1 LIVE)",
+      "name": "🏀 Bóng Rổ (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1401,10 +1617,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1453,7 +1669,7 @@
             "time": "13:00:00",
             "date": "27/11",
             "blv": "Cầy",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
