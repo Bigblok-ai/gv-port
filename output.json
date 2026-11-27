@@ -1887,6 +1887,239 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-5bd58ea088",
+          "name": "SC Paderborn 07 vs Schalke 04 | 21:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-5bd58ea088",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-5bd58ea088",
+                  "name": "SC Paderborn 07 vs Schalke 04",
+                  "streams": [
+                    {
+                      "id": "st-5bd58ea088",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25ab6d8cc5",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574527_hd/1795574527_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "SC Paderborn 07",
+            "team_b": "Schalke 04",
+            "logo_a": "https://images.keovip88.net/images/teams/sc-paderborn-07.png",
+            "logo_b": "https://images.keovip88.net/images/teams/schalke-04.png",
+            "time": "21:30:00",
+            "date": "28/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dd124d46db870538429_aa494b28_20261127.png?v=aa494b28",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4dc3d37ff1",
+          "name": "Mainz vs Union Berlin | 21:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4dc3d37ff1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4dc3d37ff1",
+                  "name": "Mainz vs Union Berlin",
+                  "streams": [
+                    {
+                      "id": "st-4dc3d37ff1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2bfbedd704",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574554_hd/1795574554_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Mainz",
+            "team_b": "Union Berlin",
+            "logo_a": "https://images.keovip88.net/images/teams/fsv-mainz-05.png",
+            "logo_b": "https://images.keovip88.net/images/teams/union-berlin.png",
+            "time": "21:30:00",
+            "date": "28/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dd124d46db870538421_c5784b32_20261127.png?v=c5784b32",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3c7f3f3c5d",
+          "name": "Hamburger vs Bayern Munich | 21:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3c7f3f3c5d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3c7f3f3c5d",
+                  "name": "Hamburger vs Bayern Munich",
+                  "streams": [
+                    {
+                      "id": "st-3c7f3f3c5d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b40f8ffe39",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574578_hd/1795574578_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        },
+                        {
+                          "id": "lnk-d776577685",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574582_hd/1795574582_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Hamburger",
+            "team_b": "Bayern Munich",
+            "logo_a": "https://images.keovip88.net/images/teams/hamburger-sv.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen.png",
+            "time": "21:30:00",
+            "date": "28/11",
+            "blv": "Ngọng, Nem",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dd124d46db87053841d_4a661902_20261127.png?v=4a661902",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
