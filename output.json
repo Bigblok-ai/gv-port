@@ -548,11 +548,11 @@
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-ca5d7aaa1a",
-                          "name": "Chồn",
+                          "id": "lnk-7311c470f2",
+                          "name": "Fan Chelsea: Chồn",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678148_hd/1795678148_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795792243_hd/1795792243_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -579,7 +579,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/chelsea.png",
             "time": "03:00:00",
             "date": "28/11",
-            "blv": "Chồn",
+            "blv": "Fan Chelsea: Chồn",
             "is_live": false,
             "cate_type": "football"
           },
@@ -2134,6 +2134,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e59ae5e6975d550f070f_aceff70c_20261127.png?v=aceff70c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a0e90ac77e",
+          "name": "Malaga vs Athletic Bilbao | 22:15 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a0e90ac77e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a0e90ac77e",
+                  "name": "Malaga vs Athletic Bilbao",
+                  "streams": [
+                    {
+                      "id": "st-a0e90ac77e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-82a471566f",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574680_hd/1795574680_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Malaga",
+            "team_b": "Athletic Bilbao",
+            "logo_a": "https://images.keovip88.net/images/teams/malaga.png",
+            "logo_b": "https://images.keovip88.net/images/teams/athletic-bilbao.png",
+            "time": "22:15:00",
+            "date": "28/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dd424d46db8705388ab_9c65f141_20261127.png?v=9c65f141",
             "width": 1600,
             "height": 1200
           }
@@ -4285,6 +4357,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/z9qej9grmd4u_58598d19_20261127.png?v=58598d19",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7aeb677e07",
+          "name": "Qatar vs Grand Prix | 00:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7aeb677e07",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7aeb677e07",
+                  "name": "Qatar vs Grand Prix",
+                  "streams": [
+                    {
+                      "id": "st-7aeb677e07",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3d70268ed1",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795792473_hd/1795792473_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "F1",
+            "team_a": "Qatar",
+            "team_b": "Grand Prix",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ihomSoN70duyfMlEESNOZgzBajiH7TPKkBbYO7PsGboV8MT09I3xjxV4&s=10",
+            "logo_b": "https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/0f7d57c3-6f0e-436b-951a-17425b25fabb.jpeg",
+            "time": "00:00:00",
+            "date": "28/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "duaxe"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vhycl2qv9oy6_c7fb56e1_20261127.png?v=c7fb56e1",
             "width": 1600,
             "height": 1200
           }
