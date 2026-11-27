@@ -1676,83 +1676,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-fc8d4d603a",
-          "name": "Jordan vs New Zealand | 13:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fc8d4d603a",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fc8d4d603a",
-                  "name": "Jordan vs New Zealand",
-                  "streams": [
-                    {
-                      "id": "st-fc8d4d603a",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e8962603d4",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677750_hd/1795677750_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "World Cup Asia qualifiers",
-            "team_a": "Jordan",
-            "team_b": "New Zealand",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/e43e71c4c323cd8cbfa066024d17bef0.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/da47e6c94224d6c9ab4c32d7850c9de0.jpg",
-            "time": "13:00:00",
-            "date": "27/11",
-            "blv": "Cầy",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35808270_d8312d95_20261127.png?v=d8312d95",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-6c6cce3625",
           "name": "Indonesia vs Thailand | 15:00 27/11",
@@ -1970,6 +1898,78 @@
           }
         },
         {
+          "id": "gv-bf72769d6c",
+          "name": "Sri Lanka vs Bahrain | 19:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bf72769d6c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bf72769d6c",
+                  "name": "Sri Lanka vs Bahrain",
+                  "streams": [
+                    {
+                      "id": "st-bf72769d6c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-02dc0b2e0c",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575538_hd/1795575538_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Asia Cup Qualifiers",
+            "team_a": "Sri Lanka",
+            "team_b": "Bahrain",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7fde79664952b15c263a879bc59211ba.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/8c461c07aaa52929101f0f3f369ce9a1.gif",
+            "time": "19:00:00",
+            "date": "27/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35374571_a8f69b6c_20261127.png?v=a8f69b6c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-40aaf4c299",
           "name": "Syria vs Philippines | 19:00 27/11",
           "type": "single",
@@ -2042,8 +2042,8 @@
           }
         },
         {
-          "id": "gv-bf72769d6c",
-          "name": "Sri Lanka vs Bahrain | 19:00 27/11",
+          "id": "gv-11f12f4500",
+          "name": "Kazakhstan vs Kuwait | 22:00 27/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -2057,23 +2057,23 @@
           ],
           "sources": [
             {
-              "id": "src-bf72769d6c",
+              "id": "src-11f12f4500",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-bf72769d6c",
-                  "name": "Sri Lanka vs Bahrain",
+                  "id": "ct-11f12f4500",
+                  "name": "Kazakhstan vs Kuwait",
                   "streams": [
                     {
-                      "id": "st-bf72769d6c",
+                      "id": "st-11f12f4500",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-02dc0b2e0c",
-                          "name": "Cầy",
+                          "id": "lnk-0f48cbb796",
+                          "name": "Chồn",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575538_hd/1795575538_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795765235_hd/1795765235_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -2094,13 +2094,13 @@
           ],
           "org_metadata": {
             "league": "Asia Cup Qualifiers",
-            "team_a": "Sri Lanka",
-            "team_b": "Bahrain",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/7fde79664952b15c263a879bc59211ba.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/8c461c07aaa52929101f0f3f369ce9a1.gif",
-            "time": "19:00:00",
+            "team_a": "Kazakhstan",
+            "team_b": "Kuwait",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/6235a0c4a7cfbaac7d93363980995b88.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/32b8f5bfe059d6037af184154177dec0.gif",
+            "time": "22:00:00",
             "date": "27/11",
-            "blv": "Cầy",
+            "blv": "Chồn",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -2108,7 +2108,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35374571_a8f69b6c_20261127.png?v=a8f69b6c",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36374572_5b164909_20261127.png?v=5b164909",
             "width": 1600,
             "height": 1200
           }
@@ -3549,6 +3549,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36808271_ab474d8b_20261127.png?v=ab474d8b",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-285834903d",
+          "name": "Italy vs Czechia | 22:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-285834903d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-285834903d",
+                  "name": "Italy vs Czechia",
+                  "streams": [
+                    {
+                      "id": "st-285834903d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4810572bca",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795765205_hd/1795765205_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Davis Cup ",
+            "team_a": "Italy",
+            "team_b": "Czechia",
+            "logo_a": "https://static.flashscore.com/res/image/data/zgZ3N3Yg-KfXjzrxU.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/UH0CqZdM-b1xaMyVe.png",
+            "time": "22:00:00",
+            "date": "27/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fb774kaellj7_c64fb448_20261127.png?v=c64fb448",
             "width": 1600,
             "height": 1200
           }
