@@ -3563,6 +3563,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-47ef99d897",
+          "name": "Hungkuk Nữ vs GS Caltex Nữ | 17:00 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-47ef99d897",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-47ef99d897",
+                  "name": "Hungkuk Nữ vs GS Caltex Nữ",
+                  "streams": [
+                    {
+                      "id": "st-47ef99d897",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-387dde5a43",
+                          "name": "Sún",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795763714_hd/1795763714_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hàn Quốc Volleyball League Nữ",
+            "team_a": "Hungkuk Nữ",
+            "team_b": "GS Caltex Nữ",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdWFgznUzv9C07Ur7Fv0RCwLOOSDRKOCctZNSxlUz81DUtGlzwWmNcnY&s=10",
+            "logo_b": "https://static.flashscore.com/res/image/data/EXtx7sXg-EL2iNWK6.png",
+            "time": "17:00:00",
+            "date": "27/11",
+            "blv": "Sún",
+            "is_live": false,
+            "cate_type": "bongchuyen"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/u1kozre36u6b_c6300f27_20261127.png?v=c6300f27",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-514fe89e18",
           "name": "Ageo Nữ vs Gunma Greenwings Nữ | 11:05 28/11",
           "type": "single",
@@ -3869,6 +3941,78 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "gv-7ee8a1960a",
+          "name": "ONE Friday Fights 180 vs The Inner Circle 40 | 18:30 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7ee8a1960a",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7ee8a1960a",
+                  "name": "ONE Friday Fights 180 vs The Inner Circle 40",
+                  "streams": [
+                    {
+                      "id": "st-7ee8a1960a",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-de0c9eae44",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795763836_hd/1795763836_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ONE Friday Fights 180 & The Inner Circle 40",
+            "team_a": "ONE Friday Fights 180",
+            "team_b": "The Inner Circle 40",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV5gsjYdj9UxH7eBP5AL1IfOU8uuD78iA3bAPUWi5-wYTbv9dOxTT-XAlp&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWg_4ADStvsOVfzU7oG1qMUvoiZcLcOmoR84wUMJAdt4Zo8wG1rutqCU&s=10",
+            "time": "18:30:00",
+            "date": "27/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "vothuat"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/0f87110f7bu6_7311f2c5_20261127.png?v=7311f2c5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-2e1dfa8722",
           "name": "WWE Survivor Series: WarGames 2026 vs WWE Survivor Series: WarGames 2026 | 06:00 29/11",
           "type": "single",
@@ -4017,6 +4161,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9gzt1wkvw7yu_603d2bdc_20261127.png?v=603d2bdc",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_duaxe",
+      "name": "🏎️ Đua Xe",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-9d5e4abe0e",
+          "name": "Qatar Grand Prix vs F1 | 20:30 27/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9d5e4abe0e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9d5e4abe0e",
+                  "name": "Qatar Grand Prix vs F1",
+                  "streams": [
+                    {
+                      "id": "st-9d5e4abe0e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-acbdbd0283",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795763925_hd/1795763925_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Qatar Grand Prix",
+            "team_a": "Qatar Grand Prix",
+            "team_b": "F1",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwVRfpBT1xZ4-Qh9FQR-tvhN7ih7qx8spRn_5uElTQ96mujkdFzFztygP&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJcqPgRxrA-XYzY0L2RSjpG9p8wsk0KqdEOTq9vdiEfTt-XqSXrYELAU&s=10",
+            "time": "20:30:00",
+            "date": "27/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "duaxe"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/z9qej9grmd4u_58598d19_20261127.png?v=58598d19",
             "width": 1600,
             "height": 1200
           }
