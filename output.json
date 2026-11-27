@@ -2639,83 +2639,11 @@
     },
     {
       "id": "cate_rugby",
-      "name": "🏅 Thể Thao (1 LIVE)",
+      "name": "🏅 Thể Thao",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-69c097618c",
-          "name": "Kansas City Chiefs vs Buffalo Bills | 08:20 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-69c097618c",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-69c097618c",
-                  "name": "Kansas City Chiefs vs Buffalo Bills",
-                  "streams": [
-                    {
-                      "id": "st-69c097618c",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-30d7730e90",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795678006_hd/1795678006_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "NFL",
-            "team_a": "Kansas City Chiefs",
-            "team_b": "Buffalo Bills",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/UVLlczXJQ1wxxKMT9ShJQw_96x96.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/t-WvhVQI8fKZliuPz7RLKQ_96x96.png",
-            "time": "08:20:00",
-            "date": "27/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "rugby"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/7wf0yhgmvyp4_b0367673_20261127.png?v=b0367673",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-25d9e0334d",
           "name": "Denver Broncos vs Pittsburgh Steelers | 03:00 28/11",
