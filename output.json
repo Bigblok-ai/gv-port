@@ -2070,83 +2070,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (2 LIVE)",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-11f12f4500",
-          "name": "Kazakhstan vs Kuwait | 22:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-11f12f4500",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-11f12f4500",
-                  "name": "Kazakhstan vs Kuwait",
-                  "streams": [
-                    {
-                      "id": "st-11f12f4500",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0f48cbb796",
-                          "name": "Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795765235_hd/1795765235_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asia Cup Qualifiers",
-            "team_a": "Kazakhstan",
-            "team_b": "Kuwait",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/6235a0c4a7cfbaac7d93363980995b88.jpg",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/32b8f5bfe059d6037af184154177dec0.gif",
-            "time": "22:00:00",
-            "date": "27/11",
-            "blv": "Chồn",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36374572_5b164909_20261128.png?v=5b164909",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-e038704600",
           "name": "Estonia vs France | 00:00 28/11",
