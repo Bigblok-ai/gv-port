@@ -3291,7 +3291,25 @@
                     {
                       "id": "st-5f20196ea1",
                       "name": "GV",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1240ea685a",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795575565_hd/1795575565_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
                     }
                   ]
                 }
@@ -3306,7 +3324,7 @@
             "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6235a0c4a7cfbaac7d93363980995b88.jpg",
             "time": "15:00:00",
             "date": "28/11",
-            "blv": "",
+            "blv": "Ngu",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -3764,83 +3782,11 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền (1 LIVE)",
+      "name": "🏐 Bóng Chuyền",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-47ef99d897",
-          "name": "Hungkuk Nữ vs GS Caltex Nữ | 17:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-47ef99d897",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-47ef99d897",
-                  "name": "Hungkuk Nữ vs GS Caltex Nữ",
-                  "streams": [
-                    {
-                      "id": "st-47ef99d897",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-387dde5a43",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795763714_hd/1795763714_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hàn Quốc Volleyball League Nữ",
-            "team_a": "Hungkuk Nữ",
-            "team_b": "GS Caltex Nữ",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdWFgznUzv9C07Ur7Fv0RCwLOOSDRKOCctZNSxlUz81DUtGlzwWmNcnY&s=10",
-            "logo_b": "https://static.flashscore.com/res/image/data/EXtx7sXg-EL2iNWK6.png",
-            "time": "17:00:00",
-            "date": "27/11",
-            "blv": "Sún",
-            "is_live": true,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/u1kozre36u6b_c6300f27_20261127.png?v=c6300f27",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-514fe89e18",
           "name": "Ageo Nữ vs Gunma Greenwings Nữ | 11:05 28/11",
@@ -3989,83 +3935,11 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport (1 LIVE)",
+      "name": "🎮 Esport",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-004cafd220",
-          "name": "PGL Major Stage 1 vs Swiss Round 5 | 13:00 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-004cafd220",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-004cafd220",
-                  "name": "PGL Major Stage 1 vs Swiss Round 5",
-                  "streams": [
-                    {
-                      "id": "st-004cafd220",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-468506723c",
-                          "name": "Mickey",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795677884_hd/1795677884_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "PGL Major Singapore 2026 Stage 1",
-            "team_a": "PGL Major Stage 1",
-            "team_b": "Swiss Round 5",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHZNdOwvIhT7HUflJeW9vcNqgQtpWq2K-ibx6QSUVtQ&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaHZNdOwvIhT7HUflJeW9vcNqgQtpWq2K-ibx6QSUVtQ&s=10",
-            "time": "13:00:00",
-            "date": "27/11",
-            "blv": "Mickey",
-            "is_live": true,
-            "cate_type": "esport"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/l3hud0zaynyv_0f11c148_20261127.png?v=0f11c148",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-803033910e",
           "name": "Pittsburgh Penguins vs Buffalo Sabres | 08:00 28/11",
