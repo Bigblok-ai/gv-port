@@ -4212,83 +4212,11 @@
     },
     {
       "id": "cate_duaxe",
-      "name": "🏎️ Đua Xe (1 LIVE)",
+      "name": "🏎️ Đua Xe",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-9d5e4abe0e",
-          "name": "Qatar Grand Prix vs F1 | 20:30 27/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-9d5e4abe0e",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-9d5e4abe0e",
-                  "name": "Qatar Grand Prix vs F1",
-                  "streams": [
-                    {
-                      "id": "st-9d5e4abe0e",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-acbdbd0283",
-                          "name": "Ngu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795763925_hd/1795763925_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Qatar Grand Prix",
-            "team_a": "Qatar Grand Prix",
-            "team_b": "F1",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYwVRfpBT1xZ4-Qh9FQR-tvhN7ih7qx8spRn_5uElTQ96mujkdFzFztygP&s=10",
-            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJcqPgRxrA-XYzY0L2RSjpG9p8wsk0KqdEOTq9vdiEfTt-XqSXrYELAU&s=10",
-            "time": "20:30:00",
-            "date": "27/11",
-            "blv": "Ngu",
-            "is_live": true,
-            "cate_type": "duaxe"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/z9qej9grmd4u_58598d19_20261127.png?v=58598d19",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-7aeb677e07",
           "name": "Qatar vs Grand Prix | 00:00 28/11",
