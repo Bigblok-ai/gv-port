@@ -1959,6 +1959,150 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-c0c0cb3fbc",
+          "name": "Hà Nội vs Hồng Lĩnh Hà Tĩnh | 19:15 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c0c0cb3fbc",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c0c0cb3fbc",
+                  "name": "Hà Nội vs Hồng Lĩnh Hà Tĩnh",
+                  "streams": [
+                    {
+                      "id": "st-c0c0cb3fbc",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a6aa1fbf47",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574441_hd/1795574441_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "Hà Nội",
+            "team_b": "Hồng Lĩnh Hà Tĩnh",
+            "logo_a": "https://images.keovip88.net/images/teams/hanoi-fc.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hong-linh-ha-tinh.png",
+            "time": "19:15:00",
+            "date": "28/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dce24d46db870537f6b_3f83112f_20261127.png?v=3f83112f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7fee3f83a1",
+          "name": "Al-Hazm vs Al-Nassr FC | 19:15 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7fee3f83a1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7fee3f83a1",
+                  "name": "Al-Hazm vs Al-Nassr FC",
+                  "streams": [
+                    {
+                      "id": "st-7fee3f83a1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-59e863533f",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574405_hd/1795574405_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Ả Rập Xê Út",
+            "team_a": "Al-Hazm",
+            "team_b": "Al-Nassr FC",
+            "logo_a": "https://images.keovip88.net/images/teams/al-hazm.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-nassr.png",
+            "time": "19:15:00",
+            "date": "28/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae28cd624d46db87027b4871_3bfcff20_20261127.png?v=3bfcff20",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
