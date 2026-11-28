@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (5 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -89,6 +89,294 @@
           }
         },
         {
+          "id": "gv-346e830cd7",
+          "name": "Than Quảng Ninh vs TP Hồ Chí Minh | 18:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-346e830cd7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-346e830cd7",
+                  "name": "Than Quảng Ninh vs TP Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-346e830cd7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1adfaf0da1",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574153_hd/1795574153_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Việt Nam",
+            "team_a": "Than Quảng Ninh",
+            "team_b": "TP Hồ Chí Minh",
+            "logo_a": "https://images.keovip88.net/images/teams/than-quang-ninh.gif",
+            "logo_b": "https://static.flashscore.com/res/image/data/fPw2LdwS-tzyuYrQF.png",
+            "time": "18:00:00",
+            "date": "28/11",
+            "blv": "Mù",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcd24d46db870537dd7_9b623435_20261128.png?v=9b623435",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-cce7f9f8b6",
+          "name": "Bình Định vs Khánh Hòa | 18:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cce7f9f8b6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cce7f9f8b6",
+                  "name": "Bình Định vs Khánh Hòa",
+                  "streams": [
+                    {
+                      "id": "st-cce7f9f8b6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-05d309c8bd",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574386_hd/1795574386_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Việt Nam",
+            "team_a": "Bình Định",
+            "team_b": "Khánh Hòa",
+            "logo_a": "https://images.keovip88.net/images/teams/binh-dinh.png",
+            "logo_b": "https://images.keovip88.net/images/teams/khatoco-khanh-hoa.png",
+            "time": "18:00:00",
+            "date": "28/11",
+            "blv": "Hấu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcd24d46db870537e8c_c737877f_20261128.png?v=c737877f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-de3f57ed94",
+          "name": "TDTT Bac Ninh vs SHB Đà Nẵng | 18:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-de3f57ed94",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-de3f57ed94",
+                  "name": "TDTT Bac Ninh vs SHB Đà Nẵng",
+                  "streams": [
+                    {
+                      "id": "st-de3f57ed94",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a630f4fbd8",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574313_hd/1795574313_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "TDTT Bac Ninh",
+            "team_b": "SHB Đà Nẵng",
+            "logo_a": "https://images.keovip88.net/images/teams/tdtt-bac-ninh.PNG",
+            "logo_b": "https://images.keovip88.net/images/teams/da-nang.png",
+            "time": "18:00:00",
+            "date": "28/11",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcd24d46db870537e20_a6b65a12_20261128.png?v=a6b65a12",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-32c39fe2af",
+          "name": "TP Hồ Chí Minh vs Hoàng Anh Gia Lai | 18:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-32c39fe2af",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-32c39fe2af",
+                  "name": "TP Hồ Chí Minh vs Hoàng Anh Gia Lai",
+                  "streams": [
+                    {
+                      "id": "st-32c39fe2af",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-aeb4338a5d",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574339_hd/1795574339_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "V-League",
+            "team_a": "TP Hồ Chí Minh",
+            "team_b": "Hoàng Anh Gia Lai",
+            "logo_a": "https://static.flashscore.com/res/image/data/Cf2X2OAr-pnSvBhcE.png",
+            "logo_b": "https://images.keovip88.net/images/teams/hoang-anh-gia-lai.png",
+            "time": "18:00:00",
+            "date": "28/11",
+            "blv": "Bee",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcd24d46db870537e26_be145cb5_20261128.png?v=be145cb5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-ac834af1ed",
           "name": "Cao Su Đồng Tháp vs Becamex Bình Dương | 16:00 28/11",
           "type": "single",
@@ -161,8 +449,8 @@
           }
         },
         {
-          "id": "gv-346e830cd7",
-          "name": "Than Quảng Ninh vs TP Hồ Chí Minh | 18:00 28/11",
+          "id": "gv-7fee3f83a1",
+          "name": "Al-Hazm vs Al-Nassr FC | 19:15 28/11",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -176,23 +464,23 @@
           ],
           "sources": [
             {
-              "id": "src-346e830cd7",
+              "id": "src-7fee3f83a1",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-346e830cd7",
-                  "name": "Than Quảng Ninh vs TP Hồ Chí Minh",
+                  "id": "ct-7fee3f83a1",
+                  "name": "Al-Hazm vs Al-Nassr FC",
                   "streams": [
                     {
-                      "id": "st-346e830cd7",
+                      "id": "st-7fee3f83a1",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-1adfaf0da1",
-                          "name": "Mù",
+                          "id": "lnk-59e863533f",
+                          "name": "Trĩ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574153_hd/1795574153_hd@720p.m3u8",
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574405_hd/1795574405_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -212,14 +500,14 @@
             }
           ],
           "org_metadata": {
-            "league": "Hạng Nhất Việt Nam",
-            "team_a": "Than Quảng Ninh",
-            "team_b": "TP Hồ Chí Minh",
-            "logo_a": "https://images.keovip88.net/images/teams/than-quang-ninh.gif",
-            "logo_b": "https://static.flashscore.com/res/image/data/fPw2LdwS-tzyuYrQF.png",
-            "time": "18:00:00",
+            "league": "VĐQG Ả Rập Xê Út",
+            "team_a": "Al-Hazm",
+            "team_b": "Al-Nassr FC",
+            "logo_a": "https://images.keovip88.net/images/teams/al-hazm.png",
+            "logo_b": "https://images.keovip88.net/images/teams/al-nassr.png",
+            "time": "19:15:00",
             "date": "28/11",
-            "blv": "Mù",
+            "blv": "Trĩ",
             "is_live": false,
             "cate_type": "football"
           },
@@ -227,223 +515,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcd24d46db870537dd7_9b623435_20261128.png?v=9b623435",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-cce7f9f8b6",
-          "name": "Bình Định vs Khánh Hòa | 18:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-cce7f9f8b6",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-cce7f9f8b6",
-                  "name": "Bình Định vs Khánh Hòa",
-                  "streams": [
-                    {
-                      "id": "st-cce7f9f8b6",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-05d309c8bd",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574386_hd/1795574386_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng Nhất Việt Nam",
-            "team_a": "Bình Định",
-            "team_b": "Khánh Hòa",
-            "logo_a": "https://images.keovip88.net/images/teams/binh-dinh.png",
-            "logo_b": "https://images.keovip88.net/images/teams/khatoco-khanh-hoa.png",
-            "time": "18:00:00",
-            "date": "28/11",
-            "blv": "Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcd24d46db870537e8c_c737877f_20261128.png?v=c737877f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-de3f57ed94",
-          "name": "TDTT Bac Ninh vs SHB Đà Nẵng | 18:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-de3f57ed94",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-de3f57ed94",
-                  "name": "TDTT Bac Ninh vs SHB Đà Nẵng",
-                  "streams": [
-                    {
-                      "id": "st-de3f57ed94",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a630f4fbd8",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574313_hd/1795574313_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V-League",
-            "team_a": "TDTT Bac Ninh",
-            "team_b": "SHB Đà Nẵng",
-            "logo_a": "https://images.keovip88.net/images/teams/tdtt-bac-ninh.PNG",
-            "logo_b": "https://images.keovip88.net/images/teams/da-nang.png",
-            "time": "18:00:00",
-            "date": "28/11",
-            "blv": "Súp",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcd24d46db870537e20_a6b65a12_20261128.png?v=a6b65a12",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-32c39fe2af",
-          "name": "TP Hồ Chí Minh vs Hoàng Anh Gia Lai | 18:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-32c39fe2af",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-32c39fe2af",
-                  "name": "TP Hồ Chí Minh vs Hoàng Anh Gia Lai",
-                  "streams": [
-                    {
-                      "id": "st-32c39fe2af",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aeb4338a5d",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574339_hd/1795574339_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "V-League",
-            "team_a": "TP Hồ Chí Minh",
-            "team_b": "Hoàng Anh Gia Lai",
-            "logo_a": "https://static.flashscore.com/res/image/data/Cf2X2OAr-pnSvBhcE.png",
-            "logo_b": "https://images.keovip88.net/images/teams/hoang-anh-gia-lai.png",
-            "time": "18:00:00",
-            "date": "28/11",
-            "blv": "Bee",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcd24d46db870537e26_be145cb5_20261128.png?v=be145cb5",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae28cd624d46db87027b4871_3bfcff20_20261128.png?v=3bfcff20",
             "width": 1600,
             "height": 1200
           }
@@ -516,78 +588,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dce24d46db870537f6b_3f83112f_20261128.png?v=3f83112f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-7fee3f83a1",
-          "name": "Al-Hazm vs Al-Nassr FC | 19:15 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7fee3f83a1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7fee3f83a1",
-                  "name": "Al-Hazm vs Al-Nassr FC",
-                  "streams": [
-                    {
-                      "id": "st-7fee3f83a1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-59e863533f",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574405_hd/1795574405_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Ả Rập Xê Út",
-            "team_a": "Al-Hazm",
-            "team_b": "Al-Nassr FC",
-            "logo_a": "https://images.keovip88.net/images/teams/al-hazm.png",
-            "logo_b": "https://images.keovip88.net/images/teams/al-nassr.png",
-            "time": "19:15:00",
-            "date": "28/11",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ae28cd624d46db87027b4871_3bfcff20_20261128.png?v=3bfcff20",
             "width": 1600,
             "height": 1200
           }
@@ -2070,7 +2070,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ",
+      "name": "🏀 Bóng Rổ (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2083,10 +2083,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -2135,7 +2135,7 @@
             "time": "18:00:00",
             "date": "28/11",
             "blv": "Ngu",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -3303,7 +3303,7 @@
     },
     {
       "id": "cate_tennis",
-      "name": "🎾 Tennis",
+      "name": "🎾 Tennis (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -3316,10 +3316,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -3368,7 +3368,7 @@
             "time": "18:00:00",
             "date": "28/11",
             "blv": "Ben",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "tennis"
           },
           "image": {
