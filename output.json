@@ -1921,6 +1921,438 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-1c35d3b16b",
+          "name": "VfB Stuttgart vs Eintracht Frankfurt | 00:30 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1c35d3b16b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1c35d3b16b",
+                  "name": "VfB Stuttgart vs Eintracht Frankfurt",
+                  "streams": [
+                    {
+                      "id": "st-1c35d3b16b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0771f073a6",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795842296_hd/1795842296_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "VfB Stuttgart",
+            "team_b": "Eintracht Frankfurt",
+            "logo_a": "https://images.keovip88.net/images/teams/vfb-stuttgart.png",
+            "logo_b": "https://images.keovip88.net/images/teams/eintracht-frankfurt.png",
+            "time": "00:30:00",
+            "date": "29/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6b00df4024d46db87041c68d_8bb37c03_20261128.png?v=8bb37c03",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-dac118b2b6",
+          "name": "Elche vs Atletico Madrid | 00:30 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dac118b2b6",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-dac118b2b6",
+                  "name": "Elche vs Atletico Madrid",
+                  "streams": [
+                    {
+                      "id": "st-dac118b2b6",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1718f6118c",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795842317_hd/1795842317_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Elche",
+            "team_b": "Atletico Madrid",
+            "logo_a": "https://images.keovip88.net/images/teams/elche.png",
+            "logo_b": "https://images.keovip88.net/images/teams/atletico-madrid.png",
+            "time": "00:30:00",
+            "date": "29/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f075f_8ddd6229_20261128.png?v=8ddd6229",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-21dfaafbc3",
+          "name": "Inter Milan vs Genoa | 02:45 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-21dfaafbc3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-21dfaafbc3",
+                  "name": "Inter Milan vs Genoa",
+                  "streams": [
+                    {
+                      "id": "st-21dfaafbc3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-54cecbb5c5",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795842338_hd/1795842338_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Inter Milan",
+            "team_b": "Genoa",
+            "logo_a": "https://images.keovip88.net/images/teams/inter-milan.png",
+            "logo_b": "https://images.keovip88.net/images/teams/genoa.png",
+            "time": "02:45:00",
+            "date": "29/11",
+            "blv": "Bee",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6b00df4124d46db87041cc4b_c70ba4db_20261128.png?v=c70ba4db",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8c67171d6f",
+          "name": "Le Mans vs Lille OSC | 02:45 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8c67171d6f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8c67171d6f",
+                  "name": "Le Mans vs Lille OSC",
+                  "streams": [
+                    {
+                      "id": "st-8c67171d6f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4dcb933514",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795842360_hd/1795842360_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Le Mans",
+            "team_b": "Lille OSC",
+            "logo_a": "https://images.keovip88.net/images/teams/le-mans.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lille.png",
+            "time": "02:45:00",
+            "date": "29/11",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6b00df4124d46db87041cc89_fc4a02ad_20261128.png?v=fc4a02ad",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ee5c95b933",
+          "name": "Paris Saint Germain vs Lorient | 02:45 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ee5c95b933",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ee5c95b933",
+                  "name": "Paris Saint Germain vs Lorient",
+                  "streams": [
+                    {
+                      "id": "st-ee5c95b933",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bdeb4b1a5a",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795842382_hd/1795842382_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ligue 1",
+            "team_a": "Paris Saint Germain",
+            "team_b": "Lorient",
+            "logo_a": "https://images.keovip88.net/images/teams/paris-saint-germain-psg.png",
+            "logo_b": "https://images.keovip88.net/images/teams/lorient.png",
+            "time": "02:45:00",
+            "date": "29/11",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6b00df4124d46db87041ccc4_25412762_20261128.png?v=25412762",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7d73578f05",
+          "name": "Real Madrid vs Alaves | 03:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7d73578f05",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7d73578f05",
+                  "name": "Real Madrid vs Alaves",
+                  "streams": [
+                    {
+                      "id": "st-7d73578f05",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d76ab1738d",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795842397_hd/1795842397_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Real Madrid",
+            "team_b": "Alaves",
+            "logo_a": "https://images.keovip88.net/images/teams/real-madrid.png",
+            "logo_b": "https://images.keovip88.net/images/teams/alaves.png",
+            "time": "03:00:00",
+            "date": "29/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6ab1e5bce5e6975d550f0760_c936c485_20261128.png?v=c936c485",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
