@@ -2974,6 +2974,159 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-bbc18b2915",
+          "name": "Trung Quốc vs Nicaragua | 17:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bbc18b2915",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bbc18b2915",
+                  "name": "Trung Quốc vs Nicaragua",
+                  "streams": [
+                    {
+                      "id": "st-bbc18b2915",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f6645604fe",
+                          "name": "Cận",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795838526_hd/1795838526_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Vòng loại Premier 12",
+            "team_a": "Trung Quốc",
+            "team_b": "Nicaragua",
+            "logo_a": "https://static.flashscore.com/res/image/data/6VLy61Ea-QDuM2WrS.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/xQVzpnyB-KSdNlW5m.png",
+            "time": "17:30:00",
+            "date": "28/11",
+            "blv": "Cận",
+            "is_live": false,
+            "cate_type": "bongchay"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/bpv46k8jkh95_1d4bf0df_20261128.png?v=1d4bf0df",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_duaxe",
+      "name": "🏎️ Đua Xe",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-7aeb677e07",
+          "name": "Qatar vs Grand Prix | 21:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7aeb677e07",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7aeb677e07",
+                  "name": "Qatar vs Grand Prix",
+                  "streams": [
+                    {
+                      "id": "st-7aeb677e07",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3d70268ed1",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795792473_hd/1795792473_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "F1",
+            "team_a": "Qatar",
+            "team_b": "Grand Prix",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ihomSoN70duyfMlEESNOZgzBajiH7TPKkBbYO7PsGboV8MT09I3xjxV4&s=10",
+            "logo_b": "https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/0f7d57c3-6f0e-436b-951a-17425b25fabb.jpeg",
+            "time": "21:30:00",
+            "date": "28/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "duaxe"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/vhycl2qv9oy6_c7fb56e1_20261128.png?v=c7fb56e1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     }
