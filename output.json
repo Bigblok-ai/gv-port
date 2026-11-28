@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (4 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-452305a00d",
-          "name": "Kyoto Sanga vs Cerezo Osaka | 12:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-452305a00d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-452305a00d",
-                  "name": "Kyoto Sanga vs Cerezo Osaka",
-                  "streams": [
-                    {
-                      "id": "st-452305a00d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-af3be55945",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795755288_hd/1795755288_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Kyoto Sanga",
-            "team_b": "Cerezo Osaka",
-            "logo_a": "https://images.keovip88.net/images/teams/kyoto-sanga.png",
-            "logo_b": "https://images.keovip88.net/images/teams/cerezo-osaka.png",
-            "time": "12:00:00",
-            "date": "28/11",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c56_0cc4e9be_20261128.png?v=0cc4e9be",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-87893d3d63",
           "name": "Vissel Kobe vs JEF United Ichihara | 13:00 28/11",
