@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -161,6 +161,78 @@
           }
         },
         {
+          "id": "gv-87893d3d63",
+          "name": "Vissel Kobe vs JEF United Ichihara | 13:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-87893d3d63",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-87893d3d63",
+                  "name": "Vissel Kobe vs JEF United Ichihara",
+                  "streams": [
+                    {
+                      "id": "st-87893d3d63",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-015d770f3c",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795755766_hd/1795755766_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Vissel Kobe",
+            "team_b": "JEF United Ichihara",
+            "logo_a": "https://images.keovip88.net/images/teams/vissel-kobe.png",
+            "logo_b": "https://images.keovip88.net/images/teams/jef-united-ichihara-chiba.png",
+            "time": "13:00:00",
+            "date": "28/11",
+            "blv": "Mù",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c93_c2af5f18_20261128.png?v=c2af5f18",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-8142e6ebfe",
           "name": "Kashima Antlers vs Okayama FC | 13:00 28/11",
           "type": "single",
@@ -228,78 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c8b_dd1a851c_20261128.png?v=dd1a851c",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-87893d3d63",
-          "name": "Vissel Kobe vs JEF United Ichihara | 13:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-87893d3d63",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-87893d3d63",
-                  "name": "Vissel Kobe vs JEF United Ichihara",
-                  "streams": [
-                    {
-                      "id": "st-87893d3d63",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-015d770f3c",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795755766_hd/1795755766_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Vissel Kobe",
-            "team_b": "JEF United Ichihara",
-            "logo_a": "https://images.keovip88.net/images/teams/vissel-kobe.png",
-            "logo_b": "https://images.keovip88.net/images/teams/jef-united-ichihara-chiba.png",
-            "time": "13:00:00",
-            "date": "28/11",
-            "blv": "Mù",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c93_c2af5f18_20261128.png?v=c2af5f18",
             "width": 1600,
             "height": 1200
           }
