@@ -3987,83 +3987,11 @@
     },
     {
       "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày (1 LIVE)",
+      "name": "⚾ Bóng Chày",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-7d01d19221",
-          "name": "Vương quốc Anh vs Cộng hòa Séc | 11:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7d01d19221",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7d01d19221",
-                  "name": "Vương quốc Anh vs Cộng hòa Séc",
-                  "streams": [
-                    {
-                      "id": "st-7d01d19221",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fe4a4e06b1",
-                          "name": "Cận",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795757228_hd/1795757228_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Vòng loại Premier 12",
-            "team_a": "Vương quốc Anh",
-            "team_b": "Cộng hòa Séc",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg?utm_source=vi.wikipedia.org&utm_campaign=index&utm_content=original",
-            "logo_b": "https://static.flashscore.com/res/image/data/UH0CqZdM-b1xaMyVe.png",
-            "time": "11:00:00",
-            "date": "28/11",
-            "blv": "Cận",
-            "is_live": true,
-            "cate_type": "bongchay"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/9gzt1wkvw7yu_603d2bdc_20261128.png?v=603d2bdc",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-bbc18b2915",
           "name": "Trung Quốc vs Nicaragua | 17:30 28/11",
