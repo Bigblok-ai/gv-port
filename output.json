@@ -2065,6 +2065,78 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-3272c9a256",
+          "name": "Udinese vs Fiorentina | 18:30 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3272c9a256",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3272c9a256",
+                  "name": "Udinese vs Fiorentina",
+                  "streams": [
+                    {
+                      "id": "st-3272c9a256",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3fb780aec6",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574862_hd/1795574862_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Udinese",
+            "team_b": "Fiorentina",
+            "logo_a": "https://images.keovip88.net/images/teams/udinese.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fiorentina.png",
+            "time": "18:30:00",
+            "date": "29/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6b00df4524d46db87041d6e1_aedb0f45_20261128.png?v=aedb0f45",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
