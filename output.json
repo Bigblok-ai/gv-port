@@ -3100,6 +3100,294 @@
             "width": 1600,
             "height": 1200
           }
+        },
+        {
+          "id": "gv-cce94cb669",
+          "name": "PGL Major Stage 2 vs Stream A Ca 1 | 11:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-cce94cb669",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-cce94cb669",
+                  "name": "PGL Major Stage 2 vs Stream A Ca 1",
+                  "streams": [
+                    {
+                      "id": "st-cce94cb669",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-b640b3c3c3",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795826479_hd/1795826479_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PGL Major Singapore 2026 Stage 2",
+            "team_a": "PGL Major Stage 2",
+            "team_b": "Stream A Ca 1",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "time": "11:00:00",
+            "date": "28/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/2n3zed5z3iav_be0e0da1_20261128.png?v=be0e0da1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-0407562029",
+          "name": "PGL Major Stage 2 vs Stream B Ca 1 | 11:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-0407562029",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-0407562029",
+                  "name": "PGL Major Stage 2 vs Stream B Ca 1",
+                  "streams": [
+                    {
+                      "id": "st-0407562029",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-0d3a19ff66",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795826610_hd/1795826610_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PGL Major Singapore 2026 Stage 2",
+            "team_a": "PGL Major Stage 2",
+            "team_b": "Stream B Ca 1",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "time": "11:00:00",
+            "date": "28/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/twavvh5u0n6l_be0e0da1_20261128.png?v=be0e0da1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e593544f31",
+          "name": "PGL Major Stage 2 vs Stream A Ca 2 | 13:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e593544f31",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e593544f31",
+                  "name": "PGL Major Stage 2 vs Stream A Ca 2",
+                  "streams": [
+                    {
+                      "id": "st-e593544f31",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c204298f75",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795826536_hd/1795826536_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PGL Major Singapore 2026 Stage 2",
+            "team_a": "PGL Major Stage 2",
+            "team_b": "Stream A Ca 2",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "time": "13:00:00",
+            "date": "28/11",
+            "blv": "Mickey",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/hh0pbxybj3yp_be0e0da1_20261128.png?v=be0e0da1",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-698bebb88e",
+          "name": "PGL Major Stage 2 vs Stream B Ca 2 | 13:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-698bebb88e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-698bebb88e",
+                  "name": "PGL Major Stage 2 vs Stream B Ca 2",
+                  "streams": [
+                    {
+                      "id": "st-698bebb88e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25b310bf34",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795826660_hd/1795826660_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "PGL Major Singapore 2026 Stage 2",
+            "team_a": "PGL Major Stage 2",
+            "team_b": "Stream B Ca 2",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL-WlPWu_yrR_V6uGF0D5nV2gj059g3-4WWcq0xCagQA&s=10",
+            "time": "13:00:00",
+            "date": "28/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/cpm6reoa6w52_be0e0da1_20261128.png?v=be0e0da1",
+            "width": 1600,
+            "height": 1200
+          }
         }
       ]
     },
