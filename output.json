@@ -1169,6 +1169,78 @@
           }
         },
         {
+          "id": "gv-336320d3b5",
+          "name": "Koln vs SV Elversberg | 21:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-336320d3b5",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-336320d3b5",
+                  "name": "Koln vs SV Elversberg",
+                  "streams": [
+                    {
+                      "id": "st-336320d3b5",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cc7f4c7087",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795839105_hd/1795839105_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Koln",
+            "team_b": "SV Elversberg",
+            "logo_a": "https://images.keovip88.net/images/teams/fc-koln.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sv-elversberg.png",
+            "time": "21:30:00",
+            "date": "28/11",
+            "blv": "Trĩ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dd124d46db870538415_944c39ac_20261128.png?v=944c39ac",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-5bd58ea088",
           "name": "SC Paderborn 07 vs Schalke 04 | 21:30 28/11",
           "type": "single",
@@ -1355,13 +1427,68 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
-                        },
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Hamburger",
+            "team_b": "Bayern Munich",
+            "logo_a": "https://images.keovip88.net/images/teams/hamburger-sv.png",
+            "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen.png",
+            "time": "21:30:00",
+            "date": "28/11",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dd124d46db87053841d_4a661902_20261128.png?v=4a661902",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4405bb4c75",
+          "name": "West Ham United vs Stoke City | 22:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4405bb4c75",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4405bb4c75",
+                  "name": "West Ham United vs Stoke City",
+                  "streams": [
+                    {
+                      "id": "st-4405bb4c75",
+                      "name": "GV",
+                      "stream_links": [
                         {
-                          "id": "lnk-d776577685",
-                          "name": "Nem",
+                          "id": "lnk-5fdc7702b3",
+                          "name": "Tèo",
                           "type": "hls",
-                          "default": false,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795574582_hd/1795574582_hd@720p.m3u8",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795839225_hd/1795839225_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1381,14 +1508,14 @@
             }
           ],
           "org_metadata": {
-            "league": "Bundesliga",
-            "team_a": "Hamburger",
-            "team_b": "Bayern Munich",
-            "logo_a": "https://images.keovip88.net/images/teams/hamburger-sv.png",
-            "logo_b": "https://images.keovip88.net/images/teams/bayern-munchen.png",
-            "time": "21:30:00",
+            "league": "Hạng Nhất Anh",
+            "team_a": "West Ham United",
+            "team_b": "Stoke City",
+            "logo_a": "https://images.keovip88.net/images/teams/west-ham-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/stoke-city.png",
+            "time": "22:00:00",
             "date": "28/11",
-            "blv": "Ngọng, Nem",
+            "blv": "Tèo",
             "is_live": false,
             "cate_type": "football"
           },
@@ -1396,7 +1523,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dd124d46db87053841d_4a661902_20261128.png?v=4a661902",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dd124d46db8705384fe_f007879d_20261128.png?v=f007879d",
             "width": 1600,
             "height": 1200
           }
@@ -1533,6 +1660,23 @@
                               "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
                             }
                           ]
+                        },
+                        {
+                          "id": "lnk-c55f5362a4",
+                          "name": "BLV Thử Việc",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795839160_hd/1795839160_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
                         }
                       ]
                     }
@@ -1549,7 +1693,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/brentford.png",
             "time": "22:00:00",
             "date": "28/11",
-            "blv": "Bee, Hấu",
+            "blv": "Bee, Hấu, BLV Thử Việc",
             "is_live": false,
             "cate_type": "football"
           },
