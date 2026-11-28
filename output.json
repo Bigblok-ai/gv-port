@@ -11,7 +11,7 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (2 LIVE)",
+      "name": "⚽ Bóng Đá (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -161,6 +161,78 @@
           }
         },
         {
+          "id": "gv-8142e6ebfe",
+          "name": "Kashima Antlers vs Okayama FC | 13:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8142e6ebfe",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8142e6ebfe",
+                  "name": "Kashima Antlers vs Okayama FC",
+                  "streams": [
+                    {
+                      "id": "st-8142e6ebfe",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cee621fc35",
+                          "name": "Tèo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795838796_hd/1795838796_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kashima Antlers",
+            "team_b": "Okayama FC",
+            "logo_a": "https://images.keovip88.net/images/teams/kashima-antlers.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fagiano-okayama.png",
+            "time": "13:00:00",
+            "date": "28/11",
+            "blv": "Tèo",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c8b_dd1a851c_20261128.png?v=dd1a851c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-87893d3d63",
           "name": "Vissel Kobe vs JEF United Ichihara | 13:00 28/11",
           "type": "single",
@@ -228,78 +300,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c93_c2af5f18_20261128.png?v=c2af5f18",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-8142e6ebfe",
-          "name": "Kashima Antlers vs Okayama FC | 13:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-8142e6ebfe",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-8142e6ebfe",
-                  "name": "Kashima Antlers vs Okayama FC",
-                  "streams": [
-                    {
-                      "id": "st-8142e6ebfe",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cee621fc35",
-                          "name": "Tèo",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795838796_hd/1795838796_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Kashima Antlers",
-            "team_b": "Okayama FC",
-            "logo_a": "https://images.keovip88.net/images/teams/kashima-antlers.png",
-            "logo_b": "https://images.keovip88.net/images/teams/fagiano-okayama.png",
-            "time": "13:00:00",
-            "date": "28/11",
-            "blv": "Tèo",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c8b_dd1a851c_20261128.png?v=dd1a851c",
             "width": 1600,
             "height": 1200
           }
@@ -4573,6 +4573,303 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/d6g97g5ilk7j_daa0a2c6_20261128.png?v=daa0a2c6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7f8dcd4869",
+          "name": "F1 vs F1 | 23:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7f8dcd4869",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7f8dcd4869",
+                  "name": "F1 vs F1",
+                  "streams": [
+                    {
+                      "id": "st-7f8dcd4869",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-5ea97e2153",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795843493_hd/1795843493_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Qatar Grand Prix",
+            "team_a": "F1",
+            "team_b": "F1",
+            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJcqPgRxrA-XYzY0L2RSjpG9p8wsk0KqdEOTq9vdiEfTt-XqSXrYELAU&s=10",
+            "logo_b": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCJcqPgRxrA-XYzY0L2RSjpG9p8wsk0KqdEOTq9vdiEfTt-XqSXrYELAU&s=10",
+            "time": "23:00:00",
+            "date": "29/11",
+            "blv": "Ngu",
+            "is_live": false,
+            "cate_type": "duaxe"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/aybbzisyzwfk_daa0a2c6_20261128.png?v=daa0a2c6",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_rugby",
+      "name": "🏅 Thể Thao",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-66594143cf",
+          "name": "Michigan Wolverines vs Ohio State Buckeyes | 00:05 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-66594143cf",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-66594143cf",
+                  "name": "Michigan Wolverines vs Ohio State Buckeyes",
+                  "streams": [
+                    {
+                      "id": "st-66594143cf",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4ead8ffcbd",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795843567_hd/1795843567_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NCAA",
+            "team_a": "Michigan Wolverines",
+            "team_b": "Ohio State Buckeyes",
+            "logo_a": "https://static.flashscore.com/res/image/data/OzMivUfM-nPZTIbUt.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/ANx9DtxS-QFYXHIqm.png",
+            "time": "00:05:00",
+            "date": "29/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/3p2g8y0os4xw_573676d8_20261128.png?v=573676d8",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8b1730f1da",
+          "name": "Miami Dolphins vs New York Jets | 01:00 30/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8b1730f1da",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8b1730f1da",
+                  "name": "Miami Dolphins vs New York Jets",
+                  "streams": [
+                    {
+                      "id": "st-8b1730f1da",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3d62407433",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795843629_hd/1795843629_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "Miami Dolphins",
+            "team_b": "New York Jets",
+            "logo_a": "https://static.flashscore.com/res/image/data/YeHJQVeM-xIzjQBUr.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/nZEMYPAr-KGE1kagO.png",
+            "time": "01:00:00",
+            "date": "30/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/fwbodzxi72ro_d46aca40_20261128.png?v=d46aca40",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e594a778d7",
+          "name": "San Francisco 49ers vs Seattle Seahawks | 04:25 30/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e594a778d7",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e594a778d7",
+                  "name": "San Francisco 49ers vs Seattle Seahawks",
+                  "streams": [
+                    {
+                      "id": "st-e594a778d7",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-46d1ca6b8a",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795843690_hd/1795843690_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "NFL",
+            "team_a": "San Francisco 49ers",
+            "team_b": "Seattle Seahawks",
+            "logo_a": "https://static.flashscore.com/res/image/data/CMor3wZg-fsiWdyRa.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/r3Fomsf5-ER5jeflb.png",
+            "time": "04:25:00",
+            "date": "30/11",
+            "blv": "Riko",
+            "is_live": false,
+            "cate_type": "rugby"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/owvblz1akd8m_cdb00f01_20261128.png?v=cdb00f01",
             "width": 1600,
             "height": 1200
           }
