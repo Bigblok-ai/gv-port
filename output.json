@@ -2508,6 +2508,150 @@
           }
         },
         {
+          "id": "gv-b31556c16d",
+          "name": "Washington Wizards vs Orlando Magic | 05:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b31556c16d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b31556c16d",
+                  "name": "Washington Wizards vs Orlando Magic",
+                  "streams": [
+                    {
+                      "id": "st-b31556c16d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-abc1459181",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795842986_hd/1795842986_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Washington Wizards",
+            "team_b": "Orlando Magic",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f4a3bba0c74c9f2b90bc5861ec26e3c7.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2566b135b0e54971193a132bd8a1473c.png",
+            "time": "05:00:00",
+            "date": "29/11",
+            "blv": "Nem",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/34838272_9b77fbc6_20261128.png?v=9b77fbc6",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-94977e3c31",
+          "name": "Charlotte Hornets vs Brooklyn Nets | 06:00 29/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-94977e3c31",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-94977e3c31",
+                  "name": "Charlotte Hornets vs Brooklyn Nets",
+                  "streams": [
+                    {
+                      "id": "st-94977e3c31",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ab5de61cdc",
+                          "name": "Điếc",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795843002_hd/1795843002_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Charlotte Hornets",
+            "team_b": "Brooklyn Nets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/9e28959b5af233b67c389787d2886c84.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c01b5e6f6659dd42195e9db3aaef13b7.png",
+            "time": "06:00:00",
+            "date": "29/11",
+            "blv": "Điếc",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35838273_75551c69_20261128.png?v=75551c69",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-1d010a34d0",
           "name": "Thailand vs Hong Kong China | 15:00 29/11",
           "type": "single",
@@ -2791,6 +2935,438 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36808271_ab474d8b_20261128.png?v=ab474d8b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-d7c50d4d59",
+          "name": "Serbia vs Italy | 01:00 30/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d7c50d4d59",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-d7c50d4d59",
+                  "name": "Serbia vs Italy",
+                  "streams": [
+                    {
+                      "id": "st-d7c50d4d59",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd83295b4e",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795843037_hd/1795843037_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup European qualifiers",
+            "team_a": "Serbia",
+            "team_b": "Italy",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/0088f5444478f4f527b2e486fd54e258.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/416be3897e748c9336d11b8d67e028fa.jpg",
+            "time": "01:00:00",
+            "date": "30/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/23308273_891eb985_20261128.png?v=891eb985",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-60d108fc2f",
+          "name": "Lebanon vs China | 02:00 30/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-60d108fc2f",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-60d108fc2f",
+                  "name": "Lebanon vs China",
+                  "streams": [
+                    {
+                      "id": "st-60d108fc2f",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-385c86c9c5",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795843070_hd/1795843070_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "World Cup Asia qualifiers",
+            "team_a": "Lebanon",
+            "team_b": "China",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/b590afd3bcec5812786b076139be86dd.jpg",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/87af165754df68d909d1c51bdfac1450.jpg",
+            "time": "02:00:00",
+            "date": "30/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/24018272_761c0179_20261128.png?v=761c0179",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-821cdbf382",
+          "name": "Cleveland Cavaliers vs Miami Heat | 03:30 30/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-821cdbf382",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-821cdbf382",
+                  "name": "Cleveland Cavaliers vs Miami Heat",
+                  "streams": [
+                    {
+                      "id": "st-821cdbf382",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-271f738dc1",
+                          "name": "Cầy",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795843103_hd/1795843103_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Cleveland Cavaliers",
+            "team_b": "Miami Heat",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d4d48671e1b8c3830897ac4f6604ea9a.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/43ebb4d6ad3ea5b68e9b1c969dff055b.png",
+            "time": "03:30:00",
+            "date": "30/11",
+            "blv": "Cầy",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31938270_350b584b_20261128.png?v=350b584b",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-399b8d83a3",
+          "name": "San Antonio Spurs vs Boston Celtics | 04:00 30/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-399b8d83a3",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-399b8d83a3",
+                  "name": "San Antonio Spurs vs Boston Celtics",
+                  "streams": [
+                    {
+                      "id": "st-399b8d83a3",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7477845b77",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795843128_hd/1795843128_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "San Antonio Spurs",
+            "team_b": "Boston Celtics",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
+            "time": "04:00:00",
+            "date": "30/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/32998277_704761eb_20261128.png?v=704761eb",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-82d3860dd0",
+          "name": "Memphis Grizzlies vs Los Angeles Lakers | 04:00 30/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-82d3860dd0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-82d3860dd0",
+                  "name": "Memphis Grizzlies vs Los Angeles Lakers",
+                  "streams": [
+                    {
+                      "id": "st-82d3860dd0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cf19125e0f",
+                          "name": "Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795843148_hd/1795843148_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Memphis Grizzlies",
+            "team_b": "Los Angeles Lakers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/1a66910c422c9a4be29bde3618ff8af5.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
+            "time": "04:00:00",
+            "date": "30/11",
+            "blv": "Chồn",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/31998276_0587e210_20261128.png?v=0587e210",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8e00983005",
+          "name": "Utah Jazz vs Phoenix Suns | 05:00 30/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8e00983005",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8e00983005",
+                  "name": "Utah Jazz vs Phoenix Suns",
+                  "streams": [
+                    {
+                      "id": "st-8e00983005",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1c9292b99f",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795843167_hd/1795843167_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Utah Jazz",
+            "team_b": "Phoenix Suns",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/6a6855785a58edb23c76c99ed6601a33.png",
+            "time": "05:00:00",
+            "date": "30/11",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/33998278_84a7295b_20261128.png?v=84a7295b",
             "width": 1600,
             "height": 1200
           }
