@@ -11,11 +11,83 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá",
+      "name": "⚽ Bóng Đá (1 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-452305a00d",
+          "name": "Kyoto Sanga vs Cerezo Osaka | 12:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-452305a00d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-452305a00d",
+                  "name": "Kyoto Sanga vs Cerezo Osaka",
+                  "streams": [
+                    {
+                      "id": "st-452305a00d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-af3be55945",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795755288_hd/1795755288_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kyoto Sanga",
+            "team_b": "Cerezo Osaka",
+            "logo_a": "https://images.keovip88.net/images/teams/kyoto-sanga.png",
+            "logo_b": "https://images.keovip88.net/images/teams/cerezo-osaka.png",
+            "time": "12:00:00",
+            "date": "28/11",
+            "blv": "Ngọng",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c56_0cc4e9be_20261128.png?v=0cc4e9be",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-9d10febdd2",
           "name": "FC Seoul vs Daejeon Citizen | 12:00 28/11",
@@ -161,78 +233,6 @@
           }
         },
         {
-          "id": "gv-452305a00d",
-          "name": "Kyoto Sanga vs Cerezo Osaka | 12:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-452305a00d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-452305a00d",
-                  "name": "Kyoto Sanga vs Cerezo Osaka",
-                  "streams": [
-                    {
-                      "id": "st-452305a00d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-af3be55945",
-                          "name": "Ngọng",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795755288_hd/1795755288_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Kyoto Sanga",
-            "team_b": "Cerezo Osaka",
-            "logo_a": "https://images.keovip88.net/images/teams/kyoto-sanga.png",
-            "logo_b": "https://images.keovip88.net/images/teams/cerezo-osaka.png",
-            "time": "12:00:00",
-            "date": "28/11",
-            "blv": "Ngọng",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c56_0cc4e9be_20261128.png?v=0cc4e9be",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
           "id": "gv-87893d3d63",
           "name": "Vissel Kobe vs JEF United Ichihara | 13:00 28/11",
           "type": "single",
@@ -300,6 +300,78 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c93_c2af5f18_20261128.png?v=c2af5f18",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8142e6ebfe",
+          "name": "Kashima Antlers vs Okayama FC | 13:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8142e6ebfe",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8142e6ebfe",
+                  "name": "Kashima Antlers vs Okayama FC",
+                  "streams": [
+                    {
+                      "id": "st-8142e6ebfe",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cee621fc35",
+                          "name": "Tèo",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795838796_hd/1795838796_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Kashima Antlers",
+            "team_b": "Okayama FC",
+            "logo_a": "https://images.keovip88.net/images/teams/kashima-antlers.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fagiano-okayama.png",
+            "time": "13:00:00",
+            "date": "28/11",
+            "blv": "Tèo",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c8b_dd1a851c_20261128.png?v=dd1a851c",
             "width": 1600,
             "height": 1200
           }
@@ -2359,6 +2431,87 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/36808271_ab474d8b_20261128.png?v=ab474d8b",
+            "width": 1600,
+            "height": 1200
+          }
+        }
+      ]
+    },
+    {
+      "id": "cate_tennis",
+      "name": "🎾 Tennis",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "gv-4874ce1533",
+          "name": "Great Britain vs Spain | 18:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4874ce1533",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4874ce1533",
+                  "name": "Great Britain vs Spain",
+                  "streams": [
+                    {
+                      "id": "st-4874ce1533",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-221418b472",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795838684_hd/1795838684_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Davis Cup",
+            "team_a": "Great Britain",
+            "team_b": "Spain",
+            "logo_a": "https://static.flashscore.com/res/image/data/0hzJepyB-8KgAhGe1.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/Od7JGXZA-0E8Iihe1.png",
+            "time": "18:00:00",
+            "date": "28/11",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "tennis"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/kmi9plnxatt0_7531be52_20261128.png?v=7531be52",
             "width": 1600,
             "height": 1200
           }
