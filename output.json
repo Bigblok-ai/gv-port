@@ -1566,7 +1566,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (7 LIVE)",
+      "name": "🏀 Bóng Rổ (8 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2076,6 +2076,78 @@
           }
         },
         {
+          "id": "gv-b885ebfcaf",
+          "name": "San Antonio Spurs vs Los Angeles Lakers | 09:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b885ebfcaf",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b885ebfcaf",
+                  "name": "San Antonio Spurs vs Los Angeles Lakers",
+                  "streams": [
+                    {
+                      "id": "st-b885ebfcaf",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-40b1f07e98",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795756238_hd/1795756238_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "San Antonio Spurs",
+            "team_b": "Los Angeles Lakers",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
+            "time": "09:30:00",
+            "date": "28/11",
+            "blv": "Ben",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49898273_5fa02d94_20261128.png?v=5fa02d94",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-1c8dd4e724",
           "name": "Portland Trail Blazers vs Golden State Warriors | 09:30 28/11",
           "type": "single",
@@ -2215,78 +2287,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/48898272_a180e9dd_20261128.png?v=a180e9dd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b885ebfcaf",
-          "name": "San Antonio Spurs vs Los Angeles Lakers | 09:30 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b885ebfcaf",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b885ebfcaf",
-                  "name": "San Antonio Spurs vs Los Angeles Lakers",
-                  "streams": [
-                    {
-                      "id": "st-b885ebfcaf",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-40b1f07e98",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795756238_hd/1795756238_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "San Antonio Spurs",
-            "team_b": "Los Angeles Lakers",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/908efbb5ed053f61540cca47cc36e7ec.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/935e553f4435030c604a4948c1e4d243.png",
-            "time": "09:30:00",
-            "date": "28/11",
-            "blv": "Ben",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/49898273_5fa02d94_20261128.png?v=5fa02d94",
             "width": 1600,
             "height": 1200
           }
