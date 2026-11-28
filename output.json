@@ -11,11 +11,83 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
+        {
+          "id": "gv-05a2acd231",
+          "name": "Shimizu S-Pulse vs Urawa Red Diamonds | 12:00 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-05a2acd231",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-05a2acd231",
+                  "name": "Shimizu S-Pulse vs Urawa Red Diamonds",
+                  "streams": [
+                    {
+                      "id": "st-05a2acd231",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-25a2c58b48",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795755231_hd/1795755231_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Nhật Bản",
+            "team_a": "Shimizu S-Pulse",
+            "team_b": "Urawa Red Diamonds",
+            "logo_a": "https://images.keovip88.net/images/teams/shimizu-s-pulse.png",
+            "logo_b": "https://images.keovip88.net/images/teams/urawa-red-diamonds.png",
+            "time": "12:00:00",
+            "date": "28/11",
+            "blv": "Trĩ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c5a_7d6a35f5_20261128.png?v=7d6a35f5",
+            "width": 1600,
+            "height": 1200
+          }
+        },
         {
           "id": "gv-452305a00d",
           "name": "Kyoto Sanga vs Cerezo Osaka | 12:00 28/11",
@@ -156,78 +228,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c68_8fe4a7be_20261128.png?v=8fe4a7be",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-05a2acd231",
-          "name": "Shimizu S-Pulse vs Urawa Red Diamonds | 12:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-05a2acd231",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-05a2acd231",
-                  "name": "Shimizu S-Pulse vs Urawa Red Diamonds",
-                  "streams": [
-                    {
-                      "id": "st-05a2acd231",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-25a2c58b48",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795755231_hd/1795755231_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Shimizu S-Pulse",
-            "team_b": "Urawa Red Diamonds",
-            "logo_a": "https://images.keovip88.net/images/teams/shimizu-s-pulse.png",
-            "logo_b": "https://images.keovip88.net/images/teams/urawa-red-diamonds.png",
-            "time": "12:00:00",
-            "date": "28/11",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/6aff8dcc24d46db870537c5a_7d6a35f5_20261128.png?v=7d6a35f5",
             "width": 1600,
             "height": 1200
           }
@@ -1782,83 +1782,11 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (5 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-7ed8a43530",
-          "name": "Phoenix Suns vs Dallas Mavericks | 09:00 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-7ed8a43530",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-7ed8a43530",
-                  "name": "Phoenix Suns vs Dallas Mavericks",
-                  "streams": [
-                    {
-                      "id": "st-7ed8a43530",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e2d78db75e",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795756115_hd/1795756115_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Phoenix Suns",
-            "team_b": "Dallas Mavericks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/6a6855785a58edb23c76c99ed6601a33.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
-            "time": "09:00:00",
-            "date": "28/11",
-            "blv": "Điếc",
-            "is_live": true,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/35898279_3af454f8_20261128.png?v=3af454f8",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-1c8dd4e724",
           "name": "Portland Trail Blazers vs Golden State Warriors | 09:30 28/11",
