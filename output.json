@@ -1566,7 +1566,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (8 LIVE)",
+      "name": "🏀 Bóng Rổ (10 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2076,6 +2076,78 @@
           }
         },
         {
+          "id": "gv-67c7344a10",
+          "name": "Los Angeles Clippers vs New Orleans Pelicans | 09:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-67c7344a10",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-67c7344a10",
+                  "name": "Los Angeles Clippers vs New Orleans Pelicans",
+                  "streams": [
+                    {
+                      "id": "st-67c7344a10",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e29e28c10f",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795756199_hd/1795756199_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Los Angeles Clippers",
+            "team_b": "New Orleans Pelicans",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
+            "time": "09:30:00",
+            "date": "28/11",
+            "blv": "Mason",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/48898272_a180e9dd_20261128.png?v=a180e9dd",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-b885ebfcaf",
           "name": "San Antonio Spurs vs Los Angeles Lakers | 09:30 28/11",
           "type": "single",
@@ -2148,6 +2220,78 @@
           }
         },
         {
+          "id": "gv-569c6359b1",
+          "name": "Utah Jazz vs Denver Nuggets | 09:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-569c6359b1",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-569c6359b1",
+                  "name": "Utah Jazz vs Denver Nuggets",
+                  "streams": [
+                    {
+                      "id": "st-569c6359b1",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-f8bd41f426",
+                          "name": "Nem",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795756272_hd/1795756272_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Utah Jazz",
+            "team_b": "Denver Nuggets",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
+            "time": "09:30:00",
+            "date": "28/11",
+            "blv": "Nem",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/47898271_7ce41bd4_20261128.png?v=7ce41bd4",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-1c8dd4e724",
           "name": "Portland Trail Blazers vs Golden State Warriors | 09:30 28/11",
           "type": "single",
@@ -2215,150 +2359,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/46898270_3ffc5f09_20261128.png?v=3ffc5f09",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-67c7344a10",
-          "name": "Los Angeles Clippers vs New Orleans Pelicans | 09:30 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-67c7344a10",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-67c7344a10",
-                  "name": "Los Angeles Clippers vs New Orleans Pelicans",
-                  "streams": [
-                    {
-                      "id": "st-67c7344a10",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e29e28c10f",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795756199_hd/1795756199_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Los Angeles Clippers",
-            "team_b": "New Orleans Pelicans",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/d96dfd2dedd39877ed1f06ea31270a46.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/b745bb8171bc1a860d480067c1bb9b8f.png",
-            "time": "09:30:00",
-            "date": "28/11",
-            "blv": "Mason",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/48898272_a180e9dd_20261128.png?v=a180e9dd",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-569c6359b1",
-          "name": "Utah Jazz vs Denver Nuggets | 09:30 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-569c6359b1",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-569c6359b1",
-                  "name": "Utah Jazz vs Denver Nuggets",
-                  "streams": [
-                    {
-                      "id": "st-569c6359b1",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f8bd41f426",
-                          "name": "Nem",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795756272_hd/1795756272_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Utah Jazz",
-            "team_b": "Denver Nuggets",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/a0f2371dad505780cccd4cba8baa0610.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/36f49ea85609f6b7b32d9fbcba105c2d.png",
-            "time": "09:30:00",
-            "date": "28/11",
-            "blv": "Nem",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/47898271_7ce41bd4_20261128.png?v=7ce41bd4",
             "width": 1600,
             "height": 1200
           }
