@@ -1566,7 +1566,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (10 LIVE)",
+      "name": "🏀 Bóng Rổ (11 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -2076,6 +2076,78 @@
           }
         },
         {
+          "id": "gv-1c8dd4e724",
+          "name": "Portland Trail Blazers vs Golden State Warriors | 09:30 28/11",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-1c8dd4e724",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-1c8dd4e724",
+                  "name": "Portland Trail Blazers vs Golden State Warriors",
+                  "streams": [
+                    {
+                      "id": "st-1c8dd4e724",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-cdd4e47a99",
+                          "name": "Riko",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795756156_hd/1795756156_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "National Basketball Association",
+            "team_a": "Portland Trail Blazers",
+            "team_b": "Golden State Warriors",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c7341a14964f12885ea2ae80b76cebe8.png",
+            "time": "09:30:00",
+            "date": "28/11",
+            "blv": "Riko",
+            "is_live": true,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/46898270_3ffc5f09_20261128.png?v=3ffc5f09",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-67c7344a10",
           "name": "Los Angeles Clippers vs New Orleans Pelicans | 09:30 28/11",
           "type": "single",
@@ -2287,78 +2359,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/47898271_7ce41bd4_20261128.png?v=7ce41bd4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-1c8dd4e724",
-          "name": "Portland Trail Blazers vs Golden State Warriors | 09:30 28/11",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1c8dd4e724",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-1c8dd4e724",
-                  "name": "Portland Trail Blazers vs Golden State Warriors",
-                  "streams": [
-                    {
-                      "id": "st-1c8dd4e724",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cdd4e47a99",
-                          "name": "Riko",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://pzhgifbkllliv.vcdn.cloud/1795756156_hd/1795756156_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "National Basketball Association",
-            "team_a": "Portland Trail Blazers",
-            "team_b": "Golden State Warriors",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/ea86671a348a3277fa075840258d8bc7.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/c7341a14964f12885ea2ae80b76cebe8.png",
-            "time": "09:30:00",
-            "date": "28/11",
-            "blv": "Riko",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/Bigblok-ai/gv-port/refs/heads/main/thumbs/46898270_3ffc5f09_20261128.png?v=3ffc5f09",
             "width": 1600,
             "height": 1200
           }
